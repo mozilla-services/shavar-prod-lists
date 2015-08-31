@@ -5,10 +5,9 @@
             "facebook.de",
             "facebook.fr",
             "facebook.net",
-            "facebookofsex.com",
             "fb.com",
+            "fb.me",
             "friendfeed.com",
-            "akamaihd.net",
             "instagram.com",
             "fbcdn.net"
         ],
@@ -17,8 +16,8 @@
             "facebook.de",
             "facebook.fr",
             "facebook.net",
-            "facebookofsex.com",
             "fb.com",
+            "fb.me",
             "friendfeed.com",
             "akamaihd.net",
             "instagram.com",
@@ -27,11 +26,13 @@
     },
     "Google": {
         "properties": [
+            "abc.xyz",
             "google.com",
+            "googleapps.com",
+            "ingress.com",
             "2mdn.net",
             "admeld.com",
             "admob.com",
-            "cc-dt.com",
             "destinationurl.com",
             "doubleclick.net",
             "gmail.com",
@@ -39,20 +40,9 @@
             "googleadservices.com",
             "googlemail.com",
             "googlesyndication.com",
+            "googlevideo.com",
             "googletagservices.com",
-            "invitemedia.com",
-            "orkut.com",
-            "postrank.com",
-            "smtad.net",
-            "teracent.com",
-            "teracent.net",
-            "ytsa.net",
-            "apture.com",
             "blogger.com",
-            "disconnect.me",
-            "feedburner.com",
-            "ggpht.com",
-            "gmodules.com",
             "google-melange.com",
             "google.ad",
             "google.ae",
@@ -267,218 +257,18 @@
             "googleadservices.com",
             "googlemail.com",
             "googlesyndication.com",
+            "googlevideo.com",
             "googletagservices.com",
             "invitemedia.com",
-            "orkut.com",
             "postrank.com",
             "smtad.net",
-            "teracent.com",
-            "teracent.net",
-            "ytsa.net",
             "apture.com",
             "blogger.com",
-            "disconnect.me",
-            "feedburner.com",
             "ggpht.com",
             "gmodules.com",
-            "google-melange.com",
-            "google.ad",
-            "google.ae",
-            "google.com.af",
-            "google.com.ag",
-            "google.com.ai",
-            "google.al",
-            "google.am",
-            "google.co.ao",
-            "google.com.ar",
-            "google.as",
-            "google.at",
-            "google.com.au",
-            "google.az",
-            "google.ba",
-            "google.com.bd",
-            "google.be",
-            "google.bf",
-            "google.bg",
-            "google.com.bh",
-            "google.bi",
-            "google.bj",
-            "google.com.bn",
-            "google.com.bo",
-            "google.com.br",
-            "google.bs",
-            "google.bt",
-            "google.co.bw",
-            "google.by",
-            "google.com.bz",
-            "google.ca",
-            "google.cd",
-            "google.cf",
-            "google.cg",
-            "google.ch",
-            "google.ci",
-            "google.co.ck",
-            "google.cl",
-            "google.cm",
-            "google.cn",
-            "google.com.co",
-            "google.co.cr",
-            "google.com.cu",
-            "google.cv",
-            "google.com.cy",
-            "google.cz",
-            "google.de",
-            "google.dj",
-            "google.dk",
-            "google.dm",
-            "google.com.do",
-            "google.dz",
-            "google.com.ec",
-            "google.ee",
-            "google.com.eg",
-            "google.es",
-            "google.com.et",
-            "google.fi",
-            "google.com.fj",
-            "google.fm",
-            "google.fr",
-            "google.ga",
-            "google.ge",
-            "google.gg",
-            "google.com.gh",
-            "google.com.gi",
-            "google.gl",
-            "google.gm",
-            "google.gp",
-            "google.gr",
-            "google.com.gt",
-            "google.gy",
-            "google.com.hk",
-            "google.hn",
-            "google.hr",
-            "google.ht",
-            "google.hu",
-            "google.co.id",
-            "google.ie",
-            "google.co.il",
-            "google.im",
-            "google.co.in",
-            "google.iq",
-            "google.is",
-            "google.it",
-            "google.je",
-            "google.com.jm",
-            "google.jo",
-            "google.co.jp",
-            "google.co.ke",
-            "google.com.kh",
-            "google.ki",
-            "google.kg",
-            "google.co.kr",
-            "google.com.kw",
-            "google.kz",
-            "google.la",
-            "google.com.lb",
-            "google.li",
-            "google.lk",
-            "google.co.ls",
-            "google.lt",
-            "google.lu",
-            "google.lv",
-            "google.com.ly",
-            "google.co.ma",
-            "google.md",
-            "google.me",
-            "google.mg",
-            "google.mk",
-            "google.ml",
-            "google.com.mm",
-            "google.mn",
-            "google.ms",
-            "google.com.mt",
-            "google.mu",
-            "google.mv",
-            "google.mw",
-            "google.com.mx",
-            "google.com.my",
-            "google.co.mz",
-            "google.com.na",
-            "google.com.nf",
-            "google.com.ng",
-            "google.com.ni",
-            "google.ne",
-            "google.nl",
-            "google.no",
-            "google.com.np",
-            "google.nr",
-            "google.nu",
-            "google.co.nz",
-            "google.com.om",
-            "google.com.pa",
-            "google.com.pe",
-            "google.com.pg",
-            "google.com.ph",
-            "google.com.pk",
-            "google.pl",
-            "google.pn",
-            "google.com.pr",
-            "google.ps",
-            "google.pt",
-            "google.com.py",
-            "google.com.qa",
-            "google.ro",
-            "google.ru",
-            "google.rw",
-            "google.com.sa",
-            "google.com.sb",
-            "google.sc",
-            "google.se",
-            "google.com.sg",
-            "google.sh",
-            "google.si",
-            "google.sk",
-            "google.com.sl",
-            "google.sn",
-            "google.so",
-            "google.sm",
-            "google.st",
-            "google.com.sv",
-            "google.td",
-            "google.tg",
-            "google.co.th",
-            "google.com.tj",
-            "google.tk",
-            "google.tl",
-            "google.tm",
-            "google.tn",
-            "google.to",
-            "google.com.tr",
-            "google.tt",
-            "google.com.tw",
-            "google.co.tz",
-            "google.com.ua",
-            "google.co.ug",
-            "google.co.uk",
-            "google.com.uy",
-            "google.co.uz",
-            "google.com.vc",
-            "google.co.ve",
-            "google.vg",
-            "google.co.vi",
-            "google.com.vn",
-            "google.vu",
-            "google.ws",
-            "google.rs",
-            "google.co.za",
-            "google.co.zm",
-            "google.co.zw",
-            "google.cat",
             "googleapis.com",
-            "googleartproject.com",
             "googleusercontent.com",
             "gstatic.com",
-            "panoramio.com",
-            "postini.com",
             "recaptcha.net",
             "youtube.com"
         ]
@@ -1637,7 +1427,6 @@
             "tacoda.net",
             "5min.com",
             "aim.com",
-            "aolanswers.com",
             "aolcdn.com",
             "aoltechguru.com",
             "autoblog.com",
@@ -1679,36 +1468,14 @@
             "tacoda.net",
             "5min.com",
             "aim.com",
-            "aolanswers.com",
             "aolcdn.com",
-            "aoltechguru.com",
-            "autoblog.com",
-            "cambio.com",
-            "dailyfinance.com",
             "editions.com",
-            "engadget.com",
-            "games.com",
-            "homesessive.com",
-            "huffingtonpost.com",
-            "joystiq.com",
-            "kitchendaily.com",
-            "makers.com",
-            "mandatory.com",
             "mapquest.com",
-            "moviefone.com",
-            "noisecreep.com",
             "patch.com",
-            "pawnation.com",
             "shortcuts.com",
             "shoutcast.com",
             "spinner.com",
-            "stylelist.com",
-            "stylemepretty.com",
             "surphace.com",
-            "techcrunch.com",
-            "theboombox.com",
-            "theboot.com",
-            "tuaw.com",
             "userplane.com",
             "winamp.com"
         ]
@@ -4925,7 +4692,6 @@
             "microsoftstore.com",
             "msn.com",
             "msnbc.com",
-            "msndirect.com",
             "nbcnews.com",
             "office.com",
             "officelive.com",
@@ -4934,9 +4700,7 @@
             "skype.com",
             "windowsphone.com",
             "worldwidetelescope.org",
-            "xbox.com",
-            "zune.com",
-            "zune.net"
+            "xbox.com"
         ],
         "resources": [
             "microsoft.com",
@@ -4951,26 +4715,14 @@
             "gamesforwindows.com",
             "getgamesmart.com",
             "healthvault.com",
-            "ieaddons.com",
-            "iegallery.com",
             "live.com",
-            "microsoftalumni.com",
-            "microsoftalumni.org",
             "microsoftstore.com",
-            "msn.com",
-            "msnbc.com",
             "msndirect.com",
-            "nbcnews.com",
             "office.com",
             "officelive.com",
             "outlook.com",
             "s-msn.com",
-            "skype.com",
-            "windowsphone.com",
-            "worldwidetelescope.org",
-            "xbox.com",
-            "zune.com",
-            "zune.net"
+            "skype.com"
         ]
     },
     "Millennial Media": {
@@ -5471,11 +5223,7 @@
     "OpenX": {
         "properties": [
             "openx.com",
-            "liftdna.com",
-            "openx.net",
-            "openx.org",
-            "openxenterprise.com",
-            "servedbyopenx.com"
+            "openx.net"
         ],
         "resources": [
             "openx.com",
@@ -5520,12 +5268,7 @@
     },
     "Optimal": {
         "properties": [
-            "optim.al",
-            "cpmadvisors.com",
-            "cpmatic.com",
-            "nprove.com",
-            "orbengine.com",
-            "xa.net"
+            "bn.co"
         ],
         "resources": [
             "optim.al",
@@ -5879,18 +5622,8 @@
     "Prime Visibility": {
         "properties": [
             "primevisibility.com",
-            "adcde.com",
-            "addlvr.com",
             "adonnetwork.com",
-            "adonnetwork.net",
-            "adtrgt.com",
-            "bannertgt.com",
-            "cptgt.com",
-            "cpvfeed.com",
-            "cpvtgt.com",
-            "popcde.com",
-            "sdfje.com",
-            "urtbk.com"
+            "adonnetwork.net"
         ],
         "resources": [
             "primevisibility.com",
@@ -5929,8 +5662,6 @@
     "QuinStreet": {
         "properties": [
             "quinstreet.com",
-            "qnsr.com",
-            "qsstats.com",
             "thecounter.com"
         ],
         "resources": [
@@ -5946,7 +5677,6 @@
             "iaded.com",
             "quisma.com",
             "quismatch.com",
-            "xaded.com",
             "xmladed.com"
         ],
         "resources": [
@@ -6232,12 +5962,10 @@
     },
     "Samurai Factory": {
         "properties": [
-            "www.samurai-factory.jp",
             "samurai-factory.jp",
             "shinobi.jp"
         ],
         "resources": [
-            "www.samurai-factory.jp",
             "samurai-factory.jp",
             "shinobi.jp"
         ]
@@ -6292,8 +6020,7 @@
         "properties": [
             "seevast.com",
             "kanoodle.com",
-            "pulse360.com",
-            "syndigonetworks.com"
+            "pulse360.com"
         ],
         "resources": [
             "seevast.com",
@@ -6347,9 +6074,7 @@
     "Silverpop": {
         "properties": [
             "silverpop.com",
-            "mkt51.net",
-            "pages05.net",
-            "vtrenz.net"
+            "mkt51.net"
         ],
         "resources": [
             "silverpop.com",
@@ -6428,9 +6153,7 @@
     },
     "SocialChorus": {
         "properties": [
-            "socialchorus.com",
-            "halogenmediagroup.com",
-            "halogennetwork.com"
+            "socialchorus.com"
         ],
         "resources": [
             "socialchorus.com",
@@ -6503,10 +6226,7 @@
     "Specific Media": {
         "properties": [
             "specificmedia.com",
-            "adviva.co.uk",
-            "adviva.net",
-            "sitemeter.com",
-            "specificclick.net"
+            "sitemeter.com"
         ],
         "resources": [
             "specificmedia.com",
@@ -6782,18 +6502,16 @@
     },
     "Telstra": {
         "properties": [
-            "www.telstra.com.au",
+            "telstra.com.au",
             "sensis.com.au",
             "sensisdata.com.au",
-            "sensisdigitalmedia.com.au",
-            "telstra.com.au"
+            "sensisdigitalmedia.com.au"
         ],
         "resources": [
-            "www.telstra.com.au",
+            "telstra.com.au",
             "sensis.com.au",
             "sensisdata.com.au",
-            "sensisdigitalmedia.com.au",
-            "telstra.com.au"
+            "sensisdigitalmedia.com.au"
         ]
     },
     "Terra": {
@@ -6830,8 +6548,7 @@
     },
     "The Search Agency": {
         "properties": [
-            "thesearchagency.com",
-            "thesearchagency.net"
+            "thesearchagency.com"
         ],
         "resources": [
             "thesearchagency.com",
@@ -6840,8 +6557,7 @@
     },
     "The Trade Desk": {
         "properties": [
-            "thetradedesk.com",
-            "adsrvr.org"
+            "thetradedesk.com"
         ],
         "resources": [
             "thetradedesk.com",
@@ -6851,8 +6567,7 @@
     "Think Realtime": {
         "properties": [
             "thinkrealtime.com",
-            "echosearch.com",
-            "esm1.net"
+            "echosearch.com"
         ],
         "resources": [
             "thinkrealtime.com",
@@ -6978,9 +6693,7 @@
     },
     "Travora Media": {
         "properties": [
-            "travoramedia.com",
-            "traveladnetwork.com",
-            "traveladvertising.com"
+            "travoramedia.com"
         ],
         "resources": [
             "travoramedia.com",
@@ -6990,10 +6703,7 @@
     },
     "Tremor Video": {
         "properties": [
-            "tremorvideo.com",
-            "scanscout.com",
-            "tmnetads.com",
-            "tremormedia.com"
+            "tremorvideo.com"
         ],
         "resources": [
             "tremorvideo.com",
@@ -7068,8 +6778,6 @@
         "properties": [
             "ucoz.com",
             "ucoz.ae",
-            "ucoz.br",
-            "ucoz.du",
             "ucoz.fr",
             "ucoz.net",
             "ucoz.ru"
@@ -7156,18 +6864,7 @@
     },
     "ValueClick": {
         "properties": [
-            "valueclick.com",
-            "adserver.com",
-            "dotomi.com",
-            "dtmpub.com",
-            "emjcd.com",
-            "fastclick.com",
-            "fastclick.net",
-            "greystripe.com",
-            "lduhtrp.net",
-            "mediaplex.com",
-            "valueclick.net",
-            "valueclickmedia.com"
+            "conversantmedia.com"
         ],
         "resources": [
             "valueclick.com",
@@ -7528,62 +7225,6 @@
         ],
         "resources": [
             "yabuka.com"
-        ]
-    },
-    "Yahoo!": {
-        "properties": [
-            "yahoo.com",
-            "adinterax.com",
-            "adrevolver.com",
-            "bluelithium.com",
-            "dapper.net",
-            "interclick.com",
-            "overture.com",
-            "rightmedia.com",
-            "rmxads.com",
-            "secure-adserver.com",
-            "thewheelof.com",
-            "yieldmanager.com",
-            "yieldmanager.net",
-            "yldmgrimg.net",
-            "flickr.com",
-            "staticflickr.com",
-            "yahooapis.com",
-            "yahoofs.com",
-            "yimg.com",
-            "ypolicyblog.com",
-            "yuilibrary.com",
-            "zenfs.com",
-            "mybloglog.com",
-            "rocketmail.com",
-            "ymail.com"
-        ],
-        "resources": [
-            "yahoo.com",
-            "adinterax.com",
-            "adrevolver.com",
-            "bluelithium.com",
-            "dapper.net",
-            "interclick.com",
-            "overture.com",
-            "rightmedia.com",
-            "rmxads.com",
-            "secure-adserver.com",
-            "thewheelof.com",
-            "yieldmanager.com",
-            "yieldmanager.net",
-            "yldmgrimg.net",
-            "flickr.com",
-            "staticflickr.com",
-            "yahooapis.com",
-            "yahoofs.com",
-            "yimg.com",
-            "ypolicyblog.com",
-            "yuilibrary.com",
-            "zenfs.com",
-            "mybloglog.com",
-            "rocketmail.com",
-            "ymail.com"
         ]
     },
     "Yandex": {
@@ -8956,11 +8597,9 @@
     },
     "WOW Analytics": {
         "properties": [
-            "www.wowanalytics.co.uk",
             "wowanalytics.co.uk"
         ],
         "resources": [
-            "www.wowanalytics.co.uk",
             "wowanalytics.co.uk"
         ]
     },
@@ -9839,17 +9478,7 @@
             "websitealive9.com"
         ],
         "resources": [
-            "websitealive.com",
-            "websitealive0.com",
-            "websitealive1.com",
-            "websitealive2.com",
-            "websitealive3.com",
-            "websitealive4.com",
-            "websitealive5.com",
-            "websitealive6.com",
-            "websitealive7.com",
-            "websitealive8.com",
-            "websitealive9.com"
+            "websitealive.com"
         ]
     },
     "Wingify": {
@@ -10018,7 +9647,7 @@
             "vkontakte.ru"
         ]
     },
-    "Yahoo": {
+    "Yahoo!": {
         "properties": [
             "flickr.com",
             "yuilibrary.com",
