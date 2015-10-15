@@ -1,11 +1,8 @@
 {
-
     "categories": {
         "Advertising": [
-
             {
                 "Google": {
-
                     "http://www.google.com/": [
                         "2mdn.net",
                         "admeld.com",
@@ -23,32 +20,22 @@
                         "teracent.net",
                         "ytsa.net"
                     ]
-                
                 }
-
             }
         ],
-
          "Analytics": [
-
             {
                 "Google": {
-
                     "http://www.google.com/": [
                         "google-analytics.com",
-                        "postrank.com",
+                        "postrank.com"
                     ]
-                
                 }
-
             }
         ],
-
          "Social": [
-
             {
                 "Google": {
-
                     "http://www.google.com/": [
                         "developers.google.com",
                         "gmail.com",
@@ -59,17 +46,10 @@
                         "plusone.google.com",
                         "voice.google.com",
                         "wave.google.com",
-                        "googlemail.com",
-
+                        "googlemail.com"
                     ]
-                
                 }
-
             }
         ]
-
-
-
     }
-
 }
