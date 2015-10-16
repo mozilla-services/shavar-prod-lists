@@ -19,6 +19,6 @@ A vestige of the list is the "Disconnect" category, which contains Facebook, Twi
 ### Entity list
 Tracking protection technically works by blocking loads from blocked domains. But the Entity List conceptually changes it, so that it is no longer about domains, but about the companies. If you are visiting a website, engaged 1-on-1 with them, Tracking Protection will block the other companies who the user may not realize are even present and didn't explicitly intend to interact with.
 
-Tracking Protection blocks loads on the blacklist when they are third-party. The Entity list whitelists different domains that are wholly owned by the same company. For example, if abcd.com owns efgh.com and efgh.com is on the blacklist, it will not be blocked on abcd.com, but it will be blocked on other domains that are not all owned by the same parent company. 
+Tracking Protection blocks loads on the blacklist when they are third-party. The Entity list whitelists different domains that are wholly owned by the same company. For example, if abcd.com owns efgh.com and efgh.com is on the blacklist, it will not be blocked on abcd.com. Instead, efgh.com will be treated as first-party on abcd.com, since the same company owns both. But since efgh.com is on the blacklist it will be blocked on other third-party domains that are not all owned by the same parent company.
 
 
