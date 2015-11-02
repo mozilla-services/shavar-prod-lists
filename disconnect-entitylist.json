@@ -9,7 +9,8 @@
             "fb.me",
             "friendfeed.com",
             "instagram.com",
-            "fbcdn.net"
+            "fbcdn.net",
+            "messenger.com"
         ],
         "resources": [
             "facebook.com",
@@ -21,7 +22,8 @@
             "friendfeed.com",
             "akamaihd.net",
             "instagram.com",
-            "fbcdn.net"
+            "fbcdn.net",
+            "messenger.com"
         ]
     },
     "Google": {
