@@ -5893,14 +5893,21 @@
             {
                 "Yandex": {
                     "http://www.yandex.com/": [
-                        "web-visor.com",
-                        "moikrug.ru",
-                        "yandex.com",
-                        "yandex.ru",
-                        "yandex.st",
-                        "yandex.ua",
-                        "yandex.com.tr",
-                        "yandex.by"
+                        "metrica.yandex.com.tr",
+                        "metrika.yandex.kz",
+                        "metrika.yandex.by",
+                        "metrika.yandex.ua",
+                        "metrika.yandex.ru",
+                        "metrica.yandex.com",
+                        "advertising.yandex.ru",
+                        "advertising.yandex.com",
+                        "direct.yandex.ru",
+                        "direct.yandex.com",
+                        "appmetrika.yandex.ru",
+                        "appmetrica.yandex.com",
+                        "appmetrica.yandex.com.tr",
+                        "api-metrika.yandex.com",
+                        "api-metrika.yandex.ru"
                     ]
                 }
             },
