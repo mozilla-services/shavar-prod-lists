@@ -264,7 +264,9 @@
             "crashlytics.com",
             "tweetdeck.com",
             "twimg.com",
-            "twitter.jp"
+            "twitter.jp",
+            "digits.com",
+            "fabric.io"
         ],
         "resources": [
             "twitter.com",
@@ -272,7 +274,8 @@
             "crashlytics.com",
             "tweetdeck.com",
             "twimg.com",
-            "twitter.jp"
+            "twitter.jp",
+            "fabric.io"
         ]
     },
     "[x+1]": {
@@ -7224,7 +7227,10 @@
         ],
         "resources": [
             "yandex.com",
+            "web-visor.com",
+            "moikrug.ru",
             "yandex.ru",
+            "yandex.st",
             "yandex.ua",
             "yandex.com.tr",
             "yandex.by"
