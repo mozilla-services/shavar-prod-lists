@@ -49,6 +49,13 @@
                 }
             },
             {
+                "ItIsATracker": {
+                    "https://itisatracker.com/": [
+                        "itisatracker.com"
+                    ]
+                }
+            },
+            {
                 "Twitter": {
                     "https://twitter.com/": [
                         "backtype.com",
@@ -6537,7 +6544,7 @@
                 "INFOnline": {
                     "https://www.infonline.de/": [
                         "infonline.de",
-                        "­ioam.­de",
+                        "ioam.de",
                         "ivwbox.de"
                     ]
                 }
