@@ -1,5 +1,6 @@
-before_install:
-  - sudo apt-get update -qq
-  - sudo apt-get install -y yajl-tools
+language: python
+python:
+  - "2.7"
+sudo: false
 
-script: scripts/test.sh
+script: scripts/json_verify.py
