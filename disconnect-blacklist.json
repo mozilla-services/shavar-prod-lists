@@ -274,6 +274,13 @@
                 }
             },
             {
+                "AdBrain": {
+                    "http://www.adbrain.com/": [
+                    "adbrain.com", "adbrn.com"
+                    ]
+                }
+            },
+            {
                 "adBrite": {
                     "http://www.adbrite.com/": [
                         "adbrite.com"
@@ -820,6 +827,13 @@
                 }
             },
             {
+                "Adsnative.com": {
+                    "http://adsnative.com/": [
+                    "adsnative.com"
+                    ]
+                }
+            },
+            {
                 "Adtegrity.com": {
                     "http://www.adtegrity.com/": [
                         "adtegrity.com",
@@ -1339,6 +1353,13 @@
                 }
             },
             {
+                "Bidswitch": {
+                    "http://www.bidswitch.com/": [
+                    "bidswitch.net", "bidswitch.com"
+                    ]
+                }
+            },
+            {
                 "BidVertiser": {
                     "http://www.bidvertiser.com/": [
                         "bidvertiser.com"
@@ -1421,7 +1442,8 @@
                 "BLOOM Digital Platforms": {
                     "http://bloom-hq.com/": [
                         "adgear.com",
-                        "bloom-hq.com"
+                        "bloom-hq.com",
+                        "adgrx.com"
                     ]
                 }
             },
@@ -2502,7 +2524,8 @@
             {
                 "Eyeviewdigital": {
                     "http://www.eyeviewdigital.com/": [
-                        "eyeviewdigital.com"
+                        "eyeviewdigital.com",
+                        "eyeviewads.com"
                     ]
                 }
             },
@@ -4753,7 +4776,9 @@
                 "Rhythm": {
                     "http://rhythmnewmedia.com/": [
                         "rhythmnewmedia.com",
-                        "rnmd.net"
+                        "rnmd.net",
+                        "rhythmxchange.com", 
+                        "1rx.io"
                     ]
                 }
             },
@@ -5096,7 +5121,8 @@
             {
                 "SpotXchange": {
                     "http://www.spotxchange.com/": [
-                        "spotxchange.com"
+                        "spotxchange.com",
+                        "spotxcdn.com"
                     ]
                 }
             },
@@ -5171,7 +5197,8 @@
                         "switchadhub.com",
                         "switchconcepts.co.uk",
                         "switchconcepts.com",
-                        "ethicalads.net"
+                        "ethicalads.net",
+                        "switchads.com"
                     ]
                 }
             },
@@ -6755,7 +6782,8 @@
             {
                 "New Relic": {
                     "http://newrelic.com/": [
-                        "newrelic.com"
+                        "newrelic.com",
+                        "nr-data.net"
                     ]
                 }
             },
@@ -7013,6 +7041,14 @@
                 }
             },
             {
+                "Tealium": {
+                    "http://tealium.com/": [
+                    "tealium.com", 
+                    "tiqcdn.com"
+                    ]
+                }
+            },
+            {
                 "TENSQUARE": {
                     "http://www.tensquare.com/": [
                         "tensquare.com"
@@ -7245,7 +7281,8 @@
                 "Amazon.com": {
                     "http://www.amazon.com/": [
                         "amazon.com",
-                        "cloudfront.net"
+                        "cloudfront.net",
+                        "amazonaws.com"
                     ]
                 }
             },
