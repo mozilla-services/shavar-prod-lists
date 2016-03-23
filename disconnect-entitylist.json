@@ -510,6 +510,14 @@
             "adatus.com"
         ]
     },
+    "AdBrain": {
+        "properties": [
+            "adbrain.com"
+        ],
+        "resources": [
+            "adbrn.com"
+        ]
+    },
     "adBrite": {
         "properties": [
             "adbrite.com"
@@ -1134,6 +1142,22 @@
             "adtechus.com"
         ]
     },
+    "Adsrevenue": {
+        "properties": [
+            "adsrevenue.net"
+        ],
+        "resources": [
+            "adsrevenue.net"
+        ]
+    },
+    "Adsrevenue": {
+        "properties": [
+            "adsnative.com"
+        ],
+        "resources": [
+            "adsnative.com"
+        ]
+    },
     "Adtegrity.com": {
         "properties": [
             "adtegrity.com",
@@ -1368,7 +1392,8 @@
             "assoc-amazon.com",
             "alexa.com",
             "alexametrics.com",
-            "cloudfront.net"
+            "cloudfront.net",
+            "amazonaws.com"
         ],
         "resources": [
             "amazon.com",
@@ -1383,7 +1408,8 @@
             "assoc-amazon.com",
             "alexa.com",
             "alexametrics.com",
-            "cloudfront.net"
+            "cloudfront.net",
+            "amazonaws.com"
         ]
     },
     "Ambient Digital": {
@@ -1713,6 +1739,15 @@
             "connextra.com"
         ]
     },
+    "Bidswitch": {
+        "properties": [
+            "bidswitch.net",
+            "bidswitch.com"
+        ],
+        "resources": [
+            "bidswitch.net"
+        ]
+    },
     "BidVertiser": {
         "properties": [
             "bidvertiser.com"
@@ -1812,7 +1847,8 @@
         ],
         "resources": [
             "bloom-hq.com",
-            "adgear.com"
+            "adgear.com",
+            "adgrx.com"
         ]
     },
     "BloomReach": {
@@ -3100,7 +3136,8 @@
             "eyeviewdigital.com"
         ],
         "resources": [
-            "eyeviewdigital.com"
+            "eyeviewdigital.com",
+            "eyeviewads.com"
         ]
     },
     "Facilitate Digital": {
@@ -5862,7 +5899,9 @@
         ],
         "resources": [
             "rhythmnewmedia.com",
-            "rnmd.net"
+            "rnmd.net",
+            "rhythmxchange.com",
+            "1rx.io"
         ]
     },
     "RichRelevance": {
@@ -6268,7 +6307,8 @@
             "spotxchange.com"
         ],
         "resources": [
-            "spotxchange.com"
+            "spotxchange.com",
+            "spotxcdn.com"
         ]
     },
     "StarGames": {
@@ -6362,7 +6402,8 @@
         "resources": [
             "switchconcepts.com",
             "switchadhub.com",
-            "switchconcepts.co.uk"
+            "switchconcepts.co.uk",
+            "switchads.com"
         ]
     },
     "Swoop": {
@@ -8147,7 +8188,8 @@
             "newrelic.com"
         ],
         "resources": [
-            "newrelic.com"
+            "newrelic.com",
+            "nr-data.net"
         ]
     },
     "NewsRight": {
@@ -8410,6 +8452,15 @@
         ],
         "resources": [
             "4u.pl"
+        ]
+    },
+    "Tealium": {
+        "properties": [
+            "tealium.com"
+        ],
+        "resources": [
+            "tealium.com",
+            "tiqcdn.com"
         ]
     },
     "TENSQUARE": {
