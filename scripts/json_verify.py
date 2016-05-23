@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import os
+import glob
 import json
 import re
 
@@ -132,10 +132,8 @@ def reset():
 
 
 def start():
-    for root, dirs, files in os.walk("."):
-        for f in files:
-            if ".json" in f:
-                run(f)
+    for f in glob.glob("*.json"):
+        run(f)
 
 
 start()
