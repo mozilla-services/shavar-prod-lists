@@ -100,6 +100,13 @@ def find_uris(categories_json):
             for entity_name, entity_json in entity.iteritems():
                 assert type(entity_name) is UnicodeType
                 assert type(entity_json) is DictType
+                # pop dnt out of the dict, so we can iteritems() over the rest
+                try:
+                    dnt_value = entity_json.pop('dnt', '')
+                    assert dnt_value in ["dnt", "eff", ""]
+                except AssertionError:
+                    errors.append("%s has bad DNT value: %s" % (entity_name,
+                                                                dnt_value))
                 for domain, uris in entity_json.iteritems():
                     assert type(domain) is UnicodeType
                     assert type(uris) is ListType
