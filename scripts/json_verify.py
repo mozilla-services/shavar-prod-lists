@@ -4,6 +4,8 @@
 import glob
 import json
 import re
+from types import DictType, ListType, UnicodeType
+from urlparse import urlparse
 
 bad_uris = []
 errors = []
@@ -34,17 +36,13 @@ def verify(file):
             json_obj = json.loads("".join(raw_data))
             try:
                 # determine which schema this file uses
-                try:
-                    l = len(json_obj["categories"])
-                except:
-                    l = 0
-                if (l > 0):
+                if ("categories" in json_obj):
                     # google_mapping.json
                     # disconnect_blacklist.json
-                    find_uris1(json_obj["categories"])
+                    find_uris(json_obj["categories"])
                 else:
                     # disconnect_entitylist.json
-                    find_uris2(json_obj)
+                    find_uris_in_entities(json_obj)
             except:
                 errors.append("\tError: Can't parse file")
     except ValueError as e:
@@ -57,7 +55,7 @@ def verify(file):
         return
 
 
-def find_uris1(node):
+def find_uris(node):
     for i in node:
         for j in node[i]:
             for k in j:
@@ -66,23 +64,34 @@ def find_uris1(node):
                         check_uri(uri)
 
 
-def find_uris2(node):
-    for prop in node:
-        if prop == "properties" or prop == "resources":
-            for uri in node[prop]:
-                check_uri(uri)
-        else:
-            find_uris2(node[prop])
+def find_uris_in_entities(entitylist_json):
+    assert len(entitylist_json.items()) > 0
+    assert type(entitylist_json) is DictType
+    for entity, types in entitylist_json.iteritems():
+        assert type(entity) is UnicodeType
+        assert type(types) is DictType
+        for prop_type, uris in types.iteritems():
+            assert prop_type in ["properties", "resources"]
+            assert type(uris) is ListType
+            [check_uri(uri) for uri in uris]
 
 
-def check_uri(str):
+def check_uri(uri):
     # Valid URI:
     # 	no scheme, port, fragment, path or query string
     # 	no disallowed characters
     # 	no leading/trailing garbage
-    match = re.search(r'[a-zA-Z\d-]{,63}(\.[a-zA-Z\d-]{,63})*', str)
-    if str != match.group(0):
-        bad_uris.append(str)
+    parsed_uri = urlparse(uri)
+    try:
+        assert parsed_uri.scheme == ''
+        # domains of urls without schemes are parsed into 'path'
+        assert parsed_uri.netloc == ''
+        assert parsed_uri.params == ''
+        assert parsed_uri.query == ''
+        assert parsed_uri.fragment == ''
+        assert len(parsed_uri.path) < 128
+    except AssertionError:
+        bad_uris.append(uri)
     return
 
 
