@@ -55,12 +55,55 @@ def verify(file):
         return
 
 
-def find_uris(node):
-    for i in node:
-        for j in node[i]:
-            for k in j:
-                for l in j[k]:
-                    for uri in j[k][l]:
+"""
+categories_json is expected to match this format:
+    "categories": {
+        "Disconnect": [
+            {
+                "Facebook": {
+                    "http://www.facebook.com/": [
+                        "facebook.com",
+                        ...
+                    ]
+                }
+            },
+            {
+                "Google": {
+                    "http://www.google.com/": [
+                        "2mdn.net",
+                        ...
+                    ]
+                }
+            },
+            ...
+        ],
+        "Advertising": [
+            {
+                "[x+1]": {
+                    "http://www.xplusone.com/": [
+                        "ru4.com",
+                        ...
+                    ]
+                }
+            },
+        ]
+        ...
+    }
+"""
+def find_uris(categories_json):
+    assert type(categories_json) is DictType
+    for category, category_json in categories_json.iteritems():
+        assert type(category) is UnicodeType
+        assert type(category_json) is ListType
+        for entity in category_json:
+            assert type(entity) is DictType
+            for entity_name, entity_json in entity.iteritems():
+                assert type(entity_name) is UnicodeType
+                assert type(entity_json) is DictType
+                for domain, uris in entity_json.iteritems():
+                    assert type(domain) is UnicodeType
+                    assert type(uris) is ListType
+                    for uri in uris:
                         check_uri(uri)
 
 
