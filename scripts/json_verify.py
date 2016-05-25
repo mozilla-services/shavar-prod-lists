@@ -1,11 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import argparse
 import glob
 import json
 import re
 from types import DictType, ListType, UnicodeType
 from urlparse import urlparse
+
+parser = argparse.ArgumentParser(description='Verify json files for shavar.')
+parser.add_argument("-f", "--file", help="filename to verify")
 
 bad_uris = []
 errors = []
@@ -190,10 +194,14 @@ def reset():
     file_name = ""
 
 
-def start():
-    for f in glob.glob("*.json"):
-        run(f)
+def start(filename=None):
+    if (filename):
+        run(filename)
+    else:
+        for f in glob.glob("*.json"):
+            run(f)
 
 
-start()
+args = parser.parse_args()
+start(args.file)
 exit(result)
