@@ -4,7 +4,7 @@
         "Disconnect": [
             {
                 "Facebook": {
-                    "dnt": "dnt",
+                    "dnt": "w3c",
                     "http://www.facebook.com/": [
                         "facebook.com",
                         "facebook.de",

@@ -107,7 +107,7 @@ def find_uris(categories_json):
                 # pop dnt out of the dict, so we can iteritems() over the rest
                 try:
                     dnt_value = entity_json.pop('dnt', '')
-                    assert dnt_value in ["dnt", "eff", ""]
+                    assert dnt_value in ["w3c", "eff", ""]
                 except AssertionError:
                     errors.append("%s has bad DNT value: %s" % (entity_name,
                                                                 dnt_value))
