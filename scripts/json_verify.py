@@ -12,6 +12,10 @@ parser = argparse.ArgumentParser(description='Verify json files for shavar.')
 parser.add_argument("-f", "--file", help="filename to verify")
 
 bad_uris = []
+dupe_hosts = {
+    "properties": [],
+    "resources": []
+}
 errors = []
 file_contents = []
 file_name = ""
@@ -119,6 +123,10 @@ def find_uris(categories_json):
 
 
 def find_uris_in_entities(entitylist_json):
+    checked_uris = {
+        "properties": [],
+        "resources": []
+    }
     assert len(entitylist_json.items()) > 0
     assert type(entitylist_json) is DictType
     for entity, types in entitylist_json.iteritems():
@@ -127,7 +135,11 @@ def find_uris_in_entities(entitylist_json):
         for host_type, uris in types.iteritems():
             assert host_type in ["properties", "resources"]
             assert type(uris) is ListType
-            [check_uri(uri) for uri in uris]
+            for uri in uris:
+                if uri in checked_uris[host_type]:
+                    dupe_hosts[host_type].append(uri)
+                check_uri(uri)
+                checked_uris[host_type].append(uri)
 
 
 def check_uri(uri):
@@ -142,7 +154,9 @@ def check_uri(uri):
     parsed_uri = urlparse(uri)
     try:
         assert parsed_uri.scheme == ''
-        # domains of urls without schemes are parsed into 'path'
+        # domains of urls without schemes are parsed into 'path' so check path
+        # for port
+        assert ':' not in parsed_uri.path
         assert parsed_uri.netloc == ''
         assert parsed_uri.params == ''
         assert parsed_uri.query == ''
@@ -169,9 +183,13 @@ def find_line_number(uri):
 
 
 def make_errors_from_bad_uris():
-    for x in range(0, len(bad_uris)):
+    for bad_uri in bad_uris:
         errors.append("\tError: Bad URI: %s\t: in line %s" %
-                      (bad_uris[x], find_line_number(bad_uris[x])))
+                      (bad_uri, find_line_number(bad_uri)))
+    for host_type, hosts in dupe_hosts.iteritems():
+        for host in hosts:
+            errors.append("\tDupe: Dupe host: %s\t in line %s" %
+                          (host, find_line_number(host)))
 
 
 def finish():
@@ -190,6 +208,11 @@ def finish():
 def reset():
     global bad_uris
     bad_uris = []
+    global dupe_hosts
+    dupe_hosts = {
+        "properties": [],
+        "resources": []
+    }
     global errors
     errors = []
     global file_contents
