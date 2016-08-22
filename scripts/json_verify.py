@@ -124,8 +124,8 @@ def find_uris_in_entities(entitylist_json):
     for entity, types in entitylist_json.iteritems():
         assert type(entity) is UnicodeType
         assert type(types) is DictType
-        for prop_type, uris in types.iteritems():
-            assert prop_type in ["properties", "resources"]
+        for host_type, uris in types.iteritems():
+            assert host_type in ["properties", "resources"]
             assert type(uris) is ListType
             [check_uri(uri) for uri in uris]
 
