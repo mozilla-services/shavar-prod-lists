@@ -2009,14 +2009,6 @@
             "pulsemgr.com"
         ]
     },
-    "BuzzCity": {
-        "properties": [
-            "buzzcity.com"
-        ],
-        "resources": [
-            "buzzcity.com"
-        ]
-    },
     "BuzzParadise": {
         "properties": [
             "buzzparadise.com"
@@ -3273,14 +3265,6 @@
         "resources": [
             "flite.com",
             "widgetserver.com"
-        ]
-    },
-    "Flurry": {
-        "properties": [
-            "flurry.com"
-        ],
-        "resources": [
-            "flurry.com"
         ]
     },
     "Flytxt": {
@@ -9356,14 +9340,6 @@
         ],
         "resources": [
             "trumba.com"
-        ]
-    },
-    "Tumblr": {
-        "properties": [
-            "tumblr.com"
-        ],
-        "resources": [
-            "tumblr.com"
         ]
     },
     "Turn": {
