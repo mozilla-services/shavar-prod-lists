@@ -135,6 +135,10 @@ def check_uri(uri):
     # 	no scheme, port, fragment, path or query string
     # 	no disallowed characters
     # 	no leading/trailing garbage
+    try:
+        uri.decode('ascii')
+    except UnicodeEncodeError:
+        bad_uris.append(uri)
     parsed_uri = urlparse(uri)
     try:
         assert parsed_uri.scheme == ''
