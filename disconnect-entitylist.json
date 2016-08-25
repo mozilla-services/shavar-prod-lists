@@ -920,16 +920,6 @@
             "dmtry.com"
         ]
     },
-    "AdOn Network": {
-        "properties": [
-            "adonnetwork.com",
-            "dashboardad.net"
-        ],
-        "resources": [
-            "adonnetwork.com",
-            "dashboardad.net"
-        ]
-    },
     "AdOnion": {
         "properties": [
             "adonion.com"
@@ -2007,14 +1997,6 @@
             "buysight.com",
             "permuto.com",
             "pulsemgr.com"
-        ]
-    },
-    "BuzzCity": {
-        "properties": [
-            "buzzcity.com"
-        ],
-        "resources": [
-            "buzzcity.com"
         ]
     },
     "BuzzParadise": {
@@ -3273,14 +3255,6 @@
         "resources": [
             "flite.com",
             "widgetserver.com"
-        ]
-    },
-    "Flurry": {
-        "properties": [
-            "flurry.com"
-        ],
-        "resources": [
-            "flurry.com"
         ]
     },
     "Flytxt": {
@@ -5720,14 +5694,12 @@
     },
     "QUISMA": {
         "properties": [
-            "i-behavior.com",
             "iaded.com",
             "quisma.com",
             "quismatch.com",
             "xmladed.com"
         ],
         "resources": [
-            "i-behavior.com",
             "iaded.com",
             "quisma.com",
             "quismatch.com",
@@ -9356,14 +9328,6 @@
         ],
         "resources": [
             "trumba.com"
-        ]
-    },
-    "Tumblr": {
-        "properties": [
-            "tumblr.com"
-        ],
-        "resources": [
-            "tumblr.com"
         ]
     },
     "Turn": {
