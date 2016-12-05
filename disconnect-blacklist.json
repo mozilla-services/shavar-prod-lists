@@ -62,7 +62,6 @@
                         "backtype.com",
                         "crashlytics.com",
                         "tweetdeck.com",
-                        "twimg.com",
                         "twitter.com",
                         "twitter.jp"
                     ]
@@ -8207,6 +8206,13 @@
                 "TRUSTe": {
                     "http://www.truste.com/": [
                         "truste.com"
+                    ]
+                }
+            },
+            {
+                "Twitter": {
+                    "https://twitter.com/": [
+                        "twimg.com"
                     ]
                 }
             },
