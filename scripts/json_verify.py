@@ -16,6 +16,8 @@ dupe_hosts = {
     "properties": [],
     "resources": []
 }
+block_host_uris = []
+entity_host_uris = []
 errors = []
 file_contents = []
 file_name = ""
@@ -120,6 +122,7 @@ def find_uris(categories_json):
                     assert type(uris) is ListType
                     for uri in uris:
                         check_uri(uri)
+                        block_host_uris.append(uri)
 
 
 def find_uris_in_entities(entitylist_json):
@@ -139,6 +142,7 @@ def find_uris_in_entities(entitylist_json):
                 if uri in checked_uris[host_type]:
                     dupe_hosts[host_type].append(uri)
                 check_uri(uri)
+                entity_host_uris.append(uri)
                 checked_uris[host_type].append(uri)
 
 
@@ -231,4 +235,7 @@ def start(filename=None):
 
 args = parser.parse_args()
 start(args.file)
+print "\n block_host_uris: %s " % len(block_host_uris)
+print "\n entity_host_uris: %s " % len(entity_host_uris)
+assert "itisatracker.com" in block_host_uris
 exit(result)
