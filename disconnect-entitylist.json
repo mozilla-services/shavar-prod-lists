@@ -554,7 +554,8 @@
             "googleusercontent.com",
             "gstatic.com",
             "recaptcha.net",
-            "youtube.com"
+            "youtube.com",
+            "googletagmanager.com"
         ]
     },
     "Twitter": {
@@ -576,6 +577,14 @@
             "twimg.com",
             "twitter.jp",
             "fabric.io"
+        ]
+    },
+    "ZypMedia": {
+        "properties": [
+            "zypmedia.com"
+        ],
+        "resources": [
+            "zypmedia.com"
         ]
     },
     "[x+1]": {
@@ -911,7 +920,8 @@
         ],
         "resources": [
             "adform.com",
-            "adform.net"
+            "adform.net",
+            "adformdsp.net"
         ]
     },
     "AdFox": {
@@ -1081,7 +1091,8 @@
         ],
         "resources": [
             "admarketplace.com",
-            "admarketplace.net"
+            "admarketplace.net",
+            "ampxchange.com"
         ]
     },
     "AdMarvel": {
@@ -1126,6 +1137,14 @@
         "resources": [
             "admicro.vn",
             "vcmedia.vn"
+        ]
+    },
+    "Admized": {
+        "properties": [
+            "admized.com"
+        ],
+        "resources": [
+            "admized.com"
         ]
     },
     "Admotion": {
@@ -1257,6 +1276,14 @@
         ],
         "resources": [
             "adperfect.com"
+        ]
+    },
+    "Adotmob": {
+        "properties": [
+            "adotmob.com"
+        ],
+        "resources": [
+            "adotmob.com"
         ]
     },
     "Adperium": {
@@ -1435,12 +1462,28 @@
             "adtechus.com"
         ]
     },
+    "Adsperity": {
+        "properties": [
+            "adsperity.com"
+        ],
+        "resources": [
+            "adsperity.com"
+        ]
+    },
     "Adsrevenue": {
         "properties": [
             "adsrevenue.net"
         ],
         "resources": [
             "adsrevenue.net"
+        ]
+    },
+    "Adswizz": {
+        "properties": [
+            "adswizz.com"
+        ],
+        "resources": [
+            "adswizz.com"
         ]
     },
     "Adtegrity.com": {
@@ -3100,6 +3143,14 @@
             "exitjunction.com"
         ]
     },
+    "DynamicYield": {
+        "properties": [
+            "dynamicyield.com"
+        ],
+        "resources": [
+            "dynamicyield.com"
+        ]
+    },
     "eBay": {
         "properties": [
             "ebay.com",
@@ -3718,6 +3769,15 @@
         "resources": [
             "genius.com",
             "rsvpgenius.com"
+        ]
+    },
+    "Genesis Media": {
+        "properties": [
+            "genesismedia.com"
+        ],
+        "resources": [
+            "genesismedia.com",
+            "genesismediaus.com"
         ]
     },
     "GeoAds": {
@@ -5823,6 +5883,15 @@
             "pocketcents.com"
         ]
     },
+    "Polymorph": {
+        "properties": [
+            "getpolymorph.com"
+        ],
+        "resources": [
+            "getpolymorph.com",
+            "adsnative.com"
+        ]
+    },
     "Pontiflex": {
         "properties": [
             "pontiflex.com"
@@ -6735,7 +6804,8 @@
             "taboola.com"
         ],
         "resources": [
-            "taboola.com"
+            "taboola.com",
+            "perfectmarket.com"
         ]
     },
     "Tailsweep": {
@@ -7624,6 +7694,14 @@
             "yieldads.com"
         ]
     },
+    "YieldBids": {
+        "properties": [
+            "ybx.io"
+        ],
+        "resources": [
+            "ybx.io"
+        ]
+    },
     "YieldBuild": {
         "properties": [
             "yieldbuild.com"
@@ -7773,6 +7851,14 @@
         "resources": [
             "addfreestats.com",
             "3dstats.com"
+        ]
+    },
+    "Adventori": {
+        "properties": [
+            "adventori.com"
+        ],
+        "resources": [
+            "adventori.com"
         ]
     },
     "Amadesa": {
@@ -8024,6 +8110,14 @@
         "resources": [
             "dataium.com",
             "collserve.com"
+        ]
+    },
+    "Deep Intent": {
+        "properties": [
+            "deepintent.com"
+        ],
+        "resources": [
+            "deepintent.com"
         ]
     },
     "Demandbase": {
@@ -8374,6 +8468,16 @@
             "lytiks.com"
         ]
     },
+    "MarkMonitor": {
+        "properties": [
+            "markmonitor.com",
+            "9c9media.ca"
+        ],
+        "resources": [
+            "markmonitor.com",
+            "9c9media.ca"
+        ]
+    },
     "Marktest": {
         "properties": [
             "marktest.com",
@@ -8418,12 +8522,15 @@
         "properties": [
             "metrixlab.com",
             "crm-metrix.com",
-            "customerconversio.com"
+            "customerconversio.com",
+            "opinionbar.com"
         ],
         "resources": [
+            "opinionbar.com",
             "metrixlab.com",
             "crm-metrix.com",
-            "customerconversio.com"
+            "customerconversio.com",
+            "adoftheyear.com"
         ]
     },
     "Mixpanel": {
@@ -8924,6 +9031,16 @@
         ],
         "resources": [
             "amung.us"
+        ]
+    },
+    "White Ops": {
+        "properties": [
+            "adzmath.com",
+            "whiteops.com"
+        ],
+        "resources": [
+            "adzmath.com",
+            "whiteops.com"
         ]
     },
     "Woopra": {
