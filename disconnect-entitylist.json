@@ -678,18 +678,6 @@
             "zypmedia.com"
         ]
     },
-    "[x+1]": {
-        "properties": [
-            "xplusone.com",
-            "rocketfuel.com"
-            
-        ],
-        "resources": [
-            "xplusone.com",
-            "rocketfuel.com",
-            "ru4.com"
-        ]
-    },
     "2leep.com": {
         "properties": [
             "2leep.com"
@@ -941,20 +929,6 @@
         ],
         "resources": [
             "adcirrus.com"
-        ]
-    },
-    "Adconion": {
-        "properties": [
-            "adconion.com",
-            "amobee.com",
-            "smartclip.com"
-        ],
-        "resources": [
-            "adconion.com",
-            "amobee.com",
-            "amgdgt.com",
-            "euroclick.com",
-            "smartclip.com"
         ]
     },
     "addGloo": {
@@ -1296,6 +1270,7 @@
             "everestads.net",
             "everestjs.net",
             "everesttech.net",
+            "fyre.co",
             "hitbox.com",
             "omniture.com",
             "omtrdc.net",
@@ -1521,14 +1496,6 @@
             "adspirit.net"
         ]
     },
-    "AdSmart": {
-        "properties": [
-            "adsmart.com"
-        ],
-        "resources": [
-            "adsmart.com"
-        ]
-    },
     "AdsTours": {
         "properties": [
             "adstours.com",
@@ -1661,6 +1628,7 @@
     },
     "Adverticum": {
         "properties": [
+            "adsmart.com",
             "adverticum.com",
 			"adverticum.net"
         ],
@@ -1864,10 +1832,16 @@
     },
     "Amobee": {
         "properties": [
-            "amobee.com"
+            "amobee.com",
+            "smartclip.com"
         ],
         "resources": [
-            "amobee.com"
+            "adconion.com",
+            "amobee.com",
+            "amgdgt.com",
+            "euroclick.com",
+            "smartclip.com",
+            "turn.com"
         ]
     },
     "AOL": {
@@ -2941,7 +2915,9 @@
         ],
         "resources": [
             "criteo.com",
-            "criteo.net"
+            "criteo.net",
+            "hooklogic.com",
+            "hlserve.com"
         ]
     },
     "Cross Pixel": {
@@ -2959,7 +2935,11 @@
             "cxense.com"
         ],
         "resources": [
-            "cxense.com"
+            "cxense.com",
+            "emediate.com",
+            "emediate.biz",
+            "emediate.dk",
+            "emediate.eu"
         ]
     },
     "Cya2.net": {
@@ -3323,18 +3303,6 @@
         ],
         "resources": [
             "eleavers.com"
-        ]
-    },
-    "Emediate": {
-        "properties": [
-            "cxense.com"
-        ],
-        "resources": [
-            "cxense.com",
-            "emediate.com",
-            "emediate.biz",
-            "emediate.dk",
-            "emediate.eu"
         ]
     },
     "Emego": {
@@ -3712,7 +3680,9 @@
             "flashtalking.com"
         ],
         "resources": [
-            "flashtalking.com"
+            "encoremetrics.com",
+            "flashtalking.com",
+            "sitecompass.com"
         ]
     },
     "Flite": {
@@ -3760,7 +3730,9 @@
             "mobsmith.com",
             "myads.com",
             "othersonline.com",
-            "rubiconproject.com"
+            "rubiconproject.com",
+            "isocket.com",
+            "adsbyisocket.com"
         ]
     },
     "FreakOut": {
@@ -4084,17 +4056,6 @@
             "comclick.com"
         ]
     },
-    "HookLogic": {
-        "properties": [
-            "criteo.com",
-            "hlserve.com"
-        ],
-        "resources": [
-            "criteo.com",
-            "hooklogic.com",
-            "hlserve.com"
-        ]
-    },
     "Horyzon Media": {
         "properties": [
             "horyzon-media.com",
@@ -4319,16 +4280,6 @@
             "innity.com"
         ]
     },
-    "InsightExpress": {
-        "properties": [
-            "millwardbrowndigital.com"
-        ],
-        "resources": [
-            "millwardbrowndigital.com",
-            "insightexpress.com",
-            "insightexpressai.com"
-        ]
-    },
     "InSkin Media": {
         "properties": [
             "inskinmedia.com"
@@ -4443,16 +4394,6 @@
         "resources": [
             "digbro.com",
             "adversalservers.com"
-        ]
-    },
-    "isocket": {
-        "properties": [
-            "rubiconproject.com"
-        ],
-        "resources": [
-            "rubiconproject.com",
-            "isocket.com",
-            "adsbyisocket.com"
         ]
     },
     "Jaroop": {
@@ -5778,7 +5719,8 @@
         ],
         "resources": [
             "outbrain.com",
-            "sphere.com"
+            "sphere.com",
+            "visualrevenue.com"
         ]
     },
     "Oversee.net": {
@@ -6351,7 +6293,9 @@
         "resources": [
             "rocketfuel.com",
             "rfihub.com",
-            "rfihub.net"
+            "rfihub.net",
+            "ru4.com",
+            "xplusone.com"
         ]
     },
     "Rovion": {
@@ -8163,16 +8107,6 @@
             "dwstat.cn"
         ]
     },
-    "Encore": {
-        "properties": [
-            "flashtalking.com"
-        ],
-        "resources": [
-            "flashtalking.com",
-            "encoremetrics.com",
-            "sitecompass.com"
-        ]
-    },
     "eProof.com": {
         "properties": [
             "eproof.com"
@@ -8747,13 +8681,14 @@
             "staticstuff.net"
         ]
     },
-    "Safecount": {
+    "Kantar Millward Brown": {
         "properties": [
             "safecount.net",
-            "dlqm.net",
             "millwardbrowndigital.com"
         ],
         "resources": [
+            "insightexpress.com",
+            "insightexpressai.com",
             "millwardbrowndigital.com",
             "safecount.net",
             "dl-rms.com",
@@ -9434,15 +9369,6 @@
             "llnwd.net"
         ]
     },
-    "Livefyre": {
-        "properties": [
-            "fyre.co"
-        ],
-        "resources": [
-            "livefyre.com",
-            "fyre.co"
-        ]
-    },
     "LiveRail": {
         "properties": [
             "liverail.com"
@@ -9713,15 +9639,6 @@
             "trumba.com"
         ]
     },
-    "Turn": {
-        "properties": [
-            "amobee.com"
-        ],
-        "resources": [
-            "amobee.com",
-            "turn.com"
-        ]
-    },
     "TurnTo": {
         "properties": [
             "turntonetworks.com"
@@ -9852,15 +9769,6 @@
         "resources": [
             "vindicogroup.com",
             "vindicosuite.com"
-        ]
-    },
-    "Visual Revenue": {
-        "properties": [
-            "outbrain.com"
-        ],
-        "resources": [
-            "outbrain.com",
-            "visualrevenue.com"
         ]
     },
     "Voice2Page": {
