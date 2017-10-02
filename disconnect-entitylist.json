@@ -9476,7 +9476,24 @@
     },
     "Pinterest": {
         "properties": [
-            "pinterest.com"
+            "pinterest.com",
+            "pinterest.de",
+            "pinterest.pt",
+            "pinterest.se",
+            "pinterest.jp",
+            "pinterest.co.kr",
+            "pinterest.dk",
+            "pinterest.com.mx",
+            "pinterest.at",
+            "pinterest.co.uk",
+            "pinterest.ie",
+            "pinterest.fr",
+            "pinterest.ca",
+            "pinterest.ch",
+            "pinterest.es",
+            "pinterest.cl",
+            "pinterest.nz",
+            "pinterest.com.au"
         ],
         "resources": [
             "pinterest.com"
