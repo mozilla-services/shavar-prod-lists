@@ -410,7 +410,7 @@
             "instagram.com",
             "fbcdn.net",
             "messenger.com",
-			"atlassolutions.com"
+			      "atlassolutions.com"
         ],
         "resources": [
             "facebook.com",
@@ -424,7 +424,7 @@
             "instagram.com",
             "fbcdn.net",
             "messenger.com",
-			"atlassolutions.com"
+			      "atlassolutions.com"
         ]
     },
     "Google": {
@@ -3264,17 +3264,17 @@
         ]
     },
     "EFF": {
-		"properties": [
-			"eff.org",
-			"trackersimulator.org",
-			"eviltracker.net",
-			"do-not-tracker.org"
-		],
+        "properties": [
+          "eff.org",
+          "trackersimulator.org",
+          "eviltracker.net",
+          "do-not-tracker.org"
+        ],
         "resources": [
-			"eff.org",
-			"trackersimulator.org",
-			"eviltracker.net",
-			"do-not-tracker.org"
+          "eff.org",
+          "trackersimulator.org",
+          "eviltracker.net",
+          "do-not-tracker.org"
         ]
     },
     "Effective Measure": {
@@ -3414,11 +3414,11 @@
     "Etarget": {
         "properties": [
             "etargetnet.com",
-			"etarget.net"
+            "etarget.net"
         ],
         "resources": [
             "etargetnet.com",
-			"etarget.net"
+            "etarget.net"
         ]
     },
     "eTrigue": {
@@ -5098,7 +5098,6 @@
     "Microsoft": {
         "properties": [
             "microsoft.com",
-            "advertising.microsoft.com",
             "atdmt.com",
             "bing.com",
             "gamesforwindows.com",
