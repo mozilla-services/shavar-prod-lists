@@ -1048,6 +1048,13 @@
         }
       },
       {
+        "AndBeyond": {
+          "http://andbeyond.media/": [
+            "andbeyond.media"
+          ]
+        }
+      },
+      {
         "Answers.com": {
           "http://www.answers.com/": [
             "dsply.com"
@@ -2906,6 +2913,14 @@
           "http://www.insightexpress.com/": [
             "insightexpress.com",
             "insightexpressai.com"
+          ]
+        }
+      },
+      {
+        "Instinctive": {
+          "https://instinctive.io/": [
+            "instinctiveads.com",
+            "instinctive.io"
           ]
         }
       },
@@ -7046,6 +7061,13 @@
             "saymedia.com",
             "typepad.com",
             "videoegg.com"
+          ]
+        }
+      },
+      {
+        "Salesforce.com": {
+          "http://www.salesforce.com/": [
+            "salesforceliveagent.com"
           ]
         }
       },

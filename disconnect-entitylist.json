@@ -120,6 +120,14 @@
             "affiliatetracking.com"
         ]
     },
+    "AndBeyond": {
+        "properties": [
+            "andbeyond.media"
+        ],
+        "resources": [
+            "andbeyond.media"
+        ]
+    },
     "Answers.com": {
         "properties": [
             "answers.com",
@@ -4288,6 +4296,15 @@
             "inskinmedia.com"
         ]
     },
+    "Instinctive": {
+        "properties": [
+            "instinctive.io"
+        ],
+        "resources": [
+            "instinctive.io",
+            "instinctiveads.com"
+        ]
+    },
     "Intent Media": {
         "properties": [
             "intentmedia.com"
@@ -6331,7 +6348,8 @@
             "salesforce.com"
         ],
         "resources": [
-            "salesforce.com"
+            "salesforce.com",
+            "salesforceliveagent.com"
         ]
     },
     "Samurai Factory": {
