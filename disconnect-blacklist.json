@@ -8956,6 +8956,14 @@
         }
       },
       {
+        "ItIsATracker": {
+          "dnt": "eff",
+          "https://itisatracker.com/": [
+            "itisatracker.com"
+          ]
+        }
+      },
+      {
         "Twitter": {
           "https://twitter.com/": [
             "backtype.com",
