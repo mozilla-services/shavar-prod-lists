@@ -984,6 +984,16 @@
             "adgibbon.com"
         ]
     },
+    "AdGlare": {
+        "properties": [
+            "adglare.net",
+            "adglare.com"
+        ],
+        "resources": [
+            "adglare.net",
+            "adglare.com"
+        ]
+    },
     "adhood": {
         "properties": [
             "adhood.com"
@@ -2622,6 +2632,16 @@
             "cmmeglobal.com"
         ]
     },
+    "CoinHive": {
+        "properties": [
+            "coinhive.com",
+            "coin-hive.com"
+        ],
+        "resources": [
+            "coinhive.com",
+            "coin-hive.com"
+        ]
+    },
     "Collective": {
         "properties": [
             "collective.com",
@@ -2867,6 +2887,14 @@
             "crosspixel.net",
             "crosspixelmedia.com",
             "crsspxl.com"
+        ]
+    },
+    "CryptoLoot": {
+        "properties": [
+            "crypto-loot.com"
+        ],
+        "resources": [
+            "crypto-loot.com"
         ]
     },
     "cXense": {
@@ -3695,6 +3723,14 @@
             "double-check.com"
         ]
     },
+    "FullStory": {
+        "properties": [
+            "fullstory.com"
+        ],
+        "resources": [
+            "fullstory.com"
+        ]
+    },
     "Future Ads": {
         "properties": [
             "futureads.com",
@@ -3804,6 +3840,14 @@
         "resources": [
             "getglue.com",
             "smrtlnks.com"
+        ]
+    },
+    "GetSiteControl": {
+        "properties": [
+            "getsitecontrol.com"
+        ],
+        "resources": [
+            "getsitecontrol.com"
         ]
     },
     "Glam Media": {
@@ -5696,6 +5740,16 @@
             "optmd.com"
         ]
     },
+    "OptinMonster": {
+        "properties": [
+            "optnmstr.com",
+            "optinmonster.com"
+        ],
+        "resources": [
+            "optnmstr.com",
+            "optinmonster.com"
+        ]
+    },
     "Oracle": {
         "properties": [
             "oracle.com",
@@ -6536,6 +6590,14 @@
         ],
         "resources": [
             "smaato.com"
+        ]
+    },
+    "SmartLook": {
+        "properties": [
+            "smartlook.com"
+        ],
+        "resources": [
+            "smartlook.com"
         ]
     },
     "Smiley Media": {
@@ -8556,7 +8618,8 @@
             "mixpanel.com"
         ],
         "resources": [
-            "mixpanel.com"
+            "mixpanel.com",
+            "mxpnl.com"
         ]
     },
     "Mongoose Metrics": {
@@ -8824,6 +8887,14 @@
         "resources": [
             "seevolution.com",
             "svlu.net"
+        ]
+    },
+    "SessionCam": {
+        "properties": [
+            "sessioncam.com"
+        ],
+        "resources": [
+            "sessioncam.com"
         ]
     },
     "ShinyStat": {
@@ -9446,7 +9517,8 @@
             "hubspot.com"
         ],
         "resources": [
-            "hubspot.com"
+            "hubspot.com",
+            "hs-analytics.net"
         ]
     },
     "iovation": {

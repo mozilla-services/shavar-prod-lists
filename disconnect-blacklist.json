@@ -667,6 +667,14 @@
         }
       },
       {
+        "Adglare": {
+          "https://www.adglare.com/": [
+            "adglare.net",
+            "adglare.com"
+          ]
+        }
+      },
+      {
         "Adiant": {
           "http://www.adiant.com/": [
             "adblade.com",
@@ -1769,6 +1777,14 @@
         }
       },
       {
+        "CoinHive": {
+          "https://coinhive.com": [
+            "coinhive.com",
+            "coin-hive.com"
+          ]
+        }
+      },
+      {
         "Collective": {
           "http://collective.com/": [
             "collective-media.net",
@@ -1905,6 +1921,13 @@
             "crosspixel.net",
             "crosspixelmedia.com",
             "crsspxl.com"
+          ]
+        }
+      },
+      {
+        "CryptoLoot": {
+          "https://crypto-loot.com": [
+            "crypto-loot.com"
           ]
         }
       },
@@ -4059,6 +4082,14 @@
         "OptimumResponse": {
           "http://www.optimumresponse.com/": [
             "optimumresponse.com"
+          ]
+        }
+      },
+      {
+        "OptinMonster": {
+          "https://optinmonster.com/": [
+            "optnmstr.com",
+            "optinmonster.com"
           ]
         }
       },
@@ -6412,7 +6443,8 @@
         "Amazon.com": {
           "http://www.amazon.com/": [
             "amazon.com",
-            "cloudfront.net"
+            "cloudfront.net",
+            "alexa.com"
           ]
         }
       },
@@ -7472,6 +7504,13 @@
         }
       },
       {
+        "Yandex": {
+          "http://www.yandex.com/": [
+            "api-maps.yandex.ru"
+          ]
+        }
+      },
+      {
         "Zendesk": {
           "http://www.zendesk.com/": [
             "zendesk.com"
@@ -7581,7 +7620,6 @@
       {
         "Amazon.com": {
           "http://www.amazon.com/": [
-            "alexa.com",
             "alexametrics.com"
           ]
         }
@@ -7869,10 +7907,24 @@
         }
       },
       {
+        "Fullstory": {
+          "https://www.fullstory.com/": [
+            "fullstory.com"
+          ]
+        }
+      },
+      {
         "GTop": {
           "http://www.gtop.ro/": [
             "gtop.ro",
             "gtopstats.com"
+          ]
+        }
+      },
+      {
+        "GetSiteControl": {
+          "https://getsitecontrol.com/": [
+            "getsitecontrol.com"
           ]
         }
       },
@@ -7947,6 +7999,13 @@
         "Hotjar": {
           "https://www.hotjar.com": [
             "hotjar.com"
+          ]
+        }
+      },
+      {
+        "HubSpot": {
+          "http://www.hubspot.com/": [
+            "hs-analytics.net"
           ]
         }
       },
@@ -8115,7 +8174,8 @@
       {
         "Mixpanel": {
           "https://mixpanel.com/": [
-            "mixpanel.com"
+            "mixpanel.com",
+            "mxpnl.com"
           ]
         }
       },
@@ -8368,6 +8428,13 @@
         }
       },
       {
+        "SessionCam": {
+          "https://sessioncam.com/": [
+            "sessioncam.com"
+          ]
+        }
+      },
+      {
         "ShinyStat": {
           "http://www.shinystat.com/": [
             "shinystat.com"
@@ -8378,6 +8445,13 @@
         "Shortest": {
           "http://shorte.st/": [
             "shorte.st"
+          ]
+        }
+      },
+      {
+        "Smartlook": {
+          "https://www.smartlook.com/": [
+            "smartlook.com"
           ]
         }
       },
