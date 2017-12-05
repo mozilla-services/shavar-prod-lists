@@ -96,6 +96,16 @@
             "adv-adserver.com"
         ]
     },
+    "Adversal.com": {
+        "properties": [
+            "adversal.com",
+			"adv-adserver.com"
+        ],
+        "resources": [
+            "adversal.com",
+			"adv-adserver.com"
+        ]
+	},
     "Adventive": {
         "properties": [
             "adventive.com"
@@ -3277,6 +3287,20 @@
     },
     "EFF": {
         "properties": [
+          "eff.org",
+          "trackersimulator.org",
+          "eviltracker.net",
+          "do-not-tracker.org"
+        ],
+        "resources": [
+          "eff.org",
+          "trackersimulator.org",
+          "eviltracker.net",
+          "do-not-tracker.org"
+        ]
+    },
+    "EFF": {
+        "properties": [
             "eff.org",
             "trackersimulator.org",
             "eviltracker.net",
@@ -3421,6 +3445,16 @@
         "resources": [
             "etineria.com",
             "adwitserver.com"
+        ]
+    },
+    "Etarget": {
+        "properties": [
+            "etargetnet.com",
+            "etarget.net"
+        ],
+        "resources": [
+            "etargetnet.com",
+            "etarget.net"
         ]
     },
     "Etarget": {
@@ -6909,6 +6943,14 @@
         ],
         "resources": [
             "teadma.com"
+        ]
+    },
+    "Teads.tv": {
+        "properties": [
+            "teads.tv"
+        ],
+        "resources": [
+            "teads.tv"
         ]
     },
     "Teads.tv": {
