@@ -7707,6 +7707,7 @@
             "yandex.by"
         ],
         "resources": [
+            "api-maps.yandex.ru",
             "yandex.com",
             "web-visor.com",
             "moikrug.ru",
