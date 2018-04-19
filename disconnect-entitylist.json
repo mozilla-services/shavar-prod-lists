@@ -4884,10 +4884,12 @@
     },
     "MailChimp": {
         "properties": [
+            "mailchi.mp",
             "mailchimp.com",
             "campaign-archive1.com"
         ],
         "resources": [
+            "mailchi.mp",
             "mailchimp.com",
             "campaign-archive1.com",
             "list-manage.com"
