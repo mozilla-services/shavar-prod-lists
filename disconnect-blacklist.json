@@ -10,6 +10,21 @@
         }
       },
       {
+        "Soicos": {
+          "http://soicos.com/": [
+            "soicos.com",
+            "soi.me"
+          ]
+        }
+      },
+      {
+        "Sonital": {
+          "http://sonital.com/": [
+            "sonital.com"
+          ]
+        }
+      },
+      {
         "33Across": {
           "http://33across.com/": [
             "33across.com"
