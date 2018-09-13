@@ -19,7 +19,7 @@ versions of the blacklist: the "Basic protection" list, which excludes the
 "Content" category URLs for blocking.
 
 A vestige of the list is the "Disconnect" category, which contains Facebook,
-Twitter, and Google domains. Domain from this category are remapped into the
+Twitter, and Google domains. Domains from this category are remapped into the
 Social, Advertising, or Analytics categories as described
 [here](https://github.com/mozilla-services/shavar-list-creation/blob/57688d9fbb9531df4a7cc10084f0bb0c37080028/disconnect_mapping.py)
 This remapping is temporary until the list is updated to fix these issues.
