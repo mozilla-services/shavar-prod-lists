@@ -707,9 +707,7 @@
           "https://www.gridcash.net/": [
             "adless.io",
             "gridcash.net"
-          ],
-          "performance": "true",
-          "cryptominer": "true"
+          ]
         }
       },
       {
@@ -1244,8 +1242,7 @@
         "Augur": {
           "http://www.augur.io/": [
             "augur.io"
-          ],
-          "fingerprinting": "true"
+          ]
         }
       },
       {
@@ -1444,8 +1441,7 @@
         "BlueCava": {
           "http://www.bluecava.com/": [
             "bluecava.com"
-          ],
-          "fingerprinting": "true"
+          ]
         }
       },
       {
@@ -1841,9 +1837,7 @@
             "cnhv.co",
             "authedmine.com",
             "wsservices.org"
-          ],
-          "performance": "true",
-          "cryptominer": "true"
+          ]
         }
       },
       {
@@ -1992,9 +1986,7 @@
             "crypto-loot.com",
             "cryptaloot.pro",
             "webmine.pro"
-          ],
-          "cryptominer": "true",
-          "performance": "true"
+          ]
         }
       },
       {
@@ -2221,8 +2213,7 @@
         "DoubleVerify": {
           "http://www.doubleverify.com/": [
             "doubleverify.com"
-          ],
-          "fingerprinting": "true"
+          ]
         }
       },
       {
@@ -2816,8 +2807,7 @@
           "http://www.guj.de/": [
             "guj.de",
             "ligatus.com"
-          ],
-          "fingerprinting": "true"
+          ]
         }
       },
       {
@@ -3151,9 +3141,7 @@
         "JSE": {
           "http://jsecoin.com": [
             "jsecoin.com"
-          ],
-          "cryptominer": "true",
-          "performance": "true"
+          ]
         }
       },
       {
@@ -3655,8 +3643,7 @@
             "designbloxlive.com",
             "mathtag.com",
             "mediamath.com"
-          ],
-          "fingerprinting": "true"
+          ]
         }
       },
       {
@@ -3785,9 +3772,7 @@
         "Mineralt": {
           "https://mineralt.io/": [
             "mineralt.io"
-          ],
-          "performance": "true",
-          "cryptominer": "true"
+          ]
         }
       },
       {
@@ -5048,9 +5033,7 @@
         "SpareChange": {
           "http://sparechange.io": [
             "sparechange.io"
-          ],
-          "performance": "true",
-          "cryptominer": "true"
+          ]
         }
       },
       {
@@ -5854,8 +5837,7 @@
           "https://webmine.cz/": [
             "webmine.cz",
             "authedwebmine.cz"
-          ],
-          "cryptominer": "true"
+          ]
         }
       },
       {
@@ -6343,8 +6325,7 @@
           "http://www.eyereturnmarketing.com/": [
             "eyereturn.com",
             "eyereturnmarketing.com"
-          ],
-          "fingerprinting": "true"
+          ]
         }
       },
       {
@@ -8031,8 +8012,7 @@
             "clicktale.com",
             "clicktale.net",
             "pantherssl.com"
-          ],
-          "session-replay": "true"
+          ]
         }
       },
       {
@@ -8226,8 +8206,7 @@
         "Fullstory": {
           "https://www.fullstory.com/": [
             "fullstory.com"
-          ],
-          "session-replay": "true"
+          ]
         }
       },
       {
@@ -8778,8 +8757,7 @@
         "SessionCam": {
           "https://sessioncam.com/": [
             "sessioncam.com"
-          ],
-          "session-replay": "true"
+          ]
         }
       },
       {
@@ -8793,16 +8771,14 @@
         "Shortest": {
           "http://shorte.st/": [
             "shorte.st"
-          ],
-          "fingerprinting": "true"
+          ]
         }
       },
       {
         "Smartlook": {
           "https://www.smartlook.com/": [
             "smartlook.com"
-          ],
-          "session-replay": "true"
+          ]
         }
       },
       {

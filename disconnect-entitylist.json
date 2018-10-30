@@ -8641,8 +8641,7 @@
             "infernotions.com"
         ],
         "resources": [
-            "infostars.ru",
-            "hotlog.ru"
+            "infernotions.com"
         ]
     },
     "InfoStars": {
@@ -8822,15 +8821,6 @@
             "crm-metrix.com",
             "customerconversio.com",
             "adoftheyear.com"
-        ]
-    },
-    "Merkle RKG": {
-        "properties": [
-            "merkleinc.com"
-        ],
-        "resources": [
-            "rkdms.com",
-            "merkleinc.com"
         ]
     },
     "Mixpanel": {
