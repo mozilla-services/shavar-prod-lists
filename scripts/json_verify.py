@@ -12,7 +12,8 @@ parser = argparse.ArgumentParser(description='Verify json files for shavar.')
 parser.add_argument("-f", "--file", help="filename to verify")
 
 bad_uris = []
-dupe_hosts = {
+dupe_block_hosts = []
+dupe_entity_hosts = {
     "properties": [],
     "resources": []
 }
@@ -50,19 +51,34 @@ def verify(file):
                     # google_mapping.json
                     # disconnect_blacklist.json
                     find_uris(json_obj["categories"])
+                    for uri in block_host_uris:
+                        for upper_uri in upper_domains(uri):
+                            if upper_uri in block_host_uris:
+                                dupe_block_hosts.append(uri)
                 else:
                     # disconnect_entitylist.json
                     find_uris_in_entities(json_obj)
             except:
                 errors.append("\tError: Can't parse file")
     except ValueError as e:
-        # invalid json formatting
+        # invalid json
         errors.append("\tError: %s" % e)
         return
     except IOError as e:
         # non-existent file
         errors.append("\tError: Can't open file: %s" % e)
         return
+
+
+def upper_domains(domain):
+    upper_domains = []
+    components = domain.rstrip('/').split('.')
+    while len(components) > 2:
+        upper_domain_components = components[1:]
+        upper_domain = '.'.join(upper_domain_components)
+        upper_domains.append(upper_domain)
+        components = upper_domain_components
+    return upper_domains
 
 
 """
@@ -100,6 +116,8 @@ categories_json is expected to match this format:
         ...
     }
 """
+
+
 def find_uris(categories_json):
     assert type(categories_json) is DictType
     for category, category_json in categories_json.iteritems():
@@ -140,7 +158,7 @@ def find_uris_in_entities(entitylist_json):
             assert type(uris) is ListType
             for uri in uris:
                 if uri in checked_uris[host_type]:
-                    dupe_hosts[host_type].append(uri)
+                    dupe_entity_hosts[host_type].append(uri)
                 check_uri(uri)
                 entity_host_uris.append(uri)
                 checked_uris[host_type].append(uri)
@@ -190,7 +208,10 @@ def make_errors_from_bad_uris():
     for bad_uri in bad_uris:
         errors.append("\tError: Bad URI: %s\t: in line %s" %
                       (bad_uri, find_line_number(bad_uri)))
-    for host_type, hosts in dupe_hosts.iteritems():
+    for host in dupe_block_hosts:
+        errors.append("\tDupe: Dupe host: %s\t in line %s" %
+                      (host, find_line_number(host)))
+    for host_type, hosts in dupe_entity_hosts.iteritems():
         for host in hosts:
             errors.append("\tDupe: Dupe host: %s\t in line %s" %
                           (host, find_line_number(host)))
@@ -212,8 +233,10 @@ def finish():
 def reset():
     global bad_uris
     bad_uris = []
-    global dupe_hosts
-    dupe_hosts = {
+    global dupe_block_hosts
+    dupe_block_hosts = []
+    global dupe_entity_hosts
+    dupe_entity_hosts = {
         "properties": [],
         "resources": []
     }
