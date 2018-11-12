@@ -647,8 +647,7 @@
             "gstatic.com",
             "recaptcha.net",
             "youtube.com",
-            "googletagmanager.com",
-            "adservice.google.com"
+            "googletagmanager.com"
         ]
     },
     "Twitter": {
