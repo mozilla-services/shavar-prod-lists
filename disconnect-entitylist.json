@@ -647,7 +647,8 @@
             "gstatic.com",
             "recaptcha.net",
             "youtube.com",
-            "googletagmanager.com"
+            "googletagmanager.com",
+            "adservice.google.com"
         ]
     },
     "Twitter": {
@@ -3665,6 +3666,14 @@
         ],
         "resources": [
             "exoclick.com"
+        ]
+    },
+    "Exosrv": {
+        "properties": [
+            "exosrv.com"
+        ],
+        "resources": [
+            "exosrv.com"
         ]
     },
     "Experian": {
@@ -7378,6 +7387,14 @@
             "traffiq.com"
         ]
     },
+    "Trafmag": {
+        "properties": [
+            "trafmag.com"
+        ],
+        "resources": [
+            "trafmag.com"
+        ]
+    },
     "Travora Media": {
         "properties": [
             "travoramedia.com"
@@ -8739,6 +8756,15 @@
         "resources": [
             "lotame.com",
             "crwdcntrl.net"
+        ]
+    },
+    "LuckyOrange": {
+        "properties": [
+            "luckyorange.com"
+        ],
+        "resources": [
+            "luckyorange.com",
+            "luckyorange.net"
         ]
     },
     "Lynchpin": {
