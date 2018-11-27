@@ -1091,13 +1091,6 @@
         "Amazon.com": {
           "http://www.amazon.com/": [
             "amazon-adsystem.com",
-            "amazon.ca",
-            "amazon.co.jp",
-            "amazon.co.uk",
-            "amazon.de",
-            "amazon.es",
-            "amazon.fr",
-            "amazon.it",
             "assoc-amazon.com"
           ]
         }
@@ -6703,6 +6696,13 @@
         "Amazon.com": {
           "http://www.amazon.com/": [
             "amazon.com",
+            "amazon.ca",
+            "amazon.co.jp",
+            "amazon.co.uk",
+            "amazon.de",
+            "amazon.es",
+            "amazon.fr",
+            "amazon.it",
             "cloudfront.net",
             "alexa.com"
           ]
