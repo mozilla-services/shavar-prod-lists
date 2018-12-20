@@ -29,7 +29,7 @@ def run(file):
     file_name = file
     try:
         verify(file)
-    except:
+    except Exception:
         errors.append("\tError: Problem handling file")
     finish()
 
@@ -53,7 +53,7 @@ def verify(file):
                 else:
                     # disconnect_entitylist.json
                     find_uris_in_entities(json_obj)
-            except:
+            except Exception:
                 errors.append("\tError: Can't parse file")
     except ValueError as e:
         # invalid json formatting
@@ -65,42 +65,42 @@ def verify(file):
         return
 
 
-"""
-categories_json is expected to match this format:
-    "categories": {
-        "Disconnect": [
-            {
-                "Facebook": {
-                    "http://www.facebook.com/": [
-                        "facebook.com",
-                        ...
-                    ]
-                }
-            },
-            {
-                "Google": {
-                    "http://www.google.com/": [
-                        "2mdn.net",
-                        ...
-                    ]
-                }
-            },
-            ...
-        ],
-        "Advertising": [
-            {
-                "[x+1]": {
-                    "http://www.xplusone.com/": [
-                        "ru4.com",
-                        ...
-                    ]
-                }
-            },
-        ]
-        ...
-    }
-"""
 def find_uris(categories_json):
+    """
+    `categories_json` is expected to match this format:
+        "categories": {
+            "Disconnect": [
+                {
+                    "Facebook": {
+                        "http://www.facebook.com/": [
+                            "facebook.com",
+                            ...
+                        ]
+                    }
+                },
+                {
+                    "Google": {
+                        "http://www.google.com/": [
+                            "2mdn.net",
+                            ...
+                        ]
+                    }
+                },
+                ...
+            ],
+            "Advertising": [
+                {
+                    "[x+1]": {
+                        "http://www.xplusone.com/": [
+                            "ru4.com",
+                            ...
+                        ]
+                    }
+                },
+            ]
+            ...
+        }
+    """
     assert type(categories_json) is DictType
     for category, category_json in categories_json.iteritems():
         assert type(category) is UnicodeType
@@ -181,7 +181,7 @@ def find_line_number(uri):
                 file_contents.pop(x)
                 break
     except ValueError as e:
-        print e
+        print(e)
         line = -1
     return str(line)
 
@@ -199,13 +199,13 @@ def make_errors_from_bad_uris():
 def finish():
     make_errors_from_bad_uris()
     if (len(errors) == 0):
-        print "\n" + file_name + " : valid"
+        print("\n" + file_name + " : valid")
     else:
         global result
         result = 1
-        print "\n" + file_name + " : invalid"
+        print("\n" + file_name + " : invalid")
         for error in errors:
-            print error
+            print(error)
     reset()
 
 
@@ -235,7 +235,7 @@ def start(filename=None):
 
 args = parser.parse_args()
 start(args.file)
-print "\n block_host_uris: %s " % len(block_host_uris)
-print "\n entity_host_uris: %s " % len(entity_host_uris)
+print("\n block_host_uris: %s " % len(block_host_uris))
+print("\n entity_host_uris: %s " % len(entity_host_uris))
 assert "itisatracker.com" in block_host_uris
 exit(result)
