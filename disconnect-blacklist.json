@@ -519,7 +519,8 @@
           "http://www.admicro.vn/": [
             "admicro.vn",
             "vcmedia.vn"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -564,6 +565,14 @@
           "http://www.adnetwork.net/": [
             "adnetwork.net"
           ]
+        }
+      },
+      {
+        "Adnium": {
+          "https://adnium.com": [
+            "adnium.com"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -754,6 +763,14 @@
           "https://www.adscience.nl/": [
             "adscience.nl"
           ]
+        }
+      },
+      {
+        "AdScore": {
+          "http://www.adscoremarketing.com/": [
+            "adsco.re"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -1121,6 +1138,14 @@
         }
       },
       {
+        "AkroseLabs": {
+          "https://www.arkoselabs.com/index.html": [
+            "funcaptcha.com"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "AllStar Media": {
           "http://allstarmediagroup.com/": [
             "allstarmediagroup.com"
@@ -1260,6 +1285,15 @@
         }
       },
       {
+        "aster18cdn.nl": {
+          "http://aster18cdn.nl/": [
+            "aster18cdn.nl"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
+        }
+      },
+      {
         "AT Internet": {
           "http://www.atinternet.com/": [
             "hit-parade.com"
@@ -1320,6 +1354,16 @@
         }
       },
       {
+        "AuditedMedia": {
+          "https://auditedmedia.com/": [
+            "aamsitecertifier.com",
+            "aamapi.com",
+            "auditedmedia.com"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "Augme": {
           "http://www.augme.com/": [
             "augme.com",
@@ -1331,7 +1375,8 @@
         "Augur": {
           "http://www.augur.io/": [
             "augur.io"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -1550,7 +1595,8 @@
         "BlueCava": {
           "http://www.bluecava.com/": [
             "bluecava.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -1570,10 +1616,27 @@
         }
       },
       {
+        "bmst.pw": {
+          "http://bmst.pw/": [
+            "bmst.pw"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
+        }
+      },
+      {
         "Boo-Box": {
           "http://boo-box.com/": [
             "boo-box.com"
           ]
+        }
+      },
+      {
+        "BoostBox": {
+          "https://www.boostbox.com.br/": [
+            "boostbox.com.br"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -1925,7 +1988,18 @@
             "cnhv.co",
             "authedmine.com",
             "wsservices.org"
-          ]
+          ],
+          "performance": "true",
+          "cryptominer": "true"
+        }
+      },
+      {
+        "CoinPot": {
+          "http://coinpot.co": [
+            "coinpot.co"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
         }
       },
       {
@@ -1989,6 +2063,14 @@
           "http://www.consiliummedia.com/": [
             "consiliummedia.com"
           ]
+        }
+      },
+      {
+        "Consumable": {
+          "http://consumable.com/": [
+            "consumable.com"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -2125,8 +2207,12 @@
           "https://crypto-loot.com": [
             "crypto-loot.com",
             "cryptaloot.pro",
-            "webmine.pro"
-          ]
+            "webmine.pro",
+            "gitgrub.pro",
+            "statdynamic.com"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
         }
       },
       {
@@ -2331,6 +2417,14 @@
         }
       },
       {
+        "dmpxs": {
+          "http://bob.dmpxs.com": [
+            "dmpxs.com"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "DoublePimp": {
           "http://doublepimp.com/": [
             "doublepimp.com"
@@ -2349,7 +2443,8 @@
         "DoubleVerify": {
           "http://www.doubleverify.com/": [
             "doubleverify.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -2698,7 +2793,8 @@
           "http://www.eyereturnmarketing.com/": [
             "eyereturn.com",
             "eyereturnmarketing.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -2789,6 +2885,15 @@
         }
       },
       {
+        "flightzy.date": {
+          "http://flightzy.date": [
+            "flightzy.date"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
+        }
+      },
+      {
         "Flite": {
           "http://www.flite.com/": [
             "flite.com",
@@ -2824,6 +2929,15 @@
             "brandsideplatform.com",
             "forbes.com"
           ]
+        }
+      },
+      {
+        "Foresee": {
+          "https://www.foresee.com": [
+            "answerscloud.com",
+            "foresee.com"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -3025,7 +3139,9 @@
           "https://www.gridcash.net/": [
             "adless.io",
             "gridcash.net"
-          ]
+          ],
+          "performance": "true",
+          "cryptominer": "true"
         }
       },
       {
@@ -3047,7 +3163,8 @@
           "http://www.guj.de/": [
             "guj.de",
             "ligatus.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -3230,6 +3347,14 @@
             "ignitionone.net",
             "searchignite.com"
           ]
+        }
+      },
+      {
+        "iMedia": {
+          "http://www.imedia.cz": [
+            "imedia.cz"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -3501,7 +3626,9 @@
         "JSE": {
           "http://jsecoin.com": [
             "jsecoin.com"
-          ]
+          ],
+          "cryptominer": "true",
+          "performance": "true"
         }
       },
       {
@@ -3516,6 +3643,14 @@
           "http://www.jumptap.com/": [
             "jumptap.com"
           ]
+        }
+      },
+      {
+        "justuno": {
+          "https://www.justuno.com/": [
+            "justuno.com"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -3973,7 +4108,8 @@
             "designbloxlive.com",
             "mathtag.com",
             "mediamath.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -4112,10 +4248,40 @@
         }
       },
       {
-        "Mineralt": {
-          "https://mineralt.io/": [
-            "mineralt.io"
-          ]
+        "MinerAlt": {
+          "http://mineralt.io": [
+            "gramombird.com",
+            "mepirtedic.com",
+            "besstahete.info",
+            "feesocrald.com",
+            "analytics.blue",
+            "pampopholf.com",
+            "tulip18.com",
+            "mineralt.io",
+            "istlandoll.com",
+            "dinorslick.icu"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
+        }
+      },
+      {
+        "Minescripts": {
+          "http://minescripts.info": [
+            "minescripts.info",
+            "sslverify.info"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
+        }
+      },
+      {
+        "MineXMR": {
+          "http://minexmr.stream": [
+            "minexmr.stream"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
         }
       },
       {
@@ -4327,6 +4493,16 @@
         }
       },
       {
+        "NeroHut": {
+          "https://nerohut.com": [
+            "nerohut.com",
+            "nhsrv.cf"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
+        }
+      },
+      {
         "NetAffiliation": {
           "http://www.netaffiliation.com/": [
             "netaffiliation.com"
@@ -4458,6 +4634,14 @@
         }
       },
       {
+        "NuDataSecurity": {
+          "https://nudatasecurity.com/": [
+            "nudatasecurity.com"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "Nuffnang": {
           "http://www.nuffnang.com.my/": [
             "nuffnang.com",
@@ -4512,6 +4696,14 @@
             "oneupweb.com",
             "sodoit.com"
           ]
+        }
+      },
+      {
+        "OnlineMetrix": {
+          "http://h.online-metrix.net": [
+            "h.online-metrix.net"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -4678,6 +4870,14 @@
         }
       },
       {
+        "PaymentsMB": {
+          "https://paymentsmb.com": [
+            "paymentsmb.com"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "Paypopup.com": {
           "http://www.paypopup.com/": [
             "lzjl.com",
@@ -4708,6 +4908,14 @@
         }
       },
       {
+        "PerimeterX": {
+          "https://www.perimeterx.com": [
+            "perimeterx.net"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "Pheedo": {
           "http://site.pheedo.com/": [
             "pheedo.com"
@@ -4723,6 +4931,14 @@
         }
       },
       {
+        "PixAnalytics": {
+          "https://pixanalytics.com/": [
+            "pixanalytics.com"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "Pixel.sg": {
           "http://www.pixel.sg/": [
             "pixel.sg"
@@ -4734,6 +4950,14 @@
           "http://www.piximedia.com/": [
             "piximedia.com"
           ]
+        }
+      },
+      {
+        "Pixlee": {
+          "https://www.pixlee.com/": [
+            "pixlee.com"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -5289,7 +5513,8 @@
           "http://selectablemedia.com/": [
             "nabbr.com",
             "selectablemedia.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -5315,6 +5540,14 @@
         }
       },
       {
+        "ShaftTraffic": {
+          "https://shafttraffic.com": [
+            "libertystmedia.com"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "ShareASale": {
           "http://www.shareasale.com/": [
             "shareasale.com"
@@ -5333,6 +5566,14 @@
           "http://www.shopzilla.com/": [
             "shopzilla.com"
           ]
+        }
+      },
+      {
+        "Signifyd": {
+          "https://www.signifyd.com/": [
+            "signifyd.com"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -5460,7 +5701,9 @@
         "SpareChange": {
           "http://sparechange.io": [
             "sparechange.io"
-          ]
+          ],
+          "performance": "true",
+          "cryptominer": "true"
         }
       },
       {
@@ -5575,6 +5818,14 @@
           "http://www.strikead.com/": [
             "strikead.com"
           ]
+        }
+      },
+      {
+        "Stripe": {
+          "https://stripe.com": [
+            "stripe.network"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -5738,6 +5989,14 @@
             "teads.tv",
             "ebuzzing.com"
           ]
+        }
+      },
+      {
+        "Tealium": {
+          "https://tealium.com/": [
+            "tiqcdn.com"
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -6069,6 +6328,14 @@
         }
       },
       {
+        "USocial": {
+          "https://usocial.pro": [
+            "usocial.pro"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "Value Ad": {
           "http://valuead.com/": [
             "valuead.com"
@@ -6291,7 +6558,17 @@
           "https://webmine.cz/": [
             "webmine.cz",
             "authedwebmine.cz"
-          ]
+          ],
+          "cryptominer": "true"
+        }
+      },
+      {
+        "WebminePool": {
+          "http://webminepool.com": [
+            "webminepool.com"
+          ],
+          "cryptominer": "true",
+          "performance": "true"
         }
       },
       {
@@ -6548,6 +6825,14 @@
         }
       },
       {
+        "YSance": {
+          "https://www.ysance.com/data-services/fr/home/": [
+            "y-track.com"
+          ],
+          "fingerprinting": "true"
+        }
+      },
+      {
         "YuMe": {
           "http://www.yume.com/": [
             "yume.com",
@@ -6615,6 +6900,15 @@
           "http://www.zumobi.com/": [
             "zumobi.com"
           ]
+        }
+      },
+      {
+        "zymerget.bid": {
+          "http://zymerget.bid": [
+            "zymerget.bid"
+          ],
+          "performance": "true",
+          "cryptominer": "true"
         }
       },
       {
@@ -8003,7 +8297,8 @@
             "attributionmodel.com",
             "c3metrics.com",
             "c3tag.com"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
@@ -8034,7 +8329,8 @@
             "clicktale.com",
             "clicktale.net",
             "pantherssl.com"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {
@@ -8272,7 +8568,8 @@
         "Fullstory": {
           "https://www.fullstory.com/": [
             "fullstory.com"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {
@@ -8505,7 +8802,8 @@
           "https://www.luckyorange.com": [
             "luckyorange.com",
             "luckyorange.net"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {
@@ -8870,7 +9168,8 @@
         "SessionCam": {
           "https://sessioncam.com/": [
             "sessioncam.com"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {
@@ -8884,14 +9183,16 @@
         "Shortest": {
           "http://shorte.st/": [
             "shorte.st"
-          ]
+          ],
+          "fingerprinting": "true"
         }
       },
       {
         "Smartlook": {
           "https://www.smartlook.com/": [
             "smartlook.com"
-          ]
+          ],
+          "session-replay": "true"
         }
       },
       {

@@ -65,6 +65,14 @@
             "adscience.nl"
         ]
     },
+    "AdScore": {
+        "properties": [
+            "adscoremarketing.com"
+        ],
+        "resources": [
+            "adsco.re"
+        ]
+    },
     "Adsty": {
         "properties": [
             "adx1.com",
@@ -667,6 +675,14 @@
             "twitter.jp",
             "fabric.io",
             "ads-twitter.com"
+        ]
+    },
+    "zymerget.bid": {
+        "properties": [
+            "zymerget.bid"
+        ],
+        "resources": [
+            "zymerget.bid"
         ]
     },
     "ZypMedia": {
@@ -1279,6 +1295,14 @@
             "adnetwork.net"
         ]
     },
+    "Adnium": {
+        "properties": [
+            "adnium.com"
+        ],
+        "resources": [
+            "adnium.com"
+        ]
+    },
     "adnologies": {
         "properties": [
             "adnologies.com",
@@ -1860,6 +1884,14 @@
             "edgesuite.net"
         ]
     },
+    "AkroseLabs": {
+        "properties": [
+            "arkoselabs.com"
+        ],
+        "resources": [
+            "funcaptcha.com"
+        ]
+    },
     "Amazon.com": {
         "properties": [
             "amazon.com",
@@ -2033,6 +2065,14 @@
             "ctasnet.com"
         ]
     },
+    "aster18cdn.nl": {
+        "properties": [
+            "aster18cdn.nl"
+        ],
+        "resources": [
+            "aster18cdn.nl"
+        ]
+    },
     "AIData": {
         "properties": [
             "advombat.ru",
@@ -2106,6 +2146,16 @@
             "revsci.net",
             "targetingmarketplace.com",
             "wunderloop.net"
+        ]
+    },
+    "AuditedMedia": {
+        "properties": [
+            "auditedmedia.com"
+        ],
+        "resources": [
+            "auditedmedia.com",
+            "aamsitecertifier.com",
+            "aamapi.com"
         ]
     },
     "Augme": {
@@ -2406,12 +2456,28 @@
             "tracksimple.com"
         ]
     },
+    "bmst.pw": {
+        "properties": [
+            "bmst.pw"
+        ],
+        "resources": [
+            "bmst.pw"
+        ]
+    },
     "Boo-Box": {
         "properties": [
             "boo-box.com"
         ],
         "resources": [
             "boo-box.com"
+        ]
+    },
+    "BoostBox": {
+        "properties": [
+            "boostbox.com.br"
+        ],
+        "resources": [
+            "boostbox.com.br"
         ]
     },
     "Bouncex": {
@@ -2832,6 +2898,14 @@
             "wsservices.org"
         ]
     },
+    "CoinPot": {
+        "properties": [
+            "coinpot.co"
+        ],
+        "resources": [
+            "coinpot.co"
+        ]
+    },
     "Collective": {
         "properties": [
             "collective.com"
@@ -2919,6 +2993,14 @@
         ],
         "resources": [
             "consiliummedia.com"
+        ]
+    },
+    "Consumable": {
+        "properties": [
+            "consumable.com"
+        ],
+        "resources": [
+            "consumable.com"
         ]
     },
     "CONTAXE": {
@@ -3075,7 +3157,9 @@
         "resources": [
             "crypto-loot.com",
             "cryptaloot.pro",
-            "webmine.pro"
+            "webmine.pro",
+            "gitgrub.pro",
+            "statdynamic.com"
         ]
     },
     "cXense": {
@@ -3292,6 +3376,14 @@
         "resources": [
             "directresponsegroup.com",
             "ppctracking.net"
+        ]
+    },
+    "dmpxs": {
+        "properties": [
+            "dmpxs.com"
+        ],
+        "resources": [
+            "dmpxs.com"
         ]
     },
     "DoublePimp": {
@@ -3862,6 +3954,14 @@
             "sitecompass.com"
         ]
     },
+    "flightzy.date": {
+        "properties": [
+            "flightzy.date"
+        ],
+        "resources": [
+            "flightzy.date"
+        ]
+    },
     "Flite": {
         "properties": [
             "flite.com",
@@ -3888,6 +3988,14 @@
         "resources": [
             "forbes.com",
             "brandsideplatform.com"
+        ]
+    },
+    "Foresee": {
+        "properties": [
+            "foresee.com"
+        ],
+        "resources": [
+            "answerscloud.com"
         ]
     },
     "Fox One Stop Media": {
@@ -4393,6 +4501,14 @@
             "searchignite.com"
         ]
     },
+    "iMedia": {
+        "properties": [
+            "imedia.cz"
+        ],
+        "resources": [
+            "imedia.cz"
+        ]
+    },
     "Improve Digital": {
         "properties": [
             "improvedigital.com",
@@ -4686,6 +4802,14 @@
         ],
         "resources": [
             "jumptap.com"
+        ]
+    },
+    "justuno": {
+        "properties": [
+            "justuno.com"
+        ],
+        "resources": [
+            "justuno.com"
         ]
     },
     "Kenshoo": {
@@ -5383,6 +5507,40 @@
             "mmismm.com"
         ]
     },
+    "MinerAlt": {
+        "properties": [
+            "mineralt.io"
+        ],
+        "resources": [
+            "gramombird.com",
+            "mepirtedic.com",
+            "besstahete.info",
+            "feesocrald.com",
+            "analytics.blue",
+            "pampopholf.com",
+            "tulip18.com",
+            "mineralt.io",
+            "istlandoll.com",
+            "dinorslick.icu"
+        ]
+    },
+    "Minescripts": {
+        "properties": [
+            "minescripts.info"
+        ],
+        "resources": [
+            "minescripts.info",
+            "sslverify.info"
+        ]
+    },
+    "MineXMR": {
+        "properties": [
+            "minexmr.stream"
+        ],
+        "resources": [
+            "minexmr.stream"
+        ]
+    },
     "Mirando": {
         "properties": [
             "mirando.de"
@@ -5609,6 +5767,15 @@
             "nr7.us"
         ]
     },
+    "NeroHut": {
+        "properties": [
+            "nerohut.com"
+        ],
+        "resources": [
+            "nerohut.com",
+            "nhsrv.cf"
+        ]
+    },
     "NetAffiliation": {
         "properties": [
             "netaffiliation.com"
@@ -5763,6 +5930,14 @@
             "nrelate.com"
         ]
     },
+    "NuDataSecurity": {
+        "properties": [
+            "nudatasecurity.com"
+        ],
+        "resources": [
+            "nudatasecurity.com"
+        ]
+    },
     "Nuffnang": {
         "properties": [
             "www.nuffnang.com.my",
@@ -5833,6 +6008,14 @@
         "resources": [
             "oneupweb.com",
             "sodoit.com"
+        ]
+    },
+    "OnlineMetrix": {
+        "properties": [
+            "online-metrix.net"
+        ],
+        "resources": [
+            "online-metrix.net"
         ]
     },
     "Open New Media": {
@@ -6021,6 +6204,14 @@
             "payhit.com"
         ]
     },
+    "PaymentsMB": {
+        "properties": [
+            "paymentsmb.com"
+        ],
+        "resources": [
+            "paymentsmb.com"
+        ]
+    },
     "Paypopup.com": {
         "properties": [
             "paypopup.com"
@@ -6056,6 +6247,14 @@
             "performancing.com"
         ]
     },
+    "PerimeterX": {
+        "properties": [
+            "perimeterx.com"
+        ],
+        "resources": [
+            "perimeterx.com"
+        ]
+    },
     "Pheedo": {
         "properties": [
             "pheedo.com"
@@ -6074,6 +6273,14 @@
             "pictela.net"
         ]
     },
+    "PixAnalytics": {
+        "properties": [
+            "pixanalytics.com"
+        ],
+        "resources": [
+            "pixanalytics.com"
+        ]
+    },
     "Pixel.sg": {
         "properties": [
             "pixel.sg"
@@ -6088,6 +6295,14 @@
         ],
         "resources": [
             "piximedia.com"
+        ]
+    },
+    "Pixlee": {
+        "properties": [
+            "pixlee.com"
+        ],
+        "resources": [
+            "pixlee.com"
         ]
     },
     "PLATFORM ONE": {
@@ -6705,6 +6920,15 @@
             "sexinyourcity.com"
         ]
     },
+    "ShaftTraffic": {
+        "properties": [
+            "shafttraffic.com"
+        ],
+        "resources": [
+            "shafttraffic.com",
+            "libertystmedia.com"
+        ]
+    },
     "ShareASale": {
         "properties": [
             "shareasale.com"
@@ -6727,6 +6951,14 @@
         ],
         "resources": [
             "shopzilla.com"
+        ]
+    },
+    "Signifyd": {
+        "properties": [
+            "signifyd.com"
+        ],
+        "resources": [
+            "signifyd.com"
         ]
     },
     "Silverpop": {
@@ -7018,6 +7250,14 @@
         ],
         "resources": [
             "strikead.com"
+        ]
+    },
+    "Stripe": {
+        "properties": [
+            "stripe.com"
+        ],
+        "resources": [
+            "stripe.network"
         ]
     },
     "StrongMail": {
@@ -7574,6 +7814,14 @@
             "upsellit.com"
         ]
     },
+    "USocial": {
+        "properties": [
+            "usocial.pro"
+        ],
+        "resources": [
+            "usocial.pro"
+        ]
+    },
     "ValueClick": {
         "properties": [
             "conversantmedia.com"
@@ -7832,6 +8080,14 @@
             "authedwebmine.cz"
         ]
     },
+    "WebminePool": {
+        "properties": [
+            "webminepool.com"
+        ],
+        "resources": [
+            "webminepool.com"
+        ]
+    },
     "Webtraffic": {
         "properties": [
             "webtraffic.se",
@@ -8059,6 +8315,14 @@
         ],
         "resources": [
             "youknowbest.com"
+        ]
+    },
+    "YSance": {
+        "properties": [
+            "ysance.com"
+        ],
+        "resources": [
+            "y-track.com"
         ]
     },
     "YuMe": {
