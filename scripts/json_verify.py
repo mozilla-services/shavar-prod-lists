@@ -15,12 +15,12 @@ FINGERPRINTING_TAG = 'fingerprinting'
 CRYPTOMINING_TAG = 'cryptominer'
 SESSION_REPLAY_TAG = 'session-replay'
 PERFORMANCE_TAG = 'performance'
-ALL_TAGS = {
+ALL_TAGS = [
     FINGERPRINTING_TAG,
     CRYPTOMINING_TAG,
     SESSION_REPLAY_TAG,
     PERFORMANCE_TAG
-}
+]
 
 parser = argparse.ArgumentParser(description='Verify json files for shavar.')
 parser.add_argument("-f", "--file", help="filename to verify")
