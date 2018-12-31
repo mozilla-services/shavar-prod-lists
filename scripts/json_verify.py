@@ -116,6 +116,26 @@ def find_uris(categories_json):
                         ]
                     }
                 },
+                {
+                    "Example Fingerprinter": {
+                        "http://example.com/": [
+                            "example.com",
+                            "fingerprinting.example"
+                        ],
+                        "fingerprinting": "true"
+                    }
+                },
+                {
+                    "The Best Tracker LLC": {
+                        "http://tracker.example/": [
+                            "tracker.example",
+                            ...
+                        ],
+                        "fingerprinting": "true",
+                        "cryptominer": "true"
+                    }
+                },
+                ...
             ]
             ...
         }
