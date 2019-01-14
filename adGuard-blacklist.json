@@ -738,9 +738,10 @@
     }
    },
    {
-    "amazonaws.com/cp4pox": {
-     "amazonaws.com/cp4pox": [
-      "amazonaws.com/cp4pox"
+    "amazonaws.com": {
+     "amazonaws.com": [
+      "amazonaws.com/cp4pox",
+      "amazonaws.com"
      ]
     }
    },
@@ -773,8 +774,8 @@
     }
    },
    {
-    "dsp.batmobil.net/ads-dsp": {
-     "dsp.batmobil.net/ads-dsp": [
+    "dsp.batmobil.net": {
+     "dsp.batmobil.net": [
       "dsp.batmobil.net/ads-dsp"
      ]
     }
@@ -2866,15 +2867,9 @@
     }
    },
    {
-    "api.adflake.com/custom": {
-     "api.adflake.com/custom": [
-      "api.adflake.com/custom"
-     ]
-    }
-   },
-   {
     "api.adflake.com": {
      "api.adflake.com": [
+      "api.adflake.com/custom",
       "api.adflake.com"
      ]
     }
@@ -2887,16 +2882,10 @@
     }
    },
    {
-    "api.appodeal.com/show": {
-     "api.appodeal.com/show": [
+    "api.appodeal.com": {
+     "api.appodeal.com": [
+      "api.appodeal.com/stats",
       "api.appodeal.com/show"
-     ]
-    }
-   },
-   {
-    "api.appodeal.com/stats": {
-     "api.appodeal.com/stats": [
-      "api.appodeal.com/stats"
      ]
     }
    },
@@ -2971,8 +2960,8 @@
     }
    },
    {
-    "applift.com/empty": {
-     "applift.com/empty": [
+    "applift.com": {
+     "applift.com": [
       "applift.com/empty"
      ]
     }
@@ -4049,8 +4038,8 @@
     }
    },
    {
-    "imwx.com/mobile/adconfig/": {
-     "imwx.com/mobile/adconfig/": [
+    "imwx.com": {
+     "imwx.com": [
       "imwx.com/mobile/adconfig/"
      ]
     }
@@ -5186,13 +5175,6 @@
     "postrelease.com": {
      "postrelease.com": [
       "postrelease.com"
-     ]
-    }
-   },
-   {
-    "amazonaws.com": {
-     "amazonaws.com": [
-      "amazonaws.com"
      ]
     }
    },

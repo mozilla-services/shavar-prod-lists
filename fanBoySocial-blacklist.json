@@ -38,15 +38,15 @@
     }
    },
    {
-    "angel.co/embed/button.html": {
-     "angel.co/embed/button.html": [
+    "angel.co": {
+     "angel.co": [
       "angel.co/embed/button.html"
      ]
     }
    },
    {
-    "api-read.facebook.com/restserver.php?api_key=": {
-     "api-read.facebook.com/restserver.php?api_key=": [
+    "api-read.facebook.com": {
+     "api-read.facebook.com": [
       "api-read.facebook.com/restserver.php?api_key="
      ]
     }
@@ -75,42 +75,24 @@
    {
     "apis.google.com": {
      "apis.google.com": [
-      "apis.google.com"
-     ]
-    }
-   },
-   {
-    "apis.google.com/js/platform.js": {
-     "apis.google.com/js/platform.js": [
+      "apis.google.com",
       "apis.google.com/js/platform.js"
      ]
     }
    },
    {
-    "assets.pinterest.com/js/pinit.js": {
-     "assets.pinterest.com/js/pinit.js": [
+    "assets.pinterest.com": {
+     "assets.pinterest.com": [
+      "assets.pinterest.com/pidget.html",
       "assets.pinterest.com/js/pinit.js"
      ]
     }
    },
    {
-    "assets.pinterest.com/pidget.html": {
-     "assets.pinterest.com/pidget.html": [
-      "assets.pinterest.com/pidget.html"
-     ]
-    }
-   },
-   {
-    "assets.tumblr.com/assets/html/iframe/o.html": {
-     "assets.tumblr.com/assets/html/iframe/o.html": [
+    "assets.tumblr.com": {
+     "assets.tumblr.com": [
+      "assets.tumblr.com/assets/html/iframe/teaser.html?",
       "assets.tumblr.com/assets/html/iframe/o.html"
-     ]
-    }
-   },
-   {
-    "assets.tumblr.com/assets/html/iframe/teaser.html?": {
-     "assets.tumblr.com/assets/html/iframe/teaser.html?": [
-      "assets.tumblr.com/assets/html/iframe/teaser.html?"
      ]
     }
    },
@@ -129,8 +111,8 @@
     }
    },
    {
-    "badges.del.icio.us/feeds/": {
-     "badges.del.icio.us/feeds/": [
+    "badges.del.icio.us": {
+     "badges.del.icio.us": [
       "badges.del.icio.us/feeds/"
      ]
     }
@@ -143,8 +125,8 @@
     }
    },
    {
-    "bit.ly/TweetAndTrack.js": {
-     "bit.ly/TweetAndTrack.js": [
+    "bit.ly": {
+     "bit.ly": [
       "bit.ly/TweetAndTrack.js"
      ]
     }
@@ -157,8 +139,8 @@
     }
    },
    {
-    "bloglovin.com/widget/": {
-     "bloglovin.com/widget/": [
+    "bloglovin.com": {
+     "bloglovin.com": [
       "bloglovin.com/widget/"
      ]
     }
@@ -192,8 +174,8 @@
     }
    },
    {
-    "buttons.github.io/buttons.js": {
-     "buttons.github.io/buttons.js": [
+    "buttons.github.io": {
+     "buttons.github.io": [
       "buttons.github.io/buttons.js"
      ]
     }
@@ -215,6 +197,12 @@
    {
     "cloudfront.net": {
      "cloudfront.net": [
+      "cloudfront.net/facebookpage/",
+      "cloudfront.net/instagram/",
+      "cloudfront.net/facebook/",
+      "cloudfront.net/twitter/",
+      "cloudfront.net/linkedin/",
+      "cloudfront.net/googleplus/",
       "cloudfront.net"
      ]
     }
@@ -248,15 +236,15 @@
     }
    },
    {
-    "delicious.com/static/img/delicious.": {
-     "delicious.com/static/img/delicious.": [
+    "delicious.com": {
+     "delicious.com": [
       "delicious.com/static/img/delicious."
      ]
     }
    },
    {
-    "digg.com/img/badges/": {
-     "digg.com/img/badges/": [
+    "digg.com": {
+     "digg.com": [
       "digg.com/img/badges/"
      ]
     }
@@ -265,13 +253,6 @@
     "diggstatic.com": {
      "diggstatic.com": [
       "diggstatic.com"
-     ]
-    }
-   },
-   {
-    "vitorrent.org": {
-     "vitorrent.org": [
-      "encrypted-tbn2.gstatic.com/images?"
      ]
     }
    },
@@ -292,133 +273,25 @@
    {
     "facebook.com": {
      "facebook.com": [
-      "facebook.com"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/activity.php?": {
-     "facebook.com/plugins/activity.php?": [
-      "facebook.com/plugins/activity.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/facepile.php?": {
-     "facebook.com/plugins/facepile.php?": [
-      "facebook.com/plugins/facepile.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/fan.php?": {
-     "facebook.com/plugins/fan.php?": [
+      "facebook.com/plugins/facepile.php?",
+      "facebook.com/plugins/page.php?",
+      "facebook.com/whitepages/wpminiprofile.php",
+      "facebook.com/plugins/likebox/",
+      "facebook.com/widgets/fan.php?",
+      "facebook.com/plugins/send.php?",
+      "facebook.com/plugins/follow?",
+      "facebook.com/plugins/subscribe.php",
+      "facebook.com/plugins/recommendations.php?",
+      "facebook.com/widgets/recommendations.php?",
+      "facebook.com/plugins/follow.php",
+      "facebook.com/plugins/activity.php?",
+      "facebook.com",
+      "facebook.com/widgets/activity.php?",
+      "facebook.com/plugins/recommendations_bar.php?",
+      "facebook.com/plugins/save.php?",
+      "facebook.com/plugins/like_box.php",
+      "facebook.com/plugins/subscribe?",
       "facebook.com/plugins/fan.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/follow.php": {
-     "facebook.com/plugins/follow.php": [
-      "facebook.com/plugins/follow.php"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/follow?": {
-     "facebook.com/plugins/follow?": [
-      "facebook.com/plugins/follow?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/like_box.php": {
-     "facebook.com/plugins/like_box.php": [
-      "facebook.com/plugins/like_box.php"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/likebox/": {
-     "facebook.com/plugins/likebox/": [
-      "facebook.com/plugins/likebox/"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/page.php?": {
-     "facebook.com/plugins/page.php?": [
-      "facebook.com/plugins/page.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/recommendations.php?": {
-     "facebook.com/plugins/recommendations.php?": [
-      "facebook.com/plugins/recommendations.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/recommendations_bar.php?": {
-     "facebook.com/plugins/recommendations_bar.php?": [
-      "facebook.com/plugins/recommendations_bar.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/save.php?": {
-     "facebook.com/plugins/save.php?": [
-      "facebook.com/plugins/save.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/send.php?": {
-     "facebook.com/plugins/send.php?": [
-      "facebook.com/plugins/send.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/subscribe.php": {
-     "facebook.com/plugins/subscribe.php": [
-      "facebook.com/plugins/subscribe.php"
-     ]
-    }
-   },
-   {
-    "facebook.com/plugins/subscribe?": {
-     "facebook.com/plugins/subscribe?": [
-      "facebook.com/plugins/subscribe?"
-     ]
-    }
-   },
-   {
-    "facebook.com/whitepages/wpminiprofile.php": {
-     "facebook.com/whitepages/wpminiprofile.php": [
-      "facebook.com/whitepages/wpminiprofile.php"
-     ]
-    }
-   },
-   {
-    "facebook.com/widgets/activity.php?": {
-     "facebook.com/widgets/activity.php?": [
-      "facebook.com/widgets/activity.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/widgets/fan.php?": {
-     "facebook.com/widgets/fan.php?": [
-      "facebook.com/widgets/fan.php?"
-     ]
-    }
-   },
-   {
-    "facebook.com/widgets/recommendations.php?": {
-     "facebook.com/widgets/recommendations.php?": [
-      "facebook.com/widgets/recommendations.php?"
      ]
     }
    },
@@ -430,8 +303,8 @@
     }
    },
    {
-    "feedly.com/img/follows/": {
-     "feedly.com/img/follows/": [
+    "feedly.com": {
+     "feedly.com": [
       "feedly.com/img/follows/"
      ]
     }
@@ -458,15 +331,15 @@
     }
    },
    {
-    "flickr.com/badge_code_": {
-     "flickr.com/badge_code_": [
+    "flickr.com": {
+     "flickr.com": [
       "flickr.com/badge_code_"
      ]
     }
    },
    {
-    "flipboard.com/web/buttons/": {
-     "flipboard.com/web/buttons/": [
+    "flipboard.com": {
+     "flipboard.com": [
       "flipboard.com/web/buttons/"
      ]
     }
@@ -479,30 +352,24 @@
     }
    },
    {
-    "getpocket.com/button?": {
-     "getpocket.com/button?": [
+    "getpocket.com": {
+     "getpocket.com": [
       "getpocket.com/button?"
      ]
     }
    },
    {
-    "getsocial.io/widget/": {
-     "getsocial.io/widget/": [
+    "getsocial.io": {
+     "getsocial.io": [
       "getsocial.io/widget/"
-     ]
-    }
-   },
-   {
-    "google.com/_/+1/": {
-     "google.com/_/+1/": [
-      "google.com/_/+1/"
      ]
     }
    },
    {
     "google.com": {
      "google.com": [
-      "google.com"
+      "google.com",
+      "google.com/_/+1/"
      ]
     }
    },
@@ -514,8 +381,8 @@
     }
    },
    {
-    "graph.facebook.com/fql?q=SELECT": {
-     "graph.facebook.com/fql?q=SELECT": [
+    "graph.facebook.com": {
+     "graph.facebook.com": [
       "graph.facebook.com/fql?q=SELECT"
      ]
     }
@@ -528,15 +395,15 @@
     }
    },
    {
-    "hatena.ne.jp/entry/button/": {
-     "hatena.ne.jp/entry/button/": [
+    "hatena.ne.jp": {
+     "hatena.ne.jp": [
       "hatena.ne.jp/entry/button/"
      ]
     }
    },
    {
-    "herokuapp.com/button.html?": {
-     "herokuapp.com/button.html?": [
+    "herokuapp.com": {
+     "herokuapp.com": [
       "herokuapp.com/button.html?"
      ]
     }
@@ -549,15 +416,15 @@
     }
    },
    {
-    "houzz.com/buttonWidget?": {
-     "houzz.com/buttonWidget?": [
+    "houzz.com": {
+     "houzz.com": [
       "houzz.com/buttonWidget?"
      ]
     }
    },
    {
-    "iconosquare.com/widget.php": {
-     "iconosquare.com/widget.php": [
+    "iconosquare.com": {
+     "iconosquare.com": [
       "iconosquare.com/widget.php"
      ]
     }
@@ -584,15 +451,15 @@
     }
    },
    {
-    "intagme.com/in/?u=": {
-     "intagme.com/in/?u=": [
+    "intagme.com": {
+     "intagme.com": [
       "intagme.com/in/?u="
      ]
     }
    },
    {
-    "interestingnation.com/like.php": {
-     "interestingnation.com/like.php": [
+    "interestingnation.com": {
+     "interestingnation.com": [
       "interestingnation.com/like.php"
      ]
     }
@@ -605,15 +472,15 @@
     }
    },
    {
-    "jit.su/frame": {
-     "jit.su/frame": [
+    "jit.su": {
+     "jit.su": [
       "jit.su/frame"
      ]
     }
    },
    {
-    "karmacracy.com/widget": {
-     "karmacracy.com/widget": [
+    "karmacracy.com": {
+     "karmacracy.com": [
       "karmacracy.com/widget"
      ]
     }
@@ -640,30 +507,18 @@
     }
    },
    {
-    "line.me/js/line-button.js?": {
-     "line.me/js/line-button.js?": [
+    "line.me": {
+     "line.me": [
       "line.me/js/line-button.js?"
      ]
     }
    },
    {
-    "linkedin.com/countserv/": {
-     "linkedin.com/countserv/": [
+    "linkedin.com": {
+     "linkedin.com": [
+      "linkedin.com/img/",
+      "linkedin.com/uas/js/userspace?",
       "linkedin.com/countserv/"
-     ]
-    }
-   },
-   {
-    "linkedin.com/img/": {
-     "linkedin.com/img/": [
-      "linkedin.com/img/"
-     ]
-    }
-   },
-   {
-    "linkedin.com/uas/js/userspace?": {
-     "linkedin.com/uas/js/userspace?": [
-      "linkedin.com/uas/js/userspace?"
      ]
     }
    },
@@ -710,8 +565,8 @@
     }
    },
    {
-    "meerkatapp.co/btn/": {
-     "meerkatapp.co/btn/": [
+    "meerkatapp.co": {
+     "meerkatapp.co": [
       "meerkatapp.co/btn/"
      ]
     }
@@ -745,23 +600,11 @@
     }
    },
    {
-    "pinterest.com/images/": {
-     "pinterest.com/images/": [
-      "pinterest.com/images/"
-     ]
-    }
-   },
-   {
-    "pinterest.com/js/pinit_main.js": {
-     "pinterest.com/js/pinit_main.js": [
+    "pinterest.com": {
+     "pinterest.com": [
+      "pinterest.com/v1/urls/count.json",
+      "pinterest.com/images/",
       "pinterest.com/js/pinit_main.js"
-     ]
-    }
-   },
-   {
-    "pinterest.com/v1/urls/count.json": {
-     "pinterest.com/v1/urls/count.json": [
-      "pinterest.com/v1/urls/count.json"
      ]
     }
    },
@@ -794,22 +637,16 @@
     }
    },
    {
-    "platform.twitter.com/anywhere.js": {
-     "platform.twitter.com/anywhere.js": [
-      "platform.twitter.com/anywhere.js"
-     ]
-    }
-   },
-   {
-    "platform.twitter.com/js/button.": {
-     "platform.twitter.com/js/button.": [
+    "platform.twitter.com": {
+     "platform.twitter.com": [
+      "platform.twitter.com/anywhere.js",
       "platform.twitter.com/js/button."
      ]
     }
    },
    {
-    "plista.com/like.php": {
-     "plista.com/like.php": [
+    "plista.com": {
+     "plista.com": [
       "plista.com/like.php"
      ]
     }
@@ -829,8 +666,8 @@
     }
    },
    {
-    "po.st/static/": {
-     "po.st/static/": [
+    "po.st": {
+     "po.st": [
       "po.st/static/"
      ]
     }
@@ -850,57 +687,21 @@
     }
    },
    {
-    "reddit.com/api/info.json?": {
-     "reddit.com/api/info.json?": [
-      "reddit.com/api/info.json?"
-     ]
-    }
-   },
-   {
-    "reddit.com/button.js?": {
-     "reddit.com/button.js?": [
-      "reddit.com/button.js?"
-     ]
-    }
-   },
-   {
-    "reddit.com/buttonlite.js": {
-     "reddit.com/buttonlite.js": [
-      "reddit.com/buttonlite.js"
-     ]
-    }
-   },
-   {
-    "reddit.com/buttonlite?": {
-     "reddit.com/buttonlite?": [
+    "reddit.com": {
+     "reddit.com": [
+      "reddit.com/static/",
+      "reddit.com/button.js?",
+      "reddit.com/buttonlite.js",
+      "reddit.com",
+      "reddit.com/api/info.json?",
+      "reddit.com/domain/",
       "reddit.com/buttonlite?"
      ]
     }
    },
    {
-    "reddit.com/domain/": {
-     "reddit.com/domain/": [
-      "reddit.com/domain/"
-     ]
-    }
-   },
-   {
-    "reddit.com/static/": {
-     "reddit.com/static/": [
-      "reddit.com/static/"
-     ]
-    }
-   },
-   {
-    "reddit.com": {
-     "reddit.com": [
-      "reddit.com"
-     ]
-    }
-   },
-   {
-    "rp-api.com/rjs/repostus.js": {
-     "rp-api.com/rjs/repostus.js": [
+    "rp-api.com": {
+     "rp-api.com": [
       "rp-api.com/rjs/repostus.js"
      ]
     }
@@ -997,8 +798,8 @@
     }
    },
    {
-    "smartaddon.com/share_addon.js": {
-     "smartaddon.com/share_addon.js": [
+    "smartaddon.com": {
+     "smartaddon.com": [
       "smartaddon.com/share_addon.js"
      ]
     }
@@ -1018,8 +819,8 @@
     }
    },
    {
-    "socialhoney.co/widget/": {
-     "socialhoney.co/widget/": [
+    "socialhoney.co": {
+     "socialhoney.co": [
       "socialhoney.co/widget/"
      ]
     }
@@ -1067,15 +868,15 @@
     }
    },
    {
-    "spiceworks.com/share/": {
-     "spiceworks.com/share/": [
+    "spiceworks.com": {
+     "spiceworks.com": [
       "spiceworks.com/share/"
      ]
     }
    },
    {
-    "spotify.com/follow/": {
-     "spotify.com/follow/": [
+    "spotify.com": {
+     "spotify.com": [
       "spotify.com/follow/"
      ]
     }
@@ -1088,16 +889,10 @@
     }
    },
    {
-    "statigr.am/widget.php": {
-     "statigr.am/widget.php": [
-      "statigr.am/widget.php"
-     ]
-    }
-   },
-   {
     "statigr.am": {
      "statigr.am": [
-      "statigr.am"
+      "statigr.am",
+      "statigr.am/widget.php"
      ]
     }
    },
@@ -1118,35 +913,24 @@
    {
     "store.yahoo.net": {
      "store.yahoo.net": [
-      "store.yahoo.net"
+      "store.yahoo.net",
+      "store.yahoo.net/lib/directron/icons-test02.jpg"
      ]
     }
    },
    {
-    "storeya.com/externalscript/": {
-     "storeya.com/externalscript/": [
+    "storeya.com": {
+     "storeya.com": [
       "storeya.com/externalscript/"
      ]
     }
    },
    {
-    "stumbleupon.com/badge/": {
-     "stumbleupon.com/badge/": [
+    "stumbleupon.com": {
+     "stumbleupon.com": [
+      "stumbleupon.com/hostedbadge",
+      "stumbleupon.com/services/",
       "stumbleupon.com/badge/"
-     ]
-    }
-   },
-   {
-    "stumbleupon.com/hostedbadge": {
-     "stumbleupon.com/hostedbadge": [
-      "stumbleupon.com/hostedbadge"
-     ]
-    }
-   },
-   {
-    "stumbleupon.com/services/": {
-     "stumbleupon.com/services/": [
-      "stumbleupon.com/services/"
      ]
     }
    },
@@ -1158,8 +942,8 @@
     }
    },
    {
-    "syndication.twimg.com/widgets/": {
-     "syndication.twimg.com/widgets/": [
+    "syndication.twimg.com": {
+     "syndication.twimg.com": [
       "syndication.twimg.com/widgets/"
      ]
     }
@@ -1244,28 +1028,10 @@
    {
     "twitter.com": {
      "twitter.com": [
-      "twitter.com"
-     ]
-    }
-   },
-   {
-    "twitter.com/account/": {
-     "twitter.com/account/": [
-      "twitter.com/account/"
-     ]
-    }
-   },
-   {
-    "twitter.com/i/jot": {
-     "twitter.com/i/jot": [
+      "twitter.com/javascripts/",
+      "twitter.com",
+      "twitter.com/account/",
       "twitter.com/i/jot"
-     ]
-    }
-   },
-   {
-    "twitter.com/javascripts/": {
-     "twitter.com/javascripts/": [
-      "twitter.com/javascripts/"
      ]
     }
    },
@@ -1312,51 +1078,21 @@
     }
    },
    {
-    "vk.com/share.php?": {
-     "vk.com/share.php?": [
-      "vk.com/share.php?"
-     ]
-    }
-   },
-   {
-    "vk.com/widget_community.php": {
-     "vk.com/widget_community.php": [
+    "vk.com": {
+     "vk.com": [
+      "vk.com/widget_community_messages.php?",
+      "vk.com/share.php?",
+      "vk.com/widget_like.php",
       "vk.com/widget_community.php"
      ]
     }
    },
    {
-    "vk.com/widget_community_messages.php?": {
-     "vk.com/widget_community_messages.php?": [
-      "vk.com/widget_community_messages.php?"
-     ]
-    }
-   },
-   {
-    "vk.com/widget_like.php": {
-     "vk.com/widget_like.php": [
-      "vk.com/widget_like.php"
-     ]
-    }
-   },
-   {
-    "vkontakte.ru/share.php?": {
-     "vkontakte.ru/share.php?": [
-      "vkontakte.ru/share.php?"
-     ]
-    }
-   },
-   {
-    "vkontakte.ru/widget_community.php": {
-     "vkontakte.ru/widget_community.php": [
+    "vkontakte.ru": {
+     "vkontakte.ru": [
+      "vkontakte.ru/widget_like.php",
+      "vkontakte.ru/share.php?",
       "vkontakte.ru/widget_community.php"
-     ]
-    }
-   },
-   {
-    "vkontakte.ru/widget_like.php": {
-     "vkontakte.ru/widget_like.php": [
-      "vkontakte.ru/widget_like.php"
      ]
     }
    },
@@ -1368,23 +1104,11 @@
     }
    },
    {
-    "vuukle.com/widgets/emotes.html": {
-     "vuukle.com/widgets/emotes.html": [
-      "vuukle.com/widgets/emotes.html"
-     ]
-    }
-   },
-   {
-    "vuukle.com/widgets/powerbar.html": {
-     "vuukle.com/widgets/powerbar.html": [
+    "vuukle.com": {
+     "vuukle.com": [
+      "vuukle.com/widgets/emotes.html",
+      "vuukle.com/widgets/powerbar/",
       "vuukle.com/widgets/powerbar.html"
-     ]
-    }
-   },
-   {
-    "vuukle.com/widgets/powerbar/": {
-     "vuukle.com/widgets/powerbar/": [
-      "vuukle.com/widgets/powerbar/"
      ]
     }
    },
@@ -1403,22 +1127,23 @@
     }
    },
    {
-    "weibo.com/staticjs/weiboshare.html": {
-     "weibo.com/staticjs/weiboshare.html": [
+    "weibo.com": {
+     "weibo.com": [
       "weibo.com/staticjs/weiboshare.html"
      ]
     }
    },
    {
-    "wer-kennt-wen.de/js/widgets/external/": {
-     "wer-kennt-wen.de/js/widgets/external/": [
+    "wer-kennt-wen.de": {
+     "wer-kennt-wen.de": [
       "wer-kennt-wen.de/js/widgets/external/"
      ]
     }
    },
    {
-    "werkenntwen.de/images/empfehlen_buttons/": {
-     "werkenntwen.de/images/empfehlen_buttons/": [
+    "werkenntwen.de": {
+     "werkenntwen.de": [
+      "werkenntwen.de/images/buttons/",
       "werkenntwen.de/images/empfehlen_buttons/"
      ]
     }
@@ -1487,15 +1212,15 @@
     }
    },
    {
-    "widgets.wp.com/likes/": {
-     "widgets.wp.com/likes/": [
+    "widgets.wp.com": {
+     "widgets.wp.com": [
       "widgets.wp.com/likes/"
      ]
     }
    },
    {
-    "wykop.pl/dataprovider/diggerwidget/": {
-     "wykop.pl/dataprovider/diggerwidget/": [
+    "wykop.pl": {
+     "wykop.pl": [
       "wykop.pl/dataprovider/diggerwidget/"
      ]
     }
@@ -1508,22 +1233,16 @@
     }
    },
    {
-    "xing.com/img/buttons/": {
-     "xing.com/img/buttons/": [
+    "xing.com": {
+     "xing.com": [
       "xing.com/img/buttons/"
      ]
     }
    },
    {
-    "youtube.com/subscribe_embed?": {
-     "youtube.com/subscribe_embed?": [
-      "youtube.com/subscribe_embed?"
-     ]
-    }
-   },
-   {
-    "youtube.com/subscribe_widget": {
-     "youtube.com/subscribe_widget": [
+    "youtube.com": {
+     "youtube.com": [
+      "youtube.com/subscribe_embed?",
       "youtube.com/subscribe_widget"
      ]
     }
@@ -1536,29 +1255,29 @@
     }
    },
    {
-    "zextit.com/partners/": {
-     "zextit.com/partners/": [
+    "zextit.com": {
+     "zextit.com": [
       "zextit.com/partners/"
      ]
     }
    },
    {
-    "3dmark.com/proxycon/images/front-some-fb.png": {
-     "3dmark.com/proxycon/images/front-some-fb.png": [
+    "3dmark.com": {
+     "3dmark.com": [
       "3dmark.com/proxycon/images/front-some-fb.png"
      ]
     }
    },
    {
-    "5movies.to/share.php": {
-     "5movies.to/share.php": [
+    "5movies.to": {
+     "5movies.to": [
       "5movies.to/share.php"
      ]
     }
    },
    {
-    "76.my/Auc/": {
-     "76.my/Auc/": [
+    "76.my": {
+     "76.my": [
       "76.my/Auc/"
      ]
     }
@@ -1578,15 +1297,9 @@
     }
    },
    {
-    "ana.net/contentimage/genicon/facebook.png": {
-     "ana.net/contentimage/genicon/facebook.png": [
-      "ana.net/contentimage/genicon/facebook.png"
-     ]
-    }
-   },
-   {
-    "ana.net/contentimage/genicon/twitter.png": {
-     "ana.net/contentimage/genicon/twitter.png": [
+    "ana.net": {
+     "ana.net": [
+      "ana.net/contentimage/genicon/facebook.png",
       "ana.net/contentimage/genicon/twitter.png"
      ]
     }
@@ -1634,78 +1347,29 @@
     }
    },
    {
-    "burntorangereport.com/upload/scripts/popup.js": {
-     "burntorangereport.com/upload/scripts/popup.js": [
+    "burntorangereport.com": {
+     "burntorangereport.com": [
       "burntorangereport.com/upload/scripts/popup.js"
      ]
     }
    },
    {
-    "bwwstatic.com/socialtop": {
-     "bwwstatic.com/socialtop": [
+    "bwwstatic.com": {
+     "bwwstatic.com": [
       "bwwstatic.com/socialtop"
      ]
     }
    },
    {
-    "chicagotribune.com/sn.php": {
-     "chicagotribune.com/sn.php": [
+    "chicagotribune.com": {
+     "chicagotribune.com": [
       "chicagotribune.com/sn.php"
      ]
     }
    },
    {
-    "dxracer.com": {
-     "dxracer.com": [
-      "cloudfront.net/bluebar/67bec96/images/ico/apple-touch-icon-precomposed.png"
-     ]
-    }
-   },
-   {
-    "cloudfront.net/facebook/": {
-     "cloudfront.net/facebook/": [
-      "cloudfront.net/facebook/"
-     ]
-    }
-   },
-   {
-    "cloudfront.net/facebookpage/": {
-     "cloudfront.net/facebookpage/": [
-      "cloudfront.net/facebookpage/"
-     ]
-    }
-   },
-   {
-    "cloudfront.net/googleplus/": {
-     "cloudfront.net/googleplus/": [
-      "cloudfront.net/googleplus/"
-     ]
-    }
-   },
-   {
-    "cloudfront.net/instagram/": {
-     "cloudfront.net/instagram/": [
-      "cloudfront.net/instagram/"
-     ]
-    }
-   },
-   {
-    "cloudfront.net/linkedin/": {
-     "cloudfront.net/linkedin/": [
-      "cloudfront.net/linkedin/"
-     ]
-    }
-   },
-   {
-    "cloudfront.net/twitter/": {
-     "cloudfront.net/twitter/": [
-      "cloudfront.net/twitter/"
-     ]
-    }
-   },
-   {
-    "cnet.com/rest/v1.0/tweets/": {
-     "cnet.com/rest/v1.0/tweets/": [
+    "cnet.com": {
+     "cnet.com": [
       "cnet.com/rest/v1.0/tweets/"
      ]
     }
@@ -1718,50 +1382,43 @@
     }
    },
    {
-    "dailykostv.com/digg.html": {
-     "dailykostv.com/digg.html": [
+    "dailykostv.com": {
+     "dailykostv.com": [
       "dailykostv.com/digg.html"
      ]
     }
    },
    {
-    "informationweek.com": {
-     "informationweek.com": [
-      "deusm.com"
-     ]
-    }
-   },
-   {
-    "enjin.com/images/layout/footer-icons.png": {
-     "enjin.com/images/layout/footer-icons.png": [
+    "enjin.com": {
+     "enjin.com": [
       "enjin.com/images/layout/footer-icons.png"
      ]
     }
    },
    {
-    "eurotrucksimulator2.com/images/logo_blog.png": {
-     "eurotrucksimulator2.com/images/logo_blog.png": [
+    "eurotrucksimulator2.com": {
+     "eurotrucksimulator2.com": [
       "eurotrucksimulator2.com/images/logo_blog.png"
      ]
     }
    },
    {
-    "feedsportal.com/images/bookmark.gif": {
-     "feedsportal.com/images/bookmark.gif": [
+    "feedsportal.com": {
+     "feedsportal.com": [
       "feedsportal.com/images/bookmark.gif"
      ]
     }
    },
    {
-    "file025.com/images_mega/ico_tr.png": {
-     "file025.com/images_mega/ico_tr.png": [
+    "file025.com": {
+     "file025.com": [
       "file025.com/images_mega/ico_tr.png"
      ]
     }
    },
    {
-    "freehostinghero.com/img/tw.png": {
-     "freehostinghero.com/img/tw.png": [
+    "freehostinghero.com": {
+     "freehostinghero.com": [
       "freehostinghero.com/img/tw.png"
      ]
     }
@@ -1795,141 +1452,91 @@
     }
    },
    {
-    "huffingtonpost.com/images/bookmarking/": {
-     "huffingtonpost.com/images/bookmarking/": [
+    "huffingtonpost.com": {
+     "huffingtonpost.com": [
       "huffingtonpost.com/images/bookmarking/"
      ]
     }
    },
    {
-    "hulkshare.com/facebox.html": {
-     "hulkshare.com/facebox.html": [
+    "hulkshare.com": {
+     "hulkshare.com": [
       "hulkshare.com/facebox.html"
      ]
     }
    },
    {
-    "impactloud.com/img/follow.png": {
-     "impactloud.com/img/follow.png": [
+    "impactloud.com": {
+     "impactloud.com": [
       "impactloud.com/img/follow.png"
      ]
     }
    },
    {
-    "itsmyurls.com/links/": {
-     "itsmyurls.com/links/": [
+    "itsmyurls.com": {
+     "itsmyurls.com": [
       "itsmyurls.com/links/"
      ]
     }
    },
    {
-    "kuwaittimes.net/fb.": {
-     "kuwaittimes.net/fb.": [
-      "kuwaittimes.net/fb."
-     ]
-    }
-   },
-   {
-    "kuwaittimes.net/in.": {
-     "kuwaittimes.net/in.": [
-      "kuwaittimes.net/in."
-     ]
-    }
-   },
-   {
-    "kuwaittimes.net/tw.": {
-     "kuwaittimes.net/tw.": [
+    "kuwaittimes.net": {
+     "kuwaittimes.net": [
+      "kuwaittimes.net/fb.",
+      "kuwaittimes.net/yt.",
+      "kuwaittimes.net/in.",
       "kuwaittimes.net/tw."
      ]
     }
    },
    {
-    "kuwaittimes.net/yt.": {
-     "kuwaittimes.net/yt.": [
-      "kuwaittimes.net/yt."
-     ]
-    }
-   },
-   {
-    "linkis.com/ajax/get-popup-html": {
-     "linkis.com/ajax/get-popup-html": [
+    "linkis.com": {
+     "linkis.com": [
       "linkis.com/ajax/get-popup-html"
      ]
     }
    },
    {
-    "livescience.com/likebar.php": {
-     "livescience.com/likebar.php": [
+    "livescience.com": {
+     "livescience.com": [
+      "livescience.com/social.php",
       "livescience.com/likebar.php"
      ]
     }
    },
    {
-    "livescience.com/social.php": {
-     "livescience.com/social.php": [
-      "livescience.com/social.php"
-     ]
-    }
-   },
-   {
-    "marketingsherpa.com/Zlatko/facebook.jpg": {
-     "marketingsherpa.com/Zlatko/facebook.jpg": [
+    "marketingsherpa.com": {
+     "marketingsherpa.com": [
+      "marketingsherpa.com/Zlatko/in.jpg",
       "marketingsherpa.com/Zlatko/facebook.jpg"
      ]
     }
    },
    {
-    "marketingsherpa.com/Zlatko/in.jpg": {
-     "marketingsherpa.com/Zlatko/in.jpg": [
-      "marketingsherpa.com/Zlatko/in.jpg"
-     ]
-    }
-   },
-   {
-    "imdb.com": {
-     "imdb.com": [
-      "media-imdb.com"
-     ]
-    }
-   },
-   {
-    "moltenusa.com/images/com_connecton.gif": {
-     "moltenusa.com/images/com_connecton.gif": [
+    "moltenusa.com": {
+     "moltenusa.com": [
       "moltenusa.com/images/com_connecton.gif"
      ]
     }
    },
    {
-    "monova.org/ajax/get_lightbox_content": {
-     "monova.org/ajax/get_lightbox_content": [
+    "monova.org": {
+     "monova.org": [
       "monova.org/ajax/get_lightbox_content"
      ]
     }
    },
    {
-    "mybetting.co.uk/facebook.png": {
-     "mybetting.co.uk/facebook.png": [
-      "mybetting.co.uk/facebook.png"
-     ]
-    }
-   },
-   {
-    "mybetting.co.uk/twitter.png": {
-     "mybetting.co.uk/twitter.png": [
+    "mybetting.co.uk": {
+     "mybetting.co.uk": [
+      "mybetting.co.uk/facebook.png",
       "mybetting.co.uk/twitter.png"
      ]
     }
    },
    {
-    "edmsauce.com": {
-     "edmsauce.com": [
-      "netdna-cdn.com"
-     ]
-    }
-   },
-   {
-    "newsarama.com/social.php": {
-     "newsarama.com/social.php": [
+    "newsarama.com": {
+     "newsarama.com": [
       "newsarama.com/social.php"
      ]
     }
@@ -1949,15 +1556,15 @@
     }
    },
    {
-    "presstv.ir/images/sn_": {
-     "presstv.ir/images/sn_": [
+    "presstv.ir": {
+     "presstv.ir": [
       "presstv.ir/images/sn_"
      ]
     }
    },
    {
-    "rackcdn.com/Instagram/": {
-     "rackcdn.com/Instagram/": [
+    "rackcdn.com": {
+     "rackcdn.com": [
       "rackcdn.com/Instagram/"
      ]
     }
@@ -1970,36 +1577,30 @@
     }
    },
    {
-    "schwalbe.co.uk/_webedit/cached-images/172-37-38-0-0-37-38": {
-     "schwalbe.co.uk/_webedit/cached-images/172-37-38-0-0-37-38": [
+    "schwalbe.co.uk": {
+     "schwalbe.co.uk": [
+      "schwalbe.co.uk/_webedit/cached-images/174-37-38-0-0-37-38",
       "schwalbe.co.uk/_webedit/cached-images/172-37-38-0-0-37-38"
      ]
     }
    },
    {
-    "schwalbe.co.uk/_webedit/cached-images/174-37-38-0-0-37-38": {
-     "schwalbe.co.uk/_webedit/cached-images/174-37-38-0-0-37-38": [
-      "schwalbe.co.uk/_webedit/cached-images/174-37-38-0-0-37-38"
-     ]
-    }
-   },
-   {
-    "seocentro.com/bookmark/": {
-     "seocentro.com/bookmark/": [
+    "seocentro.com": {
+     "seocentro.com": [
       "seocentro.com/bookmark/"
      ]
     }
    },
    {
-    "sheknows.com/api/module?id=follow_social": {
-     "sheknows.com/api/module?id=follow_social": [
+    "sheknows.com": {
+     "sheknows.com": [
       "sheknows.com/api/module?id=follow_social"
      ]
     }
    },
    {
-    "shine.cn/js/share.js": {
-     "shine.cn/js/share.js": [
+    "shine.cn": {
+     "shine.cn": [
       "shine.cn/js/share.js"
      ]
     }
@@ -2012,16 +1613,9 @@
     }
    },
    {
-    "sourceforge.net/social/": {
-     "sourceforge.net/social/": [
+    "sourceforge.net": {
+     "sourceforge.net": [
       "sourceforge.net/social/"
-     ]
-    }
-   },
-   {
-    "store.yahoo.net/lib/directron/icons-test02.jpg": {
-     "store.yahoo.net/lib/directron/icons-test02.jpg": [
-      "store.yahoo.net/lib/directron/icons-test02.jpg"
      ]
     }
    },
@@ -2033,23 +1627,11 @@
     }
    },
    {
-    "theecologist.org/siteimage/scale/0/0/132471.gif": {
-     "theecologist.org/siteimage/scale/0/0/132471.gif": [
-      "theecologist.org/siteimage/scale/0/0/132471.gif"
-     ]
-    }
-   },
-   {
-    "theecologist.org/siteimage/scale/0/0/132472.gif": {
-     "theecologist.org/siteimage/scale/0/0/132472.gif": [
+    "theecologist.org": {
+     "theecologist.org": [
+      "theecologist.org/siteimage/scale/0/0/132471.gif",
+      "theecologist.org/siteimage/scale/0/0/132473.gif",
       "theecologist.org/siteimage/scale/0/0/132472.gif"
-     ]
-    }
-   },
-   {
-    "theecologist.org/siteimage/scale/0/0/132473.gif": {
-     "theecologist.org/siteimage/scale/0/0/132473.gif": [
-      "theecologist.org/siteimage/scale/0/0/132473.gif"
      ]
     }
    },
@@ -2061,22 +1643,22 @@
     }
    },
    {
-    "vidyarthiplus.com/js/launch.js": {
-     "vidyarthiplus.com/js/launch.js": [
+    "vidyarthiplus.com": {
+     "vidyarthiplus.com": [
       "vidyarthiplus.com/js/launch.js"
      ]
     }
    },
    {
-    "webopedia.com/img/header_icon_google.png": {
-     "webopedia.com/img/header_icon_google.png": [
+    "webopedia.com": {
+     "webopedia.com": [
       "webopedia.com/img/header_icon_google.png"
      ]
     }
    },
    {
-    "winhelponline.com/facebook.png": {
-     "winhelponline.com/facebook.png": [
+    "winhelponline.com": {
+     "winhelponline.com": [
       "winhelponline.com/facebook.png"
      ]
     }
@@ -2085,45 +1667,6 @@
     "wordpress.com": {
      "wordpress.com": [
       "wordpress.com"
-     ]
-    }
-   },
-   {
-    "thewatchseries.to": {
-     "thewatchseries.to": [
-      "facebook.com",
-      "addthis.com"
-     ]
-    }
-   },
-   {
-    "tellows.de": {
-     "tellows.de": [
-      "facebook.com/plugins/like.php"
-     ]
-    }
-   },
-   {
-    "autobild.de": {
-     "autobild.de": [
-      "google.com"
-     ]
-    }
-   },
-   {
-    "focus.de": {
-     "focus.de": [
-      "assets.pinterest.com/js/pinit.js",
-      "platform.twitter.com/js/button.",
-      "pinterest.com/images/",
-      "xing-share.com"
-     ]
-    }
-   },
-   {
-    "kabeleins.de": {
-     "kabeleins.de": [
-      "twitter.com/js/timeline."
      ]
     }
    },
@@ -2149,50 +1692,13 @@
     }
    },
    {
-    "werkenntwen.de/images/buttons/": {
-     "werkenntwen.de/images/buttons/": [
-      "werkenntwen.de/images/buttons/"
-     ]
-    }
-   },
-   {
-    "draugiem.lv/business/ext/fans/": {
-     "draugiem.lv/business/ext/fans/": [
-      "draugiem.lv/business/ext/fans/"
-     ]
-    }
-   },
-   {
-    "draugiem.lv/business/ext/follow/": {
-     "draugiem.lv/business/ext/follow/": [
-      "draugiem.lv/business/ext/follow/"
-     ]
-    }
-   },
-   {
-    "draugiem.lv/lapas/widgets/": {
-     "draugiem.lv/lapas/widgets/": [
-      "draugiem.lv/lapas/widgets/"
-     ]
-    }
-   },
-   {
-    "draugiem.lv/say/ext/like.php": {
-     "draugiem.lv/say/ext/like.php": [
-      "draugiem.lv/say/ext/like.php"
-     ]
-    }
-   },
-   {
-    "draugiem.lv/say/ext/recommend.php": {
-     "draugiem.lv/say/ext/recommend.php": [
-      "draugiem.lv/say/ext/recommend.php"
-     ]
-    }
-   },
-   {
     "draugiem.lv": {
      "draugiem.lv": [
+      "draugiem.lv/say/ext/recommend.php",
+      "draugiem.lv/say/ext/like.php",
+      "draugiem.lv/lapas/widgets/",
+      "draugiem.lv/business/ext/follow/",
+      "draugiem.lv/business/ext/fans/",
       "draugiem.lv"
      ]
     }
@@ -2205,15 +1711,15 @@
     }
    },
    {
-    "cts.com.tw/images/bot_": {
-     "cts.com.tw/images/bot_": [
+    "cts.com.tw": {
+     "cts.com.tw": [
       "cts.com.tw/images/bot_"
      ]
     }
    },
    {
-    "getjoys.com/js/popup.js?v=": {
-     "getjoys.com/js/popup.js?v=": [
+    "getjoys.com": {
+     "getjoys.com": [
       "getjoys.com/js/popup.js?v="
      ]
     }
@@ -2226,8 +1732,8 @@
     }
    },
    {
-    "mingpao.com/image/sms.gif": {
-     "mingpao.com/image/sms.gif": [
+    "mingpao.com": {
+     "mingpao.com": [
       "mingpao.com/image/sms.gif"
      ]
     }
@@ -2240,22 +1746,22 @@
     }
    },
    {
-    "plugins.mixi.jp/favorite.pl?": {
-     "plugins.mixi.jp/favorite.pl?": [
+    "plugins.mixi.jp": {
+     "plugins.mixi.jp": [
       "plugins.mixi.jp/favorite.pl?"
      ]
     }
    },
    {
-    "apfel-faq.de/name.js": {
-     "apfel-faq.de/name.js": [
+    "apfel-faq.de": {
+     "apfel-faq.de": [
       "apfel-faq.de/name.js"
      ]
     }
    },
    {
-    "auto-motor-und-sport.de/img/google.svg": {
-     "auto-motor-und-sport.de/img/google.svg": [
+    "auto-motor-und-sport.de": {
+     "auto-motor-und-sport.de": [
       "auto-motor-und-sport.de/img/google.svg"
      ]
     }
@@ -2282,29 +1788,29 @@
     }
    },
    {
-    "dict.cc/img/fbplus1.png": {
-     "dict.cc/img/fbplus1.png": [
+    "dict.cc": {
+     "dict.cc": [
       "dict.cc/img/fbplus1.png"
      ]
     }
    },
    {
-    "die-kopie.info/bilder/facebook.png": {
-     "die-kopie.info/bilder/facebook.png": [
+    "die-kopie.info": {
+     "die-kopie.info": [
       "die-kopie.info/bilder/facebook.png"
      ]
     }
    },
    {
-    "nibelungenkurier.de/t-ticker/": {
-     "nibelungenkurier.de/t-ticker/": [
+    "nibelungenkurier.de": {
+     "nibelungenkurier.de": [
       "nibelungenkurier.de/t-ticker/"
      ]
     }
    },
    {
-    "rtl.de/fb/": {
-     "rtl.de/fb/": [
+    "rtl.de": {
+     "rtl.de": [
       "rtl.de/fb/"
      ]
     }
@@ -2317,78 +1823,45 @@
     }
    },
    {
-    "winfuture.de": {
-     "winfuture.de": [
-      "widgets.getsitecontrol.com"
-     ]
-    }
-   },
-   {
-    "gamestar.de": {
-     "gamestar.de": [
-      "facebook.com/plugins/like.php?"
-     ]
-    }
-   },
-   {
-    "woxikon.de": {
-     "woxikon.de": [
-      "facebook.com/plugins/likebox.php"
-     ]
-    }
-   },
-   {
-    "sanoma.nl/media/static/images/icon_zienl.png": {
-     "sanoma.nl/media/static/images/icon_zienl.png": [
+    "sanoma.nl": {
+     "sanoma.nl": [
       "sanoma.nl/media/static/images/icon_zienl.png"
      ]
     }
    },
    {
-    "spynews.ro/templates/default/img/face.png": {
-     "spynews.ro/templates/default/img/face.png": [
+    "spynews.ro": {
+     "spynews.ro": [
       "spynews.ro/templates/default/img/face.png"
      ]
     }
    },
    {
-    "nioutaik.fr/themes/freshy/images/facedebouc.gif": {
-     "nioutaik.fr/themes/freshy/images/facedebouc.gif": [
-      "nioutaik.fr/themes/freshy/images/facedebouc.gif"
-     ]
-    }
-   },
-   {
-    "nioutaik.fr/themes/freshy/images/googlepeuluss.gif": {
-     "nioutaik.fr/themes/freshy/images/googlepeuluss.gif": [
-      "nioutaik.fr/themes/freshy/images/googlepeuluss.gif"
-     ]
-    }
-   },
-   {
-    "nioutaik.fr/themes/freshy/images/zoiseau.gif": {
-     "nioutaik.fr/themes/freshy/images/zoiseau.gif": [
+    "nioutaik.fr": {
+     "nioutaik.fr": [
+      "nioutaik.fr/themes/freshy/images/facedebouc.gif",
+      "nioutaik.fr/themes/freshy/images/googlepeuluss.gif",
       "nioutaik.fr/themes/freshy/images/zoiseau.gif"
      ]
     }
    },
    {
-    "nouvelobs.com/social/": {
-     "nouvelobs.com/social/": [
+    "nouvelobs.com": {
+     "nouvelobs.com": [
       "nouvelobs.com/social/"
      ]
     }
    },
    {
-    "nrj-play.fr/js/social.js": {
-     "nrj-play.fr/js/social.js": [
+    "nrj-play.fr": {
+     "nrj-play.fr": [
       "nrj-play.fr/js/social.js"
      ]
     }
    },
    {
-    "calciomercato.it/img/notizie/social/": {
-     "calciomercato.it/img/notizie/social/": [
+    "calciomercato.it": {
+     "calciomercato.it": [
       "calciomercato.it/img/notizie/social/"
      ]
     }
@@ -2401,8 +1874,8 @@
     }
    },
    {
-    "ilquotidianodellazio.it/img/mi-piace-": {
-     "ilquotidianodellazio.it/img/mi-piace-": [
+    "ilquotidianodellazio.it": {
+     "ilquotidianodellazio.it": [
       "ilquotidianodellazio.it/img/mi-piace-"
      ]
     }
@@ -2415,8 +1888,8 @@
     }
    },
    {
-    "tn-sport.net/like/": {
-     "tn-sport.net/like/": [
+    "tn-sport.net": {
+     "tn-sport.net": [
       "tn-sport.net/like/"
      ]
     }

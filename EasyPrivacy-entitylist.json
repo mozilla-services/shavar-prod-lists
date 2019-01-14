@@ -281,12 +281,10 @@
  },
  "3gl.net": {
   "properties": [
-   "3gl.net",
-   "stern.de"
+   "3gl.net"
   ],
   "resources": [
-   "3gl.net",
-   "stern.de"
+   "3gl.net"
   ]
  },
  "40nuggets.com": {
@@ -2203,12 +2201,10 @@
  },
  "babator.com": {
   "properties": [
-   "babator.com",
-   "focus.de"
+   "babator.com"
   ],
   "resources": [
-   "babator.com",
-   "focus.de"
+   "babator.com"
   ]
  },
  "bam-x.com": {
@@ -2709,13 +2705,9 @@
  },
  "bluekai.com": {
   "properties": [
-   "widgets.outbrain.com",
-   "disqus.com",
    "bluekai.com"
   ],
   "resources": [
-   "widgets.outbrain.com",
-   "disqus.com",
    "bluekai.com"
   ]
  },
@@ -3441,17 +3433,9 @@
  },
  "chartbeat.com": {
   "properties": [
-   "prosieben.at",
-   "prosieben.ch",
-   "prosieben.de",
-   "stern.de",
    "chartbeat.com"
   ],
   "resources": [
-   "prosieben.at",
-   "prosieben.ch",
-   "prosieben.de",
-   "stern.de",
    "chartbeat.com"
   ]
  },
@@ -3809,12 +3793,10 @@
  },
  "clicktale.net": {
   "properties": [
-   "clicktale.net",
-   "focus.de"
+   "clicktale.net"
   ],
   "resources": [
-   "clicktale.net",
-   "focus.de"
+   "clicktale.net"
   ]
  },
  "clicktrack1.com": {
@@ -4091,26 +4073,10 @@
  },
  "contentspread.net": {
   "properties": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "contentspread.net",
-   "sat1.de"
+   "contentspread.net"
   ],
   "resources": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "contentspread.net",
-   "sat1.de"
+   "contentspread.net"
   ]
  },
  "contentsquare.net": {
@@ -4427,11 +4393,9 @@
  },
  "cpx.to": {
   "properties": [
-   "quoka.de",
    "cpx.to"
   ],
   "resources": [
-   "quoka.de",
    "cpx.to"
   ]
  },
@@ -4485,14 +4449,10 @@
  },
  "criteo.com": {
   "properties": [
-   "criteo.com",
-   "fanfiktion.de",
-   "comunio.de"
+   "criteo.com"
   ],
   "resources": [
-   "criteo.com",
-   "fanfiktion.de",
-   "comunio.de"
+   "criteo.com"
   ]
  },
  "criteo.net": {
@@ -4561,12 +4521,10 @@
  },
  "crwdcntrl.net": {
   "properties": [
-   "crwdcntrl.net",
-   "disqus.com"
+   "crwdcntrl.net"
   ],
   "resources": [
-   "crwdcntrl.net",
-   "disqus.com"
+   "crwdcntrl.net"
   ]
  },
  "csdata1.com": {
@@ -4643,12 +4601,10 @@
  },
  "cxense.com": {
   "properties": [
-   "cxense.com",
-   "focus.de"
+   "cxense.com"
   ],
   "resources": [
-   "cxense.com",
-   "focus.de"
+   "cxense.com"
   ]
  },
  "cxt.ms": {
@@ -6101,11 +6057,9 @@
  },
  "exactag.com": {
   "properties": [
-   "quoka.de",
    "exactag.com"
   ],
   "resources": [
-   "quoka.de",
    "exactag.com"
   ]
  },
@@ -6119,12 +6073,10 @@
  },
  "exelator.com": {
   "properties": [
-   "exelator.com",
-   "disqus.com"
+   "exelator.com"
   ],
   "resources": [
-   "exelator.com",
-   "disqus.com"
+   "exelator.com"
   ]
  },
  "exitbee.com": {
@@ -7281,48 +7233,10 @@
  },
  "google-analytics.com": {
   "properties": [
-   "google-analytics.com",
-   "prosieben.de",
-   "metal-hammer.de",
-   "prosiebenmaxx.de",
-   "spiegel.de",
-   "prosieben.at",
-   "stern.de",
-   "ran.de",
-   "prosieben.ch",
-   "notebookcheck.com",
-   "kabeleins.de",
-   "sixx.de",
-   "quoka.de",
-   "sat1.de",
-   "fanfiktion.de",
-   "rollingstone.de",
-   "planetsnow.de",
-   "boote-forum.de",
-   "gamestar.de",
-   "musikexpress.de"
+   "google-analytics.com"
   ],
   "resources": [
-   "google-analytics.com",
-   "prosieben.de",
-   "metal-hammer.de",
-   "prosiebenmaxx.de",
-   "spiegel.de",
-   "prosieben.at",
-   "stern.de",
-   "ran.de",
-   "prosieben.ch",
-   "notebookcheck.com",
-   "kabeleins.de",
-   "sixx.de",
-   "quoka.de",
-   "sat1.de",
-   "fanfiktion.de",
-   "rollingstone.de",
-   "planetsnow.de",
-   "boote-forum.de",
-   "gamestar.de",
-   "musikexpress.de"
+   "google-analytics.com"
   ]
  },
  "googleadservices.com": {
@@ -7343,20 +7257,10 @@
  },
  "googletagmanager.com": {
   "properties": [
-   "tvspielfilm.de",
-   "googletagmanager.com",
-   "focus.de",
-   "transfermarkt.de",
-   "autobild.de",
-   "gamestar.de"
+   "googletagmanager.com"
   ],
   "resources": [
-   "tvspielfilm.de",
-   "googletagmanager.com",
-   "focus.de",
-   "transfermarkt.de",
-   "autobild.de",
-   "gamestar.de"
+   "googletagmanager.com"
   ]
  },
  "gooo.al": {
@@ -7945,12 +7849,10 @@
  },
  "hotjar.com": {
   "properties": [
-   "hotjar.com",
-   "quoka.de"
+   "hotjar.com"
   ],
   "resources": [
-   "hotjar.com",
-   "quoka.de"
+   "hotjar.com"
   ]
  },
  "hotlog.ru": {
@@ -8291,26 +8193,10 @@
  },
  "imrworldwide.com": {
   "properties": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "imrworldwide.com",
-   "sat1.de"
+   "imrworldwide.com"
   ],
   "resources": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "imrworldwide.com",
-   "sat1.de"
+   "imrworldwide.com"
   ]
  },
  "inboxtag.com": {
@@ -9315,12 +9201,10 @@
  },
  "krxd.net": {
   "properties": [
-   "krxd.net",
-   "focus.de"
+   "krxd.net"
   ],
   "resources": [
-   "krxd.net",
-   "focus.de"
+   "krxd.net"
   ]
  },
  "ksyrium0014.com": {
@@ -9829,12 +9713,10 @@
  },
  "lp4.io": {
   "properties": [
-   "lp4.io",
-   "focus.de"
+   "lp4.io"
   ],
   "resources": [
-   "lp4.io",
-   "focus.de"
+   "lp4.io"
   ]
  },
  "lpbeta.com": {
@@ -10663,12 +10545,10 @@
  },
  "mouseflow.com": {
   "properties": [
-   "mouseflow.com",
-   "wetter.com"
+   "mouseflow.com"
   ],
   "resources": [
-   "mouseflow.com",
-   "wetter.com"
+   "mouseflow.com"
   ]
  },
  "mousestats.com": {
@@ -10825,14 +10705,10 @@
  },
  "mxcdn.net": {
   "properties": [
-   "mxcdn.net",
-   "spiegel.de",
-   "stern.de"
+   "mxcdn.net"
   ],
   "resources": [
-   "mxcdn.net",
-   "spiegel.de",
-   "stern.de"
+   "mxcdn.net"
   ]
  },
  "mxpnl.com": {
@@ -11501,30 +11377,10 @@
  },
  "nuggad.net": {
   "properties": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "quoka.de",
-   "sat1.de",
-   "nuggad.net",
-   "transfermarkt.de"
+   "nuggad.net"
   ],
   "resources": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "quoka.de",
-   "sat1.de",
-   "nuggad.net",
-   "transfermarkt.de"
+   "nuggad.net"
   ]
  },
  "nuloox.com": {
@@ -11937,23 +11793,9 @@
  },
  "optimizely.com": {
   "properties": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "focus.de",
    "optimizely.com"
   ],
   "resources": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "focus.de",
    "optimizely.com"
   ]
  },
@@ -12407,12 +12249,10 @@
  },
  "pingdom.net": {
   "properties": [
-   "pingdom.net",
-   "musikexpress.de"
+   "pingdom.net"
   ],
   "resources": [
-   "pingdom.net",
-   "musikexpress.de"
+   "pingdom.net"
   ]
  },
  "pingil.com": {
@@ -12441,11 +12281,9 @@
  },
  "pippio.com": {
   "properties": [
-   "disqus.com",
    "pippio.com"
   ],
   "resources": [
-   "disqus.com",
    "pippio.com"
   ]
  },
@@ -13827,13 +13665,9 @@
  },
  "rlcdn.com": {
   "properties": [
-   "widgets.outbrain.com",
-   "autobild.de",
    "rlcdn.com"
   ],
   "resources": [
-   "widgets.outbrain.com",
-   "autobild.de",
    "rlcdn.com"
   ]
  },
@@ -13951,12 +13785,10 @@
  },
  "rqtrk.eu": {
   "properties": [
-   "rqtrk.eu",
-   "stern.de"
+   "rqtrk.eu"
   ],
   "resources": [
-   "rqtrk.eu",
-   "stern.de"
+   "rqtrk.eu"
   ]
  },
  "rrimpl.com": {
@@ -14257,14 +14089,10 @@
  },
  "scorecardresearch.com": {
   "properties": [
-   "scorecardresearch.com",
-   "outbrain.com",
-   "gamestar.de"
+   "scorecardresearch.com"
   ],
   "resources": [
-   "scorecardresearch.com",
-   "outbrain.com",
-   "gamestar.de"
+   "scorecardresearch.com"
   ]
  },
  "scoutanalytics.net": {
@@ -14485,25 +14313,9 @@
  },
  "semasio.net": {
   "properties": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
    "semasio.net"
   ],
   "resources": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
    "semasio.net"
   ]
  },
@@ -15933,12 +15745,10 @@
  },
  "stroeerdigitalmedia.de": {
   "properties": [
-   "stroeerdigitalmedia.de",
-   "planetsnow.de"
+   "stroeerdigitalmedia.de"
   ],
   "resources": [
-   "stroeerdigitalmedia.de",
-   "planetsnow.de"
+   "stroeerdigitalmedia.de"
   ]
  },
  "strossle.it": {
@@ -16319,18 +16129,10 @@
  },
  "tealiumiq.com": {
   "properties": [
-   "metal-hammer.de",
-   "tealiumiq.com",
-   "transfermarkt.de",
-   "autobild.de",
-   "musikexpress.de"
+   "tealiumiq.com"
   ],
   "resources": [
-   "metal-hammer.de",
-   "tealiumiq.com",
-   "transfermarkt.de",
-   "autobild.de",
-   "musikexpress.de"
+   "tealiumiq.com"
   ]
  },
  "tedioustooth.com": {
@@ -16455,29 +16257,9 @@
  },
  "theadex.com": {
   "properties": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "quoka.de",
-   "sat1.de",
-   "wetter.com",
    "theadex.com"
   ],
   "resources": [
-   "prosieben.at",
-   "prosieben.de",
-   "prosieben.ch",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "quoka.de",
-   "sat1.de",
-   "wetter.com",
    "theadex.com"
   ]
  },
@@ -18187,42 +17969,18 @@
  },
  "visualrevenue.com": {
   "properties": [
-   "spiegel.de",
-   "prosieben.de",
-   "prosieben.at",
-   "prosiebenmaxx.de",
-   "prosieben.ch",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "visualrevenue.com",
-   "focus.de",
-   "autobild.de"
+   "visualrevenue.com"
   ],
   "resources": [
-   "spiegel.de",
-   "prosieben.de",
-   "prosieben.at",
-   "prosiebenmaxx.de",
-   "prosieben.ch",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "visualrevenue.com",
-   "focus.de",
-   "autobild.de"
+   "visualrevenue.com"
   ]
  },
  "visualwebsiteoptimizer.com": {
   "properties": [
-   "visualwebsiteoptimizer.com",
-   "wetter.com"
+   "visualwebsiteoptimizer.com"
   ],
   "resources": [
-   "visualwebsiteoptimizer.com",
-   "wetter.com"
+   "visualwebsiteoptimizer.com"
   ]
  },
  "vivocha.com": {
@@ -18891,21 +18649,17 @@
  },
  "wt-eu02.net": {
   "properties": [
-   "wt-eu02.net",
-   "stern.de"
+   "wt-eu02.net"
   ],
   "resources": [
-   "wt-eu02.net",
-   "stern.de"
+   "wt-eu02.net"
   ]
  },
  "wt-safetag.com": {
   "properties": [
-   "stern.de",
    "wt-safetag.com"
   ],
   "resources": [
-   "stern.de",
    "wt-safetag.com"
   ]
  },
@@ -24959,29 +24713,9 @@
  },
  "emetriq.de": {
   "properties": [
-   "spiegel.de",
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "stern.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "transfermarkt.de",
-   "focus.de",
    "emetriq.de"
   ],
   "resources": [
-   "spiegel.de",
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "stern.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "transfermarkt.de",
-   "focus.de",
    "emetriq.de"
   ]
  },
@@ -25315,11 +25049,9 @@
  },
  "intelliad.de": {
   "properties": [
-   "tvspielfilm.de",
    "intelliad.de"
   ],
   "resources": [
-   "tvspielfilm.de",
    "intelliad.de"
   ]
  },
@@ -25485,14 +25217,10 @@
  },
  "meetrics.net": {
   "properties": [
-   "spiegel.de",
-   "meetrics.net",
-   "stern.de"
+   "meetrics.net"
   ],
   "resources": [
-   "spiegel.de",
-   "meetrics.net",
-   "stern.de"
+   "meetrics.net"
   ]
  },
  "mengis-linden.org": {
@@ -26313,14 +26041,10 @@
  },
  "tisoomi-services.com": {
   "properties": [
-   "metal-hammer.de",
-   "tisoomi-services.com",
-   "musikexpress.de"
+   "tisoomi-services.com"
   ],
   "resources": [
-   "metal-hammer.de",
-   "tisoomi-services.com",
-   "musikexpress.de"
+   "tisoomi-services.com"
   ]
  },
  "tophits4u.de": {
@@ -26437,11 +26161,9 @@
  },
  "vinsight.de": {
   "properties": [
-   "tvspielfilm.de",
    "vinsight.de"
   ],
   "resources": [
-   "tvspielfilm.de",
    "vinsight.de"
   ]
  },
@@ -26527,32 +26249,10 @@
  },
  "webtrekk.net": {
   "properties": [
-   "metal-hammer.de",
-   "prosieben.de",
-   "prosieben.at",
-   "webtrekk.net",
-   "prosiebenmaxx.de",
-   "prosieben.ch",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "rollingstone.de",
-   "musikexpress.de"
+   "webtrekk.net"
   ],
   "resources": [
-   "metal-hammer.de",
-   "prosieben.de",
-   "prosieben.at",
-   "webtrekk.net",
-   "prosiebenmaxx.de",
-   "prosieben.ch",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "rollingstone.de",
-   "musikexpress.de"
+   "webtrekk.net"
   ]
  },
  "webttracking.de": {
@@ -26613,23 +26313,9 @@
  },
  "xplosion.de": {
   "properties": [
-   "spiegel.de",
-   "prosieben.at",
-   "prosieben.ch",
-   "prosieben.de",
-   "stern.de",
-   "comunio.de",
-   "focus.de",
    "xplosion.de"
   ],
   "resources": [
-   "spiegel.de",
-   "prosieben.at",
-   "prosieben.ch",
-   "prosieben.de",
-   "stern.de",
-   "comunio.de",
-   "focus.de",
    "xplosion.de"
   ]
  },
@@ -31531,11 +31217,9 @@
  },
  "addthis.com": {
   "properties": [
-   "thewatchseries.to",
    "addthis.com"
   ],
   "resources": [
-   "thewatchseries.to",
    "addthis.com"
   ]
  },
@@ -31853,14 +31537,10 @@
  },
  "amazonaws.com": {
   "properties": [
-   "amazonaws.com",
-   "hitfix.com",
-   "slickdeals.net"
+   "amazonaws.com"
   ],
   "resources": [
-   "amazonaws.com",
-   "hitfix.com",
-   "slickdeals.net"
+   "amazonaws.com"
   ]
  },
  "amplify.outbrain.com": {
@@ -34025,17 +33705,9 @@
  },
  "cloudfront.net": {
   "properties": [
-   "dailymotion.com",
-   "9gag.com",
-   "focus.de",
-   "sourceforge.net",
    "cloudfront.net"
   ],
   "resources": [
-   "dailymotion.com",
-   "9gag.com",
-   "focus.de",
-   "sourceforge.net",
    "cloudfront.net"
   ]
  },
@@ -35673,12 +35345,10 @@
  },
  "disqus.com": {
   "properties": [
-   "disqus.com",
-   "autobild.de"
+   "disqus.com"
   ],
   "resources": [
-   "disqus.com",
-   "autobild.de"
+   "disqus.com"
   ]
  },
  "distillery.wistia.com": {
@@ -35731,12 +35401,10 @@
  },
  "dmcdn.net": {
   "properties": [
-   "dmcdn.net",
-   "dailymotion.com"
+   "dmcdn.net"
   ],
   "resources": [
-   "dmcdn.net",
-   "dailymotion.com"
+   "dmcdn.net"
   ]
  },
  "dmdentertainment.com": {
@@ -35765,12 +35433,10 @@
  },
  "dnn506yrbagrg.cloudfront.net": {
   "properties": [
-   "dnn506yrbagrg.cloudfront.net",
-   "quoka.de"
+   "dnn506yrbagrg.cloudfront.net"
   ],
   "resources": [
-   "dnn506yrbagrg.cloudfront.net",
-   "quoka.de"
+   "dnn506yrbagrg.cloudfront.net"
   ]
  },
  "doug1izaerwt3.cloudfront.net": {
@@ -35783,22 +35449,10 @@
  },
  "ds-aksb-a.akamaihd.net": {
   "properties": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "ds-aksb-a.akamaihd.net",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de"
+   "ds-aksb-a.akamaihd.net"
   ],
   "resources": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "ds-aksb-a.akamaihd.net",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de"
+   "ds-aksb-a.akamaihd.net"
   ]
  },
  "dt.sellpoint.net": {
@@ -36339,20 +35993,10 @@
  },
  "facebook.com": {
   "properties": [
-   "metal-hammer.de",
-   "facebook.com",
-   "rollingstone.de",
-   "transfermarkt.de",
-   "tvspielfilm.de",
-   "musikexpress.de"
+   "facebook.com"
   ],
   "resources": [
-   "metal-hammer.de",
-   "facebook.com",
-   "rollingstone.de",
-   "transfermarkt.de",
-   "tvspielfilm.de",
-   "musikexpress.de"
+   "facebook.com"
   ]
  },
  "fairfax.com.au": {
@@ -36381,11 +36025,9 @@
  },
  "fastly.net": {
   "properties": [
-   "spotify.com",
    "fastly.net"
   ],
   "resources": [
-   "spotify.com",
    "fastly.net"
   ]
  },
@@ -36895,12 +36537,10 @@
  },
  "googleapis.com": {
   "properties": [
-   "googleapis.com",
-   "tellows.de"
+   "googleapis.com"
   ],
   "resources": [
-   "googleapis.com",
-   "tellows.de"
+   "googleapis.com"
   ]
  },
  "googlecode.com": {
@@ -37193,12 +36833,10 @@
  },
  "hpr.outbrain.com": {
   "properties": [
-   "hpr.outbrain.com",
-   "focus.de"
+   "hpr.outbrain.com"
   ],
   "resources": [
-   "hpr.outbrain.com",
-   "focus.de"
+   "hpr.outbrain.com"
   ]
  },
  "hqq.tv": {
@@ -37291,12 +36929,10 @@
  },
  "images-amazon.com": {
   "properties": [
-   "images-amazon.com",
-   "imdb.com"
+   "images-amazon.com"
   ],
   "resources": [
-   "images-amazon.com",
-   "imdb.com"
+   "images-amazon.com"
   ]
  },
  "imageshack.us": {
@@ -37501,12 +37137,10 @@
  },
  "intercomcdn.com": {
   "properties": [
-   "intercomcdn.com",
-   "unblocked.la"
+   "intercomcdn.com"
   ],
   "resources": [
-   "intercomcdn.com",
-   "unblocked.la"
+   "intercomcdn.com"
   ]
  },
  "interestsearch.net": {
@@ -37543,70 +37177,18 @@
  },
  "ioam.de": {
   "properties": [
-   "spiegel.de",
-   "prosieben.de",
-   "quoka.de",
-   "sat1.de",
-   "rollingstone.de",
-   "transfermarkt.de",
-   "autobild.de",
-   "gamestar.de",
-   "metal-hammer.de",
-   "prosiebenmaxx.de",
-   "ioam.de",
-   "woxikon.de",
-   "kabeleins.de",
-   "sixx.de",
-   "wetter.com",
-   "planetsnow.de",
-   "notebookcheck.com",
-   "tvspielfilm.de",
-   "musikexpress.de",
-   "tellows.de",
-   "ran.de",
-   "stern.de",
-   "comunio.de",
-   "focus.de"
+   "ioam.de"
   ],
   "resources": [
-   "spiegel.de",
-   "prosieben.de",
-   "quoka.de",
-   "sat1.de",
-   "rollingstone.de",
-   "transfermarkt.de",
-   "autobild.de",
-   "gamestar.de",
-   "metal-hammer.de",
-   "prosiebenmaxx.de",
-   "ioam.de",
-   "woxikon.de",
-   "kabeleins.de",
-   "sixx.de",
-   "wetter.com",
-   "planetsnow.de",
-   "notebookcheck.com",
-   "tvspielfilm.de",
-   "musikexpress.de",
-   "tellows.de",
-   "ran.de",
-   "stern.de",
-   "comunio.de",
-   "focus.de"
+   "ioam.de"
   ]
  },
  "irqs.ioam.de": {
   "properties": [
-   "metal-hammer.de",
-   "rollingstone.de",
-   "irqs.ioam.de",
-   "musikexpress.de"
+   "irqs.ioam.de"
   ],
   "resources": [
-   "metal-hammer.de",
-   "rollingstone.de",
-   "irqs.ioam.de",
-   "musikexpress.de"
+   "irqs.ioam.de"
   ]
  },
  "isacglobal.com": {
@@ -38171,22 +37753,10 @@
  },
  "log.outbrain.com": {
   "properties": [
-   "metal-hammer.de",
-   "widgets.outbrain.com",
-   "log.outbrain.com",
-   "rollingstone.de",
-   "focus.de",
-   "autobild.de",
-   "musikexpress.de"
+   "log.outbrain.com"
   ],
   "resources": [
-   "metal-hammer.de",
-   "widgets.outbrain.com",
-   "log.outbrain.com",
-   "rollingstone.de",
-   "focus.de",
-   "autobild.de",
-   "musikexpress.de"
+   "log.outbrain.com"
   ]
  },
  "log.pinterest.com": {
@@ -38687,12 +38257,10 @@
  },
  "metrics.brightcove.com": {
   "properties": [
-   "metrics.brightcove.com",
-   "stern.de"
+   "metrics.brightcove.com"
   ],
   "resources": [
-   "metrics.brightcove.com",
-   "stern.de"
+   "metrics.brightcove.com"
   ]
  },
  "metrics.chmedia.com": {
@@ -39537,11 +39105,9 @@
  },
  "paypalobjects.com": {
   "properties": [
-   "paypal.com",
    "paypalobjects.com"
   ],
   "resources": [
-   "paypal.com",
    "paypalobjects.com"
   ]
  },
@@ -39963,12 +39529,10 @@
  },
  "plista.com": {
   "properties": [
-   "plista.com",
-   "planetsnow.de"
+   "plista.com"
   ],
   "resources": [
-   "plista.com",
-   "planetsnow.de"
+   "plista.com"
   ]
  },
  "plugins.longtailvideo.com": {
@@ -40477,11 +40041,9 @@
  },
  "referrer.disqus.com": {
   "properties": [
-   "autobild.de",
    "referrer.disqus.com"
   ],
   "resources": [
-   "autobild.de",
    "referrer.disqus.com"
   ]
  },
@@ -41303,11 +40865,9 @@
  },
  "static.parsely.com": {
   "properties": [
-   "spiegel.de",
    "static.parsely.com"
   ],
   "resources": [
-   "spiegel.de",
    "static.parsely.com"
   ]
  },
@@ -42481,11 +42041,9 @@
  },
  "timeinc.net": {
   "properties": [
-   "si.com",
    "timeinc.net"
   ],
   "resources": [
-   "si.com",
    "timeinc.net"
   ]
  },
@@ -43939,23 +43497,9 @@
  },
  "twitter.com": {
   "properties": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "rollingstone.de",
    "twitter.com"
   ],
   "resources": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
-   "rollingstone.de",
    "twitter.com"
   ]
  },
@@ -45585,16 +45129,10 @@
  },
  "met.vgwort.de": {
   "properties": [
-   "spiegel.de",
-   "stern.de",
-   "met.vgwort.de",
-   "focus.de"
+   "met.vgwort.de"
   ],
   "resources": [
-   "spiegel.de",
-   "stern.de",
-   "met.vgwort.de",
-   "focus.de"
+   "met.vgwort.de"
   ]
  },
  "mindwerk.net": {
@@ -45615,16 +45153,10 @@
  },
  "movad.de": {
   "properties": [
-   "prosieben.at",
-   "prosieben.de",
-   "movad.de",
-   "prosieben.ch"
+   "movad.de"
   ],
   "resources": [
-   "prosieben.at",
-   "prosieben.de",
-   "movad.de",
-   "prosieben.ch"
+   "movad.de"
   ]
  },
  "myv-img.de": {
@@ -46085,12 +45617,10 @@
  },
  "tracking-rce.veeseo.com": {
   "properties": [
-   "tracking-rce.veeseo.com",
-   "stern.de"
+   "tracking-rce.veeseo.com"
   ],
   "resources": [
-   "tracking-rce.veeseo.com",
-   "stern.de"
+   "tracking-rce.veeseo.com"
   ]
  },
  "tracking.base.de": {
@@ -46383,21 +45913,17 @@
  },
  "46.101.168.189": {
   "properties": [
-   "lematin.ch",
    "46.101.168.189"
   ],
   "resources": [
-   "lematin.ch",
    "46.101.168.189"
   ]
  },
  "46.101.246.10": {
   "properties": [
-   "lematin.ch",
    "46.101.246.10"
   ],
   "resources": [
-   "lematin.ch",
    "46.101.246.10"
   ]
  },
@@ -49715,22 +49241,10 @@
  },
  "contentexchange.me": {
   "properties": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "contentexchange.me",
-   "sat1.de"
+   "contentexchange.me"
   ],
   "resources": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "contentexchange.me",
-   "sat1.de"
+   "contentexchange.me"
   ]
  },
  "csr.onet.pl": {
@@ -50055,12 +49569,10 @@
  },
  "213.8.193.45": {
   "properties": [
-   "213.8.193.45",
-   "haaretz.com"
+   "213.8.193.45"
   ],
   "resources": [
-   "213.8.193.45",
-   "haaretz.com"
+   "213.8.193.45"
   ]
  },
  "24caratleeds.co.uk": {
@@ -50129,22 +49641,18 @@
  },
  "5.153.4.92": {
   "properties": [
-   "spreaker.com",
    "5.153.4.92"
   ],
   "resources": [
-   "spreaker.com",
    "5.153.4.92"
   ]
  },
  "69.25.121.67": {
   "properties": [
-   "69.25.121.67",
-   "theverge.com"
+   "69.25.121.67"
   ],
   "resources": [
-   "69.25.121.67",
-   "theverge.com"
+   "69.25.121.67"
   ]
  },
  "6waves.com": {
@@ -50165,12 +49673,10 @@
  },
  "86.63.194.248": {
   "properties": [
-   "86.63.194.248",
-   "feedcat.net"
+   "86.63.194.248"
   ],
   "resources": [
-   "86.63.194.248",
-   "feedcat.net"
+   "86.63.194.248"
   ]
  },
  "99bitcoins.com": {
@@ -50479,14 +49985,10 @@
  },
  "aexp-static.com": {
   "properties": [
-   "americanexpress.com",
-   "aexp-static.com",
-   "serve.com"
+   "aexp-static.com"
   ],
   "resources": [
-   "americanexpress.com",
-   "aexp-static.com",
-   "serve.com"
+   "aexp-static.com"
   ]
  },
  "affiliate.mercola.com": {
@@ -53907,11 +53409,9 @@
  },
  "edgecastcdn.net": {
   "properties": [
-   "ehow.com",
    "edgecastcdn.net"
   ],
   "resources": [
-   "ehow.com",
    "edgecastcdn.net"
   ]
  },
@@ -59069,11 +58569,9 @@
  },
  "pixel.facebook.com": {
   "properties": [
-   "facebook.com",
    "pixel.facebook.com"
   ],
   "resources": [
-   "facebook.com",
    "pixel.facebook.com"
   ]
  },
@@ -60095,11 +59593,9 @@
  },
  "s-msn.com": {
   "properties": [
-   "msn.com",
    "s-msn.com"
   ],
   "resources": [
-   "msn.com",
    "s-msn.com"
   ]
  },
@@ -60689,11 +60185,9 @@
  },
  "skypeassets.com": {
   "properties": [
-   "skype.com",
    "skypeassets.com"
   ],
   "resources": [
-   "skype.com",
    "skypeassets.com"
   ]
  },
@@ -65563,12 +65057,10 @@
  },
  "ybinst2.ec.yimg.com": {
   "properties": [
-   "ybinst2.ec.yimg.com",
-   "search.yahoo.com"
+   "ybinst2.ec.yimg.com"
   ],
   "resources": [
-   "ybinst2.ec.yimg.com",
-   "search.yahoo.com"
+   "ybinst2.ec.yimg.com"
   ]
  },
  "yellowpages.co.in": {
@@ -65997,12 +65489,10 @@
  },
  "abc.com": {
   "properties": [
-   "abc.com",
-   "abc.go.com"
+   "abc.com"
   ],
   "resources": [
-   "abc.com",
-   "abc.go.com"
+   "abc.com"
   ]
  },
  "adobe.com": {
@@ -66039,12 +65529,10 @@
  },
  "atgstores.com": {
   "properties": [
-   "atgstores.com",
-   "lowes.ca"
+   "atgstores.com"
   ],
   "resources": [
-   "atgstores.com",
-   "lowes.ca"
+   "atgstores.com"
   ]
  },
  "bitdefender.com": {
@@ -66065,22 +65553,10 @@
  },
  "cdnds.net": {
   "properties": [
-   "digitalspy.ie",
-   "cdnds.net",
-   "digitalspy.ca",
-   "digitalspy.co.nz",
-   "digitalspy.com",
-   "digitalspy.co.uk",
-   "digitalspy.com.au"
+   "cdnds.net"
   ],
   "resources": [
-   "digitalspy.ie",
-   "cdnds.net",
-   "digitalspy.ca",
-   "digitalspy.co.nz",
-   "digitalspy.com",
-   "digitalspy.co.uk",
-   "digitalspy.com.au"
+   "cdnds.net"
   ]
  },
  "chip.de": {
@@ -66101,11 +65577,9 @@
  },
  "demandware.edgesuite.net": {
   "properties": [
-   "otterbox.com",
    "demandware.edgesuite.net"
   ],
   "resources": [
-   "otterbox.com",
    "demandware.edgesuite.net"
   ]
  },
@@ -66151,11 +65625,9 @@
  },
  "img-bahn.de": {
   "properties": [
-   "bahn.de",
    "img-bahn.de"
   ],
   "resources": [
-   "bahn.de",
    "img-bahn.de"
   ]
  },
@@ -66193,18 +65665,10 @@
  },
  "mnginteractive.com": {
   "properties": [
-   "pasadenastarnews.com",
-   "mercurynews.com",
-   "mnginteractive.com",
-   "denverpost.com",
-   "presstelegram.com"
+   "mnginteractive.com"
   ],
   "resources": [
-   "pasadenastarnews.com",
-   "mercurynews.com",
-   "mnginteractive.com",
-   "denverpost.com",
-   "presstelegram.com"
+   "mnginteractive.com"
   ]
  },
  "navyfederal.org": {
@@ -66217,11 +65681,9 @@
  },
  "nwsource.com": {
   "properties": [
-   "seattletimes.com",
    "nwsource.com"
   ],
   "resources": [
-   "seattletimes.com",
    "nwsource.com"
   ]
  },
@@ -66275,11 +65737,9 @@
  },
  "wp.com": {
   "properties": [
-   "metro.co.uk",
    "wp.com"
   ],
   "resources": [
-   "metro.co.uk",
    "wp.com"
   ]
  },
@@ -66293,11 +65753,9 @@
  },
  "a.watchseries.to": {
   "properties": [
-   "thewatchseries.to",
    "a.watchseries.to"
   ],
   "resources": [
-   "thewatchseries.to",
    "a.watchseries.to"
   ]
  },
@@ -66319,12 +65777,10 @@
  },
  "85.237.86.50": {
   "properties": [
-   "85.237.86.50",
-   "bluray-disc.de"
+   "85.237.86.50"
   ],
   "resources": [
-   "85.237.86.50",
-   "bluray-disc.de"
+   "85.237.86.50"
   ]
  },
  "ab-in-den-urlaub.de": {
@@ -70697,11 +70153,9 @@
  },
  "211.106.66.62": {
   "properties": [
-   "yonhapnews.co.kr",
    "211.106.66.62"
   ],
   "resources": [
-   "yonhapnews.co.kr",
    "211.106.66.62"
   ]
  },
@@ -71883,22 +71337,18 @@
  },
  "analytics.comunio.de": {
   "properties": [
-   "analytics.comunio.de",
-   "comunio.de"
+   "analytics.comunio.de"
   ],
   "resources": [
-   "analytics.comunio.de",
-   "comunio.de"
+   "analytics.comunio.de"
   ]
  },
  "analytics.comunio.net": {
   "properties": [
-   "analytics.comunio.net",
-   "comunio.de"
+   "analytics.comunio.net"
   ],
   "resources": [
-   "analytics.comunio.net",
-   "comunio.de"
+   "analytics.comunio.net"
   ]
  }
 }

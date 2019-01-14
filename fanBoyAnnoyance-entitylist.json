@@ -449,15 +449,9 @@
  },
  "cloudfront.net": {
   "properties": [
-   "wbur.org",
-   "bdnews24.com",
-   "dxracer.com",
    "cloudfront.net"
   ],
   "resources": [
-   "wbur.org",
-   "bdnews24.com",
-   "dxracer.com",
    "cloudfront.net"
   ]
  },
@@ -831,11 +825,9 @@
  },
  "form.jotformpro.com": {
   "properties": [
-   "entrepreneur.com",
    "form.jotformpro.com"
   ],
   "resources": [
-   "entrepreneur.com",
    "form.jotformpro.com"
   ]
  },
@@ -977,20 +969,10 @@
  },
  "google.com": {
   "properties": [
-   "tellows.de",
-   "tvspielfilm.de",
-   "focus.de",
-   "google.com",
-   "autobild.de",
-   "gamestar.de"
+   "google.com"
   ],
   "resources": [
-   "tellows.de",
-   "tvspielfilm.de",
-   "focus.de",
-   "google.com",
-   "autobild.de",
-   "gamestar.de"
+   "google.com"
   ]
  },
  "goroost.com": {
@@ -2763,14 +2745,10 @@
  },
  "youtube.com": {
   "properties": [
-   "7chan.org",
-   "youtube.com",
-   "boards.4chan.org"
+   "youtube.com"
   ],
   "resources": [
-   "7chan.org",
-   "youtube.com",
-   "boards.4chan.org"
+   "youtube.com"
   ]
  },
  "zaparena.com": {
@@ -3343,11 +3321,9 @@
  },
  "addthis.com": {
   "properties": [
-   "thewatchseries.to",
    "addthis.com"
   ],
   "resources": [
-   "thewatchseries.to",
    "addthis.com"
   ]
  },
@@ -3433,12 +3409,10 @@
  },
  "assets.pinterest.com": {
   "properties": [
-   "assets.pinterest.com",
-   "focus.de"
+   "assets.pinterest.com"
   ],
   "resources": [
-   "assets.pinterest.com",
-   "focus.de"
+   "assets.pinterest.com"
   ]
  },
  "assets.tumblr.com": {
@@ -3627,12 +3601,10 @@
  },
  "encrypted-tbn2.gstatic.com": {
   "properties": [
-   "encrypted-tbn2.gstatic.com",
-   "vitorrent.org"
+   "encrypted-tbn2.gstatic.com"
   ],
   "resources": [
-   "encrypted-tbn2.gstatic.com",
-   "vitorrent.org"
+   "encrypted-tbn2.gstatic.com"
   ]
  },
  "engagesciences.com": {
@@ -3653,38 +3625,10 @@
  },
  "facebook.com": {
   "properties": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "woxikon.de",
-   "tellows.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "finanzen.net",
-   "sat1.de",
-   "facebook.com",
-   "thewatchseries.to",
-   "comunio.de",
-   "focus.de",
-   "tvspielfilm.de",
-   "gamestar.de"
+   "facebook.com"
   ],
   "resources": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "woxikon.de",
-   "tellows.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "finanzen.net",
-   "sat1.de",
-   "facebook.com",
-   "thewatchseries.to",
-   "comunio.de",
-   "focus.de",
-   "tvspielfilm.de",
-   "gamestar.de"
+   "facebook.com"
   ]
  },
  "fanconverter.wetpaint.me": {
@@ -4025,12 +3969,10 @@
  },
  "pinterest.com": {
   "properties": [
-   "pinterest.com",
-   "focus.de"
+   "pinterest.com"
   ],
   "resources": [
-   "pinterest.com",
-   "focus.de"
+   "pinterest.com"
   ]
  },
  "platform.foursquare.com": {
@@ -4067,19 +4009,9 @@
  },
  "platform.twitter.com": {
   "properties": [
-   "spiegel.de",
-   "finanzen.net",
-   "thewatchseries.to",
-   "focus.de",
-   "transfermarkt.de",
    "platform.twitter.com"
   ],
   "resources": [
-   "spiegel.de",
-   "finanzen.net",
-   "thewatchseries.to",
-   "focus.de",
-   "transfermarkt.de",
    "platform.twitter.com"
   ]
  },
@@ -4525,21 +4457,9 @@
  },
  "twitter.com": {
   "properties": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
    "twitter.com"
   ],
   "resources": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
    "twitter.com"
   ]
  },
@@ -4753,11 +4673,9 @@
  },
  "xing-share.com": {
   "properties": [
-   "focus.de",
    "xing-share.com"
   ],
   "resources": [
-   "focus.de",
    "xing-share.com"
   ]
  },
@@ -5363,96 +5281,10 @@
  },
  "lightboxcdn.com": {
   "properties": [
-   "modernfarmer.com",
-   "jezebel.com",
-   "kotaku.com",
-   "splinternews.com",
-   "venturebeat.com",
-   "cnet.com",
-   "heavy.com",
-   "culturemap.com",
-   "tvline.com",
-   "twitchy.com",
-   "lifehacker.com",
-   "cinemablend.com",
-   "bearingarms.com",
-   "crackberry.com",
-   "jalopnik.com",
-   "gamespot.com",
-   "adweek.com",
-   "conservativeradio.com",
-   "windowscentral.com",
-   "avclub.com",
-   "cracked.com",
-   "gizmodo.com",
-   "nbcsports.com",
-   "reason.com",
-   "theonion.com",
-   "mashable.com",
-   "redstate.com",
-   "spy.com",
-   "androidcentral.com",
-   "dailycaller.com",
-   "ahoramismo.com",
-   "deadline.com",
-   "thehill.com",
-   "bgr.com",
-   "theroot.com",
-   "thetakeout.com",
-   "zdnet.com",
-   "lightboxcdn.com",
-   "hollywoodlife.com",
-   "deadspin.com",
-   "fastcodesign.com",
-   "fastcompany.com",
-   "townhall.com",
-   "imore.com"
+   "lightboxcdn.com"
   ],
   "resources": [
-   "modernfarmer.com",
-   "jezebel.com",
-   "kotaku.com",
-   "splinternews.com",
-   "venturebeat.com",
-   "cnet.com",
-   "heavy.com",
-   "culturemap.com",
-   "tvline.com",
-   "twitchy.com",
-   "lifehacker.com",
-   "cinemablend.com",
-   "bearingarms.com",
-   "crackberry.com",
-   "jalopnik.com",
-   "gamespot.com",
-   "adweek.com",
-   "conservativeradio.com",
-   "windowscentral.com",
-   "avclub.com",
-   "cracked.com",
-   "gizmodo.com",
-   "nbcsports.com",
-   "reason.com",
-   "theonion.com",
-   "mashable.com",
-   "redstate.com",
-   "spy.com",
-   "androidcentral.com",
-   "dailycaller.com",
-   "ahoramismo.com",
-   "deadline.com",
-   "thehill.com",
-   "bgr.com",
-   "theroot.com",
-   "thetakeout.com",
-   "zdnet.com",
-   "lightboxcdn.com",
-   "hollywoodlife.com",
-   "deadspin.com",
-   "fastcodesign.com",
-   "fastcompany.com",
-   "townhall.com",
-   "imore.com"
+   "lightboxcdn.com"
   ]
  },
  "macworld.co.uk": {
@@ -5513,16 +5345,10 @@
  },
  "netdna-cdn.com": {
   "properties": [
-   "netdna-cdn.com",
-   "edmsauce.com",
-   "myspoonful.com",
-   "omgchrome.com"
+   "netdna-cdn.com"
   ],
   "resources": [
-   "netdna-cdn.com",
-   "edmsauce.com",
-   "myspoonful.com",
-   "omgchrome.com"
+   "netdna-cdn.com"
   ]
  },
  "newyorker.com": {
@@ -5663,11 +5489,9 @@
  },
  "wikimedia.org": {
   "properties": [
-   "wikipedia.org",
    "wikimedia.org"
   ],
   "resources": [
-   "wikipedia.org",
    "wikimedia.org"
   ]
  },
@@ -5801,11 +5625,9 @@
  },
  "netdna-ssl.com": {
   "properties": [
-   "sassymanila.com",
    "netdna-ssl.com"
   ],
   "resources": [
-   "sassymanila.com",
    "netdna-ssl.com"
   ]
  },
@@ -6075,11 +5897,9 @@
  },
  "deusm.com": {
   "properties": [
-   "informationweek.com",
    "deusm.com"
   ],
   "resources": [
-   "informationweek.com",
    "deusm.com"
   ]
  },
@@ -6221,12 +6041,10 @@
  },
  "media-imdb.com": {
   "properties": [
-   "media-imdb.com",
-   "imdb.com"
+   "media-imdb.com"
   ],
   "resources": [
-   "media-imdb.com",
-   "imdb.com"
+   "media-imdb.com"
   ]
  },
  "moltenusa.com": {
@@ -6655,11 +6473,9 @@
  },
  "sendinblue.com": {
   "properties": [
-   "voetbal24.be",
    "sendinblue.com"
   ],
   "resources": [
-   "voetbal24.be",
    "sendinblue.com"
   ]
  },
@@ -7241,11 +7057,9 @@
  },
  "widgets.getsitecontrol.com": {
   "properties": [
-   "winfuture.de",
    "widgets.getsitecontrol.com"
   ],
   "resources": [
-   "winfuture.de",
    "widgets.getsitecontrol.com"
   ]
  },

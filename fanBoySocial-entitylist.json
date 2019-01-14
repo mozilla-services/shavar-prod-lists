@@ -9,11 +9,9 @@
  },
  "addthis.com": {
   "properties": [
-   "thewatchseries.to",
    "addthis.com"
   ],
   "resources": [
-   "thewatchseries.to",
    "addthis.com"
   ]
  },
@@ -99,12 +97,10 @@
  },
  "assets.pinterest.com": {
   "properties": [
-   "assets.pinterest.com",
-   "focus.de"
+   "assets.pinterest.com"
   ],
   "resources": [
-   "assets.pinterest.com",
-   "focus.de"
+   "assets.pinterest.com"
   ]
  },
  "assets.tumblr.com": {
@@ -237,11 +233,9 @@
  },
  "cloudfront.net": {
   "properties": [
-   "dxracer.com",
    "cloudfront.net"
   ],
   "resources": [
-   "dxracer.com",
    "cloudfront.net"
   ]
  },
@@ -311,12 +305,10 @@
  },
  "encrypted-tbn2.gstatic.com": {
   "properties": [
-   "encrypted-tbn2.gstatic.com",
-   "vitorrent.org"
+   "encrypted-tbn2.gstatic.com"
   ],
   "resources": [
-   "encrypted-tbn2.gstatic.com",
-   "vitorrent.org"
+   "encrypted-tbn2.gstatic.com"
   ]
  },
  "engagesciences.com": {
@@ -337,38 +329,10 @@
  },
  "facebook.com": {
   "properties": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "woxikon.de",
-   "tellows.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "finanzen.net",
-   "sat1.de",
-   "facebook.com",
-   "thewatchseries.to",
-   "comunio.de",
-   "focus.de",
-   "tvspielfilm.de",
-   "gamestar.de"
+   "facebook.com"
   ],
   "resources": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "woxikon.de",
-   "tellows.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "finanzen.net",
-   "sat1.de",
-   "facebook.com",
-   "thewatchseries.to",
-   "comunio.de",
-   "focus.de",
-   "tvspielfilm.de",
-   "gamestar.de"
+   "facebook.com"
   ]
  },
  "fanconverter.wetpaint.me": {
@@ -453,20 +417,10 @@
  },
  "google.com": {
   "properties": [
-   "tellows.de",
-   "tvspielfilm.de",
-   "focus.de",
-   "google.com",
-   "autobild.de",
-   "gamestar.de"
+   "google.com"
   ],
   "resources": [
-   "tellows.de",
-   "tvspielfilm.de",
-   "focus.de",
-   "google.com",
-   "autobild.de",
-   "gamestar.de"
+   "google.com"
   ]
  },
  "gplusapi.appspot.com": {
@@ -727,12 +681,10 @@
  },
  "pinterest.com": {
   "properties": [
-   "pinterest.com",
-   "focus.de"
+   "pinterest.com"
   ],
   "resources": [
-   "pinterest.com",
-   "focus.de"
+   "pinterest.com"
   ]
  },
  "platform.foursquare.com": {
@@ -769,19 +721,9 @@
  },
  "platform.twitter.com": {
   "properties": [
-   "spiegel.de",
-   "finanzen.net",
-   "thewatchseries.to",
-   "focus.de",
-   "transfermarkt.de",
    "platform.twitter.com"
   ],
   "resources": [
-   "spiegel.de",
-   "finanzen.net",
-   "thewatchseries.to",
-   "focus.de",
-   "transfermarkt.de",
    "platform.twitter.com"
   ]
  },
@@ -1235,21 +1177,9 @@
  },
  "twitter.com": {
   "properties": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
    "twitter.com"
   ],
   "resources": [
-   "prosieben.de",
-   "prosiebenmaxx.de",
-   "ran.de",
-   "kabeleins.de",
-   "sixx.de",
-   "sat1.de",
    "twitter.com"
   ]
  },
@@ -1463,11 +1393,9 @@
  },
  "xing-share.com": {
   "properties": [
-   "focus.de",
    "xing-share.com"
   ],
   "resources": [
-   "focus.de",
    "xing-share.com"
   ]
  },
@@ -1649,11 +1577,9 @@
  },
  "deusm.com": {
   "properties": [
-   "informationweek.com",
    "deusm.com"
   ],
   "resources": [
-   "informationweek.com",
    "deusm.com"
   ]
  },
@@ -1795,12 +1721,10 @@
  },
  "media-imdb.com": {
   "properties": [
-   "media-imdb.com",
-   "imdb.com"
+   "media-imdb.com"
   ],
   "resources": [
-   "media-imdb.com",
-   "imdb.com"
+   "media-imdb.com"
   ]
  },
  "moltenusa.com": {
@@ -1829,12 +1753,10 @@
  },
  "netdna-cdn.com": {
   "properties": [
-   "netdna-cdn.com",
-   "edmsauce.com"
+   "netdna-cdn.com"
   ],
   "resources": [
-   "netdna-cdn.com",
-   "edmsauce.com"
+   "netdna-cdn.com"
   ]
  },
  "newsarama.com": {
@@ -2159,11 +2081,9 @@
  },
  "widgets.getsitecontrol.com": {
   "properties": [
-   "winfuture.de",
    "widgets.getsitecontrol.com"
   ],
   "resources": [
-   "winfuture.de",
    "widgets.getsitecontrol.com"
   ]
  },
