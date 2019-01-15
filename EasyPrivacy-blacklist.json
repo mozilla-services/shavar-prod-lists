@@ -47,8 +47,8 @@
    {
     "105app.com": {
      "105app.com": [
-      "105app.com",
-      "105app.com/report/?"
+      "105app.com/report/",
+      "105app.com"
      ]
     }
    },
@@ -1197,8 +1197,8 @@
    {
     "alenty.com": {
      "alenty.com": [
-      "alenty.com/trk/",
-      "alenty.com"
+      "alenty.com",
+      "alenty.com/trk/"
      ]
     }
    },
@@ -1793,8 +1793,8 @@
    {
     "autoline-top.com": {
      "autoline-top.com": [
-      "autoline-top.com",
-      "autoline-top.com/counter.php?"
+      "autoline-top.com/counter.php",
+      "autoline-top.com"
      ]
     }
    },
@@ -3398,8 +3398,8 @@
    {
     "cmmeglobal.com": {
      "cmmeglobal.com": [
-      "cmmeglobal.com",
-      "cmmeglobal.com/evt?"
+      "cmmeglobal.com/evt",
+      "cmmeglobal.com"
      ]
     }
    },
@@ -3427,8 +3427,8 @@
    {
     "cnzz.com": {
      "cnzz.com": [
-      "cnzz.com/c.php?",
       "cnzz.com/stat.",
+      "cnzz.com/c.php",
       "cnzz.com"
      ]
     }
@@ -3457,8 +3457,8 @@
    {
     "collarity.com": {
      "collarity.com": [
-      "collarity.com/ucs/tracker.js",
-      "collarity.com"
+      "collarity.com",
+      "collarity.com/ucs/tracker.js"
      ]
     }
    },
@@ -4544,12 +4544,12 @@
    {
     "doubleclick.net": {
      "doubleclick.net": [
-      "doubleclick.net/imp;",
-      "doubleclick.net",
-      "doubleclick.net/json?",
       "doubleclick.net/imp%",
+      "doubleclick.net/pixel",
+      "doubleclick.net/imp;",
       "doubleclick.net/activity",
-      "doubleclick.net/pixel?"
+      "doubleclick.net",
+      "doubleclick.net/json"
      ]
     }
    },
@@ -4788,7 +4788,7 @@
     "ecustomeropinions.com": {
      "ecustomeropinions.com": [
       "ecustomeropinions.com",
-      "ecustomeropinions.com/survey/nojs.php?"
+      "ecustomeropinions.com/survey/nojs.php"
      ]
     }
    },
@@ -4963,8 +4963,8 @@
    {
     "ensighten.com": {
      "ensighten.com": [
-      "ensighten.com",
-      "ensighten.com/error/e.php?"
+      "ensighten.com/error/e.php",
+      "ensighten.com"
      ]
     }
    },
@@ -5510,8 +5510,8 @@
    {
     "feedcat.net": {
      "feedcat.net": [
-      "feedcat.net",
-      "feedcat.net/button/"
+      "feedcat.net/button/",
+      "feedcat.net"
      ]
     }
    },
@@ -5631,7 +5631,7 @@
    {
     "flix360.com": {
      "flix360.com": [
-      "flix360.com/beat?",
+      "flix360.com/beat",
       "flix360.com"
      ]
     }
@@ -6326,17 +6326,17 @@
    {
     "google-analytics.com": {
      "google-analytics.com": [
-      "google-analytics.com/gtm/js?",
-      "google-analytics.com/analytics.js",
-      "google-analytics.com/internal/analytics.js",
-      "google-analytics.com/r/collect",
+      "google-analytics.com/siteopt.js",
       "google-analytics.com/plugins/",
-      "google-analytics.com/siteopt.js?",
-      "google-analytics.com/ga_exp.js",
-      "google-analytics.com/batch",
-      "google-analytics.com/internal/collect",
+      "google-analytics.com/internal/analytics.js",
       "google-analytics.com/cx/api.js",
-      "google-analytics.com/collect"
+      "google-analytics.com/batch",
+      "google-analytics.com/collect",
+      "google-analytics.com/r/collect",
+      "google-analytics.com/analytics.js",
+      "google-analytics.com/ga_exp.js",
+      "google-analytics.com/gtm/js",
+      "google-analytics.com/internal/collect"
      ]
     }
    },
@@ -6357,9 +6357,9 @@
    {
     "googletagmanager.com": {
      "googletagmanager.com": [
+      "googletagmanager.com/ns.html",
       "googletagmanager.com/gtag/",
-      "googletagmanager.com/gtm.js?",
-      "googletagmanager.com/ns.html?"
+      "googletagmanager.com/gtm.js"
      ]
     }
    },
@@ -7313,8 +7313,8 @@
    {
     "inphonic.com": {
      "inphonic.com": [
-      "inphonic.com",
-      "inphonic.com/tracking/"
+      "inphonic.com/tracking/",
+      "inphonic.com"
      ]
     }
    },
@@ -7924,7 +7924,7 @@
     "keywee.co": {
      "keywee.co": [
       "keywee.co",
-      "keywee.co/analytics.js?"
+      "keywee.co/analytics.js"
      ]
     }
    },
@@ -8274,9 +8274,10 @@
    {
     "lijit.com": {
      "lijit.com": [
-      "lijit.com",
-      "lijit.com/ip.php?",
-      "lijit.com/res/images/wijitTrack.gif"
+      "lijit.com/ip.php",
+      "lijit.com/res/images/wijitTrack.gif",
+      "lijit.com/blog_wijits",
+      "lijit.com"
      ]
     }
    },
@@ -9062,7 +9063,7 @@
     "mixpanel.com": {
      "mixpanel.com": [
       "mixpanel.com",
-      "mixpanel.com/track?"
+      "mixpanel.com/track"
      ]
     }
    },
@@ -10322,8 +10323,8 @@
    {
     "optimizely.com": {
      "optimizely.com": [
-      "optimizely.com/js/geo.js",
-      "optimizely.com"
+      "optimizely.com",
+      "optimizely.com/js/geo.js"
      ]
     }
    },
@@ -10393,8 +10394,8 @@
    {
     "otoshiana.com": {
      "otoshiana.com": [
-      "otoshiana.com",
-      "otoshiana.com/ufo/"
+      "otoshiana.com/ufo/",
+      "otoshiana.com"
      ]
     }
    },
@@ -11950,9 +11951,9 @@
    {
     "rkdms.com": {
      "rkdms.com": [
-      "rkdms.com/order.gif?",
+      "rkdms.com/sid.gif",
       "rkdms.com",
-      "rkdms.com/sid.gif?"
+      "rkdms.com/order.gif"
      ]
     }
    },
@@ -12155,8 +12156,8 @@
    {
     "ru4.com": {
      "ru4.com": [
-      "ru4.com",
-      "ru4.com/click?"
+      "ru4.com/click",
+      "ru4.com"
      ]
     }
    },
@@ -12941,8 +12942,8 @@
    {
     "skimresources.com": {
      "skimresources.com": [
-      "skimresources.com",
-      "skimresources.com/api/ref-banners.js"
+      "skimresources.com/api/ref-banners.js",
+      "skimresources.com"
      ]
     }
    },
@@ -14938,8 +14939,8 @@
    {
     "trovus.co.uk": {
      "trovus.co.uk": [
-      "trovus.co.uk",
-      "trovus.co.uk/tracker/"
+      "trovus.co.uk/tracker/",
+      "trovus.co.uk"
      ]
     }
    },
@@ -14995,9 +14996,9 @@
    {
     "tscapeplay.com": {
      "tscapeplay.com": [
-      "tscapeplay.com/pvim?",
-      "tscapeplay.com",
-      "tscapeplay.com/msvp.php?"
+      "tscapeplay.com/msvp.php",
+      "tscapeplay.com/pvim",
+      "tscapeplay.com"
      ]
     }
    },
@@ -15459,8 +15460,8 @@
    {
     "velaro.com": {
      "velaro.com": [
-      "velaro.com/lf/monitor2.aspx?",
-      "velaro.com"
+      "velaro.com",
+      "velaro.com/lf/monitor2.aspx"
      ]
     }
    },
@@ -15754,8 +15755,8 @@
    {
     "vizury.com": {
      "vizury.com": [
-      "vizury.com",
-      "vizury.com/analyze/"
+      "vizury.com/analyze/",
+      "vizury.com"
      ]
     }
    },
@@ -16519,7 +16520,7 @@
     "yellowbrix.com": {
      "yellowbrix.com": [
       "yellowbrix.com",
-      "yellowbrix.com/images/content/cimage.gif?"
+      "yellowbrix.com/images/content/cimage.gif"
      ]
     }
    },
@@ -18262,8 +18263,8 @@
    {
     "gus.host": {
      "gus.host": [
-      "gus.host/coins.js",
-      "gus.host"
+      "gus.host",
+      "gus.host/coins.js"
      ]
     }
    },
@@ -20139,8 +20140,8 @@
    {
     "turnsocial.com": {
      "turnsocial.com": [
-      "turnsocial.com",
-      "turnsocial.com/track/"
+      "turnsocial.com/track/",
+      "turnsocial.com"
      ]
     }
    },
@@ -23522,8 +23523,8 @@
    {
     "acs86.com": {
      "acs86.com": [
-      "acs86.com",
-      "acs86.com/t.js"
+      "acs86.com/t.js",
+      "acs86.com"
      ]
     }
    },
@@ -23866,9 +23867,9 @@
    {
     "tanx.com": {
      "tanx.com": [
-      "tanx.com/t/tanxclick.js",
       "tanx.com/t/tanxcollect.js",
-      "tanx.com"
+      "tanx.com",
+      "tanx.com/t/tanxclick.js"
      ]
     }
    },
@@ -24394,7 +24395,7 @@
     "gpr.hu": {
      "gpr.hu": [
       "gpr.hu",
-      "gpr.hu/pr.pr?"
+      "gpr.hu/pr.pr"
      ]
     }
    },
@@ -25018,8 +25019,8 @@
    {
     "macromill.com": {
      "macromill.com": [
-      "macromill.com/imp/",
-      "macromill.com"
+      "macromill.com",
+      "macromill.com/imp/"
      ]
     }
    },
@@ -25460,8 +25461,8 @@
    {
     "tagcdn.com": {
      "tagcdn.com": [
-      "tagcdn.com/pix/?",
-      "tagcdn.com"
+      "tagcdn.com",
+      "tagcdn.com/pix/"
      ]
     }
    },
@@ -25846,8 +25847,8 @@
    {
     "gnezdo.ru": {
      "gnezdo.ru": [
-      "gnezdo.ru/cgi-bin/",
-      "gnezdo.ru"
+      "gnezdo.ru",
+      "gnezdo.ru/cgi-bin/"
      ]
     }
    },
@@ -26820,7 +26821,7 @@
    {
     "101apps.com": {
      "101apps.com": [
-      "101apps.com/tracker.ashx?"
+      "101apps.com/tracker.ashx"
      ]
     }
    },
@@ -26841,7 +26842,7 @@
    {
     "184.73.203.249": {
      "184.73.203.249": [
-      "184.73.203.249/i.gif?"
+      "184.73.203.249/i.gif"
      ]
     }
    },
@@ -26883,7 +26884,7 @@
    {
     "3qsdn.com": {
      "3qsdn.com": [
-      "3qsdn.com/watchtime?"
+      "3qsdn.com/watchtime"
      ]
     }
    },
@@ -26904,16 +26905,16 @@
    {
     "5251.net": {
      "5251.net": [
-      "5251.net/stat.jsp?"
+      "5251.net/stat.jsp"
      ]
     }
    },
    {
     "5min.com": {
      "5min.com": [
-      "5min.com/PSRs?",
-      "5min.com/PSRq?",
-      "5min.com/flashcookie/StorageCookieSWF_"
+      "5min.com/PSRq",
+      "5min.com/flashcookie/StorageCookieSWF_",
+      "5min.com/PSRs"
      ]
     }
    },
@@ -26948,8 +26949,8 @@
    {
     "9msn.com.au": {
      "9msn.com.au": [
-      "9msn.com.au/share/com/js/fb_google_intercept.js",
-      "9msn.com.au"
+      "9msn.com.au",
+      "9msn.com.au/share/com/js/fb_google_intercept.js"
      ]
     }
    },
@@ -27005,7 +27006,7 @@
    {
     "acces-charme.com": {
      "acces-charme.com": [
-      "acces-charme.com/fakebar/track.php?"
+      "acces-charme.com/fakebar/track.php"
      ]
     }
    },
@@ -27061,13 +27062,13 @@
    {
     "ad.atdmt.com": {
      "ad.atdmt.com": [
-      "ad.atdmt.com/e/",
-      "ad.atdmt.com/i/go;",
-      "ad.atdmt.com/i/img/",
+      "ad.atdmt.com/c/",
       "ad.atdmt.com/s/",
-      "ad.atdmt.com/m/",
+      "ad.atdmt.com/i/go;",
       "ad.atdmt.com",
-      "ad.atdmt.com/c/"
+      "ad.atdmt.com/e/",
+      "ad.atdmt.com/i/img/",
+      "ad.atdmt.com/m/"
      ]
     }
    },
@@ -27081,18 +27082,18 @@
    {
     "addthis.com": {
      "addthis.com": [
-      "addthis.com",
-      "addthis.com/red/p.png?",
+      "addthis.com/red/p.png",
+      "addthis.com/at/",
       "addthis.com/live/",
-      "addthis.com/at/"
+      "addthis.com"
      ]
     }
    },
    {
     "addthiscdn.com": {
      "addthiscdn.com": [
-      "addthiscdn.com",
-      "addthiscdn.com/live/"
+      "addthiscdn.com/live/",
+      "addthiscdn.com"
      ]
     }
    },
@@ -27114,7 +27115,7 @@
     "adf.ly": {
      "adf.ly": [
       "adf.ly",
-      "adf.ly/ad/conv?"
+      "adf.ly/ad/conv"
      ]
     }
    },
@@ -27262,27 +27263,27 @@
    {
     "akamai.net": {
      "akamai.net": [
-      "akamai.net/chartbeat.",
-      "akamai.net"
+      "akamai.net",
+      "akamai.net/chartbeat."
      ]
     }
    },
    {
     "akamaihd.net": {
      "akamaihd.net": [
-      "akamaihd.net/javascripts/browserfp.",
-      "akamaihd.net/push.gif?",
+      "akamaihd.net/push.gif",
       "akamaihd.net/pixelkabam/",
-      "akamaihd.net/bping.php?",
-      "akamaihd.net",
-      "akamaihd.net/log?"
+      "akamaihd.net/bping.php",
+      "akamaihd.net/log",
+      "akamaihd.net/javascripts/browserfp.",
+      "akamaihd.net"
      ]
     }
    },
    {
     "akamaized.net": {
      "akamaized.net": [
-      "akamaized.net/?u="
+      "akamaized.net/"
      ]
     }
    },
@@ -27296,7 +27297,7 @@
    {
     "aklamio.com": {
      "aklamio.com": [
-      "aklamio.com/ovlbtntrk?"
+      "aklamio.com/ovlbtntrk"
      ]
     }
    },
@@ -27310,8 +27311,8 @@
    {
     "alexa.com": {
      "alexa.com": [
-      "alexa.com/traffic/",
-      "alexa.com/minisiteinfo/"
+      "alexa.com/minisiteinfo/",
+      "alexa.com/traffic/"
      ]
     }
    },
@@ -27319,8 +27320,8 @@
     "alipay.com": {
      "alipay.com": [
       "alipay.com/common/um/lsa.swf",
-      "alipay.com/web/bi.do?ref=",
-      "alipay.com/service/clear.png?"
+      "alipay.com/web/bi.do",
+      "alipay.com/service/clear.png"
      ]
     }
    },
@@ -27348,7 +27349,7 @@
    {
     "alooma.io": {
      "alooma.io": [
-      "alooma.io/track/?"
+      "alooma.io/track/"
      ]
     }
    },
@@ -27362,8 +27363,8 @@
    {
     "amatomu.com": {
      "amatomu.com": [
-      "amatomu.com/log.php?",
-      "amatomu.com/link/log/"
+      "amatomu.com/link/log/",
+      "amatomu.com/log.php"
      ]
     }
    },
@@ -27371,31 +27372,31 @@
     "amazon.com": {
      "amazon.com": [
       "amazon.com/gp/yourstore/recs/",
-      "amazon.com",
-      "amazon.com/clog/"
+      "amazon.com/clog/",
+      "amazon.com"
      ]
     }
    },
    {
     "amazonaws.com": {
      "amazonaws.com": [
-      "amazonaws.com/searchdiscovery-satellite-production/",
-      "amazonaws.com/js/reach.js",
-      "amazonaws.com/new.cetrk.com/",
-      "amazonaws.com/gaL.js",
-      "amazonaws.com/ki.js/",
+      "amazonaws.com/g.aspx",
+      "amazonaws.com/analytics.",
+      "amazonaws.com/",
+      "amazonaws.com/fstrk.net/",
       "amazonaws.com/wgntrk/",
       "amazonaws.com/cdn.barilliance.com/",
-      "amazonaws.com/?wsid=",
-      "amazonaws.com/g.aspx",
       "amazonaws.com/initialize/",
-      "amazonaws.com/fstrk.net/",
-      "amazonaws.com/analytics.",
-      "amazonaws.com/accio-lib/accip_script.js",
-      "amazonaws.com",
-      "amazonaws.com/beacon/vtpixpc.gif?",
       "amazonaws.com/amacrpr/crpr.js",
-      "amazonaws.com/statics.reedge.com/"
+      "amazonaws.com/ki.js/",
+      "amazonaws.com/beacon/vtpixpc.gif",
+      "amazonaws.com/searchdiscovery-satellite-production/",
+      "amazonaws.com/gaL.js",
+      "amazonaws.com/accio-lib/accip_script.js",
+      "amazonaws.com/new.cetrk.com/",
+      "amazonaws.com/statics.reedge.com/",
+      "amazonaws.com",
+      "amazonaws.com/js/reach.js"
      ]
     }
    },
@@ -28053,19 +28054,19 @@
    {
     "anvato.com": {
      "anvato.com": [
-      "anvato.com/anvatoloader.swf?analytics="
+      "anvato.com/anvatoloader.swf"
      ]
     }
    },
    {
     "aol.com": {
      "aol.com": [
-      "aol.com/master/?",
+      "aol.com/track/",
+      "aol.com/metrics/",
       "aol.com/articles/traffic/",
       "aol.com/beacons/",
-      "aol.com/ping?",
-      "aol.com/track/",
-      "aol.com/metrics/"
+      "aol.com/master/",
+      "aol.com/ping"
      ]
     }
    },
@@ -28080,8 +28081,8 @@
     "aolcdn.com": {
      "aolcdn.com": [
       "aolcdn.com",
-      "aolcdn.com/js/mg2.js",
-      "aolcdn.com/omniunih_int.js"
+      "aolcdn.com/omniunih_int.js",
+      "aolcdn.com/js/mg2.js"
      ]
     }
    },
@@ -28144,7 +28145,7 @@
    {
     "app.cdn-cs.com": {
      "app.cdn-cs.com": [
-      "app.cdn-cs.com/__t.png?"
+      "app.cdn-cs.com/__t.png"
      ]
     }
    },
@@ -28200,7 +28201,7 @@
    {
     "appsolutions.com": {
      "appsolutions.com": [
-      "appsolutions.com/hitme?"
+      "appsolutions.com/hitme"
      ]
     }
    },
@@ -28208,23 +28209,23 @@
     "appspot.com": {
      "appspot.com": [
       "appspot.com/tracking/",
-      "appspot.com/collect",
       "appspot.com/api/track/",
-      "appspot.com/stats?"
+      "appspot.com/stats",
+      "appspot.com/collect"
      ]
     }
    },
    {
     "arclk.net": {
      "arclk.net": [
-      "arclk.net/trax?"
+      "arclk.net/trax"
      ]
     }
    },
    {
     "areyouahuman.com": {
      "areyouahuman.com": [
-      "areyouahuman.com/kitten?"
+      "areyouahuman.com/kitten"
      ]
     }
    },
@@ -28238,8 +28239,8 @@
    {
     "ask.com": {
      "ask.com": [
-      "ask.com",
-      "ask.com/servlets/ulog?"
+      "ask.com/servlets/ulog",
+      "ask.com"
      ]
     }
    },
@@ -28253,17 +28254,17 @@
    {
     "atdmt.com": {
      "atdmt.com": [
-      "atdmt.com/iaction/",
       "atdmt.com/jaction/",
+      "atdmt.com/action/",
       "atdmt.com/mstag/",
-      "atdmt.com/action/"
+      "atdmt.com/iaction/"
      ]
     }
    },
    {
     "atom-data.io": {
      "atom-data.io": [
-      "atom-data.io/session/latest/track.html?"
+      "atom-data.io/session/latest/track.html"
      ]
     }
    },
@@ -28277,7 +28278,7 @@
    {
     "auctiva.com": {
      "auctiva.com": [
-      "auctiva.com/Default.aspx?query"
+      "auctiva.com/Default.aspx"
      ]
     }
    },
@@ -28361,8 +28362,8 @@
    {
     "azurewebsites.net": {
      "azurewebsites.net": [
-      "azurewebsites.net/TrackView/",
-      "azurewebsites.net"
+      "azurewebsites.net",
+      "azurewebsites.net/TrackView/"
      ]
     }
    },
@@ -28404,20 +28405,20 @@
    {
     "baidu.com": {
      "baidu.com": [
-      "baidu.com/billboard/pushlog/",
-      "baidu.com/cpro/ui/c.js",
-      "baidu.com/dalog/",
-      "baidu.com/js/o.js",
-      "baidu.com/x.js?",
-      "baidu.com/hm.gif?",
-      "baidu.com/ecom?",
-      "baidu.com",
-      "baidu.com/tb/pms/img/st.gif?",
-      "baidu.com/js/log.js",
+      "baidu.com/x.js",
       "baidu.com/cpro/ui/f.js",
+      "baidu.com/h.js",
+      "baidu.com/js/o.js",
+      "baidu.com/hm.gif",
+      "baidu.com/billboard/pushlog/",
+      "baidu.com",
+      "baidu.com/tb/pms/img/st.gif",
+      "baidu.com/dalog/",
+      "baidu.com/cpro/ui/c.js",
+      "baidu.com/ecom",
       "baidu.com/js/m.js",
-      "baidu.com/pixel?",
-      "baidu.com/h.js?"
+      "baidu.com/js/log.js",
+      "baidu.com/pixel"
      ]
     }
    },
@@ -28656,16 +28657,16 @@
    {
     "bidsystem.com": {
      "bidsystem.com": [
-      "bidsystem.com/ppc/sendtracker.aspx?"
+      "bidsystem.com/ppc/sendtracker.aspx"
      ]
     }
    },
    {
     "bing.com": {
      "bing.com": [
-      "bing.com/widget/metrics.js",
-      "bing.com",
       "bing.com/action/",
+      "bing.com",
+      "bing.com/widget/metrics.js",
       "bing.com/partner/primedns"
      ]
     }
@@ -28673,7 +28674,7 @@
    {
     "bit.ly": {
      "bit.ly": [
-      "bit.ly/stats?"
+      "bit.ly/stats"
      ]
     }
    },
@@ -28687,8 +28688,8 @@
    {
     "bitgravity.com": {
      "bitgravity.com": [
-      "bitgravity.com",
-      "bitgravity.com/b.gif"
+      "bitgravity.com/b.gif",
+      "bitgravity.com"
      ]
     }
    },
@@ -28758,7 +28759,7 @@
    {
     "bobparsons.com": {
      "bobparsons.com": [
-      "bobparsons.com/image.aspx?"
+      "bobparsons.com/image.aspx"
      ]
     }
    },
@@ -28772,7 +28773,7 @@
    {
     "bpath.com": {
      "bpath.com": [
-      "bpath.com/count.dll?"
+      "bpath.com/count.dll"
      ]
     }
    },
@@ -28800,22 +28801,22 @@
    {
     "break.com": {
      "break.com": [
-      "break.com/break/js/brktrkr.js",
-      "break.com/apextracker/"
+      "break.com/apextracker/",
+      "break.com/break/js/brktrkr.js"
      ]
     }
    },
    {
     "breakingburner.com": {
      "breakingburner.com": [
-      "breakingburner.com/stats.html?"
+      "breakingburner.com/stats.html"
      ]
     }
    },
    {
     "breakmedia.com": {
      "breakmedia.com": [
-      "breakmedia.com/track.jpg?"
+      "breakmedia.com/track.jpg"
      ]
     }
    },
@@ -28857,7 +28858,7 @@
    {
     "bufferapp.com": {
      "bufferapp.com": [
-      "bufferapp.com/wf/open?upn="
+      "bufferapp.com/wf/open"
      ]
     }
    },
@@ -28892,7 +28893,7 @@
    {
     "bzpics.com": {
      "bzpics.com": [
-      "bzpics.com/jslib/st.js?"
+      "bzpics.com/jslib/st.js"
      ]
     }
    },
@@ -28997,14 +28998,14 @@
    {
     "capture.bi.movideo.com": {
      "capture.bi.movideo.com": [
-      "capture.bi.movideo.com/dc?"
+      "capture.bi.movideo.com/dc"
      ]
     }
    },
    {
     "capture.camify.com": {
      "capture.camify.com": [
-      "capture.camify.com/dc?"
+      "capture.camify.com/dc"
      ]
     }
    },
@@ -29145,7 +29146,7 @@
    {
     "circonus.com": {
      "circonus.com": [
-      "circonus.com/hit?"
+      "circonus.com/hit"
      ]
     }
    },
@@ -29173,8 +29174,8 @@
    {
     "clearspring.com": {
      "clearspring.com": [
-      "clearspring.com/at/",
-      "clearspring.com/t/"
+      "clearspring.com/t/",
+      "clearspring.com/at/"
      ]
     }
    },
@@ -29230,10 +29231,10 @@
    {
     "clickfunnels.com": {
      "clickfunnels.com": [
-      "clickfunnels.com",
       "clickfunnels.com/userevents/",
+      "clickfunnels.com/assets/pushcrew.js",
       "clickfunnels.com/cf.js",
-      "clickfunnels.com/assets/pushcrew.js"
+      "clickfunnels.com"
      ]
     }
    },
@@ -29303,14 +29304,14 @@
    {
     "clipsyndicate.com": {
      "clipsyndicate.com": [
-      "clipsyndicate.com/cs_api/cliplog?"
+      "clipsyndicate.com/cs_api/cliplog"
      ]
     }
    },
    {
     "clnk.me": {
      "clnk.me": [
-      "clnk.me/_t.gif?"
+      "clnk.me/_t.gif"
      ]
     }
    },
@@ -29331,48 +29332,48 @@
    {
     "cloudfront.net": {
      "cloudfront.net": [
-      "cloudfront.net/autotracker",
-      "cloudfront.net/code/keen-2.1.0-min.js",
-      "cloudfront.net/amznUrchin.js",
-      "cloudfront.net/bti/",
-      "cloudfront.net/rum/bacon.min.js",
-      "cloudfront.net/vis_opt_no_jquery.js",
-      "cloudfront.net/khp.js",
-      "cloudfront.net/log.js?",
-      "cloudfront.net/performable/",
-      "cloudfront.net/analyticsengine/",
-      "cloudfront.net/i?stm=",
-      "cloudfront.net/js/ca.js",
-      "cloudfront.net/abw.js",
-      "cloudfront.net/bbc-filter.js",
-      "cloudfront.net/rc.js?",
-      "cloudfront.net/esf.js",
-      "cloudfront.net/js/reach.js",
-      "cloudfront.net/analytics.js",
-      "cloudfront.net/track?",
-      "cloudfront.net/m/princess/ae.js",
+      "cloudfront.net/trackb.html",
       "cloudfront.net",
       "cloudfront.net/zephyr.js",
+      "cloudfront.net/performable/",
       "cloudfront.net/powr.js",
-      "cloudfront.net/smartserve-",
-      "cloudfront.net/sitegainer_",
-      "cloudfront.net/?a=",
-      "cloudfront.net/trackb.html",
-      "cloudfront.net/vis_opt.js",
-      "cloudfront.net/track.html",
       "cloudfront.net/sso.js",
-      "cloudfront.net/m/princess/ae.live.js",
-      "cloudfront.net/customers/24868.min.js",
-      "cloudfront.net/pt1x1.gif",
+      "cloudfront.net/analyticsengine/",
+      "cloudfront.net/",
+      "cloudfront.net/esf.js",
       "cloudfront.net/websites/sb.js",
-      "cloudfront.net/sentinel.js"
+      "cloudfront.net/rc.js",
+      "cloudfront.net/log.js",
+      "cloudfront.net/amznUrchin.js",
+      "cloudfront.net/pt1x1.gif",
+      "cloudfront.net/analytics.js",
+      "cloudfront.net/abw.js",
+      "cloudfront.net/vis_opt_no_jquery.js",
+      "cloudfront.net/bti/",
+      "cloudfront.net/m/princess/ae.live.js",
+      "cloudfront.net/khp.js",
+      "cloudfront.net/js/reach.js",
+      "cloudfront.net/vis_opt.js",
+      "cloudfront.net/bbc-filter.js",
+      "cloudfront.net/autotracker",
+      "cloudfront.net/customers/24868.min.js",
+      "cloudfront.net/sitegainer_",
+      "cloudfront.net/sentinel.js",
+      "cloudfront.net/i",
+      "cloudfront.net/js/ca.js",
+      "cloudfront.net/smartserve-",
+      "cloudfront.net/track.html",
+      "cloudfront.net/track",
+      "cloudfront.net/code/keen-2.1.0-min.js",
+      "cloudfront.net/rum/bacon.min.js",
+      "cloudfront.net/m/princess/ae.js"
      ]
     }
    },
    {
     "cloudfunctions.net": {
      "cloudfunctions.net": [
-      "cloudfunctions.net/ingest?"
+      "cloudfunctions.net/ingest"
      ]
     }
    },
@@ -29393,7 +29394,7 @@
    {
     "cnetcontent.com": {
      "cnetcontent.com": [
-      "cnetcontent.com/log?"
+      "cnetcontent.com/log"
      ]
     }
    },
@@ -29561,7 +29562,7 @@
    {
     "condenastdigital.com": {
      "condenastdigital.com": [
-      "condenastdigital.com/content?"
+      "condenastdigital.com/content"
      ]
     }
    },
@@ -29576,7 +29577,7 @@
    {
     "contactatonce.com": {
      "contactatonce.com": [
-      "contactatonce.com/VisitorContext.aspx?"
+      "contactatonce.com/VisitorContext.aspx"
      ]
     }
    },
@@ -29590,7 +29591,7 @@
    {
     "contentpass.net": {
      "contentpass.net": [
-      "contentpass.net/stats?"
+      "contentpass.net/stats"
      ]
     }
    },
@@ -29821,8 +29822,8 @@
    {
     "creativecdn.com": {
      "creativecdn.com": [
-      "creativecdn.com/pix/?",
-      "creativecdn.com/tags?"
+      "creativecdn.com/pix/",
+      "creativecdn.com/tags"
      ]
     }
    },
@@ -29843,9 +29844,9 @@
    {
     "crowdskout.com": {
      "crowdskout.com": [
+      "crowdskout.com",
       "crowdskout.com/skout.js",
-      "crowdskout.com/analytics.js",
-      "crowdskout.com"
+      "crowdskout.com/analytics.js"
      ]
     }
    },
@@ -30587,7 +30588,7 @@
    {
     "data.fotorama.io": {
      "data.fotorama.io": [
-      "data.fotorama.io/?"
+      "data.fotorama.io/"
      ]
     }
    },
@@ -30678,7 +30679,7 @@
    {
     "dditscdn.com": {
      "dditscdn.com": [
-      "dditscdn.com/?a="
+      "dditscdn.com/"
      ]
     }
    },
@@ -30714,7 +30715,7 @@
     "dell.com": {
      "dell.com": [
       "dell.com",
-      "dell.com/TAG/tag.aspx?",
+      "dell.com/TAG/tag.aspx",
       "dell.com/metrics/"
      ]
     }
@@ -30778,7 +30779,7 @@
    {
     "digimedia.com": {
      "digimedia.com": [
-      "digimedia.com/pageviews.php?"
+      "digimedia.com/pageviews.php"
      ]
     }
    },
@@ -30807,7 +30808,7 @@
     "disqus.com": {
      "disqus.com": [
       "disqus.com/stats.html",
-      "disqus.com/api/ping?"
+      "disqus.com/api/ping"
      ]
     }
    },
@@ -31066,10 +31067,10 @@
    {
     "elb.amazonaws.com": {
      "elb.amazonaws.com": [
-      "elb.amazonaws.com/partner.gif?",
-      "elb.amazonaws.com/g.aspx?surl=",
       "elb.amazonaws.com",
-      "elb.amazonaws.com/small.gif?"
+      "elb.amazonaws.com/partner.gif",
+      "elb.amazonaws.com/g.aspx",
+      "elb.amazonaws.com/small.gif"
      ]
     }
    },
@@ -31083,7 +31084,7 @@
    {
     "email.mediafire.com": {
      "email.mediafire.com": [
-      "email.mediafire.com/wf/open?"
+      "email.mediafire.com/wf/open"
      ]
     }
    },
@@ -31097,7 +31098,7 @@
    {
     "embed.docstoc.com": {
      "embed.docstoc.com": [
-      "embed.docstoc.com/Flash.asmx/StoreReffer?"
+      "embed.docstoc.com/Flash.asmx/StoreReffer"
      ]
     }
    },
@@ -31146,7 +31147,7 @@
    {
     "erne.co": {
      "erne.co": [
-      "erne.co/tags?"
+      "erne.co/tags"
      ]
     }
    },
@@ -31377,22 +31378,22 @@
    {
     "facebook.com": {
      "facebook.com": [
-      "facebook.com/brandlift.php",
       "facebook.com/ct.php",
-      "facebook.com/xti.php?",
-      "facebook.com/rtb_video/?",
-      "facebook.com/common/scribe_endpoint.php",
-      "facebook.com/tr",
-      "facebook.com/js/conversions/tracking.js",
-      "facebook.com/method/links.getStats?",
-      "facebook.com/email_open_log_pic.php",
       "facebook.com",
-      "facebook.com/ai.php?",
-      "facebook.com/offsite_event.php",
+      "facebook.com/ai.php",
+      "facebook.com/rtb_video/",
+      "facebook.com/common/scribe_endpoint.php",
+      "facebook.com/xti.php",
+      "facebook.com/js/conversions/tracking.js",
+      "facebook.com/email_open_log_pic.php",
+      "facebook.com/method/links.getStats",
+      "facebook.com/tr",
       "facebook.com/friends/requests/log_impressions",
-      "facebook.com/fr/u.php?",
-      "facebook.com/rtb_impression/?",
-      "facebook.com/search/web/instrumentation.php?"
+      "facebook.com/rtb_impression/",
+      "facebook.com/fr/u.php",
+      "facebook.com/offsite_event.php",
+      "facebook.com/search/web/instrumentation.php",
+      "facebook.com/brandlift.php"
      ]
     }
    },
@@ -31420,8 +31421,8 @@
    {
     "fastly.net": {
      "fastly.net": [
-      "fastly.net/i?",
-      "fastly.net/collect?"
+      "fastly.net/collect",
+      "fastly.net/i"
      ]
     }
    },
@@ -31442,8 +31443,8 @@
    {
     "feedblitz.com": {
      "feedblitz.com": [
-      "feedblitz.com",
-      "feedblitz.com/imp?"
+      "feedblitz.com/imp",
+      "feedblitz.com"
      ]
     }
    },
@@ -31464,7 +31465,7 @@
    {
     "flashi.tv": {
      "flashi.tv": [
-      "flashi.tv/histats.php?"
+      "flashi.tv/histats.php"
      ]
     }
    },
@@ -31506,7 +31507,7 @@
    {
     "flux.com": {
      "flux.com": [
-      "flux.com/geo.html?"
+      "flux.com/geo.html"
      ]
     }
    },
@@ -31569,7 +31570,7 @@
    {
     "ftimg.net": {
      "ftimg.net": [
-      "ftimg.net/js/log.js?"
+      "ftimg.net/js/log.js"
      ]
     }
    },
@@ -31590,8 +31591,8 @@
    {
     "fwix.com": {
      "fwix.com": [
-      "fwix.com/ref.js",
-      "fwix.com"
+      "fwix.com",
+      "fwix.com/ref.js"
      ]
     }
    },
@@ -31633,7 +31634,7 @@
    {
     "gamegecko.com": {
      "gamegecko.com": [
-      "gamegecko.com/gametrack?"
+      "gamegecko.com/gametrack"
      ]
     }
    },
@@ -31647,15 +31648,15 @@
    {
     "gcion.com": {
      "gcion.com": [
-      "gcion.com/gcion.ashx?"
+      "gcion.com/gcion.ashx"
      ]
     }
    },
    {
     "geckofoot.com": {
      "geckofoot.com": [
-      "geckofoot.com/gfcounterimg.aspx?",
-      "geckofoot.com/gfvisitormap.aspx?"
+      "geckofoot.com/gfvisitormap.aspx",
+      "geckofoot.com/gfcounterimg.aspx"
      ]
     }
    },
@@ -31760,7 +31761,7 @@
    {
     "getrockerbox.com": {
      "getrockerbox.com": [
-      "getrockerbox.com/pixel?"
+      "getrockerbox.com/pixel"
      ]
     }
    },
@@ -31782,8 +31783,8 @@
     "github.com": {
      "github.com": [
       "github.com/_private/browser/stats",
-      "github.com/notifications/beacon/",
       "github.com/_stats",
+      "github.com/notifications/beacon/",
       "github.com/hydro_browser_events"
      ]
     }
@@ -31791,10 +31792,10 @@
    {
     "glam.com": {
      "glam.com": [
-      "glam.com/ctagsimgcmd.act?",
-      "glam.com/jsadimp.gif?",
-      "glam.com/cece/agof/",
-      "glam.com"
+      "glam.com",
+      "glam.com/ctagsimgcmd.act",
+      "glam.com/jsadimp.gif",
+      "glam.com/cece/agof/"
      ]
     }
    },
@@ -31808,7 +31809,7 @@
    {
     "gleam.io": {
      "gleam.io": [
-      "gleam.io/seen?"
+      "gleam.io/seen"
      ]
     }
    },
@@ -31829,11 +31830,11 @@
    {
     "go.com": {
      "go.com": [
-      "go.com/stat/",
-      "go.com/disneyid/responder?",
-      "go.com",
       "go.com/globalelements/utils/tracking",
-      "go.com/capmon/GetDE/?"
+      "go.com/capmon/GetDE/",
+      "go.com",
+      "go.com/stat/",
+      "go.com/disneyid/responder"
      ]
     }
    },
@@ -31861,7 +31862,7 @@
    {
     "goals.ar.gy": {
      "goals.ar.gy": [
-      "goals.ar.gy/bug.gif?"
+      "goals.ar.gy/bug.gif"
      ]
     }
    },
@@ -31875,17 +31876,17 @@
    {
     "godaddy.com": {
      "godaddy.com": [
-      "godaddy.com/pageevents.aspx",
+      "godaddy.com/image.aspx",
       "godaddy.com/js/gdwebbeacon.js",
-      "godaddy.com/image.aspx?"
+      "godaddy.com/pageevents.aspx"
      ]
     }
    },
    {
     "googleapis.com": {
      "googleapis.com": [
-      "googleapis.com/ivc.js",
       "googleapis.com/aam.js",
+      "googleapis.com/ivc.js",
       "googleapis.com"
      ]
     }
@@ -31907,7 +31908,7 @@
    {
     "gotdns.com": {
      "gotdns.com": [
-      "gotdns.com/track/blank.aspx?"
+      "gotdns.com/track/blank.aspx"
      ]
     }
    },
@@ -31929,7 +31930,7 @@
    {
     "grabnetworks.com": {
      "grabnetworks.com": [
-      "grabnetworks.com/ping?",
+      "grabnetworks.com/ping",
       "grabnetworks.com/beacons/"
      ]
     }
@@ -31966,7 +31967,7 @@
     "gstatic.com": {
      "gstatic.com": [
       "gstatic.com/gadf/ga_dyn.js",
-      "gstatic.com/gen_204?"
+      "gstatic.com/gen_204"
      ]
     }
    },
@@ -31994,7 +31995,7 @@
    {
     "h2porn.com": {
      "h2porn.com": [
-      "h2porn.com/new-hit/?"
+      "h2porn.com/new-hit/"
      ]
     }
    },
@@ -32043,7 +32044,7 @@
    {
     "hellobar.com": {
      "hellobar.com": [
-      "hellobar.com/ping?"
+      "hellobar.com/ping"
      ]
     }
    },
@@ -32058,14 +32059,14 @@
     "heroku.com": {
      "heroku.com": [
       "heroku.com/track.js",
-      "heroku.com/?callback=getip"
+      "heroku.com/"
      ]
     }
    },
    {
     "hgcdn.net": {
      "hgcdn.net": [
-      "hgcdn.net/?"
+      "hgcdn.net/"
      ]
     }
    },
@@ -32142,7 +32143,7 @@
    {
     "hostingtoolbox.com": {
      "hostingtoolbox.com": [
-      "hostingtoolbox.com/bin/Count.cgi?"
+      "hostingtoolbox.com/bin/Count.cgi"
      ]
     }
    },
@@ -32164,8 +32165,8 @@
     "hubspot.com": {
      "hubspot.com": [
       "hubspot.com/analytics/",
-      "hubspot.com/cs/loader-v2.js",
-      "hubspot.com/tracking/"
+      "hubspot.com/tracking/",
+      "hubspot.com/cs/loader-v2.js"
      ]
     }
    },
@@ -32250,15 +32251,15 @@
    {
     "imgfarm.com": {
      "imgfarm.com": [
-      "imgfarm.com",
-      "imgfarm.com/images/trk/myexcitetr.gif?"
+      "imgfarm.com/images/trk/myexcitetr.gif",
+      "imgfarm.com"
      ]
     }
    },
    {
     "imghostsrc.com": {
      "imghostsrc.com": [
-      "imghostsrc.com/counter.php?"
+      "imghostsrc.com/counter.php"
      ]
     }
    },
@@ -32300,7 +32301,7 @@
    {
     "impi.tv": {
      "impi.tv": [
-      "impi.tv/trackvideo.aspx?"
+      "impi.tv/trackvideo.aspx"
      ]
     }
    },
@@ -32314,7 +32315,7 @@
    {
     "ind.sh": {
      "ind.sh": [
-      "ind.sh/view.php?"
+      "ind.sh/view.php"
      ]
     }
    },
@@ -32328,7 +32329,7 @@
    {
     "infogr.am": {
      "infogr.am": [
-      "infogr.am/logger.php?",
+      "infogr.am/logger.php",
       "infogr.am/js/metrics.js"
      ]
     }
@@ -32357,9 +32358,9 @@
    {
     "inq.com": {
      "inq.com": [
+      "inq.com",
       "inq.com/tagserver/tracking/",
-      "inq.com/tagserver/logging/",
-      "inq.com"
+      "inq.com/tagserver/logging/"
      ]
     }
    },
@@ -32416,16 +32417,16 @@
    {
     "intensedebate.com": {
      "intensedebate.com": [
-      "intensedebate.com/widgets/blogstats/",
+      "intensedebate.com/remotevisit.php",
       "intensedebate.com/empty.php",
-      "intensedebate.com/remotevisit.php?"
+      "intensedebate.com/widgets/blogstats/"
      ]
     }
    },
    {
     "interestsearch.net": {
      "interestsearch.net": [
-      "interestsearch.net/videoTracker.js?"
+      "interestsearch.net/videoTracker.js"
      ]
     }
    },
@@ -32446,16 +32447,16 @@
    {
     "io.narrative.io": {
      "io.narrative.io": [
-      "io.narrative.io/?"
+      "io.narrative.io/"
      ]
     }
    },
    {
     "ioam.de": {
      "ioam.de": [
-      "ioam.de/tx.io?",
-      "ioam.de/?",
-      "ioam.de/aid.io?"
+      "ioam.de/aid.io",
+      "ioam.de/",
+      "ioam.de/tx.io"
      ]
     }
    },
@@ -32483,7 +32484,7 @@
    {
     "iyisayfa.net": {
      "iyisayfa.net": [
-      "iyisayfa.net/inc.php?"
+      "iyisayfa.net/inc.php"
      ]
     }
    },
@@ -32546,7 +32547,7 @@
    {
     "jsrdn.com": {
      "jsrdn.com": [
-      "jsrdn.com/i/1.gif?"
+      "jsrdn.com/i/1.gif"
      ]
     }
    },
@@ -32631,7 +32632,7 @@
    {
     "l-host.net": {
      "l-host.net": [
-      "l-host.net/etn/omnilog?"
+      "l-host.net/etn/omnilog"
      ]
     }
    },
@@ -32715,7 +32716,7 @@
    {
     "lederer.nl": {
      "lederer.nl": [
-      "lederer.nl/incl/stats.js.php?"
+      "lederer.nl/incl/stats.js.php"
      ]
     }
    },
@@ -32737,9 +32738,9 @@
    {
     "letv.com": {
      "letv.com": [
-      "letv.com/op?",
+      "letv.com/cloud_pl/",
       "letv.com/env/",
-      "letv.com/cloud_pl/"
+      "letv.com/op"
      ]
     }
    },
@@ -32753,9 +32754,9 @@
    {
     "ligatus.com": {
      "ligatus.com": [
-      "ligatus.com/push/url.gif?",
       "ligatus.com/script/viewtracker-",
-      "ligatus.com/rms/rend?"
+      "ligatus.com/push/url.gif",
+      "ligatus.com/rms/rend"
      ]
     }
    },
@@ -32769,7 +32770,7 @@
    {
     "lingows.appspot.com": {
      "lingows.appspot.com": [
-      "lingows.appspot.com/page_data/?"
+      "lingows.appspot.com/page_data/"
      ]
     }
    },
@@ -32811,8 +32812,8 @@
    {
     "linkbucks.com": {
      "linkbucks.com": [
-      "linkbucks.com/track/",
-      "linkbucks.com/visitScript/"
+      "linkbucks.com/visitScript/",
+      "linkbucks.com/track/"
      ]
     }
    },
@@ -32861,24 +32862,24 @@
    {
     "livefyre.com": {
      "livefyre.com": [
-      "livefyre.com",
+      "livefyre.com/libs/tracker/",
       "livefyre.com/tracking/",
-      "livefyre.com/libs/tracker/"
+      "livefyre.com"
      ]
     }
    },
    {
     "livehelpnow.net": {
      "livehelpnow.net": [
-      "livehelpnow.net/lhn/jsutil/getinvitationmessage.aspx?"
+      "livehelpnow.net/lhn/jsutil/getinvitationmessage.aspx"
      ]
     }
    },
    {
     "liverail.com": {
      "liverail.com": [
-      "liverail.com/?metric=",
-      "liverail.com/track/?"
+      "liverail.com/",
+      "liverail.com/track/"
      ]
     }
    },
@@ -33074,7 +33075,7 @@
    {
     "longurl.it": {
      "longurl.it": [
-      "longurl.it/_t.gif?"
+      "longurl.it/_t.gif"
      ]
     }
    },
@@ -33179,10 +33180,10 @@
    {
     "mail.ru": {
      "mail.ru": [
+      "mail.ru/k",
+      "mail.ru/grstat",
       "mail.ru/count/",
-      "mail.ru/k?",
-      "mail.ru/grstat?",
-      "mail.ru/counter?"
+      "mail.ru/counter"
      ]
     }
    },
@@ -33218,14 +33219,14 @@
     "mansion.com": {
      "mansion.com": [
       "mansion.com/mts.tracker.js",
-      "mansion.com/collect.js?"
+      "mansion.com/collect.js"
      ]
     }
    },
    {
     "mantisadnetwork.com": {
      "mantisadnetwork.com": [
-      "mantisadnetwork.com/sync?"
+      "mantisadnetwork.com/sync"
      ]
     }
    },
@@ -33247,7 +33248,7 @@
     "marketingautomation.services": {
      "marketingautomation.services": [
       "marketingautomation.services/koi",
-      "marketingautomation.services/net?"
+      "marketingautomation.services/net"
      ]
     }
    },
@@ -33282,10 +33283,10 @@
    {
     "maxmind.com": {
      "maxmind.com": [
-      "maxmind.com/app/",
       "maxmind.com",
       "maxmind.com/js/device.js",
       "maxmind.com/geoip/",
+      "maxmind.com/app/",
       "maxmind.com/js/country.js"
      ]
     }
@@ -33328,7 +33329,7 @@
    {
     "media-imdb.com": {
      "media-imdb.com": [
-      "media-imdb.com/twilight/?",
+      "media-imdb.com/twilight/",
       "media-imdb.com"
      ]
     }
@@ -33371,7 +33372,7 @@
    {
     "meebo.com": {
      "meebo.com": [
-      "meebo.com/cim/sandbox.php?"
+      "meebo.com/cim/sandbox.php"
      ]
     }
    },
@@ -33641,14 +33642,14 @@
    {
     "museter.com": {
      "museter.com": [
-      "museter.com/track.php?"
+      "museter.com/track.php"
      ]
     }
    },
    {
     "musvc2.net": {
      "musvc2.net": [
-      "musvc2.net/e/c?"
+      "musvc2.net/e/c"
      ]
     }
    },
@@ -33746,15 +33747,15 @@
    {
     "nbcudigitaladops.com": {
      "nbcudigitaladops.com": [
-      "nbcudigitaladops.com",
-      "nbcudigitaladops.com/hosted/housepix.gif"
+      "nbcudigitaladops.com/hosted/housepix.gif",
+      "nbcudigitaladops.com"
      ]
     }
    },
    {
     "needle.com": {
      "needle.com": [
-      "needle.com/pageload?"
+      "needle.com/pageload"
      ]
     }
    },
@@ -33796,7 +33797,7 @@
    {
     "netscape.com": {
      "netscape.com": [
-      "netscape.com/c.cgi?"
+      "netscape.com/c.cgi"
      ]
     }
    },
@@ -33824,7 +33825,7 @@
    {
     "nice264.com": {
      "nice264.com": [
-      "nice264.com/data?"
+      "nice264.com/data"
      ]
     }
    },
@@ -33958,7 +33959,7 @@
    {
     "ohnorobot.com": {
      "ohnorobot.com": [
-      "ohnorobot.com/verify.pl?"
+      "ohnorobot.com/verify.pl"
      ]
     }
    },
@@ -33993,18 +33994,18 @@
    {
     "onsugar.com": {
      "onsugar.com": [
-      "onsugar.com/static/ck.php?"
+      "onsugar.com/static/ck.php"
      ]
     }
    },
    {
     "ooyala.com": {
      "ooyala.com": [
-      "ooyala.com/verify?",
       "ooyala.com",
+      "ooyala.com/authorized",
+      "ooyala.com/sas/analytics",
       "ooyala.com/3rdparty/comscore_",
-      "ooyala.com/sas/analytics?",
-      "ooyala.com/authorized?analytics"
+      "ooyala.com/verify"
      ]
     }
    },
@@ -34074,9 +34075,8 @@
    {
     "p.po.st": {
      "p.po.st": [
-      "p.po.st",
-      "p.po.st/p?t=view&",
-      "p.po.st/p?pub="
+      "p.po.st/p",
+      "p.po.st"
      ]
     }
    },
@@ -34111,7 +34111,7 @@
    {
     "pageturnpro.com": {
      "pageturnpro.com": [
-      "pageturnpro.com/tracker.aspx?"
+      "pageturnpro.com/tracker.aspx"
      ]
     }
    },
@@ -34167,8 +34167,8 @@
    {
     "paypal.com": {
      "paypal.com": [
-      "paypal.com/acquisition-app/static/js/s_code.js",
       "paypal.com/webapps/beaconweb/",
+      "paypal.com/acquisition-app/static/js/s_code.js",
       "paypal.com"
      ]
     }
@@ -34274,10 +34274,10 @@
    {
     "piano-media.com": {
      "piano-media.com": [
-      "piano-media.com/uid/",
+      "piano-media.com/auth/index.php",
+      "piano-media.com/bucket/novosense.swf",
       "piano-media.com/ping",
-      "piano-media.com/auth/index.php?",
-      "piano-media.com/bucket/novosense.swf"
+      "piano-media.com/uid/"
      ]
     }
    },
@@ -34508,7 +34508,7 @@
    {
     "pixhosting.com": {
      "pixhosting.com": [
-      "pixhosting.com/ct/jct.php?"
+      "pixhosting.com/ct/jct.php"
      ]
     }
    },
@@ -34536,7 +34536,7 @@
    {
     "player.ooyala.com": {
      "player.ooyala.com": [
-      "player.ooyala.com/errors/report?"
+      "player.ooyala.com/errors/report"
      ]
     }
    },
@@ -34550,7 +34550,7 @@
    {
     "plista.com": {
      "plista.com": [
-      "plista.com/getuid?",
+      "plista.com/getuid",
       "plista.com/activity",
       "plista.com/iframeShowItem.php"
      ]
@@ -34693,8 +34693,8 @@
    {
     "projop.dnsalias.com": {
      "projop.dnsalias.com": [
-      "projop.dnsalias.com/intranet-crm-tracking/",
-      "projop.dnsalias.com"
+      "projop.dnsalias.com",
+      "projop.dnsalias.com/intranet-crm-tracking/"
      ]
     }
    },
@@ -34855,7 +34855,7 @@
    {
     "qcloud.com": {
      "qcloud.com": [
-      "qcloud.com/report.go?"
+      "qcloud.com/report.go"
      ]
     }
    },
@@ -34869,22 +34869,22 @@
    {
     "qq.com": {
      "qq.com": [
-      "qq.com/heatmap/",
-      "qq.com/kvcollect?",
-      "qq.com/p?",
-      "qq.com/collect?",
-      "qq.com/stats?",
+      "qq.com/stats",
       "qq.com/qqcom/",
-      "qq.com/ping.js?",
-      "qq.com/dataimport/",
-      "qq.com/code.cgi?"
+      "qq.com/collect",
+      "qq.com/ping.js",
+      "qq.com/heatmap/",
+      "qq.com/code.cgi",
+      "qq.com/kvcollect",
+      "qq.com/p",
+      "qq.com/dataimport/"
      ]
     }
    },
    {
     "qualtrics.com": {
      "qualtrics.com": [
-      "qualtrics.com/WRSiteInterceptEngine/?Q_Impress=",
+      "qualtrics.com/WRSiteInterceptEngine/",
       "qualtrics.com"
      ]
     }
@@ -34935,19 +34935,19 @@
    {
     "rackcdn.com": {
      "rackcdn.com": [
-      "rackcdn.com/stf.js",
       "rackcdn.com",
       "rackcdn.com/easie.js",
-      "rackcdn.com/knotice.api.js",
-      "rackcdn.com/icon2.gif?"
+      "rackcdn.com/stf.js",
+      "rackcdn.com/icon2.gif",
+      "rackcdn.com/knotice.api.js"
      ]
     }
    },
    {
     "radiotime.com": {
      "radiotime.com": [
-      "radiotime.com/reports/",
-      "radiotime.com/Report.ashx?"
+      "radiotime.com/Report.ashx",
+      "radiotime.com/reports/"
      ]
     }
    },
@@ -35033,7 +35033,7 @@
    {
     "relaymedia.com": {
      "relaymedia.com": [
-      "relaymedia.com/ping?"
+      "relaymedia.com/ping"
      ]
     }
    },
@@ -35145,7 +35145,7 @@
    {
     "richrelevance.com": {
      "richrelevance.com": [
-      "richrelevance.com/rrserver/tracking?"
+      "richrelevance.com/rrserver/tracking"
      ]
     }
    },
@@ -35173,7 +35173,7 @@
    {
     "rodalenl.com": {
      "rodalenl.com": [
-      "rodalenl.com/imp?"
+      "rodalenl.com/imp"
      ]
     }
    },
@@ -35194,7 +35194,7 @@
    {
     "royalecms.com": {
      "royalecms.com": [
-      "royalecms.com/statistics.php?"
+      "royalecms.com/statistics.php"
      ]
     }
    },
@@ -35320,8 +35320,8 @@
    {
     "scribol.com": {
      "scribol.com": [
-      "scribol.com/traffix/widget_tracker/",
-      "scribol.com/traffix-tracker.gif"
+      "scribol.com/traffix-tracker.gif",
+      "scribol.com/traffix/widget_tracker/"
      ]
     }
    },
@@ -35398,7 +35398,7 @@
    {
     "sendtonews.com": {
      "sendtonews.com": [
-      "sendtonews.com/player/loggingajax.php?",
+      "sendtonews.com/player/loggingajax.php",
       "sendtonews.com"
      ]
     }
@@ -35427,9 +35427,9 @@
    {
     "shareaholic.com": {
      "shareaholic.com": [
-      "shareaholic.com/partners.js",
+      "shareaholic.com",
       "shareaholic.com/analytics_",
-      "shareaholic.com"
+      "shareaholic.com/partners.js"
      ]
     }
    },
@@ -35457,24 +35457,24 @@
    {
     "sharethis.com": {
      "sharethis.com": [
-      "sharethis.com/increment_clicks?",
-      "sharethis.com/pageviews?"
+      "sharethis.com/increment_clicks",
+      "sharethis.com/pageviews"
      ]
     }
    },
    {
     "shopify.com": {
      "shopify.com": [
-      "shopify.com/track.js",
-      "shopify.com"
+      "shopify.com",
+      "shopify.com/track.js"
      ]
     }
    },
    {
     "shoplocal.com": {
      "shoplocal.com": [
-      "shoplocal.com/dot_clear.gif?",
-      "shoplocal.com/it.ashx?"
+      "shoplocal.com/dot_clear.gif",
+      "shoplocal.com/it.ashx"
      ]
     }
    },
@@ -35523,7 +35523,7 @@
    {
     "sitebooster.com": {
      "sitebooster.com": [
-      "sitebooster.com/sb/wix/p?"
+      "sitebooster.com/sb/wix/p"
      ]
     }
    },
@@ -35586,22 +35586,22 @@
    {
     "sohu.com": {
      "sohu.com": [
+      "sohu.com/pv",
+      "sohu.com/count/",
       "sohu.com",
       "sohu.com/stat/",
-      "sohu.com/ctr.gif?",
-      "sohu.com/count/",
-      "sohu.com/pvpb.gif?",
-      "sohu.com/pv.js",
-      "sohu.com/pv?",
-      "sohu.com/wrating"
+      "sohu.com/pvpb.gif",
+      "sohu.com/ctr.gif",
+      "sohu.com/wrating",
+      "sohu.com/pv.js"
      ]
     }
    },
    {
     "soundcloud.com": {
      "soundcloud.com": [
-      "soundcloud.com/event?",
-      "soundcloud.com"
+      "soundcloud.com",
+      "soundcloud.com/event"
      ]
     }
    },
@@ -35657,8 +35657,8 @@
    {
     "spot.im": {
      "spot.im": [
-      "spot.im",
-      "spot.im/api/tracker/"
+      "spot.im/api/tracker/",
+      "spot.im"
      ]
     }
    },
@@ -36309,14 +36309,14 @@
    {
     "streamads.com": {
      "streamads.com": [
-      "streamads.com/view?"
+      "streamads.com/view"
      ]
     }
    },
    {
     "stripe.com": {
      "stripe.com": [
-      "stripe.com/?event="
+      "stripe.com/"
      ]
     }
    },
@@ -36337,7 +36337,7 @@
    {
     "sugarops.com": {
      "sugarops.com": [
-      "sugarops.com/w?action=impression"
+      "sugarops.com/w"
      ]
     }
    },
@@ -36360,14 +36360,14 @@
     "sumome.com": {
      "sumome.com": [
       "sumome.com/apps/heatmaps/",
-      "sumome.com/api/event/?"
+      "sumome.com/api/event/"
      ]
     }
    },
    {
     "sundaysky.com": {
      "sundaysky.com": [
-      "sundaysky.com/sst.gif?",
+      "sundaysky.com/sst.gif",
       "sundaysky.com/vop/"
      ]
     }
@@ -36382,7 +36382,7 @@
    {
     "survey.io": {
      "survey.io": [
-      "survey.io/log?"
+      "survey.io/log"
      ]
     }
    },
@@ -36502,7 +36502,7 @@
    {
     "t.mail.sony-europe.com": {
      "t.mail.sony-europe.com": [
-      "t.mail.sony-europe.com/r/?"
+      "t.mail.sony-europe.com/r/"
      ]
     }
    },
@@ -36579,7 +36579,7 @@
    {
     "taboola.com": {
      "taboola.com": [
-      "taboola.com/tb?",
+      "taboola.com/tb",
       "taboola.com"
      ]
     }
@@ -36728,22 +36728,22 @@
    {
     "themesltd.com": {
      "themesltd.com": [
-      "themesltd.com/hit-counter/",
-      "themesltd.com/online-users-counter/"
+      "themesltd.com/online-users-counter/",
+      "themesltd.com/hit-counter/"
      ]
     }
    },
    {
     "theoplayer.com": {
      "theoplayer.com": [
-      "theoplayer.com/t?"
+      "theoplayer.com/t"
      ]
     }
    },
    {
     "thepornstarlist.com": {
      "thepornstarlist.com": [
-      "thepornstarlist.com/lo/lo/track.php?"
+      "thepornstarlist.com/lo/lo/track.php"
      ]
     }
    },
@@ -36764,7 +36764,7 @@
    {
     "thinairsoftware.net": {
      "thinairsoftware.net": [
-      "thinairsoftware.net/OWYPTracker.aspx?"
+      "thinairsoftware.net/OWYPTracker.aspx"
      ]
     }
    },
@@ -36778,8 +36778,8 @@
    {
     "thron.com": {
      "thron.com": [
-      "thron.com",
-      "thron.com/shared/plugins/tracking/"
+      "thron.com/shared/plugins/tracking/",
+      "thron.com"
      ]
     }
    },
@@ -36849,8 +36849,8 @@
    {
     "totallylayouts.com": {
      "totallylayouts.com": [
-      "totallylayouts.com/hit-counter/",
       "totallylayouts.com",
+      "totallylayouts.com/hit-counter/",
       "totallylayouts.com/online-users-counter/"
      ]
     }
@@ -36865,7 +36865,7 @@
    {
     "tourradar.com": {
      "tourradar.com": [
-      "tourradar.com/def/partner?"
+      "tourradar.com/def/partner"
      ]
     }
    },
@@ -37796,7 +37796,7 @@
    {
     "trackjs.com": {
      "trackjs.com": [
-      "trackjs.com/usage.gif?"
+      "trackjs.com/usage.gif"
      ]
     }
    },
@@ -37880,7 +37880,7 @@
    {
     "tredir.go.com": {
      "tredir.go.com": [
-      "tredir.go.com/capmon/GetDE?"
+      "tredir.go.com/capmon/GetDE"
      ]
     }
    },
@@ -37922,9 +37922,9 @@
    {
     "tritondigital.com": {
      "tritondigital.com": [
+      "tritondigital.com/lt",
       "tritondigital.com/ltjs.php",
-      "tritondigital.com/ltflash.php?",
-      "tritondigital.com"
+      "tritondigital.com/ltflash.php"
      ]
     }
    },
@@ -37932,7 +37932,7 @@
     "tritondigital.net": {
      "tritondigital.net": [
       "tritondigital.net",
-      "tritondigital.net/activity.php?"
+      "tritondigital.net/activity.php"
      ]
     }
    },
@@ -37988,7 +37988,7 @@
    {
     "trumba.com": {
      "trumba.com": [
-      "trumba.com/et.aspx?"
+      "trumba.com/et.aspx"
      ]
     }
    },
@@ -38058,22 +38058,22 @@
    {
     "twimg.com": {
      "twimg.com": [
-      "twimg.com/jot?"
+      "twimg.com/jot"
      ]
     }
    },
    {
     "twitter.com": {
      "twitter.com": [
-      "twitter.com/scribe/",
-      "twitter.com/i/csp_report?",
+      "twitter.com/scribes/",
       "twitter.com/i/jot",
       "twitter.com/jot.html",
-      "twitter.com/scribe?",
-      "twitter.com/scribes/",
+      "twitter.com/abacus",
+      "twitter.com/i/csp_report",
+      "twitter.com",
       "twitter.com/oct.js",
-      "twitter.com/abacus?",
-      "twitter.com"
+      "twitter.com/scribe",
+      "twitter.com/scribe/"
      ]
     }
    },
@@ -38096,14 +38096,14 @@
     "typepad.com": {
      "typepad.com": [
       "typepad.com",
-      "typepad.com/t/stats?"
+      "typepad.com/t/stats"
      ]
     }
    },
    {
     "uc.cn": {
      "uc.cn": [
-      "uc.cn/collect?"
+      "uc.cn/collect"
      ]
     }
    },
@@ -38124,7 +38124,7 @@
    {
     "ui-portal.com": {
      "ui-portal.com": [
-      "ui-portal.com/1and1/mailcom/s?",
+      "ui-portal.com/1and1/mailcom/s",
       "ui-portal.com"
      ]
     }
@@ -38139,7 +38139,7 @@
    {
     "uknetguide.co.uk": {
      "uknetguide.co.uk": [
-      "uknetguide.co.uk/user.js?"
+      "uknetguide.co.uk/user.js"
      ]
     }
    },
@@ -38153,9 +38153,9 @@
    {
     "ultimedia.com": {
      "ultimedia.com": [
-      "ultimedia.com/v/",
       "ultimedia.com",
-      "ultimedia.com/deliver/statistiques/"
+      "ultimedia.com/deliver/statistiques/",
+      "ultimedia.com/v/"
      ]
     }
    },
@@ -38211,7 +38211,7 @@
    {
     "v.giantrealm.com": {
      "v.giantrealm.com": [
-      "v.giantrealm.com/players/stats.swf?"
+      "v.giantrealm.com/players/stats.swf"
      ]
     }
    },
@@ -38253,8 +38253,8 @@
    {
     "veeseo.com": {
      "veeseo.com": [
-      "veeseo.com/tracking/",
-      "veeseo.com"
+      "veeseo.com",
+      "veeseo.com/tracking/"
      ]
     }
    },
@@ -38276,7 +38276,7 @@
     "verticalacuity.com": {
      "verticalacuity.com": [
       "verticalacuity.com/vat/",
-      "verticalacuity.com/varw/sendEvent?"
+      "verticalacuity.com/varw/sendEvent"
      ]
     }
    },
@@ -38297,7 +38297,7 @@
    {
     "video-cdn.net": {
      "video-cdn.net": [
-      "video-cdn.net/event?"
+      "video-cdn.net/event"
      ]
     }
    },
@@ -38311,8 +38311,8 @@
    {
     "video.msn.com": {
      "video.msn.com": [
-      "video.msn.com/frauddetect.aspx?",
-      "video.msn.com/report.aspx?"
+      "video.msn.com/report.aspx",
+      "video.msn.com/frauddetect.aspx"
      ]
     }
    },
@@ -38334,7 +38334,7 @@
     "vimeocdn.com": {
      "vimeocdn.com": [
       "vimeocdn.com/js_opt/ablincoln_combined.min.js",
-      "vimeocdn.com/add/player-stats?"
+      "vimeocdn.com/add/player-stats"
      ]
     }
    },
@@ -38399,14 +38399,14 @@
    {
     "visual.ly": {
      "visual.ly": [
-      "visual.ly/track.php?"
+      "visual.ly/track.php"
      ]
     }
    },
    {
     "visualstudio.com": {
      "visualstudio.com": [
-      "visualstudio.com/_da.gif?",
+      "visualstudio.com/_da.gif",
       "visualstudio.com/v2/track"
      ]
     }
@@ -38428,8 +38428,8 @@
    {
     "vk.com": {
      "vk.com": [
+      "vk.com/rtrg",
       "vk.com/js/lib/px.js",
-      "vk.com/rtrg?",
       "vk.com/videostats.php"
      ]
     }
@@ -38437,7 +38437,7 @@
    {
     "vmixcore.com": {
      "vmixcore.com": [
-      "vmixcore.com/vmixcore/playlog?"
+      "vmixcore.com/vmixcore/playlog"
      ]
     }
    },
@@ -38465,16 +38465,16 @@
    {
     "voxmedia.com": {
      "voxmedia.com": [
+      "voxmedia.com/needle",
       "voxmedia.com/pickup.js",
-      "voxmedia.com/beacon-min.js",
-      "voxmedia.com/needle?"
+      "voxmedia.com/beacon-min.js"
      ]
     }
    },
    {
     "vpoweb.com": {
      "vpoweb.com": [
-      "vpoweb.com/counter.php?"
+      "vpoweb.com/counter.php"
      ]
     }
    },
@@ -38502,7 +38502,7 @@
    {
     "vs4.com": {
      "vs4.com": [
-      "vs4.com/impr.php?"
+      "vs4.com/impr.php"
      ]
     }
    },
@@ -38558,7 +38558,7 @@
    {
     "weather.ca": {
      "weather.ca": [
-      "weather.ca/counter.gif?"
+      "weather.ca/counter.gif"
      ]
     }
    },
@@ -38635,7 +38635,7 @@
    {
     "webterren.com": {
      "webterren.com": [
-      "webterren.com/webdig.js?"
+      "webterren.com/webdig.js"
      ]
     }
    },
@@ -38713,10 +38713,10 @@
    {
     "widgeo.net": {
      "widgeo.net": [
-      "widgeo.net/tracking.php?",
       "widgeo.net/geocompteur/",
       "widgeo.net/hitparade.php",
-      "widgeo.net/compteur.php?"
+      "widgeo.net/tracking.php",
+      "widgeo.net/compteur.php"
      ]
     }
    },
@@ -38744,22 +38744,23 @@
    {
     "widgethost.com": {
      "widgethost.com": [
-      "widgethost.com/pax/counter.js?"
+      "widgethost.com/pax/counter.js"
      ]
     }
    },
    {
     "widgetserver.com": {
      "widgetserver.com": [
-      "widgetserver.com/t/",
+      "widgetserver.com/metrics/",
       "widgetserver.com",
-      "widgetserver.com/metrics/"
+      "widgetserver.com/t/"
      ]
     }
    },
    {
     "wikinvest.com": {
      "wikinvest.com": [
+      "wikinvest.com/plugin/api.php",
       "wikinvest.com"
      ]
     }
@@ -38788,7 +38789,7 @@
    {
     "woolik.com": {
      "woolik.com": [
-      "woolik.com/__el.gif?",
+      "woolik.com/__el.gif",
       "woolik.com"
      ]
     }
@@ -38866,7 +38867,7 @@
    {
     "wvnetworkmedia.org": {
      "wvnetworkmedia.org": [
-      "wvnetworkmedia.org/min/?"
+      "wvnetworkmedia.org/min/"
      ]
     }
    },
@@ -38880,9 +38881,9 @@
    {
     "yahoo.co.jp": {
      "yahoo.co.jp": [
+      "yahoo.co.jp/s",
       "yahoo.co.jp/js/retargeting.js",
-      "yahoo.co.jp/b?p=",
-      "yahoo.co.jp/s?s=",
+      "yahoo.co.jp/b",
       "yahoo.co.jp/js/s_retargeting.js"
      ]
     }
@@ -38891,7 +38892,7 @@
     "yandex.ru": {
      "yandex.ru": [
       "yandex.ru/metrika/",
-      "yandex.ru/cycounter?"
+      "yandex.ru/cycounter"
      ]
     }
    },
@@ -38913,25 +38914,25 @@
     "yellowpages.com": {
      "yellowpages.com": [
       "yellowpages.com/proxy/envoy/",
-      "yellowpages.com",
-      "yellowpages.com/images/li.gif?",
-      "yellowpages.com/proxy/turn_tags/"
+      "yellowpages.com/images/li.gif",
+      "yellowpages.com/proxy/turn_tags/",
+      "yellowpages.com"
      ]
     }
    },
    {
     "yext.com": {
      "yext.com": [
-      "yext.com/plpixel?"
+      "yext.com/plpixel"
      ]
     }
    },
    {
     "yimg.com": {
      "yimg.com": [
-      "yimg.com/nq/ued/assets/flash/wsclient_",
+      "yimg.com/wi/ytc.js",
       "yimg.com",
-      "yimg.com/wi/ytc.js"
+      "yimg.com/nq/ued/assets/flash/wsclient_"
      ]
     }
    },
@@ -38974,7 +38975,7 @@
    {
     "zemanta.com": {
      "zemanta.com": [
-      "zemanta.com/usersync/outbrain/?"
+      "zemanta.com/usersync/outbrain/"
      ]
     }
    },
@@ -39031,14 +39032,14 @@
     "aftonbladet.se": {
      "aftonbladet.se": [
       "aftonbladet.se/trafikfonden/",
-      "aftonbladet.se/blogportal/view/statistics?"
+      "aftonbladet.se/blogportal/view/statistics"
      ]
     }
    },
    {
     "agitos.de": {
      "agitos.de": [
-      "agitos.de/content/track?"
+      "agitos.de/content/track"
      ]
     }
    },
@@ -39150,7 +39151,7 @@
    {
     "clipkit.de": {
      "clipkit.de": [
-      "clipkit.de/metrics?"
+      "clipkit.de/metrics"
      ]
     }
    },
@@ -39297,14 +39298,14 @@
    {
     "frontlineshop.com": {
      "frontlineshop.com": [
-      "frontlineshop.com"
+      "frontlineshop.com/ev/co/frontline"
      ]
     }
    },
    {
     "gameforge.de": {
      "gameforge.de": [
-      "gameforge.de/init.gif?"
+      "gameforge.de/init.gif"
      ]
     }
    },
@@ -39346,7 +39347,7 @@
    {
     "goldsilbershop.de": {
      "goldsilbershop.de": [
-      "goldsilbershop.de/go.cgi?"
+      "goldsilbershop.de/go.cgi"
      ]
     }
    },
@@ -39360,8 +39361,8 @@
    {
     "hittracker.org": {
      "hittracker.org": [
-      "hittracker.org/counter.php",
-      "hittracker.org/count.php"
+      "hittracker.org/count.php",
+      "hittracker.org/counter.php"
      ]
     }
    },
@@ -39452,14 +39453,14 @@
    {
     "kontextr.eu": {
      "kontextr.eu": [
-      "kontextr.eu/content/track?"
+      "kontextr.eu/content/track"
      ]
     }
    },
    {
     "kt-g.de": {
      "kt-g.de": [
-      "kt-g.de/counter.php?"
+      "kt-g.de/counter.php"
      ]
     }
    },
@@ -39501,7 +39502,7 @@
    {
     "mapandroute.de": {
      "mapandroute.de": [
-      "mapandroute.de/log.xhr?"
+      "mapandroute.de/log.xhr"
      ]
     }
    },
@@ -39536,7 +39537,7 @@
    {
     "mindwerk.net": {
      "mindwerk.net": [
-      "mindwerk.net/zaehlpixel.php?"
+      "mindwerk.net/zaehlpixel.php"
      ]
     }
    },
@@ -39551,14 +39552,14 @@
    {
     "movad.de": {
      "movad.de": [
-      "movad.de/c.ount?"
+      "movad.de/c.ount"
      ]
     }
    },
    {
     "myv-img.de": {
      "myv-img.de": [
-      "myv-img.de/m2/e?"
+      "myv-img.de/m2/e"
      ]
     }
    },
@@ -39579,7 +39580,7 @@
    {
     "ntmb.de": {
      "ntmb.de": [
-      "ntmb.de/count.html?"
+      "ntmb.de/count.html"
      ]
     }
    },
@@ -39614,7 +39615,7 @@
    {
     "onlinepresse.info": {
      "onlinepresse.info": [
-      "onlinepresse.info/counter.php?"
+      "onlinepresse.info/counter.php"
      ]
     }
    },
@@ -39691,7 +39692,7 @@
    {
     "serverkompetenz.net": {
      "serverkompetenz.net": [
-      "serverkompetenz.net/cpx.php?"
+      "serverkompetenz.net/cpx.php"
      ]
     }
    },
@@ -39712,7 +39713,7 @@
    {
     "sim-technik.de": {
      "sim-technik.de": [
-      "sim-technik.de/dvs.gif?",
+      "sim-technik.de/dvs.gif",
       "sim-technik.de"
      ]
     }
@@ -39734,7 +39735,7 @@
    {
     "ss4w.de": {
      "ss4w.de": [
-      "ss4w.de/counter.php?"
+      "ss4w.de/counter.php"
      ]
     }
    },
@@ -40098,7 +40099,7 @@
    {
     "uni-duesseldorf.de": {
      "uni-duesseldorf.de": [
-      "uni-duesseldorf.de/cgi-bin/nph-count?"
+      "uni-duesseldorf.de/cgi-bin/nph-count"
      ]
     }
    },
@@ -40175,7 +40176,7 @@
    {
     "xnewsletter.de": {
      "xnewsletter.de": [
-      "xnewsletter.de/count/counter.php?"
+      "xnewsletter.de/count/counter.php"
      ]
     }
    },
@@ -40315,14 +40316,14 @@
    {
     "devtribu.fr": {
      "devtribu.fr": [
-      "devtribu.fr/t.php?"
+      "devtribu.fr/t.php"
      ]
     }
    },
    {
     "e-pagerank.fr": {
      "e-pagerank.fr": [
-      "e-pagerank.fr/bouton.gif?"
+      "e-pagerank.fr/bouton.gif"
      ]
     }
    },
@@ -40343,8 +40344,8 @@
    {
     "free.fr": {
      "free.fr": [
-      "free.fr/services/compteur_page.php?",
-      "free.fr/cgi-bin/wwwcount.cgi?"
+      "free.fr/cgi-bin/wwwcount.cgi",
+      "free.fr/services/compteur_page.php"
      ]
     }
    },
@@ -40379,7 +40380,7 @@
    {
     "live-medias.net": {
      "live-medias.net": [
-      "live-medias.net/button.php?"
+      "live-medias.net/button.php"
      ]
     }
    },
@@ -40400,14 +40401,14 @@
    {
     "neteventsmedia.be": {
      "neteventsmedia.be": [
-      "neteventsmedia.be/hit.cfm?"
+      "neteventsmedia.be/hit.cfm"
      ]
     }
    },
    {
     "netreviews.eu": {
      "netreviews.eu": [
-      "netreviews.eu/index.php?action=act_access&"
+      "netreviews.eu/index.php"
      ]
     }
    },
@@ -40442,8 +40443,8 @@
    {
     "pagesjaunes.fr": {
      "pagesjaunes.fr": [
-      "pagesjaunes.fr/bva/track.js",
       "pagesjaunes.fr/crmmetrix/",
+      "pagesjaunes.fr/bva/track.js",
       "pagesjaunes.fr/stat/"
      ]
     }
@@ -40570,7 +40571,7 @@
    {
     "tsphone.biz": {
      "tsphone.biz": [
-      "tsphone.biz/pixelvoleur.jpg?"
+      "tsphone.biz/pixelvoleur.jpg"
      ]
     }
    },
@@ -40591,14 +40592,14 @@
    {
     "webreseau.com": {
      "webreseau.com": [
-      "webreseau.com/impression.asp?"
+      "webreseau.com/impression.asp"
      ]
     }
    },
    {
     "webtutoriaux.com": {
      "webtutoriaux.com": [
-      "webtutoriaux.com/services/compteur-visiteurs/index.php?"
+      "webtutoriaux.com/services/compteur-visiteurs/index.php"
      ]
     }
    },
@@ -40626,7 +40627,7 @@
    {
     "minsk-in.net": {
      "minsk-in.net": [
-      "minsk-in.net/counter.php?"
+      "minsk-in.net/counter.php"
      ]
     }
    },
@@ -40654,14 +40655,14 @@
    {
     "3.cn": {
      "3.cn": [
-      "3.cn/cesu/r?"
+      "3.cn/cesu/r"
      ]
     }
    },
    {
     "360.cn": {
      "360.cn": [
-      "360.cn/mapping_service?"
+      "360.cn/mapping_service"
      ]
     }
    },
@@ -40675,7 +40676,7 @@
    {
     "aixifan.com": {
      "aixifan.com": [
-      "aixifan.com/acsdk/log.min.js?"
+      "aixifan.com/acsdk/log.min.js"
      ]
     }
    },
@@ -40717,8 +40718,8 @@
    {
     "bokecc.com": {
      "bokecc.com": [
-      "bokecc.com/flash/playlog?",
-      "bokecc.com/flash/timerecorder?"
+      "bokecc.com/flash/timerecorder",
+      "bokecc.com/flash/playlog"
      ]
     }
    },
@@ -40767,9 +40768,9 @@
    {
     "cri.cn": {
      "cri.cn": [
+      "cri.cn/wrating.js",
       "cri.cn/js/a1.js",
-      "cri.cn/a1.js",
-      "cri.cn/wrating.js"
+      "cri.cn/a1.js"
      ]
     }
    },
@@ -40818,7 +40819,7 @@
    {
     "etwun.com": {
      "etwun.com": [
-      "etwun.com/counter.php?"
+      "etwun.com/counter.php"
      ]
     }
    },
@@ -40993,7 +40994,7 @@
    {
     "qtmojo.com": {
      "qtmojo.com": [
-      "qtmojo.com/pixel?"
+      "qtmojo.com/pixel"
      ]
     }
    },
@@ -41014,7 +41015,7 @@
    {
     "sitemaji.com": {
      "sitemaji.com": [
-      "sitemaji.com/nownews.php?"
+      "sitemaji.com/nownews.php"
      ]
     }
    },
@@ -41238,8 +41239,8 @@
    {
     "newbie.dk": {
      "newbie.dk": [
-      "newbie.dk",
-      "newbie.dk/topref.php?"
+      "newbie.dk/topref.php",
+      "newbie.dk"
      ]
     }
    },
@@ -41373,8 +41374,8 @@
     "walla.co.il": {
      "walla.co.il": [
       "walla.co.il/impression/",
-      "walla.co.il/stats/",
-      "walla.co.il/CountsHP.asp?"
+      "walla.co.il/CountsHP.asp",
+      "walla.co.il/stats/"
      ]
     }
    },
@@ -41465,7 +41466,7 @@
    {
     "aruba.it": {
      "aruba.it": [
-      "aruba.it/servlet/counterserver?"
+      "aruba.it/servlet/counterserver"
      ]
     }
    },
@@ -41521,14 +41522,14 @@
    {
     "dd3p.com": {
      "dd3p.com": [
-      "dd3p.com/sensor/ddsense.aspx?"
+      "dd3p.com/sensor/ddsense.aspx"
      ]
     }
    },
    {
     "digiland.it": {
      "digiland.it": [
-      "digiland.it/count.cgi?"
+      "digiland.it/count.cgi"
      ]
     }
    },
@@ -41542,15 +41543,15 @@
    {
     "eage.it": {
      "eage.it": [
-      "eage.it/count2.php?"
+      "eage.it/count2.php"
      ]
     }
    },
    {
     "eageweb.com": {
      "eageweb.com": [
-      "eageweb.com/count2.php?",
-      "eageweb.com/stats.php"
+      "eageweb.com/stats.php",
+      "eageweb.com/count2.php"
      ]
     }
    },
@@ -41606,7 +41607,7 @@
    {
     "httdev.it": {
      "httdev.it": [
-      "httdev.it/e/c?"
+      "httdev.it/e/c"
      ]
     }
    },
@@ -41662,7 +41663,7 @@
    {
     "mrwebmaster.it": {
      "mrwebmaster.it": [
-      "mrwebmaster.it/work/stats.php?"
+      "mrwebmaster.it/work/stats.php"
      ]
     }
    },
@@ -41697,8 +41698,8 @@
    {
     "plug.it": {
      "plug.it": [
-      "plug.it",
-      "plug.it/tracks/"
+      "plug.it/tracks/",
+      "plug.it"
      ]
     }
    },
@@ -41915,8 +41916,8 @@
    {
     "webbificio.com": {
      "webbificio.com": [
-      "webbificio.com/wm.asp?",
-      "webbificio.com/add.asp?"
+      "webbificio.com/add.asp",
+      "webbificio.com/wm.asp"
      ]
     }
    },
@@ -41930,7 +41931,7 @@
    {
     "wmtools.it": {
      "wmtools.it": [
-      "wmtools.it/wmtcounter.php?"
+      "wmtools.it/wmtcounter.php"
      ]
     }
    },
@@ -42007,7 +42008,7 @@
    {
     "seesaa.jp": {
      "seesaa.jp": [
-      "seesaa.jp/ot_square.pl?"
+      "seesaa.jp/ot_square.pl"
      ]
     }
    },
@@ -42049,7 +42050,7 @@
    {
     "recobell.io": {
      "recobell.io": [
-      "recobell.io/rest/logs?"
+      "recobell.io/rest/logs"
      ]
     }
    },
@@ -42126,7 +42127,7 @@
    {
     "cafenews.pl": {
      "cafenews.pl": [
-      "cafenews.pl/mpl/static/static.js?"
+      "cafenews.pl/mpl/static/static.js"
      ]
     }
    },
@@ -42245,7 +42246,7 @@
    {
     "statig.com.br": {
      "statig.com.br": [
-      "statig.com.br/pub/setCookie.js?"
+      "statig.com.br/pub/setCookie.js"
      ]
     }
    },
@@ -42287,7 +42288,7 @@
    {
     "xl.pt": {
      "xl.pt": [
-      "xl.pt/api/stats.ashx?"
+      "xl.pt/api/stats.ashx"
      ]
     }
    },
@@ -42315,7 +42316,7 @@
    {
     "1in.kz": {
      "1in.kz": [
-      "1in.kz/counter?"
+      "1in.kz/counter"
      ]
     }
    },
@@ -42350,7 +42351,7 @@
    {
     "all-top.ru": {
      "all-top.ru": [
-      "all-top.ru/cgi-bin/topcount.cgi?"
+      "all-top.ru/cgi-bin/topcount.cgi"
      ]
     }
    },
@@ -42378,7 +42379,7 @@
    {
     "bigday.ru": {
      "bigday.ru": [
-      "bigday.ru/counter.php?"
+      "bigday.ru/counter.php"
      ]
     }
    },
@@ -42518,7 +42519,7 @@
    {
     "dp.ru": {
      "dp.ru": [
-      "dp.ru/counter.gif?"
+      "dp.ru/counter.gif"
      ]
     }
    },
@@ -42532,14 +42533,14 @@
    {
     "gainings.biz": {
      "gainings.biz": [
-      "gainings.biz/counter.php?"
+      "gainings.biz/counter.php"
      ]
     }
    },
    {
     "gde.ru": {
      "gde.ru": [
-      "gde.ru/isapi/tracker.dll?"
+      "gde.ru/isapi/tracker.dll"
      ]
     }
    },
@@ -42553,14 +42554,14 @@
    {
     "ifolder.ru": {
      "ifolder.ru": [
-      "ifolder.ru/stat/?"
+      "ifolder.ru/stat/"
      ]
     }
    },
    {
     "imgsmail.ru": {
      "imgsmail.ru": [
-      "imgsmail.ru/gstat?"
+      "imgsmail.ru/gstat"
      ]
     }
    },
@@ -42595,7 +42596,7 @@
    {
     "kvartirant.ru": {
      "kvartirant.ru": [
-      "kvartirant.ru/counter.php?"
+      "kvartirant.ru/counter.php"
      ]
     }
    },
@@ -42609,7 +42610,7 @@
    {
     "mediaplus.fm": {
      "mediaplus.fm": [
-      "mediaplus.fm/cntr.php?"
+      "mediaplus.fm/cntr.php"
      ]
     }
    },
@@ -42679,7 +42680,7 @@
    {
     "niknok.ru": {
      "niknok.ru": [
-      "niknok.ru/count.asp?"
+      "niknok.ru/count.asp"
      ]
     }
    },
@@ -42693,7 +42694,7 @@
    {
     "onlines.su": {
      "onlines.su": [
-      "onlines.su/counter.php?"
+      "onlines.su/counter.php"
      ]
     }
    },
@@ -42707,7 +42708,7 @@
    {
     "optimizavr.ru": {
      "optimizavr.ru": [
-      "optimizavr.ru/counter.php?"
+      "optimizavr.ru/counter.php"
      ]
     }
    },
@@ -42721,8 +42722,8 @@
    {
     "pluso.ru": {
      "pluso.ru": [
-      "pluso.ru/counter.php?",
-      "pluso.ru/ping.php?"
+      "pluso.ru/counter.php",
+      "pluso.ru/ping.php"
      ]
     }
    },
@@ -42743,7 +42744,7 @@
    {
     "properm.ru": {
      "properm.ru": [
-      "properm.ru/top/counter_new.php?"
+      "properm.ru/top/counter_new.php"
      ]
     }
    },
@@ -42772,7 +42773,7 @@
    {
     "rustopweb.ru": {
      "rustopweb.ru": [
-      "rustopweb.ru/cnt.php?"
+      "rustopweb.ru/cnt.php"
      ]
     }
    },
@@ -42821,14 +42822,14 @@
    {
     "sishik.ru": {
      "sishik.ru": [
-      "sishik.ru/counter.php?"
+      "sishik.ru/counter.php"
      ]
     }
    },
    {
     "stainlesssteel.ru": {
      "stainlesssteel.ru": [
-      "stainlesssteel.ru/counter.php?"
+      "stainlesssteel.ru/counter.php"
      ]
     }
    },
@@ -43031,8 +43032,8 @@
    {
     "ulogin.ru": {
      "ulogin.ru": [
-      "ulogin.ru/js/stats.js",
-      "ulogin.ru/stats.html"
+      "ulogin.ru/stats.html",
+      "ulogin.ru/js/stats.js"
      ]
     }
    },
@@ -43053,7 +43054,7 @@
    {
     "wapson.ru": {
      "wapson.ru": [
-      "wapson.ru/counter.php?"
+      "wapson.ru/counter.php"
      ]
     }
    },
@@ -43067,7 +43068,7 @@
    {
     "wmtools.ru": {
      "wmtools.ru": [
-      "wmtools.ru/counter.php?"
+      "wmtools.ru/counter.php"
      ]
     }
    },
@@ -43088,7 +43089,7 @@
    {
     "zahodi-ka.ru": {
      "zahodi-ka.ru": [
-      "zahodi-ka.ru/ic/index_cnt.fcgi?",
+      "zahodi-ka.ru/ic/index_cnt.fcgi",
       "zahodi-ka.ru"
      ]
     }
@@ -43334,7 +43335,7 @@
    {
     "mgz.com.ua": {
      "mgz.com.ua": [
-      "mgz.com.ua/counter.php?"
+      "mgz.com.ua/counter.php"
      ]
     }
    },
@@ -43355,7 +43356,7 @@
    {
     "123greetings.com": {
      "123greetings.com": [
-      "123greetings.com/usr-bin/view_sent.pl?"
+      "123greetings.com/usr-bin/view_sent.pl"
      ]
     }
    },
@@ -43363,8 +43364,8 @@
     "123rf.com": {
      "123rf.com": [
       "123rf.com/j/ga.js",
-      "123rf.com/tk/",
-      "123rf.com/tr/"
+      "123rf.com/tr/",
+      "123rf.com/tk/"
      ]
     }
    },
@@ -43455,7 +43456,7 @@
    {
     "79.125.21.168": {
      "79.125.21.168": [
-      "79.125.21.168/i.gif?"
+      "79.125.21.168/i.gif"
      ]
     }
    },
@@ -43483,7 +43484,7 @@
    {
     "a7.org": {
      "a7.org": [
-      "a7.org/infol.php?"
+      "a7.org/infol.php"
      ]
     }
    },
@@ -43526,14 +43527,14 @@
    {
     "abebooks.com": {
      "abebooks.com": [
-      "abebooks.com/timer.gif?"
+      "abebooks.com/timer.gif"
      ]
     }
    },
    {
     "about.me": {
      "about.me": [
-      "about.me/wf/open?"
+      "about.me/wf/open"
      ]
     }
    },
@@ -43582,7 +43583,7 @@
    {
     "aclst.com": {
      "aclst.com": [
-      "aclst.com/ping.php?"
+      "aclst.com/ping.php"
      ]
     }
    },
@@ -43631,7 +43632,7 @@
    {
     "ad2links.com": {
      "ad2links.com": [
-      "ad2links.com/lpajax.php?"
+      "ad2links.com/lpajax.php"
      ]
     }
    },
@@ -43673,8 +43674,8 @@
    {
     "adidas.com": {
      "adidas.com": [
-      "adidas.com",
-      "adidas.com/analytics/"
+      "adidas.com/analytics/",
+      "adidas.com"
      ]
     }
    },
@@ -43702,7 +43703,7 @@
    {
     "advancedmp3players.co.uk": {
      "advancedmp3players.co.uk": [
-      "advancedmp3players.co.uk/support/visitor/index.php?"
+      "advancedmp3players.co.uk/support/visitor/index.php"
      ]
     }
    },
@@ -43716,7 +43717,7 @@
    {
     "advfn.com": {
      "advfn.com": [
-      "advfn.com/space.gif?"
+      "advfn.com/space.gif"
      ]
     }
    },
@@ -43793,7 +43794,7 @@
    {
     "afterdawn.com": {
      "afterdawn.com": [
-      "afterdawn.com/views.cfm?"
+      "afterdawn.com/views.cfm"
      ]
     }
    },
@@ -43828,7 +43829,7 @@
    {
     "airfrance.com": {
      "airfrance.com": [
-      "airfrance.com/s/?tcs="
+      "airfrance.com/s/"
      ]
     }
    },
@@ -43842,8 +43843,8 @@
    {
     "alarabiya.net": {
      "alarabiya.net": [
-      "alarabiya.net",
-      "alarabiya.net/track_content_"
+      "alarabiya.net/track_content_",
+      "alarabiya.net"
      ]
     }
    },
@@ -43913,7 +43914,7 @@
    {
     "alot.com": {
      "alot.com": [
-      "alot.com/tb/cookiewriter.php?"
+      "alot.com/tb/cookiewriter.php"
      ]
     }
    },
@@ -44249,14 +44250,14 @@
    {
     "androidcommunity.com": {
      "androidcommunity.com": [
-      "androidcommunity.com/ws/?js"
+      "androidcommunity.com/ws/"
      ]
     }
    },
    {
     "androidfilehost.com": {
      "androidfilehost.com": [
-      "androidfilehost.com/libs/otf/stats.otf.php?"
+      "androidfilehost.com/libs/otf/stats.otf.php"
      ]
     }
    },
@@ -44291,7 +44292,7 @@
    {
     "anp.se": {
      "anp.se": [
-      "anp.se/track?"
+      "anp.se/track"
      ]
     }
    },
@@ -44340,7 +44341,7 @@
    {
     "api.tinypic.com": {
      "api.tinypic.com": [
-      "api.tinypic.com/api.php?action=track"
+      "api.tinypic.com/api.php"
      ]
     }
    },
@@ -44361,7 +44362,7 @@
    {
     "applifier.com": {
      "applifier.com": [
-      "applifier.com/users/tracking?"
+      "applifier.com/users/tracking"
      ]
     }
    },
@@ -44389,7 +44390,7 @@
    {
     "armystudyguide.com": {
      "armystudyguide.com": [
-      "armystudyguide.com/hqxapi/it?"
+      "armystudyguide.com/hqxapi/it"
      ]
     }
    },
@@ -44411,8 +44412,8 @@
    {
     "art.com": {
      "art.com": [
-      "art.com/asp/UTERecording.asp",
-      "art.com/asp/robot/"
+      "art.com/asp/robot/",
+      "art.com/asp/UTERecording.asp"
      ]
     }
    },
@@ -44503,7 +44504,7 @@
    {
     "atlantis.com": {
      "atlantis.com": [
-      "atlantis.com/_scripts/tsedge/pagemarker.gif?"
+      "atlantis.com/_scripts/tsedge/pagemarker.gif"
      ]
     }
    },
@@ -44538,7 +44539,7 @@
    {
     "att.com": {
      "att.com": [
-      "att.com/csct.gif?"
+      "att.com/csct.gif"
      ]
     }
    },
@@ -44594,14 +44595,14 @@
    {
     "autopartswarehouse.com": {
      "autopartswarehouse.com": [
-      "autopartswarehouse.com/thirdparty/tracker?"
+      "autopartswarehouse.com/thirdparty/tracker"
      ]
     }
    },
    {
     "autosite.com": {
      "autosite.com": [
-      "autosite.com/scripts/markerfile.bin?"
+      "autosite.com/scripts/markerfile.bin"
      ]
     }
    },
@@ -44636,7 +44637,7 @@
    {
     "avira.com": {
      "avira.com": [
-      "avira.com/site/datatracking?"
+      "avira.com/site/datatracking"
      ]
     }
    },
@@ -44713,7 +44714,7 @@
    {
     "banggood.com": {
      "banggood.com": [
-      "banggood.com/?p="
+      "banggood.com/"
      ]
     }
    },
@@ -44783,16 +44784,16 @@
    {
     "bbc.co.uk": {
      "bbc.co.uk": [
-      "bbc.co.uk",
-      "bbc.co.uk/analytics?"
+      "bbc.co.uk/analytics",
+      "bbc.co.uk"
      ]
     }
    },
    {
     "bbci.co.uk": {
      "bbci.co.uk": [
-      "bbci.co.uk",
-      "bbci.co.uk/archive_stats/"
+      "bbci.co.uk/archive_stats/",
+      "bbci.co.uk"
      ]
     }
    },
@@ -44912,7 +44913,7 @@
     "beacons.vessel-static.com": {
      "beacons.vessel-static.com": [
       "beacons.vessel-static.com",
-      "beacons.vessel-static.com/xff?"
+      "beacons.vessel-static.com/xff"
      ]
     }
    },
@@ -44926,7 +44927,7 @@
    {
     "beeg.com": {
      "beeg.com": [
-      "beeg.com/logo.gif?"
+      "beeg.com/logo.gif"
      ]
     }
    },
@@ -44962,7 +44963,7 @@
    {
     "betway.com": {
      "betway.com": [
-      "betway.com/snowflake/?"
+      "betway.com/snowflake/"
      ]
     }
    },
@@ -44997,7 +44998,7 @@
    {
     "binaries4all.nl": {
      "binaries4all.nl": [
-      "binaries4all.nl"
+      "binaries4all.nl/misc/misc.php"
      ]
     }
    },
@@ -45046,7 +45047,7 @@
    {
     "blastingnews.com": {
      "blastingnews.com": [
-      "blastingnews.com/?newsid="
+      "blastingnews.com/"
      ]
     }
    },
@@ -45060,14 +45061,14 @@
    {
     "bleacherreport.com": {
      "bleacherreport.com": [
-      "bleacherreport.com/api/hit.json?"
+      "bleacherreport.com/api/hit.json"
      ]
     }
    },
    {
     "blekko.com": {
      "blekko.com": [
-      "blekko.com/a/track?"
+      "blekko.com/a/track"
      ]
     }
    },
@@ -45088,14 +45089,14 @@
    {
     "blinkist.com": {
      "blinkist.com": [
-      "blinkist.com/t?"
+      "blinkist.com/t"
      ]
     }
    },
    {
     "blip.tv": {
      "blip.tv": [
-      "blip.tv/engagement?"
+      "blip.tv/engagement"
      ]
     }
    },
@@ -45109,7 +45110,7 @@
    {
     "bloomberg.com": {
      "bloomberg.com": [
-      "bloomberg.com/apps/data?referrer"
+      "bloomberg.com/apps/data"
      ]
     }
    },
@@ -45151,7 +45152,7 @@
    {
     "boards.ie": {
      "boards.ie": [
-      "boards.ie/timing.php?"
+      "boards.ie/timing.php"
      ]
     }
    },
@@ -45165,7 +45166,7 @@
    {
     "booking.com": {
      "booking.com": [
-      "booking.com/logo?"
+      "booking.com/logo"
      ]
     }
    },
@@ -45179,7 +45180,7 @@
    {
     "box.com": {
      "box.com": [
-      "box.com/gen204?"
+      "box.com/gen204"
      ]
     }
    },
@@ -45193,7 +45194,7 @@
    {
     "branica.com": {
      "branica.com": [
-      "branica.com/counter.php?"
+      "branica.com/counter.php"
      ]
     }
    },
@@ -45215,7 +45216,7 @@
    {
     "brightcove.com": {
      "brightcove.com": [
-      "brightcove.com/1pix.gif?"
+      "brightcove.com/1pix.gif"
      ]
     }
    },
@@ -45229,14 +45230,14 @@
    {
     "broadwayworld.com": {
      "broadwayworld.com": [
-      "broadwayworld.com/regionalbug.cfm?"
+      "broadwayworld.com/regionalbug.cfm"
      ]
     }
    },
    {
     "brobible.com": {
      "brobible.com": [
-      "brobible.com/?ACT"
+      "brobible.com/"
      ]
     }
    },
@@ -45257,15 +45258,15 @@
    {
     "business.com": {
      "business.com": [
-      "business.com/images2/anal.gif?"
+      "business.com/images2/anal.gif"
      ]
     }
    },
    {
     "businessinsider.com": {
      "businessinsider.com": [
-      "businessinsider.com",
-      "businessinsider.com/tracker.js"
+      "businessinsider.com/tracker.js",
+      "businessinsider.com"
      ]
     }
    },
@@ -45287,7 +45288,7 @@
     "buzzfed.com": {
      "buzzfed.com": [
       "buzzfed.com",
-      "buzzfed.com/pixel?"
+      "buzzfed.com/pixel"
      ]
     }
    },
@@ -45378,14 +45379,14 @@
    {
     "cardomain.com": {
      "cardomain.com": [
-      "cardomain.com/js/tibbylog.js?"
+      "cardomain.com/js/tibbylog.js"
      ]
     }
    },
    {
     "cardstore.com": {
      "cardstore.com": [
-      "cardstore.com/affiliate.jsp?"
+      "cardstore.com/affiliate.jsp"
      ]
     }
    },
@@ -45399,7 +45400,7 @@
    {
     "carmax.com": {
      "carmax.com": [
-      "carmax.com/ping?"
+      "carmax.com/ping"
      ]
     }
    },
@@ -45420,8 +45421,8 @@
    {
     "cartoonnetwork.com": {
      "cartoonnetwork.com": [
-      "cartoonnetwork.com/tools/js/clickmap/",
-      "cartoonnetwork.com"
+      "cartoonnetwork.com",
+      "cartoonnetwork.com/tools/js/clickmap/"
      ]
     }
    },
@@ -45435,8 +45436,8 @@
    {
     "cbox.ws": {
      "cbox.ws": [
-      "cbox.ws",
-      "cbox.ws/box/relay.swf?"
+      "cbox.ws/box/relay.swf",
+      "cbox.ws"
      ]
     }
    },
@@ -45471,7 +45472,7 @@
    {
     "cbssports.com": {
      "cbssports.com": [
-      "cbssports.com/common/p?"
+      "cbssports.com/common/p"
      ]
     }
    },
@@ -45569,7 +45570,7 @@
    {
     "cheapsalesconsulting.com": {
      "cheapsalesconsulting.com": [
-      "cheapsalesconsulting.com/adaptive.php?"
+      "cheapsalesconsulting.com/adaptive.php"
      ]
     }
    },
@@ -45590,8 +45591,8 @@
    {
     "china.com": {
      "china.com": [
-      "china.com/statistic.js",
-      "china.com"
+      "china.com",
+      "china.com/statistic.js"
      ]
     }
    },
@@ -45633,7 +45634,7 @@
    {
     "civicscience.com": {
      "civicscience.com": [
-      "civicscience.com/jot?"
+      "civicscience.com/jot"
      ]
     }
    },
@@ -45654,7 +45655,7 @@
    {
     "cl.ly": {
      "cl.ly": [
-      "cl.ly/metrics?"
+      "cl.ly/metrics"
      ]
     }
    },
@@ -45969,7 +45970,7 @@
    {
     "collegehumor.com": {
      "collegehumor.com": [
-      "collegehumor.com/track.php?"
+      "collegehumor.com/track.php"
      ]
     }
    },
@@ -46151,14 +46152,14 @@
    {
     "coursera.org": {
      "coursera.org": [
-      "coursera.org/wf/open?"
+      "coursera.org/wf/open"
      ]
     }
    },
    {
     "coveritlive.com": {
      "coveritlive.com": [
-      "coveritlive.com/1/sts/view?"
+      "coveritlive.com/1/sts/view"
      ]
     }
    },
@@ -46194,8 +46195,8 @@
    {
     "creditcards.com": {
      "creditcards.com": [
-      "creditcards.com/actions/page_view.php?",
-      "creditcards.com/sb.php?"
+      "creditcards.com/actions/page_view.php",
+      "creditcards.com/sb.php"
      ]
     }
    },
@@ -46209,7 +46210,7 @@
    {
     "crunchsports.com": {
      "crunchsports.com": [
-      "crunchsports.com/tracking_fetchinfo.aspx?"
+      "crunchsports.com/tracking_fetchinfo.aspx"
      ]
     }
    },
@@ -46231,7 +46232,7 @@
    {
     "ct.cnet.com": {
      "ct.cnet.com": [
-      "ct.cnet.com/opens?"
+      "ct.cnet.com/opens"
      ]
     }
    },
@@ -46245,7 +46246,7 @@
    {
     "current.com": {
      "current.com": [
-      "current.com/tracking.htm?"
+      "current.com/tracking.htm"
      ]
     }
    },
@@ -46288,9 +46289,9 @@
    {
     "dailymotion.com": {
      "dailymotion.com": [
-      "dailymotion.com/track/",
       "dailymotion.com/track-",
       "dailymotion.com",
+      "dailymotion.com/track/",
       "dailymotion.com/logger/"
      ]
     }
@@ -46340,7 +46341,7 @@
    {
     "datehookup.com": {
      "datehookup.com": [
-      "datehookup.com/strk/dateadvertreg?"
+      "datehookup.com/strk/dateadvertreg"
      ]
     }
    },
@@ -46375,15 +46376,15 @@
    {
     "deadspin.com": {
      "deadspin.com": [
-      "deadspin.com/at.js.php",
-      "deadspin.com"
+      "deadspin.com",
+      "deadspin.com/at.js.php"
      ]
     }
    },
    {
     "dealnews.com": {
      "dealnews.com": [
-      "dealnews.com/lw/ul.php?"
+      "dealnews.com/lw/ul.php"
      ]
     }
    },
@@ -46439,7 +46440,7 @@
    {
     "despegar.com": {
      "despegar.com": [
-      "despegar.com/t?"
+      "despegar.com/t"
      ]
     }
    },
@@ -46453,7 +46454,7 @@
    {
     "destructoid.com": {
      "destructoid.com": [
-      "destructoid.com/img2.phtml?"
+      "destructoid.com/img2.phtml"
      ]
     }
    },
@@ -46502,7 +46503,7 @@
    {
     "dippic.com": {
      "dippic.com": [
-      "dippic.com/cgi-bin/index_dl.cgi?"
+      "dippic.com/cgi-bin/index_dl.cgi"
      ]
     }
    },
@@ -46586,8 +46587,8 @@
    {
     "domaintools.com": {
      "domaintools.com": [
-      "domaintools.com/buffer.pgif?",
-      "domaintools.com/tracker.php"
+      "domaintools.com/tracker.php",
+      "domaintools.com/buffer.pgif"
      ]
     }
    },
@@ -46601,7 +46602,7 @@
    {
     "dropbox.com": {
      "dropbox.com": [
-      "dropbox.com/el/?b=open:",
+      "dropbox.com/el/",
       "dropbox.com/web_timing_log"
      ]
     }
@@ -46638,7 +46639,7 @@
     "dvdempire.com": {
      "dvdempire.com": [
       "dvdempire.com/images/empty2.asp",
-      "dvdempire.com/include/user/empty2.asp?"
+      "dvdempire.com/include/user/empty2.asp"
      ]
     }
    },
@@ -46666,7 +46667,7 @@
    {
     "dx.com": {
      "dx.com": [
-      "dx.com/?utm_rid="
+      "dx.com/"
      ]
     }
    },
@@ -46715,7 +46716,7 @@
    {
     "ebay.com": {
      "ebay.com": [
-      "ebay.com/op/t.do?event"
+      "ebay.com/op/t.do"
      ]
     }
    },
@@ -46736,7 +46737,7 @@
    {
     "ectnews.com": {
      "ectnews.com": [
-      "ectnews.com/shared/missing.gif?"
+      "ectnews.com/shared/missing.gif"
      ]
     }
    },
@@ -46750,8 +46751,8 @@
    {
     "edmunds.com": {
      "edmunds.com": [
-      "edmunds.com/api/logTime?",
-      "edmunds.com"
+      "edmunds.com",
+      "edmunds.com/api/logTime"
      ]
     }
    },
@@ -46793,14 +46794,14 @@
    {
     "egg.com": {
      "egg.com": [
-      "egg.com/rum/data.gif?"
+      "egg.com/rum/data.gif"
      ]
     }
    },
    {
     "ehow.com": {
      "ehow.com": [
-      "ehow.com/services/jslogging/log/?"
+      "ehow.com/services/jslogging/log/"
      ]
     }
    },
@@ -46821,14 +46822,14 @@
    {
     "elsevier.com": {
      "elsevier.com": [
-      "elsevier.com/pageReport?"
+      "elsevier.com/pageReport"
      ]
     }
    },
    {
     "email-tickets.com": {
      "email-tickets.com": [
-      "email-tickets.com/dt?e=PageView"
+      "email-tickets.com/dt"
      ]
     }
    },
@@ -46849,16 +46850,16 @@
    {
     "emv2.com": {
      "emv2.com": [
-      "emv2.com/HO?",
-      "emv2.com/P?"
+      "emv2.com/P",
+      "emv2.com/HO"
      ]
     }
    },
    {
     "engadget.com": {
      "engadget.com": [
-      "engadget.com/click?",
-      "engadget.com/traffic/?"
+      "engadget.com/click",
+      "engadget.com/traffic/"
      ]
     }
    },
@@ -46886,8 +46887,8 @@
    {
     "epinions.com": {
      "epinions.com": [
-      "epinions.com/js/triggerParams.js",
-      "epinions.com/js/stdLauncher.js"
+      "epinions.com/js/stdLauncher.js",
+      "epinions.com/js/triggerParams.js"
      ]
     }
    },
@@ -47083,7 +47084,7 @@
    {
     "exelate.com": {
      "exelate.com": [
-      "exelate.com/pixel?"
+      "exelate.com/pixel"
      ]
     }
    },
@@ -47118,7 +47119,7 @@
    {
     "experts-exchange.com": {
      "experts-exchange.com": [
-      "experts-exchange.com/pageloaded.jsp?"
+      "experts-exchange.com/pageloaded.jsp"
      ]
     }
    },
@@ -47196,7 +47197,7 @@
    {
     "fark.com": {
      "fark.com": [
-      "fark.com/cgi/ll.pl?"
+      "fark.com/cgi/ll.pl"
      ]
     }
    },
@@ -47210,14 +47211,14 @@
    {
     "farmville.com": {
      "farmville.com": [
-      "farmville.com/trackaction.php?"
+      "farmville.com/trackaction.php"
      ]
     }
    },
    {
     "farsnews.com": {
      "farsnews.com": [
-      "farsnews.com/stcs.js.aspx?"
+      "farsnews.com/stcs.js.aspx"
      ]
     }
    },
@@ -47245,10 +47246,10 @@
    {
     "fc2.com": {
      "fc2.com": [
+      "fc2.com/counter_img.php",
       "fc2.com/ana/",
-      "fc2.com/counter.php?",
       "fc2.com/ana2/",
-      "fc2.com/counter_img.php?"
+      "fc2.com/counter.php"
      ]
     }
    },
@@ -47297,7 +47298,7 @@
    {
     "fightforthefuture.org": {
      "fightforthefuture.org": [
-      "fightforthefuture.org/wf/open?"
+      "fightforthefuture.org/wf/open"
      ]
     }
    },
@@ -47340,30 +47341,30 @@
    {
     "flickr.com": {
      "flickr.com": [
-      "flickr.com/beacon/",
-      "flickr.com/beacon_"
+      "flickr.com/beacon_",
+      "flickr.com/beacon/"
      ]
     }
    },
    {
     "fling.com": {
      "fling.com": [
-      "fling.com/zeftour/t_i.php?"
+      "fling.com/zeftour/t_i.php"
      ]
     }
    },
    {
     "flipboard.com": {
      "flipboard.com": [
-      "flipboard.com/usage?"
+      "flipboard.com/usage"
      ]
     }
    },
    {
     "flipkart.com": {
      "flipkart.com": [
-      "flipkart.com/ajaxlog/visitIdlog?",
-      "flipkart.com/bbeacon.php?"
+      "flipkart.com/bbeacon.php",
+      "flipkart.com/ajaxlog/visitIdlog"
      ]
     }
    },
@@ -47426,7 +47427,7 @@
    {
     "forbes.com": {
      "forbes.com": [
-      "forbes.com/fps/cookie_backup.php?",
+      "forbes.com/fps/cookie_backup.php",
       "forbes.com"
      ]
     }
@@ -47441,15 +47442,15 @@
    {
     "ford.com": {
      "ford.com": [
-      "ford.com/ngtemplates/ngassets/ford/general/scripts/js/galleryMetrics.js",
-      "ford.com/ngtemplates/ngassets/com/forddirect/ng/newMetrics.js"
+      "ford.com/ngtemplates/ngassets/com/forddirect/ng/newMetrics.js",
+      "ford.com/ngtemplates/ngassets/ford/general/scripts/js/galleryMetrics.js"
      ]
     }
    },
    {
     "fotothing.com": {
      "fotothing.com": [
-      "fotothing.com/space.gif?"
+      "fotothing.com/space.gif"
      ]
     }
    },
@@ -47498,14 +47499,14 @@
    {
     "freebase.com": {
      "freebase.com": [
-      "freebase.com/log?"
+      "freebase.com/log"
      ]
     }
    },
    {
     "freebiesms.com": {
      "freebiesms.com": [
-      "freebiesms.com/tracker.aspx?"
+      "freebiesms.com/tracker.aspx"
      ]
     }
    },
@@ -47533,7 +47534,7 @@
    {
     "freeones.com": {
      "freeones.com": [
-      "freeones.com/cd/?cookies=",
+      "freeones.com/cd/",
       "freeones.com"
      ]
     }
@@ -47555,7 +47556,7 @@
    {
     "frontdoor.com": {
      "frontdoor.com": [
-      "frontdoor.com/_track?"
+      "frontdoor.com/_track"
      ]
     }
    },
@@ -47570,7 +47571,7 @@
     "ft.com": {
      "ft.com": [
       "ft.com",
-      "ft.com/conker/service/pageview?"
+      "ft.com/conker/service/pageview"
      ]
     }
    },
@@ -47647,7 +47648,7 @@
    {
     "gaiaonline.com": {
      "gaiaonline.com": [
-      "gaiaonline.com/internal/mkt_t.php?"
+      "gaiaonline.com/internal/mkt_t.php"
      ]
     }
    },
@@ -47689,14 +47690,14 @@
    {
     "gamespot.com": {
      "gamespot.com": [
-      "gamespot.com/cgi/chkpt.php?"
+      "gamespot.com/cgi/chkpt.php"
      ]
     }
    },
    {
     "gamezone.com": {
      "gamezone.com": [
-      "gamezone.com/?act="
+      "gamezone.com/"
      ]
     }
    },
@@ -47717,9 +47718,9 @@
    {
     "gawker.com": {
      "gawker.com": [
-      "gawker.com/?op=hyperion_useragent_data",
+      "gawker.com/at.js.php",
       "gawker.com",
-      "gawker.com/at.js.php"
+      "gawker.com/"
      ]
     }
    },
@@ -47740,7 +47741,7 @@
    {
     "geico.com": {
      "geico.com": [
-      "geico.com/vs/track2.js?"
+      "geico.com/vs/track2.js"
      ]
     }
    },
@@ -47964,7 +47965,7 @@
    {
     "giffgaff.com": {
      "giffgaff.com": [
-      "giffgaff.com/r/?id="
+      "giffgaff.com/r/"
      ]
     }
    },
@@ -48014,8 +48015,8 @@
    {
     "globes.co.il": {
      "globes.co.il": [
-      "globes.co.il/shared/s.ashx?",
-      "globes.co.il/ga.asp"
+      "globes.co.il/ga.asp",
+      "globes.co.il/shared/s.ashx"
      ]
     }
    },
@@ -48050,10 +48051,10 @@
    {
     "google.com": {
      "google.com": [
-      "google.com/reader/logging?",
+      "google.com/log",
       "google.com",
-      "google.com/log?",
-      "google.com/stream_204?"
+      "google.com/stream_204",
+      "google.com/reader/logging"
      ]
     }
    },
@@ -48096,7 +48097,7 @@
    {
     "gumtree.com.au": {
      "gumtree.com.au": [
-      "gumtree.com.au/?pc="
+      "gumtree.com.au/"
      ]
     }
    },
@@ -48110,7 +48111,7 @@
    {
     "hanksgalleries.com": {
      "hanksgalleries.com": [
-      "hanksgalleries.com/stxt/counter.php?"
+      "hanksgalleries.com/stxt/counter.php"
      ]
     }
    },
@@ -48180,7 +48181,7 @@
    {
     "herold.at": {
      "herold.at": [
-      "herold.at/images/stathbd.gif?"
+      "herold.at/images/stathbd.gif"
      ]
     }
    },
@@ -48215,8 +48216,8 @@
    {
     "holiday-rentals.co.uk": {
      "holiday-rentals.co.uk": [
-      "holiday-rentals.co.uk/thirdparty/tag",
-      "holiday-rentals.co.uk"
+      "holiday-rentals.co.uk",
+      "holiday-rentals.co.uk/thirdparty/tag"
      ]
     }
    },
@@ -48244,7 +48245,7 @@
    {
     "hoseasons.co.uk": {
      "hoseasons.co.uk": [
-      "hoseasons.co.uk/tracking/js.html?"
+      "hoseasons.co.uk/tracking/js.html"
      ]
     }
    },
@@ -48258,8 +48259,8 @@
    {
     "hostels.com": {
      "hostels.com": [
-      "hostels.com/includes/thing.php?",
-      "hostels.com/includes/lb.php?"
+      "hostels.com/includes/lb.php",
+      "hostels.com/includes/thing.php"
      ]
     }
    },
@@ -48280,21 +48281,21 @@
    {
     "hotnews.ro": {
      "hotnews.ro": [
-      "hotnews.ro/pageCount.htm?"
+      "hotnews.ro/pageCount.htm"
      ]
     }
    },
    {
     "houzz.com": {
      "houzz.com": [
-      "houzz.com/js/log?"
+      "houzz.com/js/log"
      ]
     }
    },
    {
     "hoverstock.com": {
      "hoverstock.com": [
-      "hoverstock.com/boomerang?"
+      "hoverstock.com/boomerang"
      ]
     }
    },
@@ -48350,18 +48351,18 @@
    {
     "huffingtonpost.com": {
      "huffingtonpost.com": [
-      "huffingtonpost.com/click?",
       "huffingtonpost.com/geopromo/",
-      "huffingtonpost.com/include/geopromo.php",
+      "huffingtonpost.com/ping",
       "huffingtonpost.com/traffic/",
-      "huffingtonpost.com/ping?"
+      "huffingtonpost.com/click",
+      "huffingtonpost.com/include/geopromo.php"
      ]
     }
    },
    {
     "huffpost.com": {
      "huffpost.com": [
-      "huffpost.com/ping?"
+      "huffpost.com/ping"
      ]
     }
    },
@@ -48376,11 +48377,11 @@
    {
     "hulu.com": {
      "hulu.com": [
-      "hulu.com/google_conversion_video_view_tracking.html",
-      "hulu.com/beaconservice.swf",
       "hulu.com/guid.swf",
-      "hulu.com/beacon/v3/error?",
-      "hulu.com/beacon/v3/playback?",
+      "hulu.com/beacon/v3/error",
+      "hulu.com/beaconservice.swf",
+      "hulu.com/beacon/v3/playback",
+      "hulu.com/google_conversion_video_view_tracking.html",
       "hulu.com"
      ]
     }
@@ -48395,8 +48396,8 @@
    {
     "hwscdn.com": {
      "hwscdn.com": [
-      "hwscdn.com",
-      "hwscdn.com/analytics.js"
+      "hwscdn.com/analytics.js",
+      "hwscdn.com"
      ]
     }
    },
@@ -48425,7 +48426,7 @@
    {
     "iafrica.com": {
      "iafrica.com": [
-      "iafrica.com/php-bin/iac/readcnt.php?"
+      "iafrica.com/php-bin/iac/readcnt.php"
      ]
     }
    },
@@ -48446,8 +48447,8 @@
    {
     "ibm.com": {
      "ibm.com": [
-      "ibm.com/gateway/?",
-      "ibm.com/common/stats/"
+      "ibm.com/common/stats/",
+      "ibm.com/gateway/"
      ]
     }
    },
@@ -48517,16 +48518,16 @@
    {
     "imagetwist.com": {
      "imagetwist.com": [
-      "imagetwist.com/?op="
+      "imagetwist.com/"
      ]
     }
    },
    {
     "imdb.com": {
      "imdb.com": [
-      "imdb.com/twilight/?",
+      "imdb.com/twilight/",
       "imdb.com",
-      "imdb.com/rd/?q"
+      "imdb.com/rd/"
      ]
     }
    },
@@ -48540,9 +48541,9 @@
    {
     "imgur.com": {
      "imgur.com": [
-      "imgur.com/albumview.gif?",
-      "imgur.com/lumbar.gif?",
-      "imgur.com/imageview.gif?"
+      "imgur.com/lumbar.gif",
+      "imgur.com/albumview.gif",
+      "imgur.com/imageview.gif"
      ]
     }
    },
@@ -48570,7 +48571,7 @@
    {
     "indeed.com": {
      "indeed.com": [
-      "indeed.com/rpc/preccount?"
+      "indeed.com/rpc/preccount"
      ]
     }
    },
@@ -48612,7 +48613,7 @@
    {
     "informer.com": {
      "informer.com": [
-      "informer.com/statistic?"
+      "informer.com/statistic"
      ]
     }
    },
@@ -48675,7 +48676,7 @@
    {
     "insire.com": {
      "insire.com": [
-      "insire.com/imp?"
+      "insire.com/imp"
      ]
     }
    },
@@ -48696,7 +48697,7 @@
    {
     "insynchq.com": {
      "insynchq.com": [
-      "insynchq.com/wf/open?"
+      "insynchq.com/wf/open"
      ]
     }
    },
@@ -48724,7 +48725,7 @@
    {
     "investegate.co.uk": {
      "investegate.co.uk": [
-      "investegate.co.uk/Weblogs/IGLog.aspx?"
+      "investegate.co.uk/Weblogs/IGLog.aspx"
      ]
     }
    },
@@ -48739,7 +48740,7 @@
    {
     "ip-adress.com": {
      "ip-adress.com": [
-      "ip-adress.com/gl?r="
+      "ip-adress.com/gl"
      ]
     }
    },
@@ -48760,7 +48761,7 @@
    {
     "ipetitions.com": {
      "ipetitions.com": [
-      "ipetitions.com/img.php?"
+      "ipetitions.com/img.php"
      ]
     }
    },
@@ -48774,7 +48775,7 @@
    {
     "issn.org": {
      "issn.org": [
-      "issn.org/isens_marker.php?"
+      "issn.org/isens_marker.php"
      ]
     }
    },
@@ -48837,15 +48838,15 @@
    {
     "jalopnik.com": {
      "jalopnik.com": [
-      "jalopnik.com",
-      "jalopnik.com/at.js.php"
+      "jalopnik.com/at.js.php",
+      "jalopnik.com"
      ]
     }
    },
    {
     "jaludo.com": {
      "jaludo.com": [
-      "jaludo.com/pm.php?"
+      "jaludo.com/pm.php"
      ]
     }
    },
@@ -48887,8 +48888,8 @@
    {
     "jezebel.com": {
      "jezebel.com": [
-      "jezebel.com",
-      "jezebel.com/at.js.php"
+      "jezebel.com/at.js.php",
+      "jezebel.com"
      ]
     }
    },
@@ -48902,8 +48903,8 @@
    {
     "jobthread.com": {
      "jobthread.com": [
-      "jobthread.com/js/t.js",
-      "jobthread.com/t/"
+      "jobthread.com/t/",
+      "jobthread.com/js/t.js"
      ]
     }
    },
@@ -48917,7 +48918,7 @@
    {
     "joins.com": {
      "joins.com": [
-      "joins.com/hc.aspx?",
+      "joins.com/hc.aspx",
       "joins.com"
      ]
     }
@@ -48954,14 +48955,14 @@
    {
     "kayak.com": {
      "kayak.com": [
-      "kayak.com/k/redirect/tracking?"
+      "kayak.com/k/redirect/tracking"
      ]
     }
    },
    {
     "kelkoo.co.uk": {
      "kelkoo.co.uk": [
-      "kelkoo.co.uk/kk_track?",
+      "kelkoo.co.uk/kk_track",
       "kelkoo.co.uk"
      ]
     }
@@ -48969,7 +48970,7 @@
    {
     "kelkoo.com": {
      "kelkoo.com": [
-      "kelkoo.com/kk_track?"
+      "kelkoo.com/kk_track"
      ]
     }
    },
@@ -49060,8 +49061,8 @@
    {
     "kotaku.com": {
      "kotaku.com": [
-      "kotaku.com/at.js.php",
-      "kotaku.com"
+      "kotaku.com",
+      "kotaku.com/at.js.php"
      ]
     }
    },
@@ -49126,15 +49127,15 @@
    {
     "lendingtree.com": {
      "lendingtree.com": [
-      "lendingtree.com/forms/eventtracking?",
-      "lendingtree.com/javascript/tracking.js"
+      "lendingtree.com/javascript/tracking.js",
+      "lendingtree.com/forms/eventtracking"
      ]
     }
    },
    {
     "letitbit.net": {
      "letitbit.net": [
-      "letitbit.net/atercattus/letitbit/counter/?",
+      "letitbit.net/atercattus/letitbit/counter/",
       "letitbit.net/counter/"
      ]
     }
@@ -49227,7 +49228,7 @@
    {
     "list.ru": {
      "list.ru": [
-      "list.ru/counter?"
+      "list.ru/counter"
      ]
     }
    },
@@ -49241,7 +49242,7 @@
    {
     "live.com": {
      "live.com": [
-      "live.com/handlers/watson.mvc?"
+      "live.com/handlers/watson.mvc"
      ]
     }
    },
@@ -49262,7 +49263,7 @@
    {
     "livejournal.com": {
      "livejournal.com": [
-      "livejournal.com/ljcounter/?"
+      "livejournal.com/ljcounter/"
      ]
     }
    },
@@ -49297,7 +49298,7 @@
    {
     "livesupport.zol.co.zw": {
      "livesupport.zol.co.zw": [
-      "livesupport.zol.co.zw/image_tracker.php?"
+      "livesupport.zol.co.zw/image_tracker.php"
      ]
     }
    },
@@ -49311,8 +49312,8 @@
    {
     "loc.gov": {
      "loc.gov": [
-      "loc.gov",
-      "loc.gov/js/ga.js"
+      "loc.gov/js/ga.js",
+      "loc.gov"
      ]
     }
    },
@@ -49375,7 +49376,7 @@
    {
     "log.player.cntv.cn": {
      "log.player.cntv.cn": [
-      "log.player.cntv.cn/stat.html?"
+      "log.player.cntv.cn/stat.html"
      ]
     }
    },
@@ -49508,9 +49509,9 @@
    {
     "lovefilm.com": {
      "lovefilm.com": [
-      "lovefilm.com",
+      "lovefilm.com/lovefilm/images/dot.gif",
       "lovefilm.com/api/ioko/log/",
-      "lovefilm.com/lovefilm/images/dot.gif"
+      "lovefilm.com"
      ]
     }
    },
@@ -49538,7 +49539,7 @@
    {
     "luxurylink.com": {
      "luxurylink.com": [
-      "luxurylink.com/t/hpr.php?"
+      "luxurylink.com/t/hpr.php"
      ]
     }
    },
@@ -49559,14 +49560,14 @@
    {
     "mail.com": {
      "mail.com": [
-      "mail.com/monitor/count?"
+      "mail.com/monitor/count"
      ]
     }
    },
    {
     "mail.yahoo.com": {
      "mail.yahoo.com": [
-      "mail.yahoo.com/dc/rs?log="
+      "mail.yahoo.com/dc/rs"
      ]
     }
    },
@@ -49580,7 +49581,7 @@
    {
     "manta.com": {
      "manta.com": [
-      "manta.com/sbb?"
+      "manta.com/sbb"
      ]
     }
    },
@@ -49594,7 +49595,7 @@
    {
     "marketgid.com": {
      "marketgid.com": [
-      "marketgid.com/c?"
+      "marketgid.com/c"
      ]
     }
    },
@@ -49664,7 +49665,7 @@
    {
     "mdmpix.com": {
      "mdmpix.com": [
-      "mdmpix.com/js/connector.php?"
+      "mdmpix.com/js/connector.php"
      ]
     }
    },
@@ -49720,8 +49721,8 @@
    {
     "metacafe.com": {
      "metacafe.com": [
-      "metacafe.com/services/fplayer/report.php?",
-      "metacafe.com"
+      "metacafe.com",
+      "metacafe.com/services/fplayer/report.php"
      ]
     }
    },
@@ -49876,14 +49877,14 @@
     "microsoft.com": {
      "microsoft.com": [
       "microsoft.com/getsilverlight/scripts/Tracker.js",
+      "microsoft.com/getsilverlight/scripts/silverlight/SilverlightAtlas-MSCOM-Tracking.js",
+      "microsoft.com/_log",
+      "microsoft.com/LTS/default.aspx",
       "microsoft.com/library/svy/",
       "microsoft.com/click/",
-      "microsoft.com/blankpixel.gif",
-      "microsoft.com/_log?",
       "microsoft.com",
-      "microsoft.com/LTS/default.aspx",
+      "microsoft.com/blankpixel.gif",
       "microsoft.com/collect/",
-      "microsoft.com/getsilverlight/scripts/silverlight/SilverlightAtlas-MSCOM-Tracking.js",
       "microsoft.com/Collector/"
      ]
     }
@@ -49891,8 +49892,8 @@
    {
     "military.com": {
      "military.com": [
-      "military.com/cgi-bin/redlog2.cgi?",
-      "military.com/Scripts/mnfooter.js"
+      "military.com/Scripts/mnfooter.js",
+      "military.com/cgi-bin/redlog2.cgi"
      ]
     }
    },
@@ -50158,7 +50159,7 @@
    {
     "movieclips.com": {
      "movieclips.com": [
-      "movieclips.com/api/v1/player/test?"
+      "movieclips.com/api/v1/player/test"
      ]
     }
    },
@@ -50193,7 +50194,7 @@
    {
     "msn.com": {
      "msn.com": [
-      "msn.com/ro.aspx?",
+      "msn.com/ro.aspx",
       "msn.com/tracker/",
       "msn.com"
      ]
@@ -50216,7 +50217,7 @@
    {
     "mto.mediatakeout.com": {
      "mto.mediatakeout.com": [
-      "mto.mediatakeout.com/viewer?"
+      "mto.mediatakeout.com/viewer"
      ]
     }
    },
@@ -50244,7 +50245,7 @@
    {
     "musicstack.com": {
      "musicstack.com": [
-      "musicstack.com/livezilla/server.php?request=track"
+      "musicstack.com/livezilla/server.php"
      ]
     }
    },
@@ -50272,7 +50273,7 @@
    {
     "mypaydayloan.com": {
      "mypaydayloan.com": [
-      "mypaydayloan.com/setc.asp?"
+      "mypaydayloan.com/setc.asp"
      ]
     }
    },
@@ -50286,23 +50287,23 @@
    {
     "myspace.com": {
      "myspace.com": [
-      "myspace.com/beacon/",
-      "myspace.com/isf.gif?"
+      "myspace.com/isf.gif",
+      "myspace.com/beacon/"
      ]
     }
    },
    {
     "mytravel.co.uk": {
      "mytravel.co.uk": [
-      "mytravel.co.uk/thomascooktrack.gif?"
+      "mytravel.co.uk/thomascooktrack.gif"
      ]
     }
    },
    {
     "mywebsearch.com": {
      "mywebsearch.com": [
-      "mywebsearch.com/anx.gif?",
-      "mywebsearch.com"
+      "mywebsearch.com",
+      "mywebsearch.com/anx.gif"
      ]
     }
    },
@@ -50344,8 +50345,8 @@
    {
     "nationalpayday.com": {
      "nationalpayday.com": [
-      "nationalpayday.com/MAPProc.aspx?",
-      "nationalpayday.com/1pix.gif"
+      "nationalpayday.com/1pix.gif",
+      "nationalpayday.com/MAPProc.aspx"
      ]
     }
    },
@@ -50409,7 +50410,7 @@
    {
     "ndtv.com": {
      "ndtv.com": [
-      "ndtv.com/Status24x7.lv?"
+      "ndtv.com/Status24x7.lv"
      ]
     }
    },
@@ -50430,7 +50431,7 @@
    {
     "net-a-porter.com": {
      "net-a-porter.com": [
-      "net-a-porter.com/intl/trackpage.nap?"
+      "net-a-porter.com/intl/trackpage.nap"
      ]
     }
    },
@@ -50444,11 +50445,11 @@
    {
     "netflix.com": {
      "netflix.com": [
-      "netflix.com/RegisterActionImpression?",
-      "netflix.com/EpicCounter?",
-      "netflix.com",
-      "netflix.com/ichnaea/log",
-      "netflix.com/LogCustomerEvent?"
+      "netflix.com/RegisterActionImpression",
+      "netflix.com/EpicCounter",
+      "netflix.com/LogCustomerEvent",
+      "netflix.com/beacons",
+      "netflix.com/ichnaea/log"
      ]
     }
    },
@@ -50519,14 +50520,14 @@
    {
     "newser.com": {
      "newser.com": [
-      "newser.com/utility.aspx?"
+      "newser.com/utility.aspx"
      ]
     }
    },
    {
     "newsletter.mybboard.net": {
      "newsletter.mybboard.net": [
-      "newsletter.mybboard.net/open.php?"
+      "newsletter.mybboard.net/open.php"
      ]
     }
    },
@@ -50540,7 +50541,7 @@
    {
     "newswire.ca": {
      "newswire.ca": [
-      "newswire.ca/rt.gif?"
+      "newswire.ca/rt.gif"
      ]
     }
    },
@@ -50562,7 +50563,7 @@
    {
     "nfl.com": {
      "nfl.com": [
-      "nfl.com/imp?"
+      "nfl.com/imp"
      ]
     }
    },
@@ -50605,8 +50606,8 @@
    {
     "nj.com": {
      "nj.com": [
-      "nj.com/dhtml/stats/",
-      "nj.com/cgi-bin/stats/"
+      "nj.com/cgi-bin/stats/",
+      "nj.com/dhtml/stats/"
      ]
     }
    },
@@ -50636,7 +50637,7 @@
    {
     "nova.pub": {
      "nova.pub": [
-      "nova.pub/track.php?"
+      "nova.pub/track.php"
      ]
     }
    },
@@ -50751,7 +50752,7 @@
    {
     "ocregister.com": {
      "ocregister.com": [
-      "ocregister.com/za?"
+      "ocregister.com/za"
      ]
     }
    },
@@ -50786,7 +50787,7 @@
    {
     "okcupid.com": {
      "okcupid.com": [
-      "okcupid.com/poststat?"
+      "okcupid.com/poststat"
      ]
     }
    },
@@ -50912,7 +50913,7 @@
    {
     "orain.org": {
      "orain.org": [
-      "orain.org/w/index.php/Special:RecordImpression?"
+      "orain.org/w/index.php/Special:RecordImpression"
      ]
     }
    },
@@ -50969,7 +50970,7 @@
    {
     "p.ctpost.com": {
      "p.ctpost.com": [
-      "p.ctpost.com/article?i="
+      "p.ctpost.com/article"
      ]
     }
    },
@@ -50983,7 +50984,7 @@
    {
     "pages03.net": {
      "pages03.net": [
-      "pages03.net/WTS/event.jpeg?"
+      "pages03.net/WTS/event.jpeg"
      ]
     }
    },
@@ -51111,7 +51112,7 @@
    {
     "pearltrees.com": {
      "pearltrees.com": [
-      "pearltrees.com/s/track?"
+      "pearltrees.com/s/track"
      ]
     }
    },
@@ -51125,16 +51126,16 @@
    {
     "perezhilton.com": {
      "perezhilton.com": [
+      "perezhilton.com",
       "perezhilton.com/gtjs.php",
-      "perezhilton.com/services/geo/",
-      "perezhilton.com"
+      "perezhilton.com/services/geo/"
      ]
     }
    },
    {
     "perfectmarket.com": {
      "perfectmarket.com": [
-      "perfectmarket.com/pm/track?"
+      "perfectmarket.com/pm/track"
      ]
     }
    },
@@ -51162,7 +51163,7 @@
    {
     "petri.co.il": {
      "petri.co.il": [
-      "petri.co.il/akit/?"
+      "petri.co.il/akit/"
      ]
     }
    },
@@ -51183,8 +51184,8 @@
    {
     "philly.com": {
      "philly.com": [
-      "philly.com/includes/s_code.js",
-      "philly.com/log.json?"
+      "philly.com/log.json",
+      "philly.com/includes/s_code.js"
      ]
     }
    },
@@ -51198,16 +51199,16 @@
    {
     "photobucket.com": {
      "photobucket.com": [
-      "photobucket.com/ss/open.php?",
+      "photobucket.com/track/",
       "photobucket.com",
-      "photobucket.com/track/"
+      "photobucket.com/ss/open.php"
      ]
     }
    },
    {
     "photographyblog.com": {
      "photographyblog.com": [
-      "photographyblog.com/?ACT"
+      "photographyblog.com/"
      ]
     }
    },
@@ -51221,7 +51222,7 @@
    {
     "picapp.com": {
      "picapp.com": [
-      "picapp.com/empty.gif?"
+      "picapp.com/empty.gif"
      ]
     }
    },
@@ -51298,7 +51299,7 @@
    {
     "pipl.com": {
      "pipl.com": [
-      "pipl.com/rd/?"
+      "pipl.com/rd/"
      ]
     }
    },
@@ -51445,8 +51446,8 @@
    {
     "play.com": {
      "play.com": [
-      "play.com/sitetrak/",
-      "play.com/analytics/"
+      "play.com/analytics/",
+      "play.com/sitetrak/"
      ]
     }
    },
@@ -51460,7 +51461,7 @@
    {
     "playdom.com": {
      "playdom.com": [
-      "playdom.com/affl/show_pixel?"
+      "playdom.com/affl/show_pixel"
      ]
     }
    },
@@ -51510,7 +51511,7 @@
    {
     "pokernews.com": {
      "pokernews.com": [
-      "pokernews.com/track-views.php?"
+      "pokernews.com/track-views.php"
      ]
     }
    },
@@ -51637,8 +51638,8 @@
    {
     "prnewswire.com": {
      "prnewswire.com": [
-      "prnewswire.com/rit.gif?",
-      "prnewswire.com/rt.gif?"
+      "prnewswire.com/rit.gif",
+      "prnewswire.com/rt.gif"
      ]
     }
    },
@@ -51708,8 +51709,8 @@
    {
     "pubarticles.com": {
      "pubarticles.com": [
-      "pubarticles.com/add_hits_by_user_click.php",
-      "pubarticles.com/_hits.php?"
+      "pubarticles.com/_hits.php",
+      "pubarticles.com/add_hits_by_user_click.php"
      ]
     }
    },
@@ -51801,7 +51802,7 @@
    {
     "racingbase.com": {
      "racingbase.com": [
-      "racingbase.com/tracking_fetchinfo.aspx?"
+      "racingbase.com/tracking_fetchinfo.aspx"
      ]
     }
    },
@@ -51815,8 +51816,8 @@
    {
     "radio-canada.ca": {
      "radio-canada.ca": [
-      "radio-canada.ca/omniture/omni_stats_base.js?",
-      "radio-canada.ca/lib/TrueSight/markerFile.gif?"
+      "radio-canada.ca/omniture/omni_stats_base.js",
+      "radio-canada.ca/lib/TrueSight/markerFile.gif"
      ]
     }
    },
@@ -51928,7 +51929,7 @@
    {
     "redditmedia.com": {
      "redditmedia.com": [
-      "redditmedia.com/gtm/jail?"
+      "redditmedia.com/gtm/jail"
      ]
     }
    },
@@ -51942,15 +51943,15 @@
    {
     "redtube.com": {
      "redtube.com": [
-      "redtube.com/_status/pix.php",
       "redtube.com/pix.php",
-      "redtube.com/trackimps",
-      "redtube.com/trackplay?",
       "redtube.com",
-      "redtube.com/js/track.js",
-      "redtube.com/_status/pixa.php",
       "redtube.com/stats/",
-      "redtube.com/blockcount|"
+      "redtube.com/blockcount|",
+      "redtube.com/_status/pix.php",
+      "redtube.com/trackplay",
+      "redtube.com/js/track.js",
+      "redtube.com/trackimps",
+      "redtube.com/_status/pixa.php"
      ]
     }
    },
@@ -51971,7 +51972,7 @@
    {
     "refinery29.com": {
      "refinery29.com": [
-      "refinery29.com/api/stats?"
+      "refinery29.com/api/stats"
      ]
     }
    },
@@ -52013,7 +52014,7 @@
    {
     "reporter-times.com": {
      "reporter-times.com": [
-      "reporter-times.com/js/tk.js?"
+      "reporter-times.com/js/tk.js"
      ]
     }
    },
@@ -52070,7 +52071,7 @@
     "retrevo.com": {
      "retrevo.com": [
       "retrevo.com/m/vm/tracking/",
-      "retrevo.com/search/v2/jsp/blank.jsp?"
+      "retrevo.com/search/v2/jsp/blank.jsp"
      ]
     }
    },
@@ -52106,7 +52107,7 @@
    {
     "rightmove.co.uk": {
      "rightmove.co.uk": [
-      "rightmove.co.uk/ps/images/logging/timer.gif?"
+      "rightmove.co.uk/ps/images/logging/timer.gif"
      ]
     }
    },
@@ -52134,7 +52135,7 @@
    {
     "ritzcarlton.com": {
      "ritzcarlton.com": [
-      "ritzcarlton.com/ritz/crossDomainTracking.mi?"
+      "ritzcarlton.com/ritz/crossDomainTracking.mi"
      ]
     }
    },
@@ -52148,7 +52149,7 @@
    {
     "ro89.com": {
      "ro89.com": [
-      "ro89.com/hitme.php?"
+      "ro89.com/hitme.php"
      ]
     }
    },
@@ -52162,7 +52163,7 @@
    {
     "roblox.com": {
      "roblox.com": [
-      "roblox.com/www/e.png?"
+      "roblox.com/www/e.png"
      ]
     }
    },
@@ -52211,7 +52212,7 @@
    {
     "rsys2.net": {
      "rsys2.net": [
-      "rsys2.net/pub/as?"
+      "rsys2.net/pub/as"
      ]
     }
    },
@@ -52409,8 +52410,8 @@
    {
     "sciencedaily.com": {
      "sciencedaily.com": [
-      "sciencedaily.com/blank.htm",
-      "sciencedaily.com/cache.php?"
+      "sciencedaily.com/cache.php",
+      "sciencedaily.com/blank.htm"
      ]
     }
    },
@@ -52466,7 +52467,7 @@
    {
     "scriptlance.com": {
      "scriptlance.com": [
-      "scriptlance.com/cgi-bin/freelancers/ref_click.cgi?"
+      "scriptlance.com/cgi-bin/freelancers/ref_click.cgi"
      ]
     }
    },
@@ -52508,7 +52509,7 @@
    {
     "search.yahoo.com": {
      "search.yahoo.com": [
-      "search.yahoo.com/ra/click?"
+      "search.yahoo.com/ra/click"
      ]
     }
    },
@@ -52529,7 +52530,7 @@
    {
     "seatgeek.com": {
      "seatgeek.com": [
-      "seatgeek.com/sixpack/participate?"
+      "seatgeek.com/sixpack/participate"
      ]
     }
    },
@@ -52557,7 +52558,7 @@
    {
     "securepaynet.net": {
      "securepaynet.net": [
-      "securepaynet.net/image.aspx?"
+      "securepaynet.net/image.aspx"
      ]
     }
    },
@@ -52613,7 +52614,7 @@
    {
     "servedby.yell.com": {
      "servedby.yell.com": [
-      "servedby.yell.com/t.js?cq"
+      "servedby.yell.com/t.js"
      ]
     }
    },
@@ -52690,7 +52691,7 @@
    {
     "shoutcast.com": {
      "shoutcast.com": [
-      "shoutcast.com/traffic/?"
+      "shoutcast.com/traffic/"
      ]
     }
    },
@@ -52711,7 +52712,7 @@
    {
     "shutterstock.com": {
      "shutterstock.com": [
-      "shutterstock.com/b.png?"
+      "shutterstock.com/b.png"
      ]
     }
    },
@@ -52796,17 +52797,17 @@
    {
     "skyrock.net": {
      "skyrock.net": [
-      "skyrock.net/js/stats_blog.js",
+      "skyrock.net/stats/",
       "skyrock.net/img/pix.gif",
-      "skyrock.net/stats/"
+      "skyrock.net/js/stats_blog.js"
      ]
     }
    },
    {
     "slack.com": {
      "slack.com": [
-      "slack.com/clog/track/",
-      "slack.com/beacon/"
+      "slack.com/beacon/",
+      "slack.com/clog/track/"
      ]
     }
    },
@@ -52932,7 +52933,7 @@
    {
     "sourceforge.net": {
      "sourceforge.net": [
-      "sourceforge.net/images/mlopen_post.html?",
+      "sourceforge.net/images/mlopen_post.html",
       "sourceforge.net/log/"
      ]
     }
@@ -53752,7 +53753,7 @@
    {
     "sporcle.com": {
      "sporcle.com": [
-      "sporcle.com/adn/yaktrack.php?"
+      "sporcle.com/adn/yaktrack.php"
      ]
     }
    },
@@ -53878,7 +53879,7 @@
    {
     "staticice.com.au": {
      "staticice.com.au": [
-      "staticice.com.au/cgi-bin/stats.cgi?"
+      "staticice.com.au/cgi-bin/stats.cgi"
      ]
     }
    },
@@ -54361,7 +54362,7 @@
    {
     "stocktwits.com": {
      "stocktwits.com": [
-      "stocktwits.com/spaceape-web.gif?"
+      "stocktwits.com/spaceape-web.gif"
      ]
     }
    },
@@ -54389,7 +54390,7 @@
    {
     "storewidesearch.com": {
      "storewidesearch.com": [
-      "storewidesearch.com/imn/mn.gif?"
+      "storewidesearch.com/imn/mn.gif"
      ]
     }
    },
@@ -54417,8 +54418,8 @@
    {
     "streetfire.net": {
      "streetfire.net": [
-      "streetfire.net/handlers/logstreamfileimpression.ashx?",
-      "streetfire.net/flash/trackingutility.swf"
+      "streetfire.net/flash/trackingutility.swf",
+      "streetfire.net/handlers/logstreamfileimpression.ashx"
      ]
     }
    },
@@ -54432,7 +54433,7 @@
    {
     "stribe.com": {
      "stribe.com": [
-      "stribe.com/00/logs?"
+      "stribe.com/00/logs"
      ]
     }
    },
@@ -54461,7 +54462,7 @@
    {
     "stylelist.com": {
      "stylelist.com": [
-      "stylelist.com/ping?ts="
+      "stylelist.com/ping"
      ]
     }
    },
@@ -54503,28 +54504,28 @@
    {
     "sundayskylb1.com": {
      "sundayskylb1.com": [
-      "sundayskylb1.com/sst.gif?"
+      "sundayskylb1.com/sst.gif"
      ]
     }
    },
    {
     "supermediastore.com": {
      "supermediastore.com": [
-      "supermediastore.com/web/track?"
+      "supermediastore.com/web/track"
      ]
     }
    },
    {
     "superpages.com": {
      "superpages.com": [
-      "superpages.com/ct/clickThrough?"
+      "superpages.com/ct/clickThrough"
      ]
     }
    },
    {
     "surinenglish.com": {
      "surinenglish.com": [
-      "surinenglish.com/acceso.php?"
+      "surinenglish.com/acceso.php"
      ]
     }
    },
@@ -54657,7 +54658,7 @@
    {
     "tab.co.nz": {
      "tab.co.nz": [
-      "tab.co.nz/track?"
+      "tab.co.nz/track"
      ]
     }
    },
@@ -54790,7 +54791,7 @@
    {
     "tesco.com": {
      "tesco.com": [
-      "tesco.com/cgi-bin3/buyrate?type="
+      "tesco.com/cgi-bin3/buyrate"
      ]
     }
    },
@@ -54854,7 +54855,7 @@
    {
     "thefind.com": {
      "thefind.com": [
-      "thefind.com/page/sizelog?"
+      "thefind.com/page/sizelog"
      ]
     }
    },
@@ -54869,7 +54870,7 @@
    {
     "thefrisky.com": {
      "thefrisky.com": [
-      "thefrisky.com/?act="
+      "thefrisky.com/"
      ]
     }
    },
@@ -54890,7 +54891,7 @@
    {
     "theintercept.com": {
      "theintercept.com": [
-      "theintercept.com/a?"
+      "theintercept.com/a"
      ]
     }
    },
@@ -55009,7 +55010,7 @@
    {
     "tinypic.com": {
      "tinypic.com": [
-      "tinypic.com/track.php?"
+      "tinypic.com/track.php"
      ]
     }
    },
@@ -55023,7 +55024,7 @@
    {
     "tivo.com": {
      "tivo.com": [
-      "tivo.com/__ssobj/track?"
+      "tivo.com/__ssobj/track"
      ]
     }
    },
@@ -55072,42 +55073,42 @@
    {
     "torrentz.eu": {
      "torrentz.eu": [
-      "torrentz.eu/ping?"
+      "torrentz.eu/ping"
      ]
     }
    },
    {
     "torrentz.in": {
      "torrentz.in": [
-      "torrentz.in/ping?"
+      "torrentz.in/ping"
      ]
     }
    },
    {
     "torrentz.li": {
      "torrentz.li": [
-      "torrentz.li/ping?"
+      "torrentz.li/ping"
      ]
     }
    },
    {
     "torrentz.me": {
      "torrentz.me": [
-      "torrentz.me/ping?"
+      "torrentz.me/ping"
      ]
     }
    },
    {
     "torrentz.ph": {
      "torrentz.ph": [
-      "torrentz.ph/ping?"
+      "torrentz.ph/ping"
      ]
     }
    },
    {
     "tortoise.proboards.com": {
      "tortoise.proboards.com": [
-      "tortoise.proboards.com/tortoise.pl?"
+      "tortoise.proboards.com/tortoise.pl"
      ]
     }
    },
@@ -55128,7 +55129,7 @@
    {
     "totalporn.com": {
      "totalporn.com": [
-      "totalporn.com/videos/tracking/?url="
+      "totalporn.com/videos/tracking/"
      ]
     }
    },
@@ -55163,7 +55164,7 @@
    {
     "tqn.com": {
      "tqn.com": [
-      "tqn.com/px/?"
+      "tqn.com/px/"
      ]
     }
    },
@@ -55758,7 +55759,7 @@
    {
     "tre.emv3.com": {
      "tre.emv3.com": [
-      "tre.emv3.com/P?"
+      "tre.emv3.com/P"
      ]
     }
    },
@@ -55772,7 +55773,7 @@
    {
     "treato.com": {
      "treato.com": [
-      "treato.com/api/analytics?"
+      "treato.com/api/analytics"
      ]
     }
    },
@@ -55793,7 +55794,7 @@
    {
     "triond.com": {
      "triond.com": [
-      "triond.com/cntimp?"
+      "triond.com/cntimp"
      ]
     }
    },
@@ -55807,8 +55808,8 @@
    {
     "trivago.com": {
      "trivago.com": [
-      "trivago.com/tracking/",
-      "trivago.com/check-session-state?"
+      "trivago.com/check-session-state",
+      "trivago.com/tracking/"
      ]
     }
    },
@@ -55829,7 +55830,7 @@
    {
     "truecar.com": {
      "truecar.com": [
-      "truecar.com/tct?"
+      "truecar.com/tct"
      ]
     }
    },
@@ -55843,7 +55844,7 @@
    {
     "truste.com": {
      "truste.com": [
-      "truste.com",
+      "truste.com/notice",
       "truste.com/common/js/ga.js"
      ]
     }
@@ -55865,7 +55866,7 @@
    {
     "tubeplus.me": {
      "tubeplus.me": [
-      "tubeplus.me/geoip.php?"
+      "tubeplus.me/geoip.php"
      ]
     }
    },
@@ -55886,7 +55887,7 @@
    {
     "tumblr.com": {
      "tumblr.com": [
-      "tumblr.com/impixu?"
+      "tumblr.com/impixu"
      ]
     }
    },
@@ -55963,7 +55964,7 @@
    {
     "u.tv": {
      "u.tv": [
-      "u.tv/utvplayer/everywhere/tracking.aspx?"
+      "u.tv/utvplayer/everywhere/tracking.aspx"
      ]
     }
    },
@@ -55977,7 +55978,7 @@
    {
     "ultra-gamerz-zone.cz.cc": {
      "ultra-gamerz-zone.cz.cc": [
-      "ultra-gamerz-zone.cz.cc/b/stats?"
+      "ultra-gamerz-zone.cz.cc/b/stats"
      ]
     }
    },
@@ -56061,7 +56062,7 @@
    {
     "uploadrocket.net": {
      "uploadrocket.net": [
-      "uploadrocket.net"
+      "uploadrocket.net/downloadfiles.php"
      ]
     }
    },
@@ -56117,14 +56118,14 @@
    {
     "usage.zattoo.com": {
      "usage.zattoo.com": [
-      "usage.zattoo.com/?adblock="
+      "usage.zattoo.com/"
      ]
     }
    },
    {
     "usell.com": {
      "usell.com": [
-      "usell.com/bug.gif?"
+      "usell.com/bug.gif"
      ]
     }
    },
@@ -56159,7 +56160,7 @@
    {
     "uts-rss.crystalmedianetworks.com": {
      "uts-rss.crystalmedianetworks.com": [
-      "uts-rss.crystalmedianetworks.com/track.php?"
+      "uts-rss.crystalmedianetworks.com/track.php"
      ]
     }
    },
@@ -56208,7 +56209,7 @@
    {
     "verizonwireless.com": {
      "verizonwireless.com": [
-      "verizonwireless.com/mpel.js?"
+      "verizonwireless.com/mpel.js"
      ]
     }
    },
@@ -56222,14 +56223,14 @@
    {
     "vevo.com": {
      "vevo.com": [
-      "vevo.com/audit.ashx?"
+      "vevo.com/audit.ashx"
      ]
     }
    },
    {
     "vg247.com": {
      "vg247.com": [
-      "vg247.com/pv?"
+      "vg247.com/pv"
      ]
     }
    },
@@ -56250,7 +56251,7 @@
    {
     "victoriassecret.com": {
      "victoriassecret.com": [
-      "victoriassecret.com/m/a.gif?"
+      "victoriassecret.com/m/a.gif"
      ]
     }
    },
@@ -56285,7 +56286,7 @@
    {
     "videoplaza.com": {
      "videoplaza.com": [
-      "videoplaza.com/proxy/tracker?"
+      "videoplaza.com/proxy/tracker"
      ]
     }
    },
@@ -56390,7 +56391,7 @@
    {
     "visualware.com": {
      "visualware.com": [
-      "visualware.com/vvv?"
+      "visualware.com/vvv"
      ]
     }
    },
@@ -56573,11 +56574,11 @@
    {
     "washingtonpost.com": {
      "washingtonpost.com": [
-      "washingtonpost.com/wp-srv/javascript/placeSiteMetrix.",
       "washingtonpost.com/notification-sw.js",
       "washingtonpost.com/wp-stat/analytics/",
-      "washingtonpost.com",
-      "washingtonpost.com/rw/sites/twpweb/js/init/init.track-header-1.0.0.js"
+      "washingtonpost.com/rw/sites/twpweb/js/init/init.track-header-1.0.0.js",
+      "washingtonpost.com/wp-srv/javascript/placeSiteMetrix.",
+      "washingtonpost.com"
      ]
     }
    },
@@ -56619,8 +56620,8 @@
    {
     "weather.com": {
      "weather.com": [
-      "weather.com",
-      "weather.com/pagelet/metrics/"
+      "weather.com/pagelet/metrics/",
+      "weather.com"
      ]
     }
    },
@@ -56655,7 +56656,7 @@
    {
     "webcollage.net": {
      "webcollage.net": [
-      "webcollage.net/apps/el?"
+      "webcollage.net/apps/el"
      ]
     }
    },
@@ -56669,7 +56670,7 @@
    {
     "webjam.com": {
      "webjam.com": [
-      "webjam.com/Actions/Hit.jam?"
+      "webjam.com/Actions/Hit.jam"
      ]
     }
    },
@@ -56691,8 +56692,8 @@
     "webmd.com": {
      "webmd.com": [
       "webmd.com",
-      "webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/oas35.js",
-      "webmd.com/pixel/"
+      "webmd.com/pixel/",
+      "webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS/oas35.js"
      ]
     }
    },
@@ -56706,7 +56707,7 @@
    {
     "webring.com": {
      "webring.com": [
-      "webring.com/cgi-bin/logit?"
+      "webring.com/cgi-bin/logit"
      ]
     }
    },
@@ -56748,7 +56749,7 @@
    {
     "wellsphere.com": {
      "wellsphere.com": [
-      "wellsphere.com/?hit="
+      "wellsphere.com/"
      ]
     }
    },
@@ -56777,21 +56778,21 @@
     "wikihow.com": {
      "wikihow.com": [
       "wikihow.com/visit_info",
-      "wikihow.com/x/collect?"
+      "wikihow.com/x/collect"
      ]
     }
    },
    {
     "wikimedia.org": {
      "wikimedia.org": [
-      "wikimedia.org/wiki/Special:RecordImpression?"
+      "wikimedia.org/wiki/Special:RecordImpression"
      ]
     }
    },
    {
     "wikio.com": {
      "wikio.com": [
-      "wikio.com/shopping/tracking/hit.jsp?"
+      "wikio.com/shopping/tracking/hit.jsp"
      ]
     }
    },
@@ -56826,10 +56827,10 @@
    {
     "wired.com": {
      "wired.com": [
-      "wired.com/event?",
-      "wired.com/js/stats/",
       "wired.com/ecom/",
-      "wired.com/tracker.js"
+      "wired.com/js/stats/",
+      "wired.com/tracker.js",
+      "wired.com/event"
      ]
     }
    },
@@ -56857,7 +56858,7 @@
    {
     "worksheetsengine.com": {
      "worksheetsengine.com": [
-      "worksheetsengine.com/fd/ls/l?"
+      "worksheetsengine.com/fd/ls/l"
      ]
     }
    },
@@ -56878,14 +56879,14 @@
    {
     "worldreviewer.com": {
      "worldreviewer.com": [
-      "worldreviewer.com/_search/tracker.png?"
+      "worldreviewer.com/_search/tracker.png"
      ]
     }
    },
    {
     "worldvision.org": {
      "worldvision.org": [
-      "worldvision.org/kana/wvcg_wvorg.asp?"
+      "worldvision.org/kana/wvcg_wvorg.asp"
      ]
     }
    },
@@ -56899,7 +56900,7 @@
    {
     "wowwiki.com": {
      "wowwiki.com": [
-      "wowwiki.com/__onedot?"
+      "wowwiki.com/__onedot"
      ]
     }
    },
@@ -56913,7 +56914,7 @@
    {
     "ws.md": {
      "ws.md": [
-      "ws.md/c.png?"
+      "ws.md/c.png"
      ]
     }
    },
@@ -57018,7 +57019,7 @@
    {
     "xhamster.com": {
      "xhamster.com": [
-      "xhamster.com/ajax.php?act=track_event",
+      "xhamster.com/ajax.php",
       "xhamster.com/embed.log/"
      ]
     }
@@ -57041,7 +57042,7 @@
    {
     "xnxx.com": {
      "xnxx.com": [
-      "xnxx.com/in.php?referer"
+      "xnxx.com/in.php"
      ]
     }
    },
@@ -57055,20 +57056,20 @@
    {
     "yahoo.com": {
      "yahoo.com": [
-      "yahoo.com/neo/ymstat",
-      "yahoo.com",
-      "yahoo.com/beacon/",
-      "yahoo.com/serv?s",
-      "yahoo.com/track/",
-      "yahoo.com/yi?bv=",
+      "yahoo.com/serv",
       "yahoo.com/p.gif;",
+      "yahoo.com/b",
+      "yahoo.com/neo/ymstat",
       "yahoo.com/_td_api/beacon/",
-      "yahoo.com/yhs/b?",
-      "yahoo.com/b?",
-      "yahoo.com/neo/stat",
       "yahoo.com/neo/ygbeacon/",
-      "yahoo.com/perf.gif?",
-      "yahoo.com/__perf_log_"
+      "yahoo.com/perf.gif",
+      "yahoo.com/neo/stat",
+      "yahoo.com/__perf_log_",
+      "yahoo.com/track/",
+      "yahoo.com/beacon/",
+      "yahoo.com",
+      "yahoo.com/yhs/b",
+      "yahoo.com/yi"
      ]
     }
    },
@@ -57082,7 +57083,7 @@
    {
     "yahooapis.com": {
      "yahooapis.com": [
-      "yahooapis.com/get/Valueclick/CapAnywhere.getAnnotationCallback?"
+      "yahooapis.com/get/Valueclick/CapAnywhere.getAnnotationCallback"
      ]
     }
    },
@@ -57096,35 +57097,35 @@
    {
     "yelp.ca": {
      "yelp.ca": [
-      "yelp.ca/spice?"
+      "yelp.ca/spice"
      ]
     }
    },
    {
     "yelp.co.uk": {
      "yelp.co.uk": [
-      "yelp.co.uk/spice?"
+      "yelp.co.uk/spice"
      ]
     }
    },
    {
     "yelp.com.au": {
      "yelp.com.au": [
-      "yelp.com.au/spice?"
+      "yelp.com.au/spice"
      ]
     }
    },
    {
     "yelp.com": {
      "yelp.com": [
-      "yelp.com/spice?"
+      "yelp.com/spice"
      ]
     }
    },
    {
     "yelp.ie": {
      "yelp.ie": [
-      "yelp.ie/spice?"
+      "yelp.ie/spice"
      ]
     }
    },
@@ -57208,31 +57209,31 @@
    {
     "youtube-nocookie.com": {
      "youtube-nocookie.com": [
-      "youtube-nocookie.com/gen_204?",
-      "youtube-nocookie.com/ptracking?",
-      "youtube-nocookie.com/robots.txt?",
-      "youtube-nocookie.com/device_204?"
+      "youtube-nocookie.com/robots.txt",
+      "youtube-nocookie.com/gen_204",
+      "youtube-nocookie.com/device_204",
+      "youtube-nocookie.com/ptracking"
      ]
     }
    },
    {
     "youtube.com": {
      "youtube.com": [
-      "youtube.com/s?",
-      "youtube.com/api/stats/playback?",
-      "youtube.com/get_video?",
-      "youtube.com/set_awesome?",
-      "youtube.com/api/stats/delayplay?",
-      "youtube.com/api/stats/qoe?",
-      "youtube.com/api/stats/ads?",
-      "youtube.com/ptracking?"
+      "youtube.com/api/stats/ads",
+      "youtube.com/get_video",
+      "youtube.com/api/stats/delayplay",
+      "youtube.com/api/stats/qoe",
+      "youtube.com/api/stats/playback",
+      "youtube.com/ptracking",
+      "youtube.com/s",
+      "youtube.com/set_awesome"
      ]
     }
    },
    {
     "yuku.com": {
      "yuku.com": [
-      "yuku.com/stats?"
+      "yuku.com/stats"
      ]
     }
    },
@@ -57268,22 +57269,22 @@
    {
     "zawya.com": {
      "zawya.com": [
-      "zawya.com/zscripts/ajaxztrack.cfm?",
-      "zawya.com"
+      "zawya.com",
+      "zawya.com/zscripts/ajaxztrack.cfm"
      ]
     }
    },
    {
     "zdnet.com": {
      "zdnet.com": [
-      "zdnet.com/wi?"
+      "zdnet.com/wi"
      ]
     }
    },
    {
     "zedo.com": {
      "zedo.com": [
-      "zedo.com/img/bh.gif?"
+      "zedo.com/img/bh.gif"
      ]
     }
    },
@@ -57297,24 +57298,24 @@
    {
     "zoomin.tv": {
      "zoomin.tv": [
-      "zoomin.tv/impressionsplayers/",
-      "zoomin.tv/impressions/"
+      "zoomin.tv/impressions/",
+      "zoomin.tv/impressionsplayers/"
      ]
     }
    },
    {
     "zulily.com": {
      "zulily.com": [
-      "zulily.com/action/track?"
+      "zulily.com/action/track"
      ]
     }
    },
    {
     "zvents.com": {
      "zvents.com": [
-      "zvents.com/zat?",
-      "zvents.com/partner_json/",
-      "zvents.com/za?"
+      "zvents.com/za",
+      "zvents.com/zat",
+      "zvents.com/partner_json/"
      ]
     }
    },
@@ -57519,18 +57520,18 @@
    {
     "chip.de": {
      "chip.de": [
+      "chip.de/stats",
       "chip.de/js/omniture_somtr_code_vH.25.js",
-      "chip.de/collect",
       "chip.de",
-      "chip.de/stats?"
+      "chip.de/collect"
      ]
     }
    },
    {
     "csmonitor.com": {
      "csmonitor.com": [
-      "csmonitor.com/extension/csm_base/design/csm_design/javascript/omniture/s_code.js",
-      "csmonitor.com/extension/csm_base/design/standard/javascript/adobe/s_code.js"
+      "csmonitor.com/extension/csm_base/design/standard/javascript/adobe/s_code.js",
+      "csmonitor.com/extension/csm_base/design/csm_design/javascript/omniture/s_code.js"
      ]
     }
    },
@@ -57551,7 +57552,7 @@
    {
     "expressen.se": {
      "expressen.se": [
-      "expressen.se/static/scripts/s_code.js?"
+      "expressen.se/static/scripts/s_code.js"
      ]
     }
    },
@@ -57600,8 +57601,8 @@
    {
     "mnginteractive.com": {
      "mnginteractive.com": [
-      "mnginteractive.com/live/js/omniture/SiteCatalystCode_H_22_1_NC.js",
-      "mnginteractive.com/live/omniture/sccore_NEW_JRC.js"
+      "mnginteractive.com/live/omniture/sccore_NEW_JRC.js",
+      "mnginteractive.com/live/js/omniture/SiteCatalystCode_H_22_1_NC.js"
      ]
     }
    },
@@ -57678,7 +57679,7 @@
    {
     "ab-in-den-urlaub.de": {
      "ab-in-den-urlaub.de": [
-      "ab-in-den-urlaub.de/resources/cjs/?f=/resources/cjs/tracking/",
+      "ab-in-den-urlaub.de/resources/cjs/",
       "ab-in-den-urlaub.de/usertracking/"
      ]
     }
@@ -57756,8 +57757,8 @@
    {
     "aol.de": {
      "aol.de": [
-      "aol.de/cnt/",
-      "aol.de/track/"
+      "aol.de/track/",
+      "aol.de/cnt/"
      ]
     }
    },
@@ -57771,8 +57772,8 @@
    {
     "arte.tv": {
      "arte.tv": [
-      "arte.tv",
-      "arte.tv/includes/xiti/"
+      "arte.tv/includes/xiti/",
+      "arte.tv"
      ]
     }
    },
@@ -57786,7 +57787,7 @@
    {
     "baur.de": {
      "baur.de": [
-      "baur.de/servlet/LandmarkServlet?"
+      "baur.de/servlet/LandmarkServlet"
      ]
     }
    },
@@ -57821,8 +57822,8 @@
    {
     "billiger.de": {
      "billiger.de": [
-      "billiger.de/trackimg.gif?",
-      "billiger.de/js/statistik.js"
+      "billiger.de/js/statistik.js",
+      "billiger.de/trackimg.gif"
      ]
     }
    },
@@ -57836,7 +57837,7 @@
    {
     "bluray-disc.de": {
      "bluray-disc.de": [
-      "bluray-disc.de/user_check.php?"
+      "bluray-disc.de/user_check.php"
      ]
     }
    },
@@ -57871,7 +57872,7 @@
    {
     "brigitte.de": {
      "brigitte.de": [
-      "brigitte.de/pv?"
+      "brigitte.de/pv"
      ]
     }
    },
@@ -57920,9 +57921,9 @@
    {
     "chefkoch.de": {
      "chefkoch.de": [
-      "chefkoch.de/statistic_service/",
       "chefkoch.de/counter",
-      "chefkoch.de"
+      "chefkoch.de",
+      "chefkoch.de/statistic_service/"
      ]
     }
    },
@@ -57936,28 +57937,28 @@
    {
     "comdirect.de": {
      "comdirect.de": [
-      "comdirect.de/ccf/img/ecrm2.gif?"
+      "comdirect.de/ccf/img/ecrm2.gif"
      ]
     }
    },
    {
     "commerzbank.de": {
      "commerzbank.de": [
-      "commerzbank.de/companion/cnt.php?"
+      "commerzbank.de/companion/cnt.php"
      ]
     }
    },
    {
     "computerbase.de": {
      "computerbase.de": [
-      "computerbase.de/api/stats?"
+      "computerbase.de/api/stats"
      ]
     }
    },
    {
     "computerbild.de": {
      "computerbild.de": [
-      "computerbild.de/images/pic.gif?"
+      "computerbild.de/images/pic.gif"
      ]
     }
    },
@@ -58062,7 +58063,7 @@
    {
     "dejure.org": {
      "dejure.org": [
-      "dejure.org/cgi-bin/zux2?"
+      "dejure.org/cgi-bin/zux2"
      ]
     }
    },
@@ -58076,8 +58077,8 @@
    {
     "derwesten.de": {
      "derwesten.de": [
-      "derwesten.de",
-      "derwesten.de/stats/"
+      "derwesten.de/stats/",
+      "derwesten.de"
      ]
     }
    },
@@ -58148,14 +58149,14 @@
    {
     "elektromobil-dresden.de": {
      "elektromobil-dresden.de": [
-      "elektromobil-dresden.de/tinc?"
+      "elektromobil-dresden.de/tinc"
      ]
     }
    },
    {
     "elitepartner.de": {
      "elitepartner.de": [
-      "elitepartner.de/km/tcnt.do?"
+      "elitepartner.de/km/tcnt.do"
      ]
     }
    },
@@ -58232,7 +58233,7 @@
    {
     "fireball.de": {
      "fireball.de": [
-      "fireball.de/statistikframe.asp?"
+      "fireball.de/statistikframe.asp"
      ]
     }
    },
@@ -58345,7 +58346,7 @@
    {
     "hardwareschotte.de": {
      "hardwareschotte.de": [
-      "hardwareschotte.de/na/mdc.php?"
+      "hardwareschotte.de/na/mdc.php"
      ]
     }
    },
@@ -58359,14 +58360,14 @@
    {
     "hdm-stuttgart.de": {
      "hdm-stuttgart.de": [
-      "hdm-stuttgart.de/count.cgi?"
+      "hdm-stuttgart.de/count.cgi"
      ]
     }
    },
    {
     "homepage-baukasten.de": {
      "homepage-baukasten.de": [
-      "homepage-baukasten.de/cookie.php?"
+      "homepage-baukasten.de/cookie.php"
      ]
     }
    },
@@ -58394,7 +58395,7 @@
    {
     "jobanova.de": {
      "jobanova.de": [
-      "jobanova.de/stats.php?"
+      "jobanova.de/stats.php"
      ]
     }
    },
@@ -58499,7 +58500,7 @@
    {
     "macwelt.de": {
      "macwelt.de": [
-      "macwelt.de/images/pic.gif?"
+      "macwelt.de/images/pic.gif"
      ]
     }
    },
@@ -58534,7 +58535,7 @@
    {
     "merkur.de": {
      "merkur.de": [
-      "merkur.de/connector.php?"
+      "merkur.de/connector.php"
      ]
     }
    },
@@ -58576,7 +58577,7 @@
    {
     "motorsport-total.com": {
      "motorsport-total.com": [
-      "motorsport-total.com/z.php?"
+      "motorsport-total.com/z.php"
      ]
     }
    },
@@ -58611,7 +58612,7 @@
    {
     "musik4fun.com": {
      "musik4fun.com": [
-      "musik4fun.com/ga.php?"
+      "musik4fun.com/ga.php"
      ]
     }
    },
@@ -58632,7 +58633,7 @@
    {
     "news.ch": {
      "news.ch": [
-      "news.ch/newslogbug.asp?"
+      "news.ch/newslogbug.asp"
      ]
     }
    },
@@ -58667,7 +58668,7 @@
    {
     "npage.de": {
      "npage.de": [
-      "npage.de/get_statistics.php?"
+      "npage.de/get_statistics.php"
      ]
     }
    },
@@ -58675,7 +58676,7 @@
     "nzz.ch": {
      "nzz.ch": [
       "nzz.ch/statistic/",
-      "nzz.ch/statistic?"
+      "nzz.ch/statistic"
      ]
     }
    },
@@ -58703,8 +58704,8 @@
    {
     "otto.de": {
      "otto.de": [
-      "otto.de",
-      "otto.de/servlet/landmarkservlet?"
+      "otto.de/servlet/landmarkservlet",
+      "otto.de"
      ]
     }
    },
@@ -58788,7 +58789,7 @@
    {
     "playomat.de": {
      "playomat.de": [
-      "playomat.de/sfye_noscript.php?"
+      "playomat.de/sfye_noscript.php"
      ]
     }
    },
@@ -58844,7 +58845,7 @@
    {
     "putpat.tv": {
      "putpat.tv": [
-      "putpat.tv/tracking?"
+      "putpat.tv/tracking"
      ]
     }
    },
@@ -58893,22 +58894,22 @@
    {
     "rtl.de": {
      "rtl.de": [
-      "rtl.de/count/ut/x.gif?",
-      "rtl.de/tools/count/"
+      "rtl.de/tools/count/",
+      "rtl.de/count/ut/x.gif"
      ]
     }
    },
    {
     "rtlradio.de": {
      "rtlradio.de": [
-      "rtlradio.de/stats.php?"
+      "rtlradio.de/stats.php"
      ]
     }
    },
    {
     "rtlradio.lu": {
      "rtlradio.lu": [
-      "rtlradio.lu/stats.php?"
+      "rtlradio.lu/stats.php"
      ]
     }
    },
@@ -58936,14 +58937,14 @@
    {
     "secreta.de": {
      "secreta.de": [
-      "secreta.de/tinc?"
+      "secreta.de/tinc"
      ]
     }
    },
    {
     "shortnews.de": {
      "shortnews.de": [
-      "shortnews.de/iframes/view_news.cfm?"
+      "shortnews.de/iframes/view_news.cfm"
      ]
     }
    },
@@ -59210,7 +59211,7 @@
    {
     "tvcommunity.at": {
      "tvcommunity.at": [
-      "tvcommunity.at/filmpicture.aspx?count=1&"
+      "tvcommunity.at/filmpicture.aspx"
      ]
     }
    },
@@ -59252,7 +59253,7 @@
    {
     "viviano.de": {
      "viviano.de": [
-      "viviano.de/cgi-bin/stat_gateway.cgi?"
+      "viviano.de/cgi-bin/stat_gateway.cgi"
      ]
     }
    },
@@ -59273,8 +59274,8 @@
    {
     "web.de": {
      "web.de": [
-      "web.de/pic?",
-      "web.de/ivw/cp/"
+      "web.de/ivw/cp/",
+      "web.de/pic"
      ]
     }
    },
@@ -59316,7 +59317,7 @@
    {
     "wirtschaftspresse.biz": {
      "wirtschaftspresse.biz": [
-      "wirtschaftspresse.biz/pshb?"
+      "wirtschaftspresse.biz/pshb"
      ]
     }
    },
@@ -59373,7 +59374,7 @@
    {
     "autoplus.fr": {
      "autoplus.fr": [
-      "autoplus.fr/st?"
+      "autoplus.fr/st"
      ]
     }
    },
@@ -59394,7 +59395,7 @@
    {
     "clubic.com": {
      "clubic.com": [
-      "clubic.com/editorial/publier_count.php?"
+      "clubic.com/editorial/publier_count.php"
      ]
     }
    },
@@ -59555,7 +59556,7 @@
    {
     "jeuxvideo.com": {
      "jeuxvideo.com": [
-      "jeuxvideo.com/contenu/medias/video/countv.php?"
+      "jeuxvideo.com/contenu/medias/video/countv.php"
      ]
     }
    },
@@ -59569,7 +59570,7 @@
    {
     "lecho.be": {
      "lecho.be": [
-      "lecho.be/fb/?"
+      "lecho.be/fb/"
      ]
     }
    },
@@ -59590,16 +59591,16 @@
    {
     "nouvelobs.com": {
      "nouvelobs.com": [
-      "nouvelobs.com/scripts/stats.php?",
       "nouvelobs.com/tools/csrum.php",
-      "nouvelobs.com/trafiz-"
+      "nouvelobs.com/trafiz-",
+      "nouvelobs.com/scripts/stats.php"
      ]
     }
    },
    {
     "orange.fr": {
      "orange.fr": [
-      "orange.fr/track?"
+      "orange.fr/track"
      ]
     }
    },
@@ -59767,8 +59768,8 @@
    {
     "zonecss.fr": {
      "zonecss.fr": [
-      "zonecss.fr/images/statscreen.gif?",
-      "zonecss.fr/images/stat_robocop.gif?"
+      "zonecss.fr/images/stat_robocop.gif",
+      "zonecss.fr/images/statscreen.gif"
      ]
     }
    },
@@ -59908,10 +59909,10 @@
    {
     "autohome.com.cn": {
      "autohome.com.cn": [
-      "autohome.com.cn/realdeliver?",
-      "autohome.com.cn/impress?",
       "autohome.com.cn/count.js",
-      "autohome.com.cn/deliver?"
+      "autohome.com.cn/deliver",
+      "autohome.com.cn/realdeliver",
+      "autohome.com.cn/impress"
      ]
     }
    },
@@ -59960,7 +59961,7 @@
    {
     "cdn.baidupcs.com": {
      "cdn.baidupcs.com": [
-      "cdn.baidupcs.com/monitor.jpg?"
+      "cdn.baidupcs.com/monitor.jpg"
      ]
     }
    },
@@ -60114,8 +60115,8 @@
    {
     "duowan.com": {
      "duowan.com": [
-      "duowan.com/duowan.js",
-      "duowan.com/public/s/market_count.js"
+      "duowan.com/public/s/market_count.js",
+      "duowan.com/duowan.js"
      ]
     }
    },
@@ -60129,7 +60130,7 @@
    {
     "eastmoney.com": {
      "eastmoney.com": [
-      "eastmoney.com/counter.js?",
+      "eastmoney.com/counter.js",
       "eastmoney.com/analysis/"
      ]
     }
@@ -60186,7 +60187,7 @@
    {
     "his.tv.sohu.com": {
      "his.tv.sohu.com": [
-      "his.tv.sohu.com/his/ping.do?"
+      "his.tv.sohu.com/his/ping.do"
      ]
     }
    },
@@ -60207,7 +60208,7 @@
    {
     "ifeng.com": {
      "ifeng.com": [
-      "ifeng.com/i?p="
+      "ifeng.com/i"
      ]
     }
    },
@@ -60257,7 +60258,7 @@
     "ku6.com": {
      "ku6.com": [
       "ku6.com",
-      "ku6.com/ku6.gif?"
+      "ku6.com/ku6.gif"
      ]
     }
    },
@@ -60383,7 +60384,7 @@
    {
     "pan.baidu.com": {
      "pan.baidu.com": [
-      "pan.baidu.com/api/analytics?"
+      "pan.baidu.com/api/analytics"
      ]
     }
    },
@@ -60411,7 +60412,7 @@
    {
     "pptv.com": {
      "pptv.com": [
-      "pptv.com/stg/add?",
+      "pptv.com/stg/add",
       "pptv.com/webdelivery/"
      ]
     }
@@ -60489,8 +60490,8 @@
    {
     "s.pixfs.net": {
      "s.pixfs.net": [
-      "s.pixfs.net/visitor.pixplug.in/",
-      "s.pixfs.net/js/pixlogger.min.js"
+      "s.pixfs.net/js/pixlogger.min.js",
+      "s.pixfs.net/visitor.pixplug.in/"
      ]
     }
    },
@@ -60532,22 +60533,22 @@
    {
     "sina.com.cn": {
      "sina.com.cn": [
-      "sina.com.cn/view?"
+      "sina.com.cn/view"
      ]
     }
    },
    {
     "sohu.com.cn": {
      "sohu.com.cn": [
-      "sohu.com.cn/hdpb.gif?"
+      "sohu.com.cn/hdpb.gif"
      ]
     }
    },
    {
     "soufun.com": {
      "soufun.com": [
-      "soufun.com/stats/",
-      "soufun.com/click/"
+      "soufun.com/click/",
+      "soufun.com/stats/"
      ]
     }
    },
@@ -60757,7 +60758,7 @@
    {
     "tmall.com": {
      "tmall.com": [
-      "tmall.com/add?"
+      "tmall.com/add"
      ]
     }
    },
@@ -60771,7 +60772,7 @@
    {
     "tongji2.vip.duba.net": {
      "tongji2.vip.duba.net": [
-      "tongji2.vip.duba.net/__infoc.gif?"
+      "tongji2.vip.duba.net/__infoc.gif"
      ]
     }
    },
@@ -60820,7 +60821,7 @@
    {
     "v.blog.sohu.com": {
      "v.blog.sohu.com": [
-      "v.blog.sohu.com/dostat.do?"
+      "v.blog.sohu.com/dostat.do"
      ]
     }
    },
@@ -60884,19 +60885,19 @@
     "youdao.com": {
      "youdao.com": [
       "youdao.com/imp/cac.js",
-      "youdao.com/cf.gif?"
+      "youdao.com/cf.gif"
      ]
     }
    },
    {
     "youku.com": {
      "youku.com": [
-      "youku.com",
-      "youku.com/compvlog?",
-      "youku.com/ykvvlog?",
-      "youku.com/ypvlog?",
-      "youku.com/yplaylog?",
-      "youku.com/recikupushshow?"
+      "youku.com/ypvlog",
+      "youku.com/ykvvlog",
+      "youku.com/recikupushshow",
+      "youku.com/yplaylog",
+      "youku.com/compvlog",
+      "youku.com"
      ]
     }
    },
@@ -60945,7 +60946,7 @@
    {
     "klik.nrc.nl": {
      "klik.nrc.nl": [
-      "klik.nrc.nl/ping?"
+      "klik.nrc.nl/ping"
      ]
     }
    },
@@ -60995,7 +60996,7 @@
    {
     "tijd.be": {
      "tijd.be": [
-      "tijd.be/fb/?"
+      "tijd.be/fb/"
      ]
     }
    },
@@ -61093,7 +61094,7 @@
    {
     "inn.co.il": {
      "inn.co.il": [
-      "inn.co.il/Controls/HPJS.ashx?act=log"
+      "inn.co.il/Controls/HPJS.ashx"
      ]
     }
    },
@@ -61121,7 +61122,7 @@
    {
     "videa.hu": {
      "videa.hu": [
-      "videa.hu/flvplayer_setcookie.php?"
+      "videa.hu/flvplayer_setcookie.php"
      ]
     }
    },
@@ -61129,8 +61130,8 @@
     "altervista.org": {
      "altervista.org": [
       "altervista.org/js/contatore.js",
-      "altervista.org/stats/",
       "altervista.org",
+      "altervista.org/stats/",
       "altervista.org/js_tags/contatore.js"
      ]
     }
@@ -61145,15 +61146,15 @@
    {
     "bachecaannunci.it": {
      "bachecaannunci.it": [
-      "bachecaannunci.it/statins3.php?"
+      "bachecaannunci.it/statins3.php"
      ]
     }
    },
    {
     "c-date.it": {
      "c-date.it": [
-      "c-date.it",
-      "c-date.it/tracking?"
+      "c-date.it/tracking",
+      "c-date.it"
      ]
     }
    },
@@ -61202,7 +61203,7 @@
    {
     "joka.it": {
      "joka.it": [
-      "joka.it/inquiero/isapi/csf.dll?"
+      "joka.it/inquiero/isapi/csf.dll"
      ]
     }
    },
@@ -61216,12 +61217,12 @@
    {
     "libero.it": {
      "libero.it": [
-      "libero.it/cgi-bin/cdcountersp.cgi?",
-      "libero.it//js/comscore/",
-      "libero.it/cgi-bin/cdcounter.cgi?",
+      "libero.it/cgi-bin/ajaxtrace",
       "libero.it",
-      "libero.it/search/abin/ajaxtrace?",
-      "libero.it/cgi-bin/ajaxtrace?"
+      "libero.it/search/abin/ajaxtrace",
+      "libero.it/cgi-bin/cdcounter.cgi",
+      "libero.it/cgi-bin/cdcountersp.cgi",
+      "libero.it//js/comscore/"
      ]
     }
    },
@@ -61235,7 +61236,7 @@
    {
     "mediaset.it": {
      "mediaset.it": [
-      "mediaset.it/cgi-bin/getcod.cgi?"
+      "mediaset.it/cgi-bin/getcod.cgi"
      ]
     }
    },
@@ -61249,15 +61250,15 @@
    {
     "paginebianche.it": {
      "paginebianche.it": [
-      "paginebianche.it/ip?dv="
+      "paginebianche.it/ip"
      ]
     }
    },
    {
     "paginegialle.it": {
      "paginegialle.it": [
-      "paginegialle.it/cgi-bin/getcod.cgi?",
-      "paginegialle.it/cgi-bin/jimpres.cgi?"
+      "paginegialle.it/cgi-bin/getcod.cgi",
+      "paginegialle.it/cgi-bin/jimpres.cgi"
      ]
     }
    },
@@ -61278,7 +61279,7 @@
    {
     "seat.it": {
      "seat.it": [
-      "seat.it/cgi-bin/getcod.cgi?"
+      "seat.it/cgi-bin/getcod.cgi"
      ]
     }
    },
@@ -61299,14 +61300,14 @@
    {
     "smsaffari.it": {
      "smsaffari.it": [
-      "smsaffari.it/count_new.php?"
+      "smsaffari.it/count_new.php"
      ]
     }
    },
    {
     "spaziogames.it": {
      "spaziogames.it": [
-      "spaziogames.it/ajax/player_impression.ashx?"
+      "spaziogames.it/ajax/player_impression.ashx"
      ]
     }
    },
@@ -61320,7 +61321,7 @@
    {
     "tiscali.it": {
      "tiscali.it": [
-      "tiscali.it/banner-tiscali/stats.html?"
+      "tiscali.it/banner-tiscali/stats.html"
      ]
     }
    },
@@ -61355,7 +61356,7 @@
    {
     "tuttogratis.it": {
      "tuttogratis.it": [
-      "tuttogratis.it/gopix.php?"
+      "tuttogratis.it/gopix.php"
      ]
     }
    },
@@ -61376,7 +61377,7 @@
    {
     "virgilio.it": {
      "virgilio.it": [
-      "virgilio.it/clientinfo.gif?"
+      "virgilio.it/clientinfo.gif"
      ]
     }
    },
@@ -61503,7 +61504,7 @@
    {
     "seesaawiki.jp": {
      "seesaawiki.jp": [
-      "seesaawiki.jp/img/rainman.gif?"
+      "seesaawiki.jp/img/rainman.gif"
      ]
     }
    },
@@ -61622,7 +61623,7 @@
    {
     "ytn.co.kr": {
      "ytn.co.kr": [
-      "ytn.co.kr/_comm/ylog.php?"
+      "ytn.co.kr/_comm/ylog.php"
      ]
     }
    },
@@ -61818,7 +61819,7 @@
    {
     "wp.pl": {
      "wp.pl": [
-      "wp.pl/?rid="
+      "wp.pl/"
      ]
     }
    },
@@ -61874,7 +61875,7 @@
    {
     "globo.com": {
      "globo.com": [
-      "globo.com/geo?"
+      "globo.com/geo"
      ]
     }
    },
@@ -61916,7 +61917,7 @@
    {
     "sl.pt": {
      "sl.pt": [
-      "sl.pt/wa.gif?"
+      "sl.pt/wa.gif"
      ]
     }
    },
@@ -61958,7 +61959,7 @@
    {
     "uol.com.br": {
      "uol.com.br": [
-      "uol.com.br/stats?"
+      "uol.com.br/stats"
      ]
     }
    },
@@ -62021,7 +62022,7 @@
    {
     "babyblog.ru": {
      "babyblog.ru": [
-      "babyblog.ru/pixel?"
+      "babyblog.ru/pixel"
      ]
     }
    },
@@ -62091,14 +62092,14 @@
    {
     "kommersant.ru": {
      "kommersant.ru": [
-      "kommersant.ru/a.asp?p="
+      "kommersant.ru/a.asp"
      ]
     }
    },
    {
     "lamoda.ru": {
      "lamoda.ru": [
-      "lamoda.ru/z?"
+      "lamoda.ru/z"
      ]
     }
    },
@@ -62133,7 +62134,7 @@
    {
     "mytoys.ru": {
      "mytoys.ru": [
-      "mytoys.ru/ka_z.jpg?"
+      "mytoys.ru/ka_z.jpg"
      ]
     }
    },
@@ -62154,23 +62155,23 @@
    {
     "rbc.ru": {
      "rbc.ru": [
-      "rbc.ru/click?",
-      "rbc.ru/count/"
+      "rbc.ru/count/",
+      "rbc.ru/click"
      ]
     }
    },
    {
     "rt.ru": {
      "rt.ru": [
-      "rt.ru/proxy?"
+      "rt.ru/proxy"
      ]
     }
    },
    {
     "rutube.ru": {
      "rutube.ru": [
-      "rutube.ru/dbg/player_stat?",
-      "rutube.ru/counters.html?"
+      "rutube.ru/counters.html",
+      "rutube.ru/dbg/player_stat"
      ]
     }
    },
@@ -62261,7 +62262,7 @@
    {
     "vedomosti.ru": {
      "vedomosti.ru": [
-      "vedomosti.ru/boom?"
+      "vedomosti.ru/boom"
      ]
     }
    },
@@ -62289,7 +62290,7 @@
    {
     "24ur.com": {
      "24ur.com": [
-      "24ur.com/bin/player/?mod=statistics&"
+      "24ur.com/bin/player/"
      ]
     }
    },
@@ -62324,7 +62325,7 @@
    {
     "bankinter.com": {
      "bankinter.com": [
-      "bankinter.com/res/img/documento_cargado.gif?"
+      "bankinter.com/res/img/documento_cargado.gif"
      ]
     }
    },
@@ -62452,7 +62453,7 @@
    {
     "falkenbergtorget.se": {
      "falkenbergtorget.se": [
-      "falkenbergtorget.se/sc.gif?"
+      "falkenbergtorget.se/sc.gif"
      ]
     }
    },
@@ -62473,7 +62474,7 @@
    {
     "prisjakt.nu": {
      "prisjakt.nu": [
-      "prisjakt.nu/js.php?p=trafikfonden"
+      "prisjakt.nu/js.php"
      ]
     }
    },
@@ -62550,21 +62551,21 @@
    {
     "meta.ua": {
      "meta.ua": [
-      "meta.ua/c.asp?"
+      "meta.ua/c.asp"
      ]
     }
    },
    {
     "piccy.info": {
      "piccy.info": [
-      "piccy.info/c?"
+      "piccy.info/c"
      ]
     }
    },
    {
     "piccy.org.ua": {
      "piccy.org.ua": [
-      "piccy.org.ua/c?"
+      "piccy.org.ua/c"
      ]
     }
    },

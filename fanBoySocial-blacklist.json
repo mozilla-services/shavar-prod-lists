@@ -47,7 +47,7 @@
    {
     "api-read.facebook.com": {
      "api-read.facebook.com": [
-      "api-read.facebook.com/restserver.php?api_key="
+      "api-read.facebook.com/restserver.php"
      ]
     }
    },
@@ -75,8 +75,8 @@
    {
     "apis.google.com": {
      "apis.google.com": [
-      "apis.google.com",
-      "apis.google.com/js/platform.js"
+      "apis.google.com/js/platform.js",
+      "apis.google.com"
      ]
     }
    },
@@ -91,8 +91,8 @@
    {
     "assets.tumblr.com": {
      "assets.tumblr.com": [
-      "assets.tumblr.com/assets/html/iframe/teaser.html?",
-      "assets.tumblr.com/assets/html/iframe/o.html"
+      "assets.tumblr.com/assets/html/iframe/o.html",
+      "assets.tumblr.com/assets/html/iframe/teaser.html"
      ]
     }
    },
@@ -197,13 +197,13 @@
    {
     "cloudfront.net": {
      "cloudfront.net": [
-      "cloudfront.net/facebookpage/",
-      "cloudfront.net/instagram/",
-      "cloudfront.net/facebook/",
-      "cloudfront.net/twitter/",
       "cloudfront.net/linkedin/",
       "cloudfront.net/googleplus/",
-      "cloudfront.net"
+      "cloudfront.net",
+      "cloudfront.net/twitter/",
+      "cloudfront.net/facebookpage/",
+      "cloudfront.net/facebook/",
+      "cloudfront.net/instagram/"
      ]
     }
    },
@@ -273,25 +273,27 @@
    {
     "facebook.com": {
      "facebook.com": [
-      "facebook.com/plugins/facepile.php?",
-      "facebook.com/plugins/page.php?",
+      "facebook.com/plugins/subscribe",
       "facebook.com/whitepages/wpminiprofile.php",
+      "facebook.com/plugins/page.php",
+      "facebook.com/plugins/fan.php",
+      "facebook.com/connect/connect.php",
+      "facebook.com/restserver.php",
+      "facebook.com/widgets/activity.php",
+      "facebook.com/plugins/facepile.php",
       "facebook.com/plugins/likebox/",
-      "facebook.com/widgets/fan.php?",
-      "facebook.com/plugins/send.php?",
-      "facebook.com/plugins/follow?",
-      "facebook.com/plugins/subscribe.php",
-      "facebook.com/plugins/recommendations.php?",
-      "facebook.com/widgets/recommendations.php?",
-      "facebook.com/plugins/follow.php",
-      "facebook.com/plugins/activity.php?",
-      "facebook.com",
-      "facebook.com/widgets/activity.php?",
-      "facebook.com/plugins/recommendations_bar.php?",
-      "facebook.com/plugins/save.php?",
       "facebook.com/plugins/like_box.php",
-      "facebook.com/plugins/subscribe?",
-      "facebook.com/plugins/fan.php?"
+      "facebook.com/widgets/fan.php",
+      "facebook.com/plugins/recommendations.php",
+      "facebook.com/plugins/follow",
+      "facebook.com/plugins/activity.php",
+      "facebook.com/plugins/send.php",
+      "facebook.com/plugins/subscribe.php",
+      "facebook.com/plugins/recommendations_bar.php",
+      "facebook.com",
+      "facebook.com/plugins/follow.php",
+      "facebook.com/plugins/save.php",
+      "facebook.com/widgets/recommendations.php"
      ]
     }
    },
@@ -354,7 +356,7 @@
    {
     "getpocket.com": {
      "getpocket.com": [
-      "getpocket.com/button?"
+      "getpocket.com/button"
      ]
     }
    },
@@ -368,8 +370,8 @@
    {
     "google.com": {
      "google.com": [
-      "google.com",
-      "google.com/_/+1/"
+      "google.com/_/+1/",
+      "google.com"
      ]
     }
    },
@@ -383,7 +385,7 @@
    {
     "graph.facebook.com": {
      "graph.facebook.com": [
-      "graph.facebook.com/fql?q=SELECT"
+      "graph.facebook.com/fql"
      ]
     }
    },
@@ -404,7 +406,7 @@
    {
     "herokuapp.com": {
      "herokuapp.com": [
-      "herokuapp.com/button.html?"
+      "herokuapp.com/button.html"
      ]
     }
    },
@@ -418,7 +420,7 @@
    {
     "houzz.com": {
      "houzz.com": [
-      "houzz.com/buttonWidget?"
+      "houzz.com/buttonWidget"
      ]
     }
    },
@@ -453,7 +455,7 @@
    {
     "intagme.com": {
      "intagme.com": [
-      "intagme.com/in/?u="
+      "intagme.com/in/"
      ]
     }
    },
@@ -509,7 +511,7 @@
    {
     "line.me": {
      "line.me": [
-      "line.me/js/line-button.js?"
+      "line.me/js/line-button.js"
      ]
     }
    },
@@ -517,7 +519,7 @@
     "linkedin.com": {
      "linkedin.com": [
       "linkedin.com/img/",
-      "linkedin.com/uas/js/userspace?",
+      "linkedin.com/uas/js/userspace",
       "linkedin.com/countserv/"
      ]
     }
@@ -602,9 +604,9 @@
    {
     "pinterest.com": {
      "pinterest.com": [
+      "pinterest.com/js/pinit_main.js",
       "pinterest.com/v1/urls/count.json",
-      "pinterest.com/images/",
-      "pinterest.com/js/pinit_main.js"
+      "pinterest.com/images/"
      ]
     }
    },
@@ -689,13 +691,13 @@
    {
     "reddit.com": {
      "reddit.com": [
+      "reddit.com/button.js",
       "reddit.com/static/",
-      "reddit.com/button.js?",
+      "reddit.com/api/info.json",
       "reddit.com/buttonlite.js",
+      "reddit.com/buttonlite",
       "reddit.com",
-      "reddit.com/api/info.json?",
-      "reddit.com/domain/",
-      "reddit.com/buttonlite?"
+      "reddit.com/domain/"
      ]
     }
    },
@@ -928,9 +930,9 @@
    {
     "stumbleupon.com": {
      "stumbleupon.com": [
-      "stumbleupon.com/hostedbadge",
       "stumbleupon.com/services/",
-      "stumbleupon.com/badge/"
+      "stumbleupon.com/badge/",
+      "stumbleupon.com/hostedbadge"
      ]
     }
    },
@@ -1028,10 +1030,10 @@
    {
     "twitter.com": {
      "twitter.com": [
-      "twitter.com/javascripts/",
-      "twitter.com",
+      "twitter.com/i/jot",
       "twitter.com/account/",
-      "twitter.com/i/jot"
+      "twitter.com",
+      "twitter.com/javascripts/"
      ]
     }
    },
@@ -1080,18 +1082,18 @@
    {
     "vk.com": {
      "vk.com": [
-      "vk.com/widget_community_messages.php?",
-      "vk.com/share.php?",
+      "vk.com/widget_community.php",
       "vk.com/widget_like.php",
-      "vk.com/widget_community.php"
+      "vk.com/widget_community_messages.php",
+      "vk.com/share.php"
      ]
     }
    },
    {
     "vkontakte.ru": {
      "vkontakte.ru": [
+      "vkontakte.ru/share.php",
       "vkontakte.ru/widget_like.php",
-      "vkontakte.ru/share.php?",
       "vkontakte.ru/widget_community.php"
      ]
     }
@@ -1106,9 +1108,9 @@
    {
     "vuukle.com": {
      "vuukle.com": [
-      "vuukle.com/widgets/emotes.html",
       "vuukle.com/widgets/powerbar/",
-      "vuukle.com/widgets/powerbar.html"
+      "vuukle.com/widgets/powerbar.html",
+      "vuukle.com/widgets/emotes.html"
      ]
     }
    },
@@ -1242,7 +1244,7 @@
    {
     "youtube.com": {
      "youtube.com": [
-      "youtube.com/subscribe_embed?",
+      "youtube.com/subscribe_embed",
       "youtube.com/subscribe_widget"
      ]
     }
@@ -1299,8 +1301,8 @@
    {
     "ana.net": {
      "ana.net": [
-      "ana.net/contentimage/genicon/facebook.png",
-      "ana.net/contentimage/genicon/twitter.png"
+      "ana.net/contentimage/genicon/twitter.png",
+      "ana.net/contentimage/genicon/facebook.png"
      ]
     }
    },
@@ -1482,10 +1484,10 @@
    {
     "kuwaittimes.net": {
      "kuwaittimes.net": [
-      "kuwaittimes.net/fb.",
-      "kuwaittimes.net/yt.",
       "kuwaittimes.net/in.",
-      "kuwaittimes.net/tw."
+      "kuwaittimes.net/tw.",
+      "kuwaittimes.net/fb.",
+      "kuwaittimes.net/yt."
      ]
     }
    },
@@ -1594,7 +1596,7 @@
    {
     "sheknows.com": {
      "sheknows.com": [
-      "sheknows.com/api/module?id=follow_social"
+      "sheknows.com/api/module"
      ]
     }
    },
@@ -1629,9 +1631,9 @@
    {
     "theecologist.org": {
      "theecologist.org": [
-      "theecologist.org/siteimage/scale/0/0/132471.gif",
+      "theecologist.org/siteimage/scale/0/0/132472.gif",
       "theecologist.org/siteimage/scale/0/0/132473.gif",
-      "theecologist.org/siteimage/scale/0/0/132472.gif"
+      "theecologist.org/siteimage/scale/0/0/132471.gif"
      ]
     }
    },
@@ -1694,12 +1696,12 @@
    {
     "draugiem.lv": {
      "draugiem.lv": [
+      "draugiem.lv",
+      "draugiem.lv/business/ext/fans/",
+      "draugiem.lv/lapas/widgets/",
       "draugiem.lv/say/ext/recommend.php",
       "draugiem.lv/say/ext/like.php",
-      "draugiem.lv/lapas/widgets/",
-      "draugiem.lv/business/ext/follow/",
-      "draugiem.lv/business/ext/fans/",
-      "draugiem.lv"
+      "draugiem.lv/business/ext/follow/"
      ]
     }
    },
@@ -1720,7 +1722,7 @@
    {
     "getjoys.com": {
      "getjoys.com": [
-      "getjoys.com/js/popup.js?v="
+      "getjoys.com/js/popup.js"
      ]
     }
    },
@@ -1748,7 +1750,7 @@
    {
     "plugins.mixi.jp": {
      "plugins.mixi.jp": [
-      "plugins.mixi.jp/favorite.pl?"
+      "plugins.mixi.jp/favorite.pl"
      ]
     }
    },
@@ -1839,9 +1841,9 @@
    {
     "nioutaik.fr": {
      "nioutaik.fr": [
-      "nioutaik.fr/themes/freshy/images/facedebouc.gif",
       "nioutaik.fr/themes/freshy/images/googlepeuluss.gif",
-      "nioutaik.fr/themes/freshy/images/zoiseau.gif"
+      "nioutaik.fr/themes/freshy/images/zoiseau.gif",
+      "nioutaik.fr/themes/freshy/images/facedebouc.gif"
      ]
     }
    },

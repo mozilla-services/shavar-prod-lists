@@ -740,8 +740,8 @@
    {
     "amazonaws.com": {
      "amazonaws.com": [
-      "amazonaws.com/cp4pox",
-      "amazonaws.com"
+      "amazonaws.com",
+      "amazonaws.com/cp4pox"
      ]
     }
    },
@@ -2869,8 +2869,8 @@
    {
     "api.adflake.com": {
      "api.adflake.com": [
-      "api.adflake.com/custom",
-      "api.adflake.com"
+      "api.adflake.com",
+      "api.adflake.com/custom"
      ]
     }
    },
