@@ -740,8 +740,8 @@
    {
     "amazonaws.com": {
      "amazonaws.com": [
-      "amazonaws.com",
-      "amazonaws.com/cp4pox"
+      "amazonaws.com/cp4pox",
+      "amazonaws.com"
      ]
     }
    },
@@ -2884,8 +2884,8 @@
    {
     "api.appodeal.com": {
      "api.appodeal.com": [
-      "api.appodeal.com/stats",
-      "api.appodeal.com/show"
+      "api.appodeal.com/show",
+      "api.appodeal.com/stats"
      ]
     }
    },

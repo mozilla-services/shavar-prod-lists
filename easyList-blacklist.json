@@ -1,7 +1,7 @@
 {
  "license": "https://easylist.to/pages/licence.html",
  "categories": {
-  "EasyList": [
+  "easyList": [
    {
     "007-gateway.com": {
      "007-gateway.com": [
@@ -1315,10 +1315,10 @@
    {
     "ad.admitad.com": {
      "ad.admitad.com": [
-      "ad.admitad.com/j/",
       "ad.admitad.com/f/",
+      "ad.admitad.com/fbanner/",
       "ad.admitad.com/banner/",
-      "ad.admitad.com/fbanner/"
+      "ad.admitad.com/j/"
      ]
     }
    },
@@ -6107,8 +6107,8 @@
    {
     "algovid.com": {
      "algovid.com": [
-      "algovid.com",
-      "algovid.com/player/get_player_vasts"
+      "algovid.com/player/get_player_vasts",
+      "algovid.com"
      ]
     }
    },
@@ -7775,9 +7775,9 @@
    {
     "berush.com": {
      "berush.com": [
-      "berush.com/images/semrush_banner_",
       "berush.com/images/whorush_120x120_",
-      "berush.com"
+      "berush.com",
+      "berush.com/images/semrush_banner_"
      ]
     }
    },
@@ -12451,59 +12451,59 @@
    {
     "doubleclick.net": {
      "doubleclick.net": [
-      "doubleclick.net/pfadx/mc.channelnewsasia.com",
-      "doubleclick.net/pfadx/miniclip.prevideo/",
-      "doubleclick.net/pfadx/comedycentral.",
-      "doubleclick.net/pfadx/tmg.telegraph.",
-      "doubleclick.net/N2/pfadx/video.wsj.com/",
-      "doubleclick.net/pfadx/nfl.",
-      "doubleclick.net/N5202/pfadx/cmn_livemixtapes/",
-      "doubleclick.net/pfadx/nbcu.nhl/",
-      "doubleclick.net",
-      "doubleclick.net/pfadx/video.marketwatch.com/",
-      "doubleclick.net/pfadx/muzuoffsite/",
-      "doubleclick.net/pfadx/www.tv3.co.nz",
-      "doubleclick.net/pfadx/storm.no/",
-      "doubleclick.net/pfadx/trb.",
-      "doubleclick.net/N2/pfadx/video.marketwatch.com/",
-      "doubleclick.net/pfadx/ltv.wtvr.video/",
-      "doubleclick.net/N2/pfadx/video.allthingsd.com/",
       "doubleclick.net/xbbe/creative/vast",
+      "doubleclick.net/adx/wn.loc.",
+      "doubleclick.net/pfadx/bet.com/",
+      "doubleclick.net/adx/wn.nat.",
+      "doubleclick.net/N2/pfadx/video.wsj.com/",
+      "doubleclick.net/pfadx/intl.sps.com/",
+      "doubleclick.net/pfadx/tmz.video.wb.dart/",
+      "doubleclick.net/N6872/pfadx/shaw.mylifetimetv.ca/",
+      "doubleclick.net/pfadx/comedycentral.",
+      "doubleclick.net/pfadx/blp.video/midroll",
+      "doubleclick.net/pfadx/mc.channelnewsasia.com",
+      "doubleclick.net/pfadx/bzj.bizjournals/",
+      "doubleclick.net/pfadx/muzuoffsite/",
+      "doubleclick.net/pfadx/ndm.tcm/",
+      "doubleclick.net/pfadx/ssp.kgtv/",
+      "doubleclick.net/pfadx/www.tv3.co.nz",
+      "doubleclick.net/pfadx/miniclip.prevideo/",
+      "doubleclick.net/pfadx/nbcu.nhl.",
+      "doubleclick.net/pfadx/trb.",
       "doubleclick.net/pfadx/ugo.gv.1up/",
       "doubleclick.net/adx/CBS.",
-      "doubleclick.net/adx/wn.loc.",
-      "doubleclick.net/pfadx/ndm.tcm/",
-      "doubleclick.net/pfadx/ctv.muchmusic.com/",
-      "doubleclick.net/pfadx/ddm.ksl/",
-      "doubleclick.net/N5479/pfadx/ctv.",
-      "doubleclick.net/pfadx/ctv.spacecast/",
+      "doubleclick.net",
+      "doubleclick.net/pfadx/gn.movieweb.com/",
       "doubleclick.net/pfadx/belo.king5.pre/",
-      "doubleclick.net/pfadx/intl.sps.com/",
-      "doubleclick.net/pfadx/bzj.bizjournals/",
-      "doubleclick.net/ad/",
+      "doubleclick.net/pfadx/ltv.wtvr.video/",
+      "doubleclick.net/N5479/pfadx/ctv.",
+      "doubleclick.net/pfadx/ccr.",
+      "doubleclick.net/N6088/pfadx/ssp.kshb/",
+      "doubleclick.net/adx/tsg.",
+      "doubleclick.net/pfadx/storm.no/",
       "doubleclick.net/pfadx/ctv.ctvwatch.ca/",
-      "doubleclick.net/pfadx/blp.video/midroll",
-      "doubleclick.net/N6872/pfadx/shaw.mylifetimetv.ca/",
+      "doubleclick.net/pfadx/nbcu.nhl/",
+      "doubleclick.net/pfadx/ng.videoplayer/",
       "doubleclick.net/pfadx/sugar.poptv/",
       "doubleclick.net/pfadx/miniclip.midvideo/",
-      "doubleclick.net/adx/wn.nat.",
-      "doubleclick.net/pfadx/nbcu.nbc/",
-      "doubleclick.net/pfadx/tmz.video.wb.dart/",
-      "doubleclick.net/pfadx/gn.movieweb.com/",
-      "doubleclick.net/pfadx/csn.",
-      "doubleclick.net/pfadx/ssp.kgtv/",
-      "doubleclick.net/pfadx/ccr.",
-      "doubleclick.net/pfadx/nbcu.nhl.",
-      "doubleclick.net/N6088/pfadx/ssp.kshb/",
-      "doubleclick.net/pfadx/aetn.aetv.shows/",
-      "doubleclick.net/pfadx/bet.com/",
-      "doubleclick.net/pfadx/ng.videoplayer/",
+      "doubleclick.net/pfadx/ddm.ksl/",
+      "doubleclick.net/pfadx/ctv.muchmusic.com/",
+      "doubleclick.net/pfadx/ctv.spacecast/",
+      "doubleclick.net/pfadx/video.marketwatch.com/",
       "doubleclick.net/pfadx/cblvsn.nwsd.videogallery/",
-      "doubleclick.net/pfadx/video.wsj.com/",
-      "doubleclick.net/pfadx/muzumain/",
-      "doubleclick.net/adx/tsg.",
       "doubleclick.net/adx/ibs.",
-      "doubleclick.net/pfadx/CBS."
+      "doubleclick.net/pfadx/tmg.telegraph.",
+      "doubleclick.net/N2/pfadx/video.marketwatch.com/",
+      "doubleclick.net/ad/",
+      "doubleclick.net/pfadx/csn.",
+      "doubleclick.net/N5202/pfadx/cmn_livemixtapes/",
+      "doubleclick.net/pfadx/nfl.",
+      "doubleclick.net/pfadx/video.wsj.com/",
+      "doubleclick.net/pfadx/nbcu.nbc/",
+      "doubleclick.net/pfadx/muzumain/",
+      "doubleclick.net/pfadx/CBS.",
+      "doubleclick.net/N2/pfadx/video.allthingsd.com/",
+      "doubleclick.net/pfadx/aetn.aetv.shows/"
      ]
     }
    },
@@ -15634,8 +15634,8 @@
     "googletagservices.com": {
      "googletagservices.com": [
       "googletagservices.com/tag/js/gpt_",
-      "googletagservices.com/dcm/dcmads.js",
-      "googletagservices.com/tag/static/"
+      "googletagservices.com/tag/static/",
+      "googletagservices.com/dcm/dcmads.js"
      ]
     }
    },
@@ -16567,9 +16567,9 @@
    {
     "hstpnetwork.com": {
      "hstpnetwork.com": [
-      "hstpnetwork.com",
       "hstpnetwork.com/zeus.php",
-      "hstpnetwork.com/ads/"
+      "hstpnetwork.com/ads/",
+      "hstpnetwork.com"
      ]
     }
    },
@@ -18674,8 +18674,8 @@
    {
     "kqzyfj.com": {
      "kqzyfj.com": [
-      "kqzyfj.com/placeholder-",
-      "kqzyfj.com/image-"
+      "kqzyfj.com/image-",
+      "kqzyfj.com/placeholder-"
      ]
     }
    },
@@ -27909,9 +27909,9 @@
    {
     "sedoparking.com": {
      "sedoparking.com": [
+      "sedoparking.com/jspartner/",
       "sedoparking.com/images/js_preloader.gif",
       "sedoparking.com/registrar/dopark.js",
-      "sedoparking.com/jspartner/",
       "sedoparking.com"
      ]
     }
@@ -28108,8 +28108,8 @@
    {
     "serving-sys.com": {
      "serving-sys.com": [
-      "serving-sys.com/BurstingPipe/",
-      "serving-sys.com/BurstingRes/"
+      "serving-sys.com/BurstingRes/",
+      "serving-sys.com/BurstingPipe/"
      ]
     }
    },
@@ -102879,8 +102879,8 @@
    {
     "chameleon.ad": {
      "chameleon.ad": [
-      "chameleon.ad/banner/",
-      "chameleon.ad"
+      "chameleon.ad",
+      "chameleon.ad/banner/"
      ]
     }
    },
@@ -108508,8 +108508,8 @@
    {
     "itsup.com": {
      "itsup.com": [
-      "itsup.com",
-      "itsup.com/creatives/"
+      "itsup.com/creatives/",
+      "itsup.com"
      ]
     }
    },
@@ -112417,9 +112417,9 @@
    {
     "04stream.com": {
      "04stream.com": [
-      "04stream.com",
       "04stream.com/podddpo.js",
-      "04stream.com/NEWAD11.php"
+      "04stream.com/NEWAD11.php",
+      "04stream.com"
      ]
     }
    },
@@ -112973,8 +112973,8 @@
    {
     "adf.ly": {
      "adf.ly": [
-      "adf.ly",
       "adf.ly/networks/",
+      "adf.ly",
       "adf.ly/images/banners/"
      ]
     }
@@ -113360,9 +113360,9 @@
    {
     "akamaihd.net": {
      "akamaihd.net": [
-      "akamaihd.net/lmedianet.js",
       "akamaihd.net/zbar/takeovers/",
-      "akamaihd.net"
+      "akamaihd.net",
+      "akamaihd.net/lmedianet.js"
      ]
     }
    },
@@ -113420,22 +113420,22 @@
     "amazonaws.com": {
      "amazonaws.com": [
       "amazonaws.com/ownlocal-",
+      "amazonaws.com/pmb-musics/download_itunes.png",
+      "amazonaws.com/bo-assets/production/banner_attachments/",
+      "amazonaws.com/publishflow/",
+      "amazonaws.com/btrb-prd-banners/",
+      "amazonaws.com/skyscrpr.js",
+      "amazonaws.com/streetpulse/ads/",
+      "amazonaws.com/fvefwdds/",
       "amazonaws.com/youpop/",
       "amazonaws.com/cdn.megacpm.com/",
-      "amazonaws.com/fvefwdds/",
-      "amazonaws.com/ludicrous/",
-      "amazonaws.com/pmb-musics/download_itunes.png",
-      "amazonaws.com/publishflow/",
+      "amazonaws.com",
       "amazonaws.com/widgets.youcompare.com.au/",
-      "amazonaws.com/bo-assets/production/banner_attachments/",
-      "amazonaws.com/photos.offers.analoganalytics.com/",
       "amazonaws.com/ad_w_intersitial.html",
       "amazonaws.com/lms/sponsors/",
-      "amazonaws.com/wafmedia6.com/",
-      "amazonaws.com",
-      "amazonaws.com/streetpulse/ads/",
-      "amazonaws.com/skyscrpr.js",
-      "amazonaws.com/btrb-prd-banners/"
+      "amazonaws.com/photos.offers.analoganalytics.com/",
+      "amazonaws.com/ludicrous/",
+      "amazonaws.com/wafmedia6.com/"
      ]
     }
    },
@@ -113486,8 +113486,8 @@
     "aolcdn.com": {
      "aolcdn.com": [
       "aolcdn.com/os/mapquest/promo-images/",
-      "aolcdn.com",
-      "aolcdn.com/os/mapquest/marketing/promos/"
+      "aolcdn.com/os/mapquest/marketing/promos/",
+      "aolcdn.com"
      ]
     }
    },
@@ -113557,8 +113557,8 @@
    {
     "appwork.org": {
      "appwork.org": [
-      "appwork.org/hoster/banner_",
-      "appwork.org/a_d_s/"
+      "appwork.org/a_d_s/",
+      "appwork.org/hoster/banner_"
      ]
     }
    },
@@ -113897,9 +113897,9 @@
    {
     "bc.vc": {
      "bc.vc": [
-      "bc.vc/js/link-converter.js",
       "bc.vc/images/megaload.gif",
-      "bc.vc/adbcvc.html"
+      "bc.vc/adbcvc.html",
+      "bc.vc/js/link-converter.js"
      ]
     }
    },
@@ -114076,8 +114076,8 @@
    {
     "bittorrent.am": {
      "bittorrent.am": [
-      "bittorrent.am/serws.php",
-      "bittorrent.am/banners/"
+      "bittorrent.am/banners/",
+      "bittorrent.am/serws.php"
      ]
     }
    },
@@ -114105,8 +114105,8 @@
    {
     "blinkx.com": {
      "blinkx.com": [
-      "blinkx.com/f2/overlays/",
-      "blinkx.com/adhocnetwork/"
+      "blinkx.com/adhocnetwork/",
+      "blinkx.com/f2/overlays/"
      ]
     }
    },
@@ -114283,8 +114283,8 @@
    {
     "broadbandgenie.co.uk": {
      "broadbandgenie.co.uk": [
-      "broadbandgenie.co.uk/images/takeover/",
-      "broadbandgenie.co.uk/widget"
+      "broadbandgenie.co.uk/widget",
+      "broadbandgenie.co.uk/images/takeover/"
      ]
     }
    },
@@ -114427,8 +114427,8 @@
    {
     "careerjunction.co.za": {
      "careerjunction.co.za": [
-      "careerjunction.co.za",
-      "careerjunction.co.za/widgets/"
+      "careerjunction.co.za/widgets/",
+      "careerjunction.co.za"
      ]
     }
    },
@@ -114603,8 +114603,8 @@
    {
     "cdnprk.com": {
      "cdnprk.com": [
-      "cdnprk.com/scripts/js3.js",
-      "cdnprk.com/scripts/js3caf.js"
+      "cdnprk.com/scripts/js3caf.js",
+      "cdnprk.com/scripts/js3.js"
      ]
     }
    },
@@ -114801,12 +114801,12 @@
    {
     "cloudfront.net": {
      "cloudfront.net": [
-      "cloudfront.net/scripts/js3caf.js",
-      "cloudfront.net/prod-global-",
       "cloudfront.net/tie.js",
+      "cloudfront.net/scripts/js3caf.js",
       "cloudfront.net/st.js",
-      "cloudfront.net/nimblebuy/",
       "cloudfront.net/dfpd.js",
+      "cloudfront.net/nimblebuy/",
+      "cloudfront.net/prod-global-",
       "cloudfront.net/"
      ]
     }
@@ -114992,8 +114992,8 @@
    {
     "cpmstar.com": {
      "cpmstar.com": [
-      "cpmstar.com/cached/",
-      "cpmstar.com/view.aspx"
+      "cpmstar.com/view.aspx",
+      "cpmstar.com/cached/"
      ]
     }
    },
@@ -115561,8 +115561,8 @@
    {
     "d2kbaqwa2nt57l.cloudfront.net": {
      "d2kbaqwa2nt57l.cloudfront.net": [
-      "d2kbaqwa2nt57l.cloudfront.net/",
-      "d2kbaqwa2nt57l.cloudfront.net/br"
+      "d2kbaqwa2nt57l.cloudfront.net/br",
+      "d2kbaqwa2nt57l.cloudfront.net/"
      ]
     }
    },
@@ -116584,9 +116584,9 @@
    {
     "dreamstime.com": {
      "dreamstime.com": [
-      "dreamstime.com/img/badges/banner",
       "dreamstime.com/banner/",
-      "dreamstime.com/refbanner-"
+      "dreamstime.com/refbanner-",
+      "dreamstime.com/img/badges/banner"
      ]
     }
    },
@@ -116657,11 +116657,11 @@
    {
     "duckduckgo.com": {
      "duckduckgo.com": [
-      "duckduckgo.com/public/",
-      "duckduckgo.com/share/spice/amazon/",
       "duckduckgo.com/m.js",
+      "duckduckgo.com/share/spice/amazon/",
+      "duckduckgo.com/i.js",
       "duckduckgo.com/y.js",
-      "duckduckgo.com/i.js"
+      "duckduckgo.com/public/"
      ]
     }
    },
@@ -116822,8 +116822,8 @@
    {
     "ebaystatic.com": {
      "ebaystatic.com": [
-      "ebaystatic.com/aw/signin/ebay-signin-toyota-",
-      "ebaystatic.com"
+      "ebaystatic.com",
+      "ebaystatic.com/aw/signin/ebay-signin-toyota-"
      ]
     }
    },
@@ -117259,8 +117259,8 @@
    {
     "filefactory.com": {
      "filefactory.com": [
-      "filefactory.com/img/casinopilots/",
-      "filefactory.com"
+      "filefactory.com",
+      "filefactory.com/img/casinopilots/"
      ]
     }
    },
@@ -117351,8 +117351,8 @@
    {
     "flashx.tv": {
      "flashx.tv": [
-      "flashx.tv/banner/",
-      "flashx.tv/img/downloadit.png"
+      "flashx.tv/img/downloadit.png",
+      "flashx.tv/banner/"
      ]
     }
    },
@@ -117422,8 +117422,8 @@
    {
     "forumimg.ipmart.com": {
      "forumimg.ipmart.com": [
-      "forumimg.ipmart.com/swf/img.php",
-      "forumimg.ipmart.com/swf/ipmart_forum/banner"
+      "forumimg.ipmart.com/swf/ipmart_forum/banner",
+      "forumimg.ipmart.com/swf/img.php"
      ]
     }
    },
@@ -117438,8 +117438,8 @@
     "freakshare.com": {
      "freakshare.com": [
       "freakshare.com/banner/",
-      "freakshare.com/yild.js",
-      "freakshare.com/"
+      "freakshare.com/",
+      "freakshare.com/yild.js"
      ]
     }
    },
@@ -117924,13 +117924,13 @@
    {
     "googlesyndication.com": {
      "googlesyndication.com": [
-      "googlesyndication.com/simgad/",
-      "googlesyndication.com/ddm/",
       "googlesyndication.com/sadbundle/",
-      "googlesyndication.com",
       "googlesyndication.com/safeframe/",
+      "googlesyndication.com/pagead/",
       "googlesyndication.com/sodar/",
-      "googlesyndication.com/pagead/"
+      "googlesyndication.com",
+      "googlesyndication.com/ddm/",
+      "googlesyndication.com/simgad/"
      ]
     }
    },
@@ -117944,8 +117944,8 @@
    {
     "gopjn.com": {
      "gopjn.com": [
-      "gopjn.com/i/",
-      "gopjn.com/b/"
+      "gopjn.com/b/",
+      "gopjn.com/i/"
      ]
     }
    },
@@ -118317,11 +118317,11 @@
    {
     "ibsrv.net": {
      "ibsrv.net": [
-      "ibsrv.net",
       "ibsrv.net/sponsor_images/",
+      "ibsrv.net/sponsors/",
       "ibsrv.net/ForumSponsor/",
       "ibsrv.net/sidetiles/125x125/",
-      "ibsrv.net/sponsors/"
+      "ibsrv.net"
      ]
     }
    },
@@ -118356,8 +118356,8 @@
    {
     "idg.com.au": {
      "idg.com.au": [
-      "idg.com.au/files/skins/",
-      "idg.com.au"
+      "idg.com.au",
+      "idg.com.au/files/skins/"
      ]
     }
    },
@@ -118428,10 +118428,10 @@
     "criteo.net": {
      "criteo.net": [
       "criteo.net/images",
-      "criteo.net/flash",
-      "criteo.net",
       "criteo.net/js/duplo",
-      "criteo.net/design"
+      "criteo.net/design",
+      "criteo.net/flash",
+      "criteo.net"
      ]
     }
    },
@@ -118467,8 +118467,8 @@
     "imagetwist.com": {
      "imagetwist.com": [
       "imagetwist.com",
-      "imagetwist.com/banner/",
-      "imagetwist.com/lj.js"
+      "imagetwist.com/lj.js",
+      "imagetwist.com/banner/"
      ]
     }
    },
@@ -118546,8 +118546,8 @@
     "in.com": {
      "in.com": [
       "in.com/common/script_catch.js",
-      "in.com/addIframe/",
-      "in.com"
+      "in.com",
+      "in.com/addIframe/"
      ]
     }
    },
@@ -118941,9 +118941,9 @@
    {
     "l.yimg.com": {
      "l.yimg.com": [
-      "l.yimg.com/mq/a/",
       "l.yimg.com/ao/i/ad/",
-      "l.yimg.com"
+      "l.yimg.com",
+      "l.yimg.com/mq/a/"
      ]
     }
    },
@@ -118992,8 +118992,8 @@
    {
     "leadsleap.com": {
      "leadsleap.com": [
-      "leadsleap.com/widget/",
-      "leadsleap.com/images/banner_"
+      "leadsleap.com/images/banner_",
+      "leadsleap.com/widget/"
      ]
     }
    },
@@ -119063,8 +119063,8 @@
    {
     "lijit.com": {
      "lijit.com": [
-      "lijit.com/adif_px.php",
-      "lijit.com/delivery/"
+      "lijit.com/delivery/",
+      "lijit.com/adif_px.php"
      ]
     }
    },
@@ -119114,8 +119114,8 @@
    {
     "liutilities.com": {
      "liutilities.com": [
-      "liutilities.com",
-      "liutilities.com/partners/"
+      "liutilities.com/partners/",
+      "liutilities.com"
      ]
     }
    },
@@ -119164,8 +119164,8 @@
    {
     "loot.co.za": {
      "loot.co.za": [
-      "loot.co.za",
-      "loot.co.za/shop/product.jsp"
+      "loot.co.za/shop/product.jsp",
+      "loot.co.za"
      ]
     }
    },
@@ -119186,9 +119186,9 @@
    {
     "lowbird.com": {
      "lowbird.com": [
-      "lowbird.com/lbpun.php",
       "lowbird.com/random/",
-      "lowbird.com/lbpu.php"
+      "lowbird.com/lbpu.php",
+      "lowbird.com/lbpun.php"
      ]
     }
    },
@@ -119244,10 +119244,10 @@
    {
     "luckyshare.net": {
      "luckyshare.net": [
-      "luckyshare.net/images/banners/",
       "luckyshare.net/images/sda/",
       "luckyshare.net/images/2top.png",
-      "luckyshare.net/images/1gotlucky.png"
+      "luckyshare.net/images/1gotlucky.png",
+      "luckyshare.net/images/banners/"
      ]
     }
    },
@@ -119261,8 +119261,8 @@
    {
     "lygo.com": {
      "lygo.com": [
-      "lygo.com/d/toolbar/sponsors/",
-      "lygo.com/scripts/catman/"
+      "lygo.com/scripts/catman/",
+      "lygo.com/d/toolbar/sponsors/"
      ]
     }
    },
@@ -119487,9 +119487,9 @@
    {
     "mediaplex.com": {
      "mediaplex.com": [
+      "mediaplex.com/ad/js/",
       "mediaplex.com/ad/fm/",
-      "mediaplex.com/ad/bn/",
-      "mediaplex.com/ad/js/"
+      "mediaplex.com/ad/bn/"
      ]
     }
    },
@@ -119581,8 +119581,8 @@
    {
     "mightydeals.com": {
      "mightydeals.com": [
-      "mightydeals.com/widget",
-      "mightydeals.com/widgets/"
+      "mightydeals.com/widgets/",
+      "mightydeals.com/widget"
      ]
     }
    },
@@ -120237,8 +120237,8 @@
    {
     "origin.getprice.com.au": {
      "origin.getprice.com.au": [
-      "origin.getprice.com.au/WidgetNews.aspx",
-      "origin.getprice.com.au/widgetnewssmall.aspx"
+      "origin.getprice.com.au/widgetnewssmall.aspx",
+      "origin.getprice.com.au/WidgetNews.aspx"
      ]
     }
    },
@@ -120259,8 +120259,8 @@
    {
     "ouo.io": {
      "ouo.io": [
-      "ouo.io/js/pop.",
-      "ouo.io/images/banners/"
+      "ouo.io/images/banners/",
+      "ouo.io/js/pop."
      ]
     }
    },
@@ -120561,16 +120561,16 @@
    {
     "pjatr.com": {
      "pjatr.com": [
-      "pjatr.com/i/",
-      "pjatr.com/b/"
+      "pjatr.com/b/",
+      "pjatr.com/i/"
      ]
     }
    },
    {
     "pjtra.com": {
      "pjtra.com": [
-      "pjtra.com/b/",
-      "pjtra.com/i/"
+      "pjtra.com/i/",
+      "pjtra.com/b/"
      ]
     }
    },
@@ -120626,16 +120626,16 @@
    {
     "pntra.com": {
      "pntra.com": [
-      "pntra.com/i/",
-      "pntra.com/b/"
+      "pntra.com/b/",
+      "pntra.com/i/"
      ]
     }
    },
    {
     "pntrac.com": {
      "pntrac.com": [
-      "pntrac.com/i/",
-      "pntrac.com/b/"
+      "pntrac.com/b/",
+      "pntrac.com/i/"
      ]
     }
    },
@@ -120992,8 +120992,8 @@
     "radioreference.com": {
      "radioreference.com": [
       "radioreference.com/i/p4/tp/smPortalBanner.gif",
-      "radioreference.com/sm/300x75_v3.jpg",
-      "radioreference.com"
+      "radioreference.com",
+      "radioreference.com/sm/300x75_v3.jpg"
      ]
     }
    },
@@ -121007,8 +121007,8 @@
    {
     "radiotown.com": {
      "radiotown.com": [
-      "radiotown.com",
-      "radiotown.com/bg/"
+      "radiotown.com/bg/",
+      "radiotown.com"
      ]
     }
    },
@@ -121022,11 +121022,11 @@
    {
     "rapidgator.net": {
      "rapidgator.net": [
-      "rapidgator.net/images/pics/button.png",
+      "rapidgator.net/images/banners/",
       "rapidgator.net",
-      "rapidgator.net/images/pics/729x91_",
+      "rapidgator.net/images/pics/button.png",
       "rapidgator.net/images/pics/",
-      "rapidgator.net/images/banners/"
+      "rapidgator.net/images/pics/729x91_"
      ]
     }
    },
@@ -121082,8 +121082,8 @@
    {
     "red-tube.com": {
      "red-tube.com": [
-      "red-tube.com/dynbanner.php",
-      "red-tube.com"
+      "red-tube.com",
+      "red-tube.com/dynbanner.php"
      ]
     }
    },
@@ -121125,8 +121125,8 @@
    {
     "relink.us": {
      "relink.us": [
-      "relink.us/images/",
-      "relink.us/js/ibunkerslide.js"
+      "relink.us/js/ibunkerslide.js",
+      "relink.us/images/"
      ]
     }
    },
@@ -121442,11 +121442,11 @@
    {
     "secureupload.eu": {
      "secureupload.eu": [
+      "secureupload.eu/gfx/SecureUpload_Banner.png",
+      "secureupload.eu/banners/",
       "secureupload.eu/images/wpman_",
       "secureupload.eu/js/poad.js",
-      "secureupload.eu/images/soundcloud_",
-      "secureupload.eu/banners/",
-      "secureupload.eu/gfx/SecureUpload_Banner.png"
+      "secureupload.eu/images/soundcloud_"
      ]
     }
    },
@@ -121524,8 +121524,8 @@
    {
     "sfimg.com": {
      "sfimg.com": [
-      "sfimg.com/SFIBanners/",
-      "sfimg.com/images/banners/"
+      "sfimg.com/images/banners/",
+      "sfimg.com/SFIBanners/"
      ]
     }
    },
@@ -121680,8 +121680,8 @@
    {
     "sisters-magazine.com": {
      "sisters-magazine.com": [
-      "sisters-magazine.com/iframebanners/",
-      "sisters-magazine.com"
+      "sisters-magazine.com",
+      "sisters-magazine.com/iframebanners/"
      ]
     }
    },
@@ -121845,8 +121845,8 @@
     "spilcdn.com": {
      "spilcdn.com": [
       "spilcdn.com/vda/css/sgadfamily.css",
-      "spilcdn.com/vda/vendor/flowplayer/ova.swf",
-      "spilcdn.com/vda/css/sgadfamily2.css"
+      "spilcdn.com/vda/css/sgadfamily2.css",
+      "spilcdn.com/vda/vendor/flowplayer/ova.swf"
      ]
     }
    },
@@ -121930,8 +121930,8 @@
    {
     "stacksocial.com": {
      "stacksocial.com": [
-      "stacksocial.com/bundles/",
-      "stacksocial.com"
+      "stacksocial.com",
+      "stacksocial.com/bundles/"
      ]
     }
    },
@@ -121953,9 +121953,9 @@
     "static.criteo.com": {
      "static.criteo.com": [
       "static.criteo.com/flash",
+      "static.criteo.com/design",
       "static.criteo.com/images",
-      "static.criteo.com/js/duplo",
-      "static.criteo.com/design"
+      "static.criteo.com/js/duplo"
      ]
     }
    },
@@ -121964,8 +121964,8 @@
      "static.criteo.net": [
       "static.criteo.net/images",
       "static.criteo.net/flash",
-      "static.criteo.net/js/duplo",
-      "static.criteo.net/design"
+      "static.criteo.net/design",
+      "static.criteo.net/js/duplo"
      ]
     }
    },
@@ -121979,10 +121979,10 @@
    {
     "static.plista.com": {
      "static.plista.com": [
-      "static.plista.com",
+      "static.plista.com/tiny/",
       "static.plista.com/upload/videos/",
       "static.plista.com/jsmodule/flash|",
-      "static.plista.com/tiny/"
+      "static.plista.com"
      ]
     }
    },
@@ -122151,8 +122151,8 @@
    {
     "sweed.to": {
      "sweed.to": [
-      "sweed.to/",
-      "sweed.to/affiliates/"
+      "sweed.to/affiliates/",
+      "sweed.to/"
      ]
     }
    },
@@ -122180,9 +122180,9 @@
    {
     "synapsys.us": {
      "synapsys.us": [
-      "synapsys.us/widgets/chatterbox/",
       "synapsys.us/widgets/dynamic_widget/",
-      "synapsys.us"
+      "synapsys.us",
+      "synapsys.us/widgets/chatterbox/"
      ]
     }
    },
@@ -122493,8 +122493,8 @@
     "toptenreviews.com": {
      "toptenreviews.com": [
       "toptenreviews.com/flash/",
-      "toptenreviews.com/r/c/",
-      "toptenreviews.com/w/af_widget.js"
+      "toptenreviews.com/w/af_widget.js",
+      "toptenreviews.com/r/c/"
      ]
     }
    },
@@ -122648,11 +122648,11 @@
    {
     "turbobit.net": {
      "turbobit.net": [
-      "turbobit.net/refers/",
       "turbobit.net/ref/",
-      "turbobit.net/oexktl/muzebra_",
       "turbobit.net/js/acontrol.js",
       "turbobit.net/pics/7z1xla23ay_",
+      "turbobit.net/oexktl/muzebra_",
+      "turbobit.net/refers/",
       "turbobit.net/platform/js/lib/pus/"
      ]
     }
@@ -122702,8 +122702,8 @@
    {
     "ukrd.com": {
      "ukrd.com": [
-      "ukrd.com",
       "ukrd.com/images/icons/itunes.png",
+      "ukrd.com",
       "ukrd.com/images/icons/amazon.png"
      ]
     }
@@ -122725,8 +122725,8 @@
    {
     "united-domains.de": {
      "united-domains.de": [
-      "united-domains.de",
-      "united-domains.de/parking/"
+      "united-domains.de/parking/",
+      "united-domains.de"
      ]
     }
    },
@@ -122761,9 +122761,9 @@
    {
     "uploaded.to": {
      "uploaded.to": [
-      "uploaded.to/img/e/ad/",
       "uploaded.to/img/public/",
-      "uploaded.to/js/layer.js"
+      "uploaded.to/js/layer.js",
+      "uploaded.to/img/e/ad/"
      ]
     }
    },
@@ -122792,8 +122792,8 @@
     "userscloud.com": {
      "userscloud.com": [
       "userscloud.com/sw.js",
-      "userscloud.com/js/vendor/core/bootstrap.js",
-      "userscloud.com/images/banners/"
+      "userscloud.com/images/banners/",
+      "userscloud.com/js/vendor/core/bootstrap.js"
      ]
     }
    },
@@ -122905,8 +122905,8 @@
    {
     "vidible.tv": {
      "vidible.tv": [
-      "vidible.tv/placement/vast/",
-      "vidible.tv/prod/tags/"
+      "vidible.tv/prod/tags/",
+      "vidible.tv/placement/vast/"
      ]
     }
    },
@@ -122921,11 +122921,11 @@
     "viglink.com": {
      "viglink.com": [
       "viglink.com/api/batch",
-      "viglink.com/api/insert",
+      "viglink.com/api/widgets/offerbox.js",
       "viglink.com/api/optimize",
       "viglink.com/api/products",
       "viglink.com/images/pixel.gif",
-      "viglink.com/api/widgets/offerbox.js"
+      "viglink.com/api/insert"
      ]
     }
    },
@@ -123079,8 +123079,8 @@
    {
     "washingtonpost.com": {
      "washingtonpost.com": [
-      "washingtonpost.com/wp-srv/javascript/piggy-back-on-ads.js",
-      "washingtonpost.com/wp-srv/wapolabs/dw/readomniturecookie.html"
+      "washingtonpost.com/wp-srv/wapolabs/dw/readomniturecookie.html",
+      "washingtonpost.com/wp-srv/javascript/piggy-back-on-ads.js"
      ]
     }
    },
@@ -123432,8 +123432,8 @@
    {
     "worldofjudaica.com": {
      "worldofjudaica.com": [
-      "worldofjudaica.com/products/dynamic_banner/",
-      "worldofjudaica.com/static/show/external/"
+      "worldofjudaica.com/static/show/external/",
+      "worldofjudaica.com/products/dynamic_banner/"
      ]
     }
    },
@@ -123489,8 +123489,8 @@
    {
     "wupload.com": {
      "wupload.com": [
-      "wupload.com/images/banners/",
-      "wupload.com/referral/"
+      "wupload.com/referral/",
+      "wupload.com/images/banners/"
      ]
     }
    },
@@ -123588,9 +123588,9 @@
    {
     "yimg.com": {
      "yimg.com": [
-      "yimg.com/gemini/pr/video_",
+      "yimg.com",
       "yimg.com/gs/apex/mediastore/",
-      "yimg.com"
+      "yimg.com/gemini/pr/video_"
      ]
     }
    },
@@ -123823,22 +123823,22 @@
    {
     "213.174.140.76": {
      "213.174.140.76": [
-      "213.174.140.76/js/showbanner4.js",
-      "213.174.140.76"
+      "213.174.140.76",
+      "213.174.140.76/js/showbanner4.js"
      ]
     }
    },
    {
     "4tube.com": {
      "4tube.com": [
-      "4tube.com/assets/padb-",
-      "4tube.com/assets/adf-",
-      "4tube.com/assets/abpe-",
-      "4tube.com/tb/banner/",
-      "4tube.com/mojon.js",
       "4tube.com/sw4tube.js",
       "4tube.com/assets/adn-",
-      "4tube.com/iframe/"
+      "4tube.com/iframe/",
+      "4tube.com/mojon.js",
+      "4tube.com/tb/banner/",
+      "4tube.com/assets/adf-",
+      "4tube.com/assets/abpe-",
+      "4tube.com/assets/padb-"
      ]
     }
    },
@@ -123950,10 +123950,10 @@
    {
     "adultfriendfinder.com": {
      "adultfriendfinder.com": [
-      "adultfriendfinder.com/go/",
-      "adultfriendfinder.com/javascript/",
       "adultfriendfinder.com/piclist",
-      "adultfriendfinder.com/images/banners/"
+      "adultfriendfinder.com/images/banners/",
+      "adultfriendfinder.com/go/",
+      "adultfriendfinder.com/javascript/"
      ]
     }
    },
@@ -123967,8 +123967,8 @@
    {
     "aebn.net": {
      "aebn.net": [
-      "aebn.net/feed/",
-      "aebn.net/banners/"
+      "aebn.net/banners/",
+      "aebn.net/feed/"
      ]
     }
    },
@@ -124052,8 +124052,8 @@
    {
     "amarotic.com": {
      "amarotic.com": [
-      "amarotic.com/Banner/",
       "amarotic.com/rotation/layer/chatpage/",
+      "amarotic.com/Banner/",
       "amarotic.com"
      ]
     }
@@ -124110,8 +124110,8 @@
    {
     "assinclusive.com": {
      "assinclusive.com": [
-      "assinclusive.com/linkstxt2.html",
-      "assinclusive.com/cyonix.html"
+      "assinclusive.com/cyonix.html",
+      "assinclusive.com/linkstxt2.html"
      ]
     }
    },
@@ -124181,8 +124181,8 @@
    {
     "spacash.com": {
      "spacash.com": [
-      "spacash.com",
       "spacash.com/tools/peel/",
+      "spacash.com",
       "spacash.com/popup/",
       "spacash.com//v2bannerview.php"
      ]
@@ -124359,9 +124359,9 @@
    {
     "bongacash.com": {
      "bongacash.com": [
+      "bongacash.com/tools/promo.php",
       "bongacash.com/promo.php",
-      "bongacash.com/dynamic_banner/",
-      "bongacash.com/tools/promo.php"
+      "bongacash.com/dynamic_banner/"
      ]
     }
    },
@@ -124481,8 +124481,8 @@
    {
     "chaturbate.com": {
      "chaturbate.com": [
-      "chaturbate.com/affiliates/",
-      "chaturbate.com/creative/"
+      "chaturbate.com/creative/",
+      "chaturbate.com/affiliates/"
      ]
     }
    },
@@ -124735,8 +124735,8 @@
    {
     "eurolive.com": {
      "eurolive.com": [
-      "eurolive.com/",
-      "eurolive.com/index.php"
+      "eurolive.com/index.php",
+      "eurolive.com/"
      ]
     }
    },
@@ -124785,8 +124785,8 @@
    {
     "fastcdn.me": {
      "fastcdn.me": [
-      "fastcdn.me/js/snpp/",
-      "fastcdn.me/mlr/"
+      "fastcdn.me/mlr/",
+      "fastcdn.me/js/snpp/"
      ]
     }
    },
@@ -124835,8 +124835,8 @@
    {
     "fleshlight.com": {
      "fleshlight.com": [
-      "fleshlight.com/images/peel/",
-      "fleshlight.com/images/banners/"
+      "fleshlight.com/images/banners/",
+      "fleshlight.com/images/peel/"
      ]
     }
    },
@@ -125187,8 +125187,8 @@
    {
     "interracialbangblog.info": {
      "interracialbangblog.info": [
-      "interracialbangblog.info/banner.jpg",
-      "interracialbangblog.info"
+      "interracialbangblog.info",
+      "interracialbangblog.info/banner.jpg"
      ]
     }
    },
@@ -125406,8 +125406,8 @@
    {
     "mrskin.com": {
      "mrskin.com": [
-      "mrskin.com/affiliateframe/",
-      "mrskin.com/data/mrskincash/"
+      "mrskin.com/data/mrskincash/",
+      "mrskin.com/affiliateframe/"
      ]
     }
    },
@@ -125456,8 +125456,8 @@
    {
     "myexposedgirlfriendz.com": {
      "myexposedgirlfriendz.com": [
-      "myexposedgirlfriendz.com/pop/popuprk.js",
-      "myexposedgirlfriendz.com/pop/popuppp.js"
+      "myexposedgirlfriendz.com/pop/popuppp.js",
+      "myexposedgirlfriendz.com/pop/popuprk.js"
      ]
     }
    },
@@ -125668,8 +125668,8 @@
    {
     "pop6.com": {
      "pop6.com": [
-      "pop6.com/banners/",
-      "pop6.com"
+      "pop6.com",
+      "pop6.com/banners/"
      ]
     }
    },
@@ -125830,8 +125830,8 @@
    {
     "rabbitporno.com": {
      "rabbitporno.com": [
-      "rabbitporno.com/iframes/",
-      "rabbitporno.com/friends/"
+      "rabbitporno.com/friends/",
+      "rabbitporno.com/iframes/"
      ]
     }
    },
@@ -126266,10 +126266,10 @@
    {
     "updatetube.com": {
      "updatetube.com": [
-      "updatetube.com/iframes/",
-      "updatetube.com/updatetube_html/",
       "updatetube.com/js/adpupdatetube",
-      "updatetube.com/js/fab.js"
+      "updatetube.com/updatetube_html/",
+      "updatetube.com/js/fab.js",
+      "updatetube.com/iframes/"
      ]
     }
    },
@@ -126578,8 +126578,8 @@
    {
     "1337x.to": {
      "1337x.to": [
-      "1337x.to/sw.js",
-      "1337x.to/js/script.js"
+      "1337x.to/js/script.js",
+      "1337x.to/sw.js"
      ]
     }
    },
@@ -126622,8 +126622,8 @@
    {
     "180upload.com": {
      "180upload.com": [
-      "180upload.com/p1.js",
-      "180upload.com/pir/729.js"
+      "180upload.com/pir/729.js",
+      "180upload.com/p1.js"
      ]
     }
    },
@@ -126638,8 +126638,8 @@
     "1up.com": {
      "1up.com": [
       "1up.com",
-      "1up.com/vip/vip_games.html",
-      "1up.com/scripts/takeover.js"
+      "1up.com/scripts/takeover.js",
+      "1up.com/vip/vip_games.html"
      ]
     }
    },
@@ -126871,9 +126871,9 @@
    {
     "911tabs.com": {
      "911tabs.com": [
+      "911tabs.com/img/bgd_911tabs_",
       "911tabs.com",
-      "911tabs.com/img/takeover_app_",
-      "911tabs.com/img/bgd_911tabs_"
+      "911tabs.com/img/takeover_app_"
      ]
     }
    },
@@ -127006,9 +127006,9 @@
    {
     "abook.ws": {
      "abook.ws": [
-      "abook.ws/th_mydl.gif",
+      "abook.ws/banner6.png",
       "abook.ws/pyload.png",
-      "abook.ws/banner6.png"
+      "abook.ws/th_mydl.gif"
      ]
     }
    },
@@ -127022,18 +127022,18 @@
    {
     "aboutmyip.com": {
      "aboutmyip.com": [
-      "aboutmyip.com/images/SynaManBanner.gif",
-      "aboutmyip.com/images/Ad0"
+      "aboutmyip.com/images/Ad0",
+      "aboutmyip.com/images/SynaManBanner.gif"
      ]
     }
    },
    {
     "abovetopsecret.com": {
      "abovetopsecret.com": [
+      "abovetopsecret.com/images/plexidigest-300x300.jpg",
       "abovetopsecret.com/160_",
-      "abovetopsecret.com/728_",
       "abovetopsecret.com/300_",
-      "abovetopsecret.com/images/plexidigest-300x300.jpg"
+      "abovetopsecret.com/728_"
      ]
     }
    },
@@ -127355,18 +127355,18 @@
    {
     "adpost.com": {
      "adpost.com": [
-      "adpost.com/bannerserver.g.",
+      "adpost.com/rectserver.g.",
       "adpost.com",
       "adpost.com/skyserver.g.",
-      "adpost.com/rectserver.g."
+      "adpost.com/bannerserver.g."
      ]
     }
    },
    {
     "hulu.com": {
      "hulu.com": [
-      "hulu.com",
-      "hulu.com/v3/revenue/"
+      "hulu.com/v3/revenue/",
+      "hulu.com"
      ]
     }
    },
@@ -127739,8 +127739,8 @@
     "allmyvideos.net": {
      "allmyvideos.net": [
       "allmyvideos.net/player/ova-jw.swf",
-      "allmyvideos.net",
-      "allmyvideos.net/js/ad_"
+      "allmyvideos.net/js/ad_",
+      "allmyvideos.net"
      ]
     }
    },
@@ -127887,8 +127887,8 @@
    {
     "anilinkz.com": {
      "anilinkz.com": [
-      "anilinkz.com/img/rightsponsors",
-      "anilinkz.com/img/leftsponsors."
+      "anilinkz.com/img/leftsponsors.",
+      "anilinkz.com/img/rightsponsors"
      ]
     }
    },
@@ -127910,8 +127910,8 @@
    {
     "anime44.com": {
      "anime44.com": [
-      "anime44.com/anime44box.jpg",
-      "anime44.com/images/videobb2.png"
+      "anime44.com/images/videobb2.png",
+      "anime44.com/anime44box.jpg"
      ]
     }
    },
@@ -127982,8 +127982,8 @@
    {
     "anonytext.tk": {
      "anonytext.tk": [
-      "anonytext.tk/img/paste-sponsor.png",
       "anonytext.tk/img/paste-eb.png",
+      "anonytext.tk/img/paste-sponsor.png",
       "anonytext.tk/re.php"
      ]
     }
@@ -128047,8 +128047,8 @@
    {
     "appleinsider.com": {
      "appleinsider.com": [
-      "appleinsider.com/macmall",
-      "appleinsider.com"
+      "appleinsider.com",
+      "appleinsider.com/macmall"
      ]
     }
    },
@@ -128076,8 +128076,8 @@
    {
     "ar15.com": {
      "ar15.com": [
-      "ar15.com/images/highlight/",
       "ar15.com/biz/",
+      "ar15.com/images/highlight/",
       "ar15.com"
      ]
     }
@@ -128120,8 +128120,8 @@
    {
     "armorgames.com": {
      "armorgames.com": [
-      "armorgames.com",
-      "armorgames.com/backup_"
+      "armorgames.com/backup_",
+      "armorgames.com"
      ]
     }
    },
@@ -128228,8 +128228,8 @@
    {
     "astalavista.com": {
      "astalavista.com": [
-      "astalavista.com/avtng/",
-      "astalavista.com"
+      "astalavista.com",
+      "astalavista.com/avtng/"
      ]
     }
    },
@@ -128257,8 +128257,8 @@
    {
     "atimes.com": {
      "atimes.com": [
-      "atimes.com",
-      "atimes.com/banner/"
+      "atimes.com/banner/",
+      "atimes.com"
      ]
     }
    },
@@ -128280,13 +128280,6 @@
     "atwonline.com": {
      "atwonline.com": [
       "atwonline.com"
-     ]
-    }
-   },
-   {
-    "at\u0111he.net": {
-     "at\u0111he.net": [
-      "at\u0111he.net/pu/"
      ]
     }
    },
@@ -128344,16 +128337,16 @@
     "avitop.com": {
      "avitop.com": [
       "avitop.com/image/amazon/",
-      "avitop.com/image/mig-anim.gif",
-      "avitop.com/image/mig.gif"
+      "avitop.com/image/mig.gif",
+      "avitop.com/image/mig-anim.gif"
      ]
     }
    },
    {
     "avn.com": {
      "avn.com": [
-      "avn.com/delivery/",
-      "avn.com/templates/avnav/skins/"
+      "avn.com/templates/avnav/skins/",
+      "avn.com/delivery/"
      ]
     }
    },
@@ -128437,8 +128430,8 @@
    {
     "babelzilla.org": {
      "babelzilla.org": [
-      "babelzilla.org/forum/images/powerfox-top.png",
-      "babelzilla.org/images/banners/babelzilla-powerfox.png"
+      "babelzilla.org/images/banners/babelzilla-powerfox.png",
+      "babelzilla.org/forum/images/powerfox-top.png"
      ]
     }
    },
@@ -128622,8 +128615,8 @@
    {
     "bay.com.mt": {
      "bay.com.mt": [
-      "bay.com.mt/modules/mod_novarp/",
-      "bay.com.mt/images/banners/"
+      "bay.com.mt/images/banners/",
+      "bay.com.mt/modules/mod_novarp/"
      ]
     }
    },
@@ -128637,8 +128630,8 @@
    {
     "baymirror.com": {
      "baymirror.com": [
-      "baymirror.com/static/img/bar.gif",
-      "baymirror.com/static/js/4728ba74bc.js"
+      "baymirror.com/static/js/4728ba74bc.js",
+      "baymirror.com/static/img/bar.gif"
      ]
     }
    },
@@ -128716,8 +128709,8 @@
    {
     "beforeitsnews.com": {
      "beforeitsnews.com": [
-      "beforeitsnews.com/static/iframe/",
-      "beforeitsnews.com/static/data/story-stripmall-new.html"
+      "beforeitsnews.com/static/data/story-stripmall-new.html",
+      "beforeitsnews.com/static/iframe/"
      ]
     }
    },
@@ -128794,17 +128787,17 @@
    {
     "better-explorer.com": {
      "better-explorer.com": [
-      "better-explorer.com/wp-content/uploads/2012/09/credits.png",
       "better-explorer.com/wp-content/uploads/2013/10/PoweredByNDepend.png",
-      "better-explorer.com/wp-content/uploads/2013/07/hf.5.png"
+      "better-explorer.com/wp-content/uploads/2013/07/hf.5.png",
+      "better-explorer.com/wp-content/uploads/2012/09/credits.png"
      ]
     }
    },
    {
     "bettingsports.com": {
      "bettingsports.com": [
-      "bettingsports.com/where_to_bet",
-      "bettingsports.com/top_bonuses"
+      "bettingsports.com/top_bonuses",
+      "bettingsports.com/where_to_bet"
      ]
     }
    },
@@ -128993,9 +128986,9 @@
    {
     "blacklistednews.com": {
      "blacklistednews.com": [
-      "blacklistednews.com/images/KFC.png",
       "blacklistednews.com",
-      "blacklistednews.com/images/July31stPRO.PNG"
+      "blacklistednews.com/images/July31stPRO.PNG",
+      "blacklistednews.com/images/KFC.png"
      ]
     }
    },
@@ -129221,8 +129214,8 @@
    {
     "broadcastingworld.net": {
      "broadcastingworld.net": [
-      "broadcastingworld.net",
-      "broadcastingworld.net/marquee-"
+      "broadcastingworld.net/marquee-",
+      "broadcastingworld.net"
      ]
     }
    },
@@ -129236,13 +129229,13 @@
    {
     "brothersoft.com": {
      "brothersoft.com": [
-      "brothersoft.com/gg/top.js",
-      "brothersoft.com/softsale/",
-      "brothersoft.com/gg/center_gg.js",
       "brothersoft.com",
+      "brothersoft.com/softsale/",
+      "brothersoft.com/gg/g.js",
       "brothersoft.com/gg/kontera_com.js",
-      "brothersoft.com/gg/soft_down.js",
-      "brothersoft.com/gg/g.js"
+      "brothersoft.com/gg/top.js",
+      "brothersoft.com/gg/center_gg.js",
+      "brothersoft.com/gg/soft_down.js"
      ]
     }
    },
@@ -129468,8 +129461,8 @@
     "caledonianrecord.com": {
      "caledonianrecord.com": [
       "caledonianrecord.com/iFrame_",
-      "caledonianrecord.com/SiteImages/Tile/",
-      "caledonianrecord.com/SiteImages/HomePageTiles/"
+      "caledonianrecord.com/SiteImages/HomePageTiles/",
+      "caledonianrecord.com/SiteImages/Tile/"
      ]
     }
    },
@@ -129640,8 +129633,8 @@
    {
     "cars.com": {
      "cars.com": [
-      "cars.com/go/includes/targeting/",
-      "cars.com/js/cars/catretargeting.js"
+      "cars.com/js/cars/catretargeting.js",
+      "cars.com/go/includes/targeting/"
      ]
     }
    },
@@ -129727,8 +129720,8 @@
    {
     "cbn.co.za": {
      "cbn.co.za": [
-      "cbn.co.za",
-      "cbn.co.za/images/banners/"
+      "cbn.co.za/images/banners/",
+      "cbn.co.za"
      ]
     }
    },
@@ -129757,8 +129750,8 @@
    {
     "cd1025.com": {
      "cd1025.com": [
-      "cd1025.com/www/assets/a/",
-      "cd1025.com/www/img/btn-"
+      "cd1025.com/www/img/btn-",
+      "cd1025.com/www/assets/a/"
      ]
     }
    },
@@ -129772,9 +129765,9 @@
    {
     "cdmagurus.com": {
      "cdmagurus.com": [
-      "cdmagurus.com/forum/cyberflashing.swf",
+      "cdmagurus.com",
       "cdmagurus.com/img/kcpf2.swf",
-      "cdmagurus.com"
+      "cdmagurus.com/forum/cyberflashing.swf"
      ]
     }
    },
@@ -129810,8 +129803,8 @@
     "celebstoner.com": {
      "celebstoner.com": [
       "celebstoner.com/assets/images/img/top/420VapeJuice960x90V3.gif",
-      "celebstoner.com",
-      "celebstoner.com/assets/components/bdlistings/uploads/"
+      "celebstoner.com/assets/components/bdlistings/uploads/",
+      "celebstoner.com"
      ]
     }
    },
@@ -130150,9 +130143,9 @@
    {
     "cnn.com": {
      "cnn.com": [
-      "cnn.com",
+      "cnn.com/cnn_adspaces/",
       "cnn.com/ad-",
-      "cnn.com/cnn_adspaces/"
+      "cnn.com"
      ]
     }
    },
@@ -130173,8 +130166,8 @@
    {
     "cnx-software.com": {
      "cnx-software.com": [
-      "cnx-software.com/pic/technexion/",
-      "cnx-software.com/pic/gateworks/"
+      "cnx-software.com/pic/gateworks/",
+      "cnx-software.com/pic/technexion/"
      ]
     }
    },
@@ -130211,9 +130204,9 @@
    {
     "codecguide.com": {
      "codecguide.com": [
+      "codecguide.com/driverscan2.gif",
       "codecguide.com/driverscantop1.gif",
-      "codecguide.com/beforedl2.gif",
-      "codecguide.com/driverscan2.gif"
+      "codecguide.com/beforedl2.gif"
      ]
     }
    },
@@ -130249,8 +130242,8 @@
    {
     "coinurl.com": {
      "coinurl.com": [
-      "coinurl.com/nbottom.php",
       "coinurl.com/bootstrap/js/bootstrapx-clickover.js",
+      "coinurl.com/nbottom.php",
       "coinurl.com/bottom.php",
       "coinurl.com/get.php"
      ]
@@ -130337,9 +130330,9 @@
    {
     "complaintsboard.com": {
      "complaintsboard.com": [
-      "complaintsboard.com/img/banner-",
+      "complaintsboard.com/img/300x250anti.gif",
       "complaintsboard.com/img/202x202.gif",
-      "complaintsboard.com/img/300x250anti.gif"
+      "complaintsboard.com/img/banner-"
      ]
     }
    },
@@ -130557,8 +130550,8 @@
    {
     "crazy-torrent.com": {
      "crazy-torrent.com": [
-      "crazy-torrent.com/web/banner/online.jpg",
-      "crazy-torrent.com/web/banner/0xxx0.net.jpg"
+      "crazy-torrent.com/web/banner/0xxx0.net.jpg",
+      "crazy-torrent.com/web/banner/online.jpg"
      ]
     }
    },
@@ -130705,16 +130698,16 @@
    {
     "ctv.ca": {
      "ctv.ca": [
-      "ctv.ca/Sites/Ctv/assets/js/ctvDfpAd.js",
-      "ctv.ca/ctvresources/js/ctvad.js"
+      "ctv.ca/ctvresources/js/ctvad.js",
+      "ctv.ca/Sites/Ctv/assets/js/ctvDfpAd.js"
      ]
     }
    },
    {
     "cur.lv": {
      "cur.lv": [
-      "cur.lv/bootstrap/js/bootstrapx-clickover.js",
-      "cur.lv/nbottom.php"
+      "cur.lv/nbottom.php",
+      "cur.lv/bootstrap/js/bootstrapx-clickover.js"
      ]
     }
    },
@@ -130812,8 +130805,8 @@
    {
     "d5e.info": {
      "d5e.info": [
-      "d5e.info/1.gif",
-      "d5e.info/2.png"
+      "d5e.info/2.png",
+      "d5e.info/1.gif"
      ]
     }
    },
@@ -130884,8 +130877,8 @@
    {
     "dailyexpress.com.my": {
      "dailyexpress.com.my": [
-      "dailyexpress.com.my/image/banner/",
-      "dailyexpress.com.my/banners/"
+      "dailyexpress.com.my/banners/",
+      "dailyexpress.com.my/image/banner/"
      ]
     }
    },
@@ -130913,9 +130906,9 @@
    {
     "dailymail.co.uk": {
      "dailymail.co.uk": [
-      "dailymail.co.uk/modules/commercial/",
+      "dailymail.co.uk/i/pix/ebay/",
       "dailymail.co.uk",
-      "dailymail.co.uk/i/pix/ebay/"
+      "dailymail.co.uk/modules/commercial/"
      ]
     }
    },
@@ -131022,17 +131015,17 @@
    {
     "damnlol.com": {
      "damnlol.com": [
-      "damnlol.com/a/cubeNEW.php",
       "damnlol.com",
-      "damnlol.com/a/leaderboard.php"
+      "damnlol.com/a/leaderboard.php",
+      "damnlol.com/a/cubeNEW.php"
      ]
     }
    },
    {
     "darknet.org.uk": {
      "darknet.org.uk": [
-      "darknet.org.uk/images/acunetix_",
-      "darknet.org.uk"
+      "darknet.org.uk",
+      "darknet.org.uk/images/acunetix_"
      ]
     }
    },
@@ -131151,8 +131144,8 @@
    {
     "defenceweb.co.za": {
      "defenceweb.co.za": [
-      "defenceweb.co.za/images/sponsorlogos/",
-      "defenceweb.co.za/logos/"
+      "defenceweb.co.za/logos/",
+      "defenceweb.co.za/images/sponsorlogos/"
      ]
     }
    },
@@ -131203,8 +131196,8 @@
     "desiretoinspire.net": {
      "desiretoinspire.net": [
       "desiretoinspire.net/storage/layout/modmaxbanner.gif",
-      "desiretoinspire.net",
-      "desiretoinspire.net/storage/layout/royalcountessad.gif"
+      "desiretoinspire.net/storage/layout/royalcountessad.gif",
+      "desiretoinspire.net"
      ]
     }
    },
@@ -131253,10 +131246,10 @@
    {
     "dexerto.com": {
      "dexerto.com": [
+      "dexerto.com/a/",
       "dexerto.com/app/uploads/2016/11/SCUF-5-Discount-Dexerto-Below-Article.jpg",
       "dexerto.com",
-      "dexerto.com/app/uploads/2016/11/Gfuel-LemoNade.jpg",
-      "dexerto.com/a/"
+      "dexerto.com/app/uploads/2016/11/Gfuel-LemoNade.jpg"
      ]
     }
    },
@@ -131333,8 +131326,8 @@
    {
     "diply.com": {
      "diply.com": [
-      "diply.com/campaigns/",
-      "diply.com/cms/bb/"
+      "diply.com/cms/bb/",
+      "diply.com/campaigns/"
      ]
     }
    },
@@ -131454,8 +131447,8 @@
    {
     "dnsstuff.com": {
      "dnsstuff.com": [
-      "dnsstuff.com",
-      "dnsstuff.com/dnsmedia/images/ft.banner."
+      "dnsstuff.com/dnsmedia/images/ft.banner.",
+      "dnsstuff.com"
      ]
     }
    },
@@ -131485,8 +131478,8 @@
     "domaintools.com": {
      "domaintools.com": [
       "domaintools.com/partners/",
-      "domaintools.com/eurodns_",
-      "domaintools.com/marketing/"
+      "domaintools.com/marketing/",
+      "domaintools.com/eurodns_"
      ]
     }
    },
@@ -131542,8 +131535,8 @@
    {
     "dpstatic.com": {
      "dpstatic.com": [
-      "dpstatic.com/banner.png",
-      "dpstatic.com/s/ad.js"
+      "dpstatic.com/s/ad.js",
+      "dpstatic.com/banner.png"
      ]
     }
    },
@@ -131564,8 +131557,8 @@
    {
     "drivearchive.co.uk": {
      "drivearchive.co.uk": [
-      "drivearchive.co.uk/amazon/",
-      "drivearchive.co.uk/images/amazon."
+      "drivearchive.co.uk/images/amazon.",
+      "drivearchive.co.uk/amazon/"
      ]
     }
    },
@@ -131615,8 +131608,8 @@
     "dump8.com": {
      "dump8.com": [
       "dump8.com/wget_2leep_bottom.php",
-      "dump8.com/tiz/",
-      "dump8.com/wget.php"
+      "dump8.com/wget.php",
+      "dump8.com/tiz/"
      ]
     }
    },
@@ -131686,8 +131679,8 @@
    {
     "eastonline.eu": {
      "eastonline.eu": [
-      "eastonline.eu/images/eng_banner_",
-      "eastonline.eu/images/banners/"
+      "eastonline.eu/images/banners/",
+      "eastonline.eu/images/eng_banner_"
      ]
     }
    },
@@ -131744,9 +131737,9 @@
    {
     "ebuddy.com": {
      "ebuddy.com": [
-      "ebuddy.com/web_banners/",
       "ebuddy.com/textlink.php",
-      "ebuddy.com/web_banners_"
+      "ebuddy.com/web_banners_",
+      "ebuddy.com/web_banners/"
      ]
     }
    },
@@ -131802,8 +131795,8 @@
    {
     "ecostream.tv": {
      "ecostream.tv": [
-      "ecostream.tv/assets/js/pu.min.js",
-      "ecostream.tv/js/pu.js"
+      "ecostream.tv/js/pu.js",
+      "ecostream.tv/assets/js/pu.min.js"
      ]
     }
    },
@@ -131845,9 +131838,9 @@
    {
     "ehow.com": {
      "ehow.com": [
-      "ehow.com/marketing/",
+      "ehow.com/images/brands/",
       "ehow.com/media/ad.html",
-      "ehow.com/images/brands/"
+      "ehow.com/marketing/"
      ]
     }
    },
@@ -131861,9 +131854,9 @@
    {
     "ejpress.org": {
      "ejpress.org": [
-      "ejpress.org/img/banners/",
+      "ejpress.org",
       "ejpress.org/images/banners/",
-      "ejpress.org"
+      "ejpress.org/img/banners/"
      ]
     }
    },
@@ -131947,8 +131940,8 @@
    {
     "encyclopediadramatica.rs": {
      "encyclopediadramatica.rs": [
-      "encyclopediadramatica.rs/spon/",
-      "encyclopediadramatica.rs/lanhell.js"
+      "encyclopediadramatica.rs/lanhell.js",
+      "encyclopediadramatica.rs/spon/"
      ]
     }
    },
@@ -132046,8 +132039,8 @@
    {
     "espn.co.uk": {
      "espn.co.uk": [
-      "espn.co.uk/espnuk/williamhill_",
       "espn.co.uk",
+      "espn.co.uk/espnuk/williamhill_",
       "espn.co.uk/espnuk/williamhill/"
      ]
     }
@@ -132062,9 +132055,9 @@
    {
     "esportlivescore.com": {
      "esportlivescore.com": [
-      "esportlivescore.com/img/vitalbet.",
       "esportlivescore.com/img/fano_",
-      "esportlivescore.com/img/fanobet_"
+      "esportlivescore.com/img/fanobet_",
+      "esportlivescore.com/img/vitalbet."
      ]
     }
    },
@@ -132227,8 +132220,8 @@
     "eweek.com": {
      "eweek.com": [
       "eweek.com/images/stories/marketing/",
-      "eweek.com/widgets/ibmtco/",
-      "eweek.com"
+      "eweek.com",
+      "eweek.com/widgets/ibmtco/"
      ]
     }
    },
@@ -132245,8 +132238,8 @@
       "exashare.com/player_begin.jpg",
       "exashare.com/player_file.jpg",
       "exashare.com/vod_stream.html",
-      "exashare.com/hq_stream.html",
-      "exashare.com/playerexa.jpg"
+      "exashare.com/playerexa.jpg",
+      "exashare.com/hq_stream.html"
      ]
     }
    },
@@ -132260,9 +132253,9 @@
    {
     "exchangerates.org.uk": {
      "exchangerates.org.uk": [
-      "exchangerates.org.uk/images-NEW/tor.gif",
       "exchangerates.org.uk/images/150_60_",
-      "exchangerates.org.uk/images/200x200_"
+      "exchangerates.org.uk/images/200x200_",
+      "exchangerates.org.uk/images-NEW/tor.gif"
      ]
     }
    },
@@ -132290,9 +132283,9 @@
    {
     "expertreviews.co.uk": {
      "expertreviews.co.uk": [
-      "expertreviews.co.uk/",
+      "expertreviews.co.uk/widget/",
       "expertreviews.co.uk",
-      "expertreviews.co.uk/widget/"
+      "expertreviews.co.uk/"
      ]
     }
    },
@@ -132453,9 +132446,9 @@
    {
     "fastpic.ru": {
      "fastpic.ru": [
-      "fastpic.ru/b/",
       "fastpic.ru/js_h2.jpg",
-      "fastpic.ru/js_f2.jpg"
+      "fastpic.ru/js_f2.jpg",
+      "fastpic.ru/b/"
      ]
     }
    },
@@ -132571,8 +132564,8 @@
    {
     "file.org": {
      "file.org": [
-      "file.org/fo/scripts/download_helpopt.js",
-      "file.org"
+      "file.org",
+      "file.org/fo/scripts/download_helpopt.js"
      ]
     }
    },
@@ -132671,8 +132664,8 @@
    {
     "filespazz.com": {
      "filespazz.com": [
-      "filespazz.com/imx/template_r2_c3.jpg",
-      "filespazz.com"
+      "filespazz.com",
+      "filespazz.com/imx/template_r2_c3.jpg"
      ]
     }
    },
@@ -132687,8 +132680,8 @@
    {
     "filez.cutpaid.com": {
      "filez.cutpaid.com": [
-      "filez.cutpaid.com/page.js",
-      "filez.cutpaid.com/336v"
+      "filez.cutpaid.com/336v",
+      "filez.cutpaid.com/page.js"
      ]
     }
    },
@@ -132737,8 +132730,8 @@
    {
     "findfiles.com": {
      "findfiles.com": [
-      "findfiles.com/images/knife-dancing-1.gif",
-      "findfiles.com/images/icatchallfree.png"
+      "findfiles.com/images/icatchallfree.png",
+      "findfiles.com/images/knife-dancing-1.gif"
      ]
     }
    },
@@ -132766,8 +132759,8 @@
    {
     "findit.com.mt": {
      "findit.com.mt": [
-      "findit.com.mt/viewer/",
-      "findit.com.mt/dynimage/boxbanner/"
+      "findit.com.mt/dynimage/boxbanner/",
+      "findit.com.mt/viewer/"
      ]
     }
    },
@@ -132795,8 +132788,8 @@
    {
     "firedrive.com": {
      "firedrive.com": [
-      "firedrive.com/appresources/",
-      "firedrive.com/appdata/"
+      "firedrive.com/appdata/",
+      "firedrive.com/appresources/"
      ]
     }
    },
@@ -132916,8 +132909,8 @@
    {
     "flicks.co.nz": {
      "flicks.co.nz": [
-      "flicks.co.nz/takeovercss/",
-      "flicks.co.nz/images/takeovers/"
+      "flicks.co.nz/images/takeovers/",
+      "flicks.co.nz/takeovercss/"
      ]
     }
    },
@@ -132945,16 +132938,16 @@
    {
     "flyordie.com": {
      "flyordie.com": [
-      "flyordie.com/games/online/ca.html",
-      "flyordie.com/games/free/b/"
+      "flyordie.com/games/free/b/",
+      "flyordie.com/games/online/ca.html"
      ]
     }
    },
    {
     "foodingredientsfirst.com": {
      "foodingredientsfirst.com": [
-      "foodingredientsfirst.com/content/flash_loaders/loadlargetile.swf",
       "foodingredientsfirst.com/content/flash_loaders/loadskyscraper.swf",
+      "foodingredientsfirst.com/content/flash_loaders/loadlargetile.swf",
       "foodingredientsfirst.com/content/banners/"
      ]
     }
@@ -133069,8 +133062,8 @@
    {
     "fpscheats.com": {
      "fpscheats.com": [
-      "fpscheats.com/fpsbanner.jpg",
-      "fpscheats.com/banner-img.jpg"
+      "fpscheats.com/banner-img.jpg",
+      "fpscheats.com/fpsbanner.jpg"
      ]
     }
    },
@@ -133140,8 +133133,8 @@
    {
     "freenode.net": {
      "freenode.net": [
-      "freenode.net/images/freenode_osuosl.png",
-      "freenode.net/images/ack_privateinternetaccess-freenode.png"
+      "freenode.net/images/ack_privateinternetaccess-freenode.png",
+      "freenode.net/images/freenode_osuosl.png"
      ]
     }
    },
@@ -133156,8 +133149,8 @@
     "freeroms.com": {
      "freeroms.com": [
       "freeroms.com/bigbox_",
-      "freeroms.com/skyscraper_",
-      "freeroms.com/bigbox.html"
+      "freeroms.com/bigbox.html",
+      "freeroms.com/skyscraper_"
      ]
     }
    },
@@ -133234,8 +133227,8 @@
    {
     "friday-ad.co.uk": {
      "friday-ad.co.uk": [
-      "friday-ad.co.uk/endeca/afccontainer.aspx",
-      "friday-ad.co.uk/banner.js"
+      "friday-ad.co.uk/banner.js",
+      "friday-ad.co.uk/endeca/afccontainer.aspx"
      ]
     }
    },
@@ -133341,13 +133334,6 @@
     "fuse.tv": {
      "fuse.tv": [
       "fuse.tv/images/sponsor/"
-     ]
-    }
-   },
-   {
-    "f\u0131rstrowsports.eu": {
-     "f\u0131rstrowsports.eu": [
-      "f\u0131rstrowsports.eu/pu/"
      ]
     }
    },
@@ -133473,9 +133459,9 @@
    {
     "gamecopyworld.com": {
      "gamecopyworld.com": [
+      "gamecopyworld.com",
       "gamecopyworld.com/games/i/if6.gif",
-      "gamecopyworld.com/games/js/abd.js",
-      "gamecopyworld.com"
+      "gamecopyworld.com/games/js/abd.js"
      ]
     }
    },
@@ -133587,8 +133573,8 @@
    {
     "ganool.com": {
      "ganool.com": [
-      "ganool.com",
-      "ganool.com/pup.js"
+      "ganool.com/pup.js",
+      "ganool.com"
      ]
     }
    },
@@ -133665,8 +133651,8 @@
    {
     "gcnlive.com": {
      "gcnlive.com": [
-      "gcnlive.com/assets/sponsors/",
-      "gcnlive.com/assets/sponsorsPlayer/"
+      "gcnlive.com/assets/sponsorsPlayer/",
+      "gcnlive.com/assets/sponsors/"
      ]
     }
    },
@@ -133694,8 +133680,8 @@
    {
     "gelbooru.com": {
      "gelbooru.com": [
-      "gelbooru.com/x/",
-      "gelbooru.com/halloween/"
+      "gelbooru.com/halloween/",
+      "gelbooru.com/x/"
      ]
     }
    },
@@ -133835,8 +133821,8 @@
    {
     "ghafla.co.ke": {
      "ghafla.co.ke": [
-      "ghafla.co.ke/images/banners/",
-      "ghafla.co.ke/images/bgmax/"
+      "ghafla.co.ke/images/bgmax/",
+      "ghafla.co.ke/images/banners/"
      ]
     }
    },
@@ -133878,8 +133864,8 @@
    {
     "gizmochina.com": {
      "gizmochina.com": [
-      "gizmochina.com",
-      "gizmochina.com/images/blackview.jpg"
+      "gizmochina.com/images/blackview.jpg",
+      "gizmochina.com"
      ]
     }
    },
@@ -133935,11 +133921,11 @@
    {
     "go4up.com": {
      "go4up.com": [
-      "go4up.com/assets/img/d0.png",
-      "go4up.com/assets/img/downloadbuttoned.png",
       "go4up.com",
+      "go4up.com/assets/img/download-button.png",
       "go4up.com/assets/img/buttoned.gif",
-      "go4up.com/assets/img/download-button.png"
+      "go4up.com/assets/img/downloadbuttoned.png",
+      "go4up.com/assets/img/d0.png"
      ]
     }
    },
@@ -133953,8 +133939,8 @@
    {
     "gocdkeys.com": {
      "gocdkeys.com": [
-      "gocdkeys.com/images/bg_",
-      "gocdkeys.com"
+      "gocdkeys.com",
+      "gocdkeys.com/images/bg_"
      ]
     }
    },
@@ -133975,16 +133961,16 @@
    {
     "gold-prices.biz": {
      "gold-prices.biz": [
-      "gold-prices.biz",
-      "gold-prices.biz/gold_trading_leader.gif"
+      "gold-prices.biz/gold_trading_leader.gif",
+      "gold-prices.biz"
      ]
     }
    },
    {
     "gold1013fm.com": {
      "gold1013fm.com": [
-      "gold1013fm.com/images/background/",
-      "gold1013fm.com/promotion/"
+      "gold1013fm.com/promotion/",
+      "gold1013fm.com/images/background/"
      ]
     }
    },
@@ -134161,8 +134147,8 @@
    {
     "greyorgray.com": {
      "greyorgray.com": [
-      "greyorgray.com/images/hdtv-genie-gog.jpg",
-      "greyorgray.com/images/Fast%20Business%20Loans%20Ad.jpg"
+      "greyorgray.com/images/Fast%20Business%20Loans%20Ad.jpg",
+      "greyorgray.com/images/hdtv-genie-gog.jpg"
      ]
     }
    },
@@ -134260,19 +134246,19 @@
    {
     "ha.ckers.org": {
      "ha.ckers.org": [
-      "ha.ckers.org/images/sectheory-bot.png",
+      "ha.ckers.org/images/nto_top.png",
       "ha.ckers.org/images/fallingrock-bot.png",
-      "ha.ckers.org/images/nto_top.png"
+      "ha.ckers.org/images/sectheory-bot.png"
      ]
     }
    },
    {
     "hackingchinese.com": {
      "hackingchinese.com": [
-      "hackingchinese.com/media/hcw4.png",
+      "hackingchinese.com/media/hellochinese.jpg",
       "hackingchinese.com/media/skritter5.jpg",
-      "hackingchinese.com/media/pleco.png",
-      "hackingchinese.com/media/hellochinese.jpg"
+      "hackingchinese.com/media/hcw4.png",
+      "hackingchinese.com/media/pleco.png"
      ]
     }
    },
@@ -134422,9 +134408,9 @@
    {
     "heraldm.com": {
      "heraldm.com": [
+      "heraldm.com",
       "heraldm.com/hb/imad/",
-      "heraldm.com/iframe/",
-      "heraldm.com"
+      "heraldm.com/iframe/"
      ]
     }
    },
@@ -134438,8 +134424,8 @@
    {
     "herold.at": {
      "herold.at": [
-      "herold.at/images/dealofday.swf",
-      "herold.at"
+      "herold.at",
+      "herold.at/images/dealofday.swf"
      ]
     }
    },
@@ -134490,9 +134476,9 @@
    {
     "hitomi.la": {
      "hitomi.la": [
-      "hitomi.la/hitomi/",
       "hitomi.la/hitomi-horizontal.js",
       "hitomi.la/hitomi.",
+      "hitomi.la/hitomi/",
       "hitomi.la/hitomi-",
       "hitomi.la/pacode.js"
      ]
@@ -134578,8 +134564,8 @@
    {
     "hostingbulk.com": {
      "hostingbulk.com": [
-      "hostingbulk.com/aad.html",
-      "hostingbulk.com/zad.html"
+      "hostingbulk.com/zad.html",
+      "hostingbulk.com/aad.html"
      ]
     }
    },
@@ -134607,8 +134593,8 @@
    {
     "hotbollywoodactress.net": {
      "hotbollywoodactress.net": [
-      "hotbollywoodactress.net/ff2.gif",
-      "hotbollywoodactress.net/freedatingindia.gif"
+      "hotbollywoodactress.net/freedatingindia.gif",
+      "hotbollywoodactress.net/ff2.gif"
      ]
     }
    },
@@ -134636,8 +134622,8 @@
    {
     "hothardware.com": {
      "hothardware.com": [
-      "hothardware.com",
-      "hothardware.com/pgmerchanttable.aspx"
+      "hothardware.com/pgmerchanttable.aspx",
+      "hothardware.com"
      ]
     }
    },
@@ -134724,8 +134710,8 @@
    {
     "hulkshare.com": {
      "hulkshare.com": [
-      "hulkshare.com/promo/",
-      "hulkshare.com"
+      "hulkshare.com",
+      "hulkshare.com/promo/"
      ]
     }
    },
@@ -134888,8 +134874,8 @@
    {
     "iddin.com": {
      "iddin.com": [
-      "iddin.com/img/chatwing_banner.",
-      "iddin.com/img/chatwing_banner_"
+      "iddin.com/img/chatwing_banner_",
+      "iddin.com/img/chatwing_banner."
      ]
     }
    },
@@ -134973,9 +134959,9 @@
    {
     "imagefruit.com": {
      "imagefruit.com": [
-      "imagefruit.com/includes/js/bgcont.js",
       "imagefruit.com/includes/js/ex.js",
       "imagefruit.com",
+      "imagefruit.com/includes/js/bgcont.js",
       "imagefruit.com/includes/js/layer.js"
      ]
     }
@@ -134990,11 +134976,11 @@
    {
     "imageporter.com": {
      "imageporter.com": [
-      "imageporter.com/someo.html",
       "imageporter.com/micromoo.html",
       "imageporter.com/smate.html",
       "imageporter.com/ro-7bgsd.html",
-      "imageporter.com/hiokax.js"
+      "imageporter.com/hiokax.js",
+      "imageporter.com/someo.html"
      ]
     }
    },
@@ -135023,8 +135009,8 @@
    {
     "images.mmorpg.com": {
      "images.mmorpg.com": [
-      "images.mmorpg.com/images/mus.jpg",
-      "images.mmorpg.com"
+      "images.mmorpg.com",
+      "images.mmorpg.com/images/mus.jpg"
      ]
     }
    },
@@ -135046,19 +135032,19 @@
    {
     "imageshack.us": {
      "imageshack.us": [
-      "imageshack.us",
-      "imageshack.us/ym.php"
+      "imageshack.us/ym.php",
+      "imageshack.us"
      ]
     }
    },
    {
     "imagesnake.com": {
      "imagesnake.com": [
-      "imagesnake.com/includes/js/js.js",
       "imagesnake.com/includes/js/pops.js",
-      "imagesnake.com",
       "imagesnake.com/includes/js/cat.js",
-      "imagesnake.com/includes/js/layer.js"
+      "imagesnake.com/includes/js/layer.js",
+      "imagesnake.com/includes/js/js.js",
+      "imagesnake.com"
      ]
     }
    },
@@ -135093,24 +135079,24 @@
    {
     "imgbox.com": {
      "imgbox.com": [
-      "imgbox.com/gsmpop.js",
-      "imgbox.com/images/tpd.png"
+      "imgbox.com/images/tpd.png",
+      "imgbox.com/gsmpop.js"
      ]
     }
    },
    {
     "imgburn.com": {
      "imgburn.com": [
-      "imgburn.com/images/your3gift.gif",
-      "imgburn.com/images/ddigest_"
+      "imgburn.com/images/ddigest_",
+      "imgburn.com/images/your3gift.gif"
      ]
     }
    },
    {
     "imgcarry.com": {
      "imgcarry.com": [
-      "imgcarry.com",
-      "imgcarry.com/includes/js/layer.js"
+      "imgcarry.com/includes/js/layer.js",
+      "imgcarry.com"
      ]
     }
    },
@@ -135145,8 +135131,8 @@
    {
     "imouto.org": {
      "imouto.org": [
-      "imouto.org/images/mangagamer/",
-      "imouto.org/images/jlist/"
+      "imouto.org/images/jlist/",
+      "imouto.org/images/mangagamer/"
      ]
     }
    },
@@ -135189,8 +135175,8 @@
    {
     "independent.co.uk": {
      "independent.co.uk": [
-      "independent.co.uk/kelkoo/",
-      "independent.co.uk"
+      "independent.co.uk",
+      "independent.co.uk/kelkoo/"
      ]
     }
    },
@@ -135204,8 +135190,8 @@
    {
     "india.com": {
      "india.com": [
-      "india.com",
-      "india.com/zeenews_head2n.jpg"
+      "india.com/zeenews_head2n.jpg",
+      "india.com"
      ]
     }
    },
@@ -135339,12 +135325,12 @@
    {
     "insidebutlercounty.com": {
      "insidebutlercounty.com": [
-      "insidebutlercounty.com/images/100-",
-      "insidebutlercounty.com/images/160-",
+      "insidebutlercounty.com/images/300-",
       "insidebutlercounty.com/images/200-",
+      "insidebutlercounty.com/images/160-",
       "insidebutlercounty.com/images/180-",
-      "insidebutlercounty.com/images/468-",
-      "insidebutlercounty.com/images/300-"
+      "insidebutlercounty.com/images/100-",
+      "insidebutlercounty.com/images/468-"
      ]
     }
    },
@@ -135415,8 +135401,8 @@
    {
     "interest.co.nz": {
      "interest.co.nz": [
-      "interest.co.nz/banners/",
-      "interest.co.nz"
+      "interest.co.nz",
+      "interest.co.nz/banners/"
      ]
     }
    },
@@ -135437,9 +135423,9 @@
    {
     "international.to": {
      "international.to": [
-      "international.to/link_unit.html",
+      "international.to/large.html",
       "international.to/600.html",
-      "international.to/large.html"
+      "international.to/link_unit.html"
      ]
     }
    },
@@ -135544,9 +135530,9 @@
    {
     "irv2.com": {
      "irv2.com": [
-      "irv2.com/attachments/banners/",
       "irv2.com",
-      "irv2.com/images/sponsors/"
+      "irv2.com/images/sponsors/",
+      "irv2.com/attachments/banners/"
      ]
     }
    },
@@ -135658,10 +135644,10 @@
    {
     "itweb.co.za": {
      "itweb.co.za": [
-      "itweb.co.za/sidelogos/",
       "itweb.co.za/banners/",
+      "itweb.co.za/logos/",
       "itweb.co.za",
-      "itweb.co.za/logos/"
+      "itweb.co.za/sidelogos/"
      ]
     }
    },
@@ -135837,9 +135823,9 @@
    {
     "johnbridge.com": {
      "johnbridge.com": [
+      "johnbridge.com/vbulletin/banner_rotate.js",
       "johnbridge.com/vbulletin/images/tyw/wedi-shower-systems-solutions.png",
-      "johnbridge.com/vbulletin/images/tyw/cdlogo-john-bridge.jpg",
-      "johnbridge.com/vbulletin/banner_rotate.js"
+      "johnbridge.com/vbulletin/images/tyw/cdlogo-john-bridge.jpg"
      ]
     }
    },
@@ -136010,8 +135996,8 @@
    {
     "kavkisfile.com": {
      "kavkisfile.com": [
-      "kavkisfile.com/images/ly-mini.gif",
-      "kavkisfile.com/images/ly.gif"
+      "kavkisfile.com/images/ly.gif",
+      "kavkisfile.com/images/ly-mini.gif"
      ]
     }
    },
@@ -136061,8 +136047,8 @@
    {
     "keepvid.com": {
      "keepvid.com": [
-      "keepvid.com/images/winxdvd-",
       "keepvid.com/images/ilivid-",
+      "keepvid.com/images/winxdvd-",
       "keepvid.com/ads/"
      ]
     }
@@ -136077,9 +136063,9 @@
    {
     "kentonline.co.uk": {
      "kentonline.co.uk": [
-      "kentonline.co.uk/weatherimages/sponsor_",
       "kentonline.co.uk/weatherimages/Britelite.gif",
-      "kentonline.co.uk/weatherimages/SEW.jpg"
+      "kentonline.co.uk/weatherimages/SEW.jpg",
+      "kentonline.co.uk/weatherimages/sponsor_"
      ]
     }
    },
@@ -136200,21 +136186,21 @@
    {
     "kitco.com": {
      "kitco.com": [
-      "kitco.com/ssi/dmg_banner_001.stm",
-      "kitco.com/ssi/market_ox_deanmg.stm",
       "kitco.com/ssi/home_ox_deanmg.stm",
-      "kitco.com"
+      "kitco.com",
+      "kitco.com/ssi/dmg_banner_001.stm",
+      "kitco.com/ssi/market_ox_deanmg.stm"
      ]
     }
    },
    {
     "kitguru.net": {
      "kitguru.net": [
-      "kitguru.net//wp-content/banners/",
-      "kitguru.net/wp-content/wrap.jpg",
-      "kitguru.net",
+      "kitguru.net/",
       "kitguru.net/wp-content/banners/",
-      "kitguru.net/"
+      "kitguru.net//wp-content/banners/",
+      "kitguru.net",
+      "kitguru.net/wp-content/wrap.jpg"
      ]
     }
    },
@@ -136375,10 +136361,10 @@
    {
     "koreatimes.co.kr": {
      "koreatimes.co.kr": [
+      "koreatimes.co.kr/ad/",
       "koreatimes.co.kr/images/bn/",
-      "koreatimes.co.kr/www/images/bn/",
       "koreatimes.co.kr/upload/ad/",
-      "koreatimes.co.kr/ad/"
+      "koreatimes.co.kr/www/images/bn/"
      ]
     }
    },
@@ -136877,8 +136863,8 @@
    {
     "linuxmint.com": {
      "linuxmint.com": [
-      "linuxmint.com/img/sponsor/",
-      "linuxmint.com/pictures/sponsors/"
+      "linuxmint.com/pictures/sponsors/",
+      "linuxmint.com/img/sponsor/"
      ]
     }
    },
@@ -136991,8 +136977,8 @@
    {
     "loadingz.com": {
      "loadingz.com": [
-      "loadingz.com/jflex.js",
-      "loadingz.com/js/jquery.flex.js"
+      "loadingz.com/js/jquery.flex.js",
+      "loadingz.com/jflex.js"
      ]
     }
    },
@@ -137027,8 +137013,8 @@
    {
     "loleasy.com": {
      "loleasy.com": [
-      "loleasy.com",
-      "loleasy.com/promo/"
+      "loleasy.com/promo/",
+      "loleasy.com"
      ]
     }
    },
@@ -137042,8 +137028,8 @@
    {
     "london2012.com": {
      "london2012.com": [
-      "london2012.com/imgml/partners/footer/",
-      "london2012.com/img/sponsors/"
+      "london2012.com/img/sponsors/",
+      "london2012.com/imgml/partners/footer/"
      ]
     }
    },
@@ -137100,8 +137086,8 @@
    {
     "lowyat.net": {
      "lowyat.net": [
-      "lowyat.net/lowyat/lowyat-bg.jpg",
-      "lowyat.net/mainpage/background.jpg"
+      "lowyat.net/mainpage/background.jpg",
+      "lowyat.net/lowyat/lowyat-bg.jpg"
      ]
     }
    },
@@ -137249,8 +137235,8 @@
    {
     "macobserver.com": {
      "macobserver.com": [
-      "macobserver.com",
-      "macobserver.com/js/givetotmo.js"
+      "macobserver.com/js/givetotmo.js",
+      "macobserver.com"
      ]
     }
    },
@@ -137264,8 +137250,8 @@
    {
     "macworld.co.uk": {
      "macworld.co.uk": [
-      "macworld.co.uk/promo/",
-      "macworld.co.uk"
+      "macworld.co.uk",
+      "macworld.co.uk/promo/"
      ]
     }
    },
@@ -137315,19 +137301,19 @@
    {
     "mailinator.com": {
      "mailinator.com": [
-      "mailinator.com/images/abine/leaderboard-",
-      "mailinator.com"
+      "mailinator.com",
+      "mailinator.com/images/abine/leaderboard-"
      ]
     }
    },
    {
     "majorgeeks.com": {
      "majorgeeks.com": [
-      "majorgeeks.com/images/download_sd_",
-      "majorgeeks.com/images/mg120.jpg",
+      "majorgeeks.com/images/mb-hb-2.jpg",
       "majorgeeks.com",
       "majorgeeks.com/aff/",
-      "majorgeeks.com/images/mb-hb-2.jpg"
+      "majorgeeks.com/images/download_sd_",
+      "majorgeeks.com/images/mg120.jpg"
      ]
     }
    },
@@ -137509,8 +137495,8 @@
    {
     "marketnewsvideo.com": {
      "marketnewsvideo.com": [
-      "marketnewsvideo.com/mnvport160.gif",
-      "marketnewsvideo.com/etfchannel/evfad1.gif"
+      "marketnewsvideo.com/etfchannel/evfad1.gif",
+      "marketnewsvideo.com/mnvport160.gif"
      ]
     }
    },
@@ -137616,9 +137602,9 @@
    {
     "mccont.com": {
      "mccont.com": [
-      "mccont.com/sda/",
       "mccont.com/campaign%20management/",
-      "mccont.com/takeover/"
+      "mccont.com/takeover/",
+      "mccont.com/sda/"
      ]
     }
    },
@@ -137723,9 +137709,9 @@
    {
     "mediafire.com": {
      "mediafire.com": [
+      "mediafire.com",
       "mediafire.com/images/rockmelt/",
-      "mediafire.com/templates/linkto/",
-      "mediafire.com"
+      "mediafire.com/templates/linkto/"
      ]
     }
    },
@@ -137739,8 +137725,8 @@
    {
     "mediafiretrend.com": {
      "mediafiretrend.com": [
-      "mediafiretrend.com/ifx/ifx.php",
-      "mediafiretrend.com/turboflirt.gif"
+      "mediafiretrend.com/turboflirt.gif",
+      "mediafiretrend.com/ifx/ifx.php"
      ]
     }
    },
@@ -137761,9 +137747,9 @@
    {
     "mediaticks.com": {
      "mediaticks.com": [
-      "mediaticks.com/bollywood.jpg",
+      "mediaticks.com/images/genx-infotech.jpg",
       "mediaticks.com/images/genx.jpg",
-      "mediaticks.com/images/genx-infotech.jpg"
+      "mediaticks.com/bollywood.jpg"
      ]
     }
    },
@@ -137798,8 +137784,8 @@
    {
     "megasearch.us": {
      "megasearch.us": [
-      "megasearch.us/turboflirt.gif",
-      "megasearch.us/ifx/ifx.php"
+      "megasearch.us/ifx/ifx.php",
+      "megasearch.us/turboflirt.gif"
      ]
     }
    },
@@ -137820,9 +137806,9 @@
    {
     "meizufans.eu": {
      "meizufans.eu": [
+      "meizufans.eu/efox.gif",
       "meizufans.eu/merimobiles.gif",
-      "meizufans.eu/vifocal.gif",
-      "meizufans.eu/efox.gif"
+      "meizufans.eu/vifocal.gif"
      ]
     }
    },
@@ -137857,21 +137843,21 @@
    {
     "merriam-webster.com": {
      "merriam-webster.com": [
-      "merriam-webster.com/creative.php",
-      "merriam-webster.com"
+      "merriam-webster.com",
+      "merriam-webster.com/creative.php"
      ]
     }
    },
    {
     "messianictimes.com": {
      "messianictimes.com": [
+      "messianictimes.com/images/Israel%20Today%20Logo.png",
       "messianictimes.com/images/MJBI.org.gif",
-      "messianictimes.com/images/banners/",
       "messianictimes.com/images/Jews%20for%20Jesus%20Banner.png",
       "messianictimes.com/images/Word%20of%20Messiah%20Ministries1.png",
       "messianictimes.com/images/4-13/reach.jpg",
-      "messianictimes.com/images/1-13/ba_mhfinal_",
-      "messianictimes.com/images/Israel%20Today%20Logo.png"
+      "messianictimes.com/images/banners/",
+      "messianictimes.com/images/1-13/ba_mhfinal_"
      ]
     }
    },
@@ -138074,8 +138060,8 @@
    {
     "mixfm.co.za": {
      "mixfm.co.za": [
-      "mixfm.co.za/images/banner",
-      "mixfm.co.za"
+      "mixfm.co.za",
+      "mixfm.co.za/images/banner"
      ]
     }
    },
@@ -138124,9 +138110,9 @@
    {
     "mmorpg.com": {
      "mmorpg.com": [
-      "mmorpg.com/images/mr_ss_",
       "mmorpg.com",
-      "mmorpg.com/images/skins/"
+      "mmorpg.com/images/skins/",
+      "mmorpg.com/images/mr_ss_"
      ]
     }
    },
@@ -138294,8 +138280,8 @@
    {
     "movie2k.tl": {
      "movie2k.tl": [
-      "movie2k.tl/serve.php",
-      "movie2k.tl/layers/"
+      "movie2k.tl/layers/",
+      "movie2k.tl/serve.php"
      ]
     }
    },
@@ -138641,8 +138627,8 @@
    {
     "mysuncoast.com": {
      "mysuncoast.com": [
-      "mysuncoast.com/app/wallpaper/",
-      "mysuncoast.com"
+      "mysuncoast.com",
+      "mysuncoast.com/app/wallpaper/"
      ]
     }
    },
@@ -138814,10 +138800,10 @@
     "ncrypt.in": {
      "ncrypt.in": [
       "ncrypt.in/images/useful/",
-      "ncrypt.in/javascript/jquery.msgbox.min.js",
-      "ncrypt.in/images/a/",
       "ncrypt.in/images/1.gif",
-      "ncrypt.in/images/banner"
+      "ncrypt.in/javascript/jquery.msgbox.min.js",
+      "ncrypt.in/images/banner",
+      "ncrypt.in/images/a/"
      ]
     }
    },
@@ -138831,9 +138817,9 @@
    {
     "ndtv.com": {
      "ndtv.com": [
+      "ndtv.com/widget/conv-tb",
       "ndtv.com/functions/code.js",
-      "ndtv.com",
-      "ndtv.com/widget/conv-tb"
+      "ndtv.com"
      ]
     }
    },
@@ -138882,8 +138868,8 @@
    {
     "nesn.com": {
      "nesn.com": [
-      "nesn.com/img/nesn-nation/bg-",
       "nesn.com/img/sponsors/",
+      "nesn.com/img/nesn-nation/bg-",
       "nesn.com/img/nesn-nation/header-dunkin.jpg"
      ]
     }
@@ -139082,16 +139068,16 @@
    {
     "newsudanvision.com": {
      "newsudanvision.com": [
-      "newsudanvision.com/images/banners/",
-      "newsudanvision.com/images/Carjunctionadvert.gif"
+      "newsudanvision.com/images/Carjunctionadvert.gif",
+      "newsudanvision.com/images/banners/"
      ]
     }
    },
    {
     "newsvine.com": {
      "newsvine.com": [
-      "newsvine.com//jenga/widget/",
-      "newsvine.com/jenga/widget/"
+      "newsvine.com/jenga/widget/",
+      "newsvine.com//jenga/widget/"
      ]
     }
    },
@@ -139105,8 +139091,8 @@
    {
     "newverhost.com": {
      "newverhost.com": [
-      "newverhost.com/css/pp.js",
-      "newverhost.com/css/onload.js"
+      "newverhost.com/css/onload.js",
+      "newverhost.com/css/pp.js"
      ]
     }
    },
@@ -139149,8 +139135,8 @@
    {
     "nfl.com": {
      "nfl.com": [
-      "nfl.com",
-      "nfl.com/assets/images/hp-poweredby-"
+      "nfl.com/assets/images/hp-poweredby-",
+      "nfl.com"
      ]
     }
    },
@@ -139419,11 +139405,11 @@
    {
     "nyaa.se": {
      "nyaa.se": [
-      "nyaa.se/aj",
       "nyaa.se/ac-",
-      "nyaa.se/ag",
-      "nyaa.se/ai",
       "nyaa.se/al",
+      "nyaa.se/aj",
+      "nyaa.se/ai",
+      "nyaa.se/ag",
       "nyaa.se/ah"
      ]
     }
@@ -139431,8 +139417,8 @@
    {
     "nydailynews.com": {
      "nydailynews.com": [
-      "nydailynews.com",
       "nydailynews.com/img/sponsor/",
+      "nydailynews.com",
       "nydailynews.com/PCRichards/"
      ]
     }
@@ -139440,9 +139426,9 @@
    {
     "nymag.com": {
      "nymag.com": [
-      "nymag.com/partners/",
+      "nymag.com/scripts/skintakeover.js",
       "nymag.com",
-      "nymag.com/scripts/skintakeover.js"
+      "nymag.com/partners/"
      ]
     }
    },
@@ -139471,8 +139457,8 @@
    {
     "nytimes.com": {
      "nytimes.com": [
-      "nytimes.com",
-      "nytimes.com/ads/"
+      "nytimes.com/ads/",
+      "nytimes.com"
      ]
     }
    },
@@ -139605,9 +139591,9 @@
    {
     "oilprice.com": {
      "oilprice.com": [
+      "oilprice.com/oiopub/",
       "oilprice.com/images/sponsors/",
-      "oilprice.com/images/banners/",
-      "oilprice.com/oiopub/"
+      "oilprice.com/images/banners/"
      ]
     }
    },
@@ -139775,8 +139761,8 @@
    {
     "oraclebroadcasting.com": {
      "oraclebroadcasting.com": [
-      "oraclebroadcasting.com/images/enerfood-300x90.gif",
       "oraclebroadcasting.com/images/hempusa_330.gif",
+      "oraclebroadcasting.com/images/enerfood-300x90.gif",
       "oraclebroadcasting.com/images/extendovite300.gif"
      ]
     }
@@ -139918,9 +139904,9 @@
     "ozy.com": {
      "ozy.com": [
       "ozy.com/modules/_common/ozy/pushdown/",
-      "ozy.com",
       "ozy.com/modules/_common/ozy/blade/",
-      "ozy.com/modules/_common/ozy/full_width/"
+      "ozy.com/modules/_common/ozy/full_width/",
+      "ozy.com"
      ]
     }
    },
@@ -140046,8 +140032,8 @@
    {
     "pbsrc.com": {
      "pbsrc.com": [
-      "pbsrc.com/sponsor/",
-      "pbsrc.com"
+      "pbsrc.com",
+      "pbsrc.com/sponsor/"
      ]
     }
    },
@@ -140161,8 +140147,8 @@
    {
     "petri.co.il": {
      "petri.co.il": [
-      "petri.co.il/wp-content/uploads/banner700x475_",
-      "petri.co.il/wp-content/uploads/banner1000x75_"
+      "petri.co.il/wp-content/uploads/banner1000x75_",
+      "petri.co.il/wp-content/uploads/banner700x475_"
      ]
     }
    },
@@ -140204,8 +140190,8 @@
    {
     "phnompenhpost.com": {
      "phnompenhpost.com": [
-      "phnompenhpost.com",
-      "phnompenhpost.com/images/stories/banner/"
+      "phnompenhpost.com/images/stories/banner/",
+      "phnompenhpost.com"
      ]
     }
    },
@@ -140327,8 +140313,8 @@
      "pimpandhost.com": [
       "pimpandhost.com/images/pah-download.gif",
       "pimpandhost.com/static/html/wide_iframe.html",
-      "pimpandhost.com/static/html/iframe.html",
-      "pimpandhost.com"
+      "pimpandhost.com",
+      "pimpandhost.com/static/html/iframe.html"
      ]
     }
    },
@@ -140441,10 +140427,10 @@
    {
     "playgames2.com": {
      "playgames2.com": [
-      "playgames2.com/rand100x100.php",
       "playgames2.com/mmoout.php",
+      "playgames2.com/default160x160.php",
       "playgames2.com/ban300-",
-      "playgames2.com/default160x160.php"
+      "playgames2.com/rand100x100.php"
      ]
     }
    },
@@ -140479,8 +140465,8 @@
    {
     "plunderguide.com": {
      "plunderguide.com": [
-      "plunderguide.com/leaderboard-gor.html",
-      "plunderguide.com/rectangle2.html"
+      "plunderguide.com/rectangle2.html",
+      "plunderguide.com/leaderboard-gor.html"
      ]
     }
    },
@@ -140720,8 +140706,8 @@
    {
     "preev.com": {
      "preev.com": [
-      "preev.com/ads|",
-      "preev.com/ad|"
+      "preev.com/ad|",
+      "preev.com/ads|"
      ]
     }
    },
@@ -140812,11 +140798,11 @@
    {
     "professionalmuscle.com": {
      "professionalmuscle.com": [
+      "professionalmuscle.com/featured-concreter.jpg",
       "professionalmuscle.com/220x105%20ver2.gif",
       "professionalmuscle.com/PL2.gif",
-      "professionalmuscle.com",
-      "professionalmuscle.com/featured-concreter.jpg",
-      "professionalmuscle.com/phil1.jpg"
+      "professionalmuscle.com/phil1.jpg",
+      "professionalmuscle.com"
      ]
     }
    },
@@ -140853,8 +140839,8 @@
      "propakistani.pk": [
       "propakistani.pk",
       "propakistani.pk/data/warid_top1.html",
-      "propakistani.pk/data/zong.html",
-      "propakistani.pk/wp-content/themes/propakistani/images/776.jpg"
+      "propakistani.pk/wp-content/themes/propakistani/images/776.jpg",
+      "propakistani.pk/data/zong.html"
      ]
     }
    },
@@ -140920,8 +140906,8 @@
      "ptf.com": [
       "ptf.com/js/rc_banner.js",
       "ptf.com/js/fdm_banner.js",
-      "ptf.com/fdm_frame_",
-      "ptf.com"
+      "ptf.com",
+      "ptf.com/fdm_frame_"
      ]
     }
    },
@@ -140935,9 +140921,9 @@
    {
     "publicdomaintorrents.info": {
      "publicdomaintorrents.info": [
-      "publicdomaintorrents.info/rentme.gif",
+      "publicdomaintorrents.info/srsbanner.gif",
       "publicdomaintorrents.info/grabs/hdsale.png",
-      "publicdomaintorrents.info/srsbanner.gif"
+      "publicdomaintorrents.info/rentme.gif"
      ]
     }
    },
@@ -141015,8 +141001,8 @@
    {
     "punksbusted.com": {
      "punksbusted.com": [
-      "punksbusted.com",
-      "punksbusted.com/images/ventrilo/"
+      "punksbusted.com/images/ventrilo/",
+      "punksbusted.com"
      ]
     }
    },
@@ -141037,8 +141023,8 @@
    {
     "pv-tech.org": {
      "pv-tech.org": [
-      "pv-tech.org/images/suntech_m2fbblew.png",
-      "pv-tech.org/images/footer_logos/"
+      "pv-tech.org/images/footer_logos/",
+      "pv-tech.org/images/suntech_m2fbblew.png"
      ]
     }
    },
@@ -141115,8 +141101,8 @@
    {
     "race-dezert.com": {
      "race-dezert.com": [
-      "race-dezert.com",
-      "race-dezert.com/images/wrap-"
+      "race-dezert.com/images/wrap-",
+      "race-dezert.com"
      ]
     }
    },
@@ -141130,8 +141116,8 @@
    {
     "racingpost.com": {
      "racingpost.com": [
-      "racingpost.com",
-      "racingpost.com/ads/"
+      "racingpost.com/ads/",
+      "racingpost.com"
      ]
     }
    },
@@ -141280,11 +141266,11 @@
    {
     "ragezone.com": {
      "ragezone.com": [
+      "ragezone.com/hfmed.png",
+      "ragezone.com",
       "ragezone.com/output.php/",
       "ragezone.com/warlords.png",
-      "ragezone.com/serve/www/",
-      "ragezone.com",
-      "ragezone.com/hfmed.png"
+      "ragezone.com/serve/www/"
      ]
     }
    },
@@ -141368,10 +141354,10 @@
    {
     "rawstory.com": {
      "rawstory.com": [
-      "rawstory.com",
-      "rawstory.com/givememyrawgfpdirect.php",
+      "rawstory.com/givememyrawjuggler.php",
       "rawstory.com/givememyrawgfp.php",
-      "rawstory.com/givememyrawjuggler.php"
+      "rawstory.com",
+      "rawstory.com/givememyrawgfpdirect.php"
      ]
     }
    },
@@ -141406,8 +141392,8 @@
    {
     "realitytvworld.com": {
      "realitytvworld.com": [
-      "realitytvworld.com/burst.js",
-      "realitytvworld.com/includes/rtvw-jscript.js"
+      "realitytvworld.com/includes/rtvw-jscript.js",
+      "realitytvworld.com/burst.js"
      ]
     }
    },
@@ -141428,8 +141414,8 @@
    {
     "reddit.com": {
      "reddit.com": [
-      "reddit.com",
-      "reddit.com/api/request_promo.json"
+      "reddit.com/api/request_promo.json",
+      "reddit.com"
      ]
     }
    },
@@ -141492,17 +141478,17 @@
    {
     "rejournal.com": {
      "rejournal.com": [
-      "rejournal.com/images/banners/",
       "rejournal.com/users/blinks/",
-      "rejournal.com"
+      "rejournal.com",
+      "rejournal.com/images/banners/"
      ]
     }
    },
    {
     "releaselog.net": {
      "releaselog.net": [
-      "releaselog.net/uploads2/656d7eca2b5dd8f0fbd4196e4d0a2b40.jpg",
-      "releaselog.net/468.htm"
+      "releaselog.net/468.htm",
+      "releaselog.net/uploads2/656d7eca2b5dd8f0fbd4196e4d0a2b40.jpg"
      ]
     }
    },
@@ -141615,8 +141601,8 @@
    {
     "rlsbb.com": {
      "rlsbb.com": [
-      "rlsbb.com/wp-content/uploads/smoke.jpg",
-      "rlsbb.com/wp-content/uploads/izilol.gif"
+      "rlsbb.com/wp-content/uploads/izilol.gif",
+      "rlsbb.com/wp-content/uploads/smoke.jpg"
      ]
     }
    },
@@ -141729,8 +141715,8 @@
    {
     "romereports.com": {
      "romereports.com": [
-      "romereports.com/core/media/sem_comportamento/",
-      "romereports.com/core/media/automatico/"
+      "romereports.com/core/media/automatico/",
+      "romereports.com/core/media/sem_comportamento/"
      ]
     }
    },
@@ -141821,8 +141807,8 @@
    {
     "rt.com": {
      "rt.com": [
-      "rt.com/banner/",
-      "rt.com/static/img/banners/"
+      "rt.com/static/img/banners/",
+      "rt.com/banner/"
      ]
     }
    },
@@ -141908,12 +141894,12 @@
     "saabsunited.com": {
      "saabsunited.com": [
       "saabsunited.com/wp-content/uploads/USACANADA.jpg",
-      "saabsunited.com/wp-content/uploads/rbm21.jpg",
       "saabsunited.com/wp-content/uploads/ban-",
-      "saabsunited.com/wp-content/uploads/180x460_",
-      "saabsunited.com",
       "saabsunited.com/wp-content/uploads/werbung-",
-      "saabsunited.com/wp-content/uploads/REALCAR-SAABSUNITED-5SEC.gif"
+      "saabsunited.com/wp-content/uploads/rbm21.jpg",
+      "saabsunited.com/wp-content/uploads/REALCAR-SAABSUNITED-5SEC.gif",
+      "saabsunited.com",
+      "saabsunited.com/wp-content/uploads/180x460_"
      ]
     }
    },
@@ -141976,8 +141962,8 @@
    {
     "salfordonline.com": {
      "salfordonline.com": [
-      "salfordonline.com/sponsors2/",
-      "salfordonline.com/sponsors/"
+      "salfordonline.com/sponsors/",
+      "salfordonline.com/sponsors2/"
      ]
     }
    },
@@ -142069,8 +142055,8 @@
    {
     "satnews.com": {
      "satnews.com": [
-      "satnews.com/images/MITEQ_sky.jpg",
-      "satnews.com/images/MSMPromoSubSky.jpg"
+      "satnews.com/images/MSMPromoSubSky.jpg",
+      "satnews.com/images/MITEQ_sky.jpg"
      ]
     }
    },
@@ -142190,8 +142176,8 @@
    {
     "screenlist.ru": {
      "screenlist.ru": [
-      "screenlist.ru/porevo.js",
-      "screenlist.ru/dodopo.js"
+      "screenlist.ru/dodopo.js",
+      "screenlist.ru/porevo.js"
      ]
     }
    },
@@ -142226,8 +142212,8 @@
    {
     "search.ch": {
      "search.ch": [
-      "search.ch/acs/",
-      "search.ch/htmlbanner.html"
+      "search.ch/htmlbanner.html",
+      "search.ch/acs/"
      ]
     }
    },
@@ -142333,8 +142319,8 @@
     "sendspace.com": {
      "sendspace.com": [
       "sendspace.com",
-      "sendspace.com/defaults/framer.html",
-      "sendspace.com/images/shutter.png"
+      "sendspace.com/images/shutter.png",
+      "sendspace.com/defaults/framer.html"
      ]
     }
    },
@@ -142383,8 +142369,8 @@
    {
     "sexmummy.com": {
      "sexmummy.com": [
-      "sexmummy.com/avnadsbanner.",
       "sexmummy.com/footer.htm",
+      "sexmummy.com/avnadsbanner.",
       "sexmummy.com/float.htm"
      ]
     }
@@ -142434,8 +142420,8 @@
    {
     "share-links.biz": {
      "share-links.biz": [
-      "share-links.biz",
-      "share-links.biz/get/cmm/"
+      "share-links.biz/get/cmm/",
+      "share-links.biz"
      ]
     }
    },
@@ -142603,10 +142589,10 @@
    {
     "shroomery.org": {
      "shroomery.org": [
-      "shroomery.org/bimg/",
       "shroomery.org/bnr/",
-      "shroomery.org/images/www.shroomery.org.please.png",
-      "shroomery.org/images/shroomery.please.png"
+      "shroomery.org/images/shroomery.please.png",
+      "shroomery.org/bimg/",
+      "shroomery.org/images/www.shroomery.org.please.png"
      ]
     }
    },
@@ -142699,10 +142685,10 @@
    {
     "sk-gaming.com": {
      "sk-gaming.com": [
-      "sk-gaming.com/image/takeover_",
       "sk-gaming.com/image/acersocialw.gif",
-      "sk-gaming.com/image/pts/",
-      "sk-gaming.com/www/skdelivery/"
+      "sk-gaming.com/image/takeover_",
+      "sk-gaming.com/www/skdelivery/",
+      "sk-gaming.com/image/pts/"
      ]
     }
    },
@@ -142880,17 +142866,17 @@
    {
     "soccervista.com": {
      "soccervista.com": [
-      "soccervista.com/bahforgif.gif",
       "soccervista.com/bonus.html",
-      "soccervista.com/sporting.gif"
+      "soccervista.com/sporting.gif",
+      "soccervista.com/bahforgif.gif"
      ]
     }
    },
    {
     "soccerway.com": {
      "soccerway.com": [
-      "soccerway.com/buttons/120x90_",
-      "soccerway.com/img/betting/"
+      "soccerway.com/img/betting/",
+      "soccerway.com/buttons/120x90_"
      ]
     }
    },
@@ -142904,9 +142890,9 @@
    {
     "sockshare.com": {
      "sockshare.com": [
-      "sockshare.com",
+      "sockshare.com/moo.php",
       "sockshare.com/rev/",
-      "sockshare.com/moo.php"
+      "sockshare.com"
      ]
     }
    },
@@ -142935,8 +142921,8 @@
     "softpedia-static.com": {
      "softpedia-static.com": [
       "softpedia-static.com/images/aff/",
-      "softpedia-static.com",
-      "softpedia-static.com/images/afg/"
+      "softpedia-static.com/images/afg/",
+      "softpedia-static.com"
      ]
     }
    },
@@ -143099,8 +143085,8 @@
    {
     "speedtv.com": {
      "speedtv.com": [
-      "speedtv.com/js/interstitial.js",
-      "speedtv.com"
+      "speedtv.com",
+      "speedtv.com/js/interstitial.js"
      ]
     }
    },
@@ -143114,8 +143100,8 @@
    {
     "speedvideo.net": {
      "speedvideo.net": [
-      "speedvideo.net/img/pla_",
-      "speedvideo.net/img/playerFk.gif"
+      "speedvideo.net/img/playerFk.gif",
+      "speedvideo.net/img/pla_"
      ]
     }
    },
@@ -143474,17 +143460,17 @@
    {
     "streamplay.to": {
      "streamplay.to": [
-      "streamplay.to/js/pu2/",
-      "streamplay.to/images/videoplayer.png"
+      "streamplay.to/images/videoplayer.png",
+      "streamplay.to/js/pu2/"
      ]
     }
    },
    {
     "streams.tv": {
      "streams.tv": [
-      "streams.tv/js/bn5.js",
       "streams.tv/js/slidingbanner.js",
-      "streams.tv/js/pu.js"
+      "streams.tv/js/pu.js",
+      "streams.tv/js/bn5.js"
      ]
     }
    },
@@ -143596,8 +143582,8 @@
    {
     "surfmusic.de": {
      "surfmusic.de": [
-      "surfmusic.de/banner",
-      "surfmusic.de/anz"
+      "surfmusic.de/anz",
+      "surfmusic.de/banner"
      ]
     }
    },
@@ -143688,8 +143674,8 @@
    {
     "sythe.org": {
      "sythe.org": [
-      "sythe.org/bnrs/",
-      "sythe.org/clientscript/agold.png"
+      "sythe.org/clientscript/agold.png",
+      "sythe.org/bnrs/"
      ]
     }
    },
@@ -143880,8 +143866,8 @@
    {
     "techotopia.com": {
      "techotopia.com": [
-      "techotopia.com/TechotopiaFiles/contextsky1.html",
-      "techotopia.com/TechotopiaFiles/contextsky2.html"
+      "techotopia.com/TechotopiaFiles/contextsky2.html",
+      "techotopia.com/TechotopiaFiles/contextsky1.html"
      ]
     }
    },
@@ -143930,8 +143916,8 @@
    {
     "tehrantimes.com": {
      "tehrantimes.com": [
-      "tehrantimes.com/images/banners/",
-      "tehrantimes.com/banner/"
+      "tehrantimes.com/banner/",
+      "tehrantimes.com/images/banners/"
      ]
     }
    },
@@ -144220,9 +144206,9 @@
    {
     "thecorrsmisc.com": {
      "thecorrsmisc.com": [
-      "thecorrsmisc.com/brokenthread.jpg",
+      "thecorrsmisc.com/msb_banner.jpg",
       "thecorrsmisc.com/10feet_banner.gif",
-      "thecorrsmisc.com/msb_banner.jpg"
+      "thecorrsmisc.com/brokenthread.jpg"
      ]
     }
    },
@@ -144404,8 +144390,8 @@
    {
     "theispguide.com": {
      "theispguide.com": [
-      "theispguide.com/topbanner.asp",
-      "theispguide.com/premiumisp.html"
+      "theispguide.com/premiumisp.html",
+      "theispguide.com/topbanner.asp"
      ]
     }
    },
@@ -144608,8 +144594,8 @@
    {
     "thepaper24-7.com": {
      "thepaper24-7.com": [
-      "thepaper24-7.com/SiteImages/Tile/",
-      "thepaper24-7.com/SiteImages/Banner/"
+      "thepaper24-7.com/SiteImages/Banner/",
+      "thepaper24-7.com/SiteImages/Tile/"
      ]
     }
    },
@@ -144658,12 +144644,12 @@
    {
     "thepowerhour.com": {
      "thepowerhour.com": [
-      "thepowerhour.com/images/karatbar1.jpg",
+      "thepowerhour.com/images/kcaa.jpg",
       "thepowerhour.com/images/food_summit2.jpg",
+      "thepowerhour.com/images/karatbar1.jpg",
       "thepowerhour.com/images/numanna.jpg",
       "thepowerhour.com/images/youngevity.jpg",
-      "thepowerhour.com/images/rickssatellite_banner2.jpg",
-      "thepowerhour.com/images/kcaa.jpg"
+      "thepowerhour.com/images/rickssatellite_banner2.jpg"
      ]
     }
    },
@@ -144755,8 +144741,8 @@
    {
     "thesuburban.com": {
      "thesuburban.com": [
-      "thesuburban.com/universe/addsspace/",
-      "thesuburban.com/universe/adds/"
+      "thesuburban.com/universe/adds/",
+      "thesuburban.com/universe/addsspace/"
      ]
     }
    },
@@ -144798,21 +144784,21 @@
    {
     "thetvdb.com": {
      "thetvdb.com": [
-      "thetvdb.com/images/frugal.gif",
-      "thetvdb.com/images/jriver_banner.png"
+      "thetvdb.com/images/jriver_banner.png",
+      "thetvdb.com/images/frugal.gif"
      ]
     }
    },
    {
     "thevideo.me": {
      "thevideo.me": [
-      "thevideo.me/mba/cds.js",
-      "thevideo.me/js/popup.min.js",
-      "thevideo.me/js/jspc.js",
       "thevideo.me/js/jsmpc.js",
+      "thevideo.me/mba/cds.js",
+      "thevideo.me/player/offers.js",
+      "thevideo.me/js/jspc.js",
       "thevideo.me/cgi-bin/get_creatives.cgi",
-      "thevideo.me/creatives/",
-      "thevideo.me/player/offers.js"
+      "thevideo.me/js/popup.min.js",
+      "thevideo.me/creatives/"
      ]
     }
    },
@@ -145088,8 +145074,8 @@
    {
     "torrentcrazy.com": {
      "torrentcrazy.com": [
-      "torrentcrazy.com/img/wx.png",
-      "torrentcrazy.com/pnd.js"
+      "torrentcrazy.com/pnd.js",
+      "torrentcrazy.com/img/wx.png"
      ]
     }
    },
@@ -145119,8 +145105,8 @@
    {
     "torrentfunk.com": {
      "torrentfunk.com": [
-      "torrentfunk.com/affprofslider.js",
-      "torrentfunk.com/sw1.js"
+      "torrentfunk.com/sw1.js",
+      "torrentfunk.com/affprofslider.js"
      ]
     }
    },
@@ -145178,9 +145164,9 @@
    {
     "totalcmd.pl": {
      "totalcmd.pl": [
+      "totalcmd.pl/img/olszak.",
       "totalcmd.pl/img/billboard_",
-      "totalcmd.pl/img/nucom.",
-      "totalcmd.pl/img/olszak."
+      "totalcmd.pl/img/nucom."
      ]
     }
    },
@@ -145407,8 +145393,8 @@
    {
     "turboimagehost.com": {
      "turboimagehost.com": [
-      "turboimagehost.com/p.js",
-      "turboimagehost.com/p1.js"
+      "turboimagehost.com/p1.js",
+      "turboimagehost.com/p.js"
      ]
     }
    },
@@ -145429,8 +145415,8 @@
    {
     "tusfiles.net": {
      "tusfiles.net": [
-      "tusfiles.net/i/dll.png",
-      "tusfiles.net/images/tusfilesb.gif"
+      "tusfiles.net/images/tusfilesb.gif",
+      "tusfiles.net/i/dll.png"
      ]
     }
    },
@@ -145486,8 +145472,8 @@
    {
     "tvguide.co.uk": {
      "tvguide.co.uk": [
-      "tvguide.co.uk/images/skyskinus.",
-      "tvguide.co.uk/_ui/images/skysportstab2."
+      "tvguide.co.uk/_ui/images/skysportstab2.",
+      "tvguide.co.uk/images/skyskinus."
      ]
     }
    },
@@ -145544,8 +145530,8 @@
     "u.tv": {
      "u.tv": [
       "u.tv/images/sponsors/",
-      "u.tv/utvplayer/jwplayer/ova.swf",
-      "u.tv/images/misc/progressive.png"
+      "u.tv/images/misc/progressive.png",
+      "u.tv/utvplayer/jwplayer/ova.swf"
      ]
     }
    },
@@ -145559,10 +145545,10 @@
    {
     "ubuntugeek.com": {
      "ubuntugeek.com": [
-      "ubuntugeek.com/images/dnsstock.png",
       "ubuntugeek.com/images/od.jpg",
       "ubuntugeek.com/images/ubuntu1.png",
-      "ubuntugeek.com"
+      "ubuntugeek.com",
+      "ubuntugeek.com/images/dnsstock.png"
      ]
     }
    },
@@ -145625,8 +145611,8 @@
    {
     "ukfindit.com": {
      "ukfindit.com": [
-      "ukfindit.com",
-      "ukfindit.com/wipedebtclean.png"
+      "ukfindit.com/wipedebtclean.png",
+      "ukfindit.com"
      ]
     }
    },
@@ -145656,10 +145642,10 @@
    {
     "ultimatewindowssecurity.com": {
      "ultimatewindowssecurity.com": [
-      "ultimatewindowssecurity.com/images/spale.swf",
+      "ultimatewindowssecurity.com/images/banner80x490_WSUS_FreeTool.jpg",
       "ultimatewindowssecurity.com/images/patchzone-resource-80x490.jpg",
-      "ultimatewindowssecurity.com/securitylog/encyclopedia/images/allpartners.swf",
-      "ultimatewindowssecurity.com/images/banner80x490_WSUS_FreeTool.jpg"
+      "ultimatewindowssecurity.com/images/spale.swf",
+      "ultimatewindowssecurity.com/securitylog/encyclopedia/images/allpartners.swf"
      ]
     }
    },
@@ -145702,9 +145688,9 @@
     "uniindia.com": {
      "uniindia.com": [
       "uniindia.com/eng/bannerbottom.php",
-      "uniindia.com/eng/bannerheader.php",
-      "uniindia.com/eng/banners/",
       "uniindia.com/eng/bannertopright.php",
+      "uniindia.com/eng/banners/",
+      "uniindia.com/eng/bannerheader.php",
       "uniindia.com/eng/bannerrightside.php"
      ]
     }
@@ -145733,9 +145719,9 @@
    {
     "unknowncheats.me": {
      "unknowncheats.me": [
-      "unknowncheats.me/hori.html",
+      "unknowncheats.me/forum/images/ez/csgoban1.gif",
       "unknowncheats.me/forum/images/spon/",
-      "unknowncheats.me/forum/images/ez/csgoban1.gif"
+      "unknowncheats.me/hori.html"
      ]
     }
    },
@@ -145770,8 +145756,8 @@
    {
     "uploadlw.com": {
      "uploadlw.com": [
-      "uploadlw.com/js/cash.js",
-      "uploadlw.com"
+      "uploadlw.com",
+      "uploadlw.com/js/cash.js"
      ]
     }
    },
@@ -145786,8 +145772,8 @@
     "uptobox.com": {
      "uptobox.com": [
       "uptobox.com/images/downloaden.gif",
-      "uptobox.com/sw.js",
-      "uptobox.com/images/download.png"
+      "uptobox.com/images/download.png",
+      "uptobox.com/sw.js"
      ]
     }
    },
@@ -145829,8 +145815,8 @@
    {
     "urlcash.org": {
      "urlcash.org": [
-      "urlcash.org/banners/",
       "urlcash.org/abp/",
+      "urlcash.org/banners/",
       "urlcash.org/newpop.js"
      ]
     }
@@ -146080,8 +146066,8 @@
    {
     "videogamesblogger.com": {
      "videogamesblogger.com": [
-      "videogamesblogger.com/takeover.html",
-      "videogamesblogger.com"
+      "videogamesblogger.com",
+      "videogamesblogger.com/takeover.html"
      ]
     }
    },
@@ -146095,8 +146081,8 @@
    {
     "videos.com": {
      "videos.com": [
-      "videos.com/click",
-      "videos.com"
+      "videos.com",
+      "videos.com/click"
      ]
     }
    },
@@ -146117,9 +146103,9 @@
    {
     "videowood.tv": {
      "videowood.tv": [
+      "videowood.tv/assets/js/popup.js",
       "videowood.tv/pop2",
-      "videowood.tv/ads",
-      "videowood.tv/assets/js/popup.js"
+      "videowood.tv/ads"
      ]
     }
    },
@@ -146133,16 +146119,16 @@
    {
     "vidspot.net": {
      "vidspot.net": [
-      "vidspot.net/s/xfs.min.js",
-      "vidspot.net"
+      "vidspot.net",
+      "vidspot.net/s/xfs.min.js"
      ]
     }
    },
    {
     "vidvib.com": {
      "vidvib.com": [
-      "vidvib.com/vidvibpopb.",
-      "vidvib.com/vidvibpopa."
+      "vidvib.com/vidvibpopa.",
+      "vidvib.com/vidvibpopb."
      ]
     }
    },
@@ -146177,8 +146163,8 @@
    {
     "vipbox.co": {
      "vipbox.co": [
-      "vipbox.co/js/bn.js",
-      "vipbox.co"
+      "vipbox.co",
+      "vipbox.co/js/bn.js"
      ]
     }
    },
@@ -146199,9 +146185,9 @@
    {
     "vipbox.tv": {
      "vipbox.tv": [
+      "vipbox.tv/js/layer-",
       "vipbox.tv/js/layer.js",
-      "vipbox.tv/blackwhite/",
-      "vipbox.tv/js/layer-"
+      "vipbox.tv/blackwhite/"
      ]
     }
    },
@@ -146229,8 +146215,8 @@
    {
     "virginislandsthisweek.com": {
      "virginislandsthisweek.com": [
-      "virginislandsthisweek.com/images/728-",
-      "virginislandsthisweek.com/images/336-"
+      "virginislandsthisweek.com/images/336-",
+      "virginislandsthisweek.com/images/728-"
      ]
     }
    },
@@ -146258,8 +146244,8 @@
    {
     "vitalfootball.co.uk": {
      "vitalfootball.co.uk": [
-      "vitalfootball.co.uk",
-      "vitalfootball.co.uk/app-interstitial/"
+      "vitalfootball.co.uk/app-interstitial/",
+      "vitalfootball.co.uk"
      ]
     }
    },
@@ -146267,8 +146253,8 @@
     "vitalmtb.com": {
      "vitalmtb.com": [
       "vitalmtb.com/assets/vital.aba-",
-      "vitalmtb.com/assets/ablock-",
-      "vitalmtb.com/api/"
+      "vitalmtb.com/api/",
+      "vitalmtb.com/assets/ablock-"
      ]
     }
    },
@@ -146423,8 +146409,8 @@
    {
     "washtimes.com": {
      "washtimes.com": [
-      "washtimes.com/js/dart.",
-      "washtimes.com/static/images/SelectAutoWeather_v2.gif"
+      "washtimes.com/static/images/SelectAutoWeather_v2.gif",
+      "washtimes.com/js/dart."
      ]
     }
    },
@@ -146438,9 +146424,9 @@
    {
     "watchcartoononline.com": {
      "watchcartoononline.com": [
+      "watchcartoononline.com",
       "watchcartoononline.com/inc/siteskin.",
-      "watchcartoononline.com/pve.php",
-      "watchcartoononline.com"
+      "watchcartoononline.com/pve.php"
      ]
     }
    },
@@ -146454,8 +146440,8 @@
    {
     "watchfree.to": {
      "watchfree.to": [
-      "watchfree.to/topright.php",
-      "watchfree.to/download.php"
+      "watchfree.to/download.php",
+      "watchfree.to/topright.php"
      ]
     }
    },
@@ -146483,23 +146469,23 @@
    {
     "watchseries.eu": {
      "watchseries.eu": [
+      "watchseries.eu/js/csspopup.js",
       "watchseries.eu/images/affiliate_buzz.gif",
-      "watchseries.eu/images/download.png",
-      "watchseries.eu/js/csspopup.js"
+      "watchseries.eu/images/download.png"
      ]
     }
    },
    {
     "watchuseek.com": {
      "watchuseek.com": [
-      "watchuseek.com/flashwatchwus.swf",
       "watchuseek.com/media/wus-image.jpg",
-      "watchuseek.com/media/1900x220_",
+      "watchuseek.com/flashwatchwus.swf",
       "watchuseek.com/media/banner_",
       "watchuseek.com",
+      "watchuseek.com/media/1900x220_",
+      "watchuseek.com/media/longines_legenddiver.gif",
       "watchuseek.com/site/forabar/zixenflashwatch.swf",
-      "watchuseek.com/media/clerc-final.jpg",
-      "watchuseek.com/media/longines_legenddiver.gif"
+      "watchuseek.com/media/clerc-final.jpg"
      ]
     }
    },
@@ -146583,8 +146569,8 @@
    {
     "wearetennis.com": {
      "wearetennis.com": [
-      "wearetennis.com/img/common/bnp-logo.png",
       "wearetennis.com/img/common/logo_bnp_",
+      "wearetennis.com/img/common/bnp-logo.png",
       "wearetennis.com/img/common/bnp-logo-"
      ]
     }
@@ -146613,8 +146599,8 @@
    {
     "webdesignerdepot.com": {
      "webdesignerdepot.com": [
-      "webdesignerdepot.com/wp-content/plugins/md-popup/",
-      "webdesignerdepot.com/wp-content/themes/wdd2/fancybox/"
+      "webdesignerdepot.com/wp-content/themes/wdd2/fancybox/",
+      "webdesignerdepot.com/wp-content/plugins/md-popup/"
      ]
     }
    },
@@ -146628,9 +146614,9 @@
    {
     "webhostingtalk.com": {
      "webhostingtalk.com": [
-      "webhostingtalk.com/images/style/lw-header.png",
+      "webhostingtalk.com/images/style/lw-160x400.jpg",
       "webhostingtalk.com",
-      "webhostingtalk.com/images/style/lw-160x400.jpg"
+      "webhostingtalk.com/images/style/lw-header.png"
      ]
     }
    },
@@ -146736,8 +146722,8 @@
     "wegoted.com": {
      "wegoted.com": [
       "wegoted.com/uploads/memsponsor/",
-      "wegoted.com/uploads/sponsors/",
-      "wegoted.com/includes/biogreen.swf"
+      "wegoted.com/includes/biogreen.swf",
+      "wegoted.com/uploads/sponsors/"
      ]
     }
    },
@@ -146765,8 +146751,8 @@
    {
     "whatismyip.com": {
      "whatismyip.com": [
-      "whatismyip.com/images/VYPR__125x125.png",
-      "whatismyip.com/images/vyprvpn_"
+      "whatismyip.com/images/vyprvpn_",
+      "whatismyip.com/images/VYPR__125x125.png"
      ]
     }
    },
@@ -146881,13 +146867,13 @@
    {
     "whitepages.ae": {
      "whitepages.ae": [
-      "whitepages.ae/images/UI/MR/",
-      "whitepages.ae/images/UI/LB/",
-      "whitepages.ae/images/UI/SR/",
-      "whitepages.ae/images/UI/SRB/",
+      "whitepages.ae/images/UI/FC/",
       "whitepages.ae/images/UI/SRA/",
+      "whitepages.ae/images/UI/MR/",
+      "whitepages.ae/images/UI/SRB/",
       "whitepages.ae/images/UI/WS/",
-      "whitepages.ae/images/UI/FC/"
+      "whitepages.ae/images/UI/LB/",
+      "whitepages.ae/images/UI/SR/"
      ]
     }
    },
@@ -146901,8 +146887,8 @@
    {
     "whoer.net": {
      "whoer.net": [
-      "whoer.net/images/pb/",
       "whoer.net/images/vlab50_",
+      "whoer.net/images/pb/",
       "whoer.net/images/vpnlab20_"
      ]
     }
@@ -146910,8 +146896,8 @@
    {
     "whois.net": {
      "whois.net": [
-      "whois.net/images/banners/",
-      "whois.net/dombot.php"
+      "whois.net/dombot.php",
+      "whois.net/images/banners/"
      ]
     }
    },
@@ -146946,8 +146932,8 @@
    {
     "wikia.com": {
      "wikia.com": [
-      "wikia.com/__varnish_",
-      "wikia.com/__are"
+      "wikia.com/__are",
+      "wikia.com/__varnish_"
      ]
     }
    },
@@ -147046,9 +147032,9 @@
    {
     "wjunction.com": {
      "wjunction.com": [
-      "wjunction.com/images/constant/",
       "wjunction.com/images/rectangle",
-      "wjunction.com/images/468x60"
+      "wjunction.com/images/468x60",
+      "wjunction.com/images/constant/"
      ]
     }
    },
@@ -147168,9 +147154,9 @@
    {
     "worldometers.info": {
      "worldometers.info": [
-      "worldometers.info/L728.html",
       "worldometers.info/L300L.html",
-      "worldometers.info/L300R.html"
+      "worldometers.info/L300R.html",
+      "worldometers.info/L728.html"
      ]
     }
    },
@@ -147191,8 +147177,8 @@
    {
     "worldstagegroup.com": {
      "worldstagegroup.com": [
-      "worldstagegroup.com/banner/",
-      "worldstagegroup.com/worldstagenew/banner/"
+      "worldstagegroup.com/worldstagenew/banner/",
+      "worldstagegroup.com/banner/"
      ]
     }
    },
@@ -147305,8 +147291,8 @@
    {
     "wsj.net": {
      "wsj.net": [
-      "wsj.net/internal/krux.js",
-      "wsj.net/pb/pb.js"
+      "wsj.net/pb/pb.js",
+      "wsj.net/internal/krux.js"
      ]
     }
    },
@@ -147320,8 +147306,8 @@
    {
     "wunderground.com": {
      "wunderground.com": [
-      "wunderground.com",
-      "wunderground.com/geo/swfad/"
+      "wunderground.com/geo/swfad/",
+      "wunderground.com"
      ]
     }
    },
@@ -147370,8 +147356,8 @@
    {
     "xbitlabs.com": {
      "xbitlabs.com": [
-      "xbitlabs.com/cms/module_banners/",
-      "xbitlabs.com/images/banners/"
+      "xbitlabs.com/images/banners/",
+      "xbitlabs.com/cms/module_banners/"
      ]
     }
    },
@@ -147462,14 +147448,14 @@
    {
     "yahoo.com": {
      "yahoo.com": [
-      "yahoo.com/neo/darla/",
-      "yahoo.com/contextual-shortcuts",
-      "yahoo.com/livewords/",
-      "yahoo.com",
-      "yahoo.com/__darla/",
-      "yahoo.com/darla/",
       "yahoo.com/ysmload.html",
-      "yahoo.com/sdarla/"
+      "yahoo.com",
+      "yahoo.com/livewords/",
+      "yahoo.com/neo/darla/",
+      "yahoo.com/__darla/",
+      "yahoo.com/sdarla/",
+      "yahoo.com/contextual-shortcuts",
+      "yahoo.com/darla/"
      ]
     }
    },
@@ -147513,11 +147499,11 @@
      "yellowpages.ae": [
       "yellowpages.ae/UI/FC/",
       "yellowpages.ae/UI/ST/",
-      "yellowpages.ae/UI/WM/",
-      "yellowpages.ae/UI/WA/",
-      "yellowpages.ae/UI/MR/",
       "yellowpages.ae/UI/LB/",
-      "yellowpages.ae/UI/SR/"
+      "yellowpages.ae/UI/MR/",
+      "yellowpages.ae/UI/WM/",
+      "yellowpages.ae/UI/SR/",
+      "yellowpages.ae/UI/WA/"
      ]
     }
    },
@@ -147594,9 +147580,9 @@
    {
     "yotv.co": {
      "yotv.co": [
-      "yotv.co/adds/",
       "yotv.co/class/adjsn3.js",
-      "yotv.co/ad/"
+      "yotv.co/ad/",
+      "yotv.co/adds/"
      ]
     }
    },
@@ -147662,8 +147648,8 @@
    {
     "yourradioplace.com": {
      "yourradioplace.com": [
-      "yourradioplace.com/images/banners/",
-      "yourradioplace.com//images/banners/"
+      "yourradioplace.com//images/banners/",
+      "yourradioplace.com/images/banners/"
      ]
     }
    },
@@ -147691,16 +147677,16 @@
    {
     "youtube.com": {
      "youtube.com": [
-      "youtube.com/get_midroll_",
-      "youtube.com/pagead/"
+      "youtube.com/pagead/",
+      "youtube.com/get_midroll_"
      ]
     }
    },
    {
     "youwatch.org": {
      "youwatch.org": [
-      "youwatch.org/driba.html",
       "youwatch.org/vod-str.html",
+      "youwatch.org/driba.html",
       "youwatch.org/iframe1.html",
       "youwatch.org/9elawi.html"
      ]
@@ -147801,8 +147787,8 @@
    {
     "zawya.com": {
      "zawya.com": [
-      "zawya.com/brands/",
-      "zawya.com/ads/"
+      "zawya.com/ads/",
+      "zawya.com/brands/"
      ]
     }
    },
@@ -147816,16 +147802,16 @@
    {
     "zdnet.com": {
      "zdnet.com": [
-      "zdnet.com/medusa/",
-      "zdnet.com/mds/"
+      "zdnet.com/mds/",
+      "zdnet.com/medusa/"
      ]
     }
    },
    {
     "zeetvusa.com": {
      "zeetvusa.com": [
-      "zeetvusa.com/images/CARIBBEN.jpg",
       "zeetvusa.com/images/hightlow.jpg",
+      "zeetvusa.com/images/CARIBBEN.jpg",
       "zeetvusa.com/images/SevaWeb.gif"
      ]
     }
@@ -147840,8 +147826,8 @@
    {
     "zeropaid.com": {
      "zeropaid.com": [
-      "zeropaid.com",
-      "zeropaid.com/images/"
+      "zeropaid.com/images/",
+      "zeropaid.com"
      ]
     }
    },
@@ -147849,8 +147835,8 @@
     "ziddu.com": {
      "ziddu.com": [
       "ziddu.com/images/140x150_egglad.gif",
-      "ziddu.com/images/wxdfast/",
-      "ziddu.com/images/globe7.gif"
+      "ziddu.com/images/globe7.gif",
+      "ziddu.com/images/wxdfast/"
      ]
     }
    },
@@ -147899,8 +147885,8 @@
    {
     "zootoday.com": {
      "zootoday.com": [
-      "zootoday.com/pub/21publish/Zoo-navtop-poker.gif",
-      "zootoday.com/pub/21publish/Zoo-navtop-casino_"
+      "zootoday.com/pub/21publish/Zoo-navtop-casino_",
+      "zootoday.com/pub/21publish/Zoo-navtop-poker.gif"
      ]
     }
    },
@@ -148076,9 +148062,9 @@
    {
     "hindustantimes.com": {
      "hindustantimes.com": [
-      "hindustantimes.com/res/js/ht-script",
       "hindustantimes.com/_js/browser-detect.min.js",
-      "hindustantimes.com/res/js/ht-modified-script.js"
+      "hindustantimes.com/res/js/ht-modified-script.js",
+      "hindustantimes.com/res/js/ht-script"
      ]
     }
    },
@@ -148155,15 +148141,15 @@
    {
     "24porn7.com": {
      "24porn7.com": [
-      "24porn7.com/300.php",
-      "24porn7.com/right3.php",
       "24porn7.com/24roll.html",
+      "24porn7.com/toonad/",
+      "24porn7.com/right3.php",
+      "24porn7.com/float/float_adplib.js",
+      "24porn7.com/300.php",
       "24porn7.com/odd.php",
       "24porn7.com/imads/",
-      "24porn7.com/toonad/",
-      "24porn7.com/ebanners/",
       "24porn7.com/banned/",
-      "24porn7.com/float/float_adplib.js"
+      "24porn7.com/ebanners/"
      ]
     }
    },
@@ -148177,9 +148163,9 @@
    {
     "2adultflashgames.com": {
      "2adultflashgames.com": [
-      "2adultflashgames.com/img/",
+      "2adultflashgames.com/images/v12.gif",
       "2adultflashgames.com/teaser/teaser.swf",
-      "2adultflashgames.com/images/v12.gif"
+      "2adultflashgames.com/img/"
      ]
     }
    },
@@ -148391,8 +148377,8 @@
    {
     "anon-v.com": {
      "anon-v.com": [
-      "anon-v.com/titswerentoiledup.php",
-      "anon-v.com/neverlikedcocksmuch.php"
+      "anon-v.com/neverlikedcocksmuch.php",
+      "anon-v.com/titswerentoiledup.php"
      ]
     }
    },
@@ -148421,8 +148407,8 @@
    {
     "asgayas.com": {
      "asgayas.com": [
-      "asgayas.com/popin.js",
-      "asgayas.com/floater/"
+      "asgayas.com/floater/",
+      "asgayas.com/popin.js"
      ]
     }
    },
@@ -148487,16 +148473,16 @@
     "babesandstars.com": {
      "babesandstars.com": [
       "babesandstars.com/images/a/",
-      "babesandstars.com/thumbs/paysites/",
-      "babesandstars.com"
+      "babesandstars.com",
+      "babesandstars.com/thumbs/paysites/"
      ]
     }
    },
    {
     "babeshows.co.uk": {
      "babeshows.co.uk": [
-      "babeshows.co.uk",
-      "babeshows.co.uk/fvn53.jpg"
+      "babeshows.co.uk/fvn53.jpg",
+      "babeshows.co.uk"
      ]
     }
    },
@@ -148546,8 +148532,8 @@
    {
     "befuck.com": {
      "befuck.com": [
-      "befuck.com/befuck_html/",
-      "befuck.com/js/adpbefuck"
+      "befuck.com/js/adpbefuck",
+      "befuck.com/befuck_html/"
      ]
     }
    },
@@ -148590,8 +148576,8 @@
    {
     "bonbonme.com": {
      "bonbonme.com": [
-      "bonbonme.com/js/dticash/",
       "bonbonme.com/js/rightbanner.js",
+      "bonbonme.com/js/dticash/",
       "bonbonme.com/js/cams.js"
      ]
     }
@@ -148599,8 +148585,8 @@
    {
     "bonbonsex.com": {
      "bonbonsex.com": [
-      "bonbonsex.com/js/workhome.js",
-      "bonbonsex.com/js/dl/bottom.js"
+      "bonbonsex.com/js/dl/bottom.js",
+      "bonbonsex.com/js/workhome.js"
      ]
     }
    },
@@ -148623,10 +148609,10 @@
    {
     "bralesscelebs.com": {
      "bralesscelebs.com": [
-      "bralesscelebs.com/160x600ps.gif",
-      "bralesscelebs.com/160x600hcp.gif",
       "bralesscelebs.com",
-      "bralesscelebs.com/320x240ps.gif"
+      "bralesscelebs.com/320x240ps.gif",
+      "bralesscelebs.com/160x600hcp.gif",
+      "bralesscelebs.com/160x600ps.gif"
      ]
     }
    },
@@ -148691,8 +148677,8 @@
    {
     "celeb.gate.cc": {
      "celeb.gate.cc": [
-      "celeb.gate.cc",
-      "celeb.gate.cc/banner/"
+      "celeb.gate.cc/banner/",
+      "celeb.gate.cc"
      ]
     }
    },
@@ -148840,12 +148826,12 @@
    {
     "definebabe.com": {
      "definebabe.com": [
-      "definebabe.com/sponsor/",
+      "definebabe.com/sponsor_",
+      "definebabe.com",
+      "definebabe.com/db/images/leftnav/webcams2.png",
       "definebabe.com/db/js/pcme.js",
       "definebabe.com/traders/",
-      "definebabe.com/sponsor_",
-      "definebabe.com/db/images/leftnav/webcams2.png",
-      "definebabe.com"
+      "definebabe.com/sponsor/"
      ]
     }
    },
@@ -148966,8 +148952,8 @@
    {
     "eccie.net": {
      "eccie.net": [
-      "eccie.net/buploads/",
-      "eccie.net/eros/"
+      "eccie.net/eros/",
+      "eccie.net/buploads/"
      ]
     }
    },
@@ -148981,8 +148967,8 @@
    {
     "efukt.com": {
      "efukt.com": [
-      "efukt.com/affiliates/",
       "efukt.com/js/3rdparty.js",
+      "efukt.com/affiliates/",
       "efukt.com/menu/"
      ]
     }
@@ -149011,8 +148997,8 @@
    {
     "eporner.com": {
      "eporner.com": [
-      "eporner.com",
-      "eporner.com/cppb/"
+      "eporner.com/cppb/",
+      "eporner.com"
      ]
     }
    },
@@ -149069,8 +149055,8 @@
    {
     "fapdick.com": {
      "fapdick.com": [
-      "fapdick.com/uploads/fap_",
-      "fapdick.com/uploads/1fap_"
+      "fapdick.com/uploads/1fap_",
+      "fapdick.com/uploads/fap_"
      ]
     }
    },
@@ -149105,9 +149091,9 @@
    {
     "filthyrx.com": {
      "filthyrx.com": [
-      "filthyrx.com/images/porno/",
       "filthyrx.com/inline.php",
-      "filthyrx.com/rx.js"
+      "filthyrx.com/rx.js",
+      "filthyrx.com/images/porno/"
      ]
     }
    },
@@ -149156,8 +149142,8 @@
    {
     "freebunker.com": {
      "freebunker.com": [
-      "freebunker.com",
-      "freebunker.com/includes/js/cat.js"
+      "freebunker.com/includes/js/cat.js",
+      "freebunker.com"
      ]
     }
    },
@@ -149241,8 +149227,8 @@
    {
     "gayporntimes.com": {
      "gayporntimes.com": [
-      "gayporntimes.com/img/GP_Heroes.jpg",
-      "gayporntimes.com"
+      "gayporntimes.com",
+      "gayporntimes.com/img/GP_Heroes.jpg"
      ]
     }
    },
@@ -149278,16 +149264,16 @@
     "gifsfor.com": {
      "gifsfor.com": [
       "gifsfor.com/gifs.js",
-      "gifsfor.com/msn.js",
-      "gifsfor.com"
+      "gifsfor.com",
+      "gifsfor.com/msn.js"
      ]
     }
    },
    {
     "girlfriendvideos.com": {
      "girlfriendvideos.com": [
-      "girlfriendvideos.com/pcode.js",
-      "girlfriendvideos.com/ad"
+      "girlfriendvideos.com/ad",
+      "girlfriendvideos.com/pcode.js"
      ]
     }
    },
@@ -149308,8 +149294,8 @@
    {
     "girlsofdesire.org": {
      "girlsofdesire.org": [
-      "girlsofdesire.org/banner/",
-      "girlsofdesire.org/media/banners/"
+      "girlsofdesire.org/media/banners/",
+      "girlsofdesire.org/banner/"
      ]
     }
    },
@@ -149358,20 +149344,20 @@
    {
     "h2porn.com": {
      "h2porn.com": [
-      "h2porn.com/ab/",
-      "h2porn.com/js/etu_r.js",
       "h2porn.com",
-      "h2porn.com/contents/content_sources/"
+      "h2porn.com/js/etu_r.js",
+      "h2porn.com/contents/content_sources/",
+      "h2porn.com/ab/"
      ]
     }
    },
    {
     "hanksgalleries.com": {
      "hanksgalleries.com": [
-      "hanksgalleries.com/galleryimgs/",
       "hanksgalleries.com/aff-",
-      "hanksgalleries.com/gallery-",
+      "hanksgalleries.com/galleryimgs/",
       "hanksgalleries.com/vg_ad_",
+      "hanksgalleries.com/gallery-",
       "hanksgalleries.com/stxt_"
      ]
     }
@@ -149379,8 +149365,8 @@
    {
     "hardcoresexgif.com": {
      "hardcoresexgif.com": [
-      "hardcoresexgif.com/msn.js",
-      "hardcoresexgif.com/hcsg.js"
+      "hardcoresexgif.com/hcsg.js",
+      "hardcoresexgif.com/msn.js"
      ]
     }
    },
@@ -149388,8 +149374,8 @@
     "hardsextube.com": {
      "hardsextube.com": [
       "hardsextube.com/preroll/getiton/",
-      "hardsextube.com/testxml.php",
-      "hardsextube.com/zone.php"
+      "hardsextube.com/zone.php",
+      "hardsextube.com/testxml.php"
      ]
     }
    },
@@ -149435,9 +149421,9 @@
     "hdzog.com": {
      "hdzog.com": [
       "hdzog.com/contents/cst/",
-      "hdzog.com/hdzog.php",
+      "hdzog.com/contents/content_sources/",
       "hdzog.com/hdzog/vanload/",
-      "hdzog.com/contents/content_sources/"
+      "hdzog.com/hdzog.php"
      ]
     }
    },
@@ -149445,8 +149431,8 @@
     "heavy-r.com": {
      "heavy-r.com": [
       "heavy-r.com/a/",
-      "heavy-r.com/js/imbox.js",
-      "heavy-r.com/js/overlay.js"
+      "heavy-r.com/js/overlay.js",
+      "heavy-r.com/js/imbox.js"
      ]
     }
    },
@@ -149475,9 +149461,9 @@
    {
     "hentaistream.com": {
      "hentaistream.com": [
+      "hentaistream.com/out/",
       "hentaistream.com/wp-includes/images/mofos/webcams_",
-      "hentaistream.com/wp-includes/images/bg-",
-      "hentaistream.com/out/"
+      "hentaistream.com/wp-includes/images/bg-"
      ]
     }
    },
@@ -149520,8 +149506,8 @@
    {
     "homeprivatevids.com": {
      "homeprivatevids.com": [
-      "homeprivatevids.com/banners.shtml",
-      "homeprivatevids.com/banner2.shtml"
+      "homeprivatevids.com/banner2.shtml",
+      "homeprivatevids.com/banners.shtml"
      ]
     }
    },
@@ -149550,9 +149536,9 @@
    {
     "hotshame.com": {
      "hotshame.com": [
+      "hotshame.com/hotshame_html/",
       "hotshame.com/js/adphotshame",
-      "hotshame.com/iframes/",
-      "hotshame.com/hotshame_html/"
+      "hotshame.com/iframes/"
      ]
     }
    },
@@ -149654,10 +149640,10 @@
    {
     "imgbabes.com": {
      "imgbabes.com": [
-      "imgbabes.com/ja.html",
-      "imgbabes.com/ero-foo.html",
+      "imgbabes.com",
       "imgbabes.com/element.js",
-      "imgbabes.com"
+      "imgbabes.com/ero-foo.html",
+      "imgbabes.com/ja.html"
      ]
     }
    },
@@ -149721,10 +149707,10 @@
    {
     "iseekgirls.com": {
      "iseekgirls.com": [
-      "iseekgirls.com/rotating_",
       "iseekgirls.com/js/fabulous.js",
-      "iseekgirls.com/g/pandoracash/",
-      "iseekgirls.com"
+      "iseekgirls.com/rotating_",
+      "iseekgirls.com",
+      "iseekgirls.com/g/pandoracash/"
      ]
     }
    },
@@ -149830,8 +149816,8 @@
    {
     "literotica.com": {
      "literotica.com": [
-      "literotica.com/images/lit_banners/",
-      "literotica.com/images/banners/"
+      "literotica.com/images/banners/",
+      "literotica.com/images/lit_banners/"
      ]
     }
    },
@@ -149881,9 +149867,9 @@
    {
     "luscious.net": {
      "luscious.net": [
+      "luscious.net/luscious.",
       "luscious.net/revive.",
-      "luscious.net/lamia205.",
-      "luscious.net/luscious."
+      "luscious.net/lamia205."
      ]
     }
    },
@@ -149974,10 +149960,10 @@
    {
     "monstertube.com": {
      "monstertube.com": [
-      "monstertube.com/images/vjoin.",
       "monstertube.com/images/access_",
-      "monstertube.com/images/vjoin_",
-      "monstertube.com/images/bottom-features.jpg"
+      "monstertube.com/images/bottom-features.jpg",
+      "monstertube.com/images/vjoin.",
+      "monstertube.com/images/vjoin_"
      ]
     }
    },
@@ -150027,10 +150013,10 @@
    {
     "mrstiff.com": {
      "mrstiff.com": [
+      "mrstiff.com/view/movie/finished/",
       "mrstiff.com/view/context/",
-      "mrstiff.com/uploads/paysite/",
       "mrstiff.com/view/movie/bar/",
-      "mrstiff.com/view/movie/finished/"
+      "mrstiff.com/uploads/paysite/"
      ]
     }
    },
@@ -150137,8 +150123,8 @@
    {
     "niceyoungteens.com": {
      "niceyoungteens.com": [
-      "niceyoungteens.com/mct.js",
-      "niceyoungteens.com/ero-advertising"
+      "niceyoungteens.com/ero-advertising",
+      "niceyoungteens.com/mct.js"
      ]
     }
    },
@@ -150146,8 +150132,8 @@
     "nonktube.com": {
      "nonktube.com": [
       "nonktube.com/brazzers/",
-      "nonktube.com/nuevox/midroll.php",
-      "nonktube.com/popembed.js"
+      "nonktube.com/popembed.js",
+      "nonktube.com/nuevox/midroll.php"
      ]
     }
    },
@@ -150161,9 +150147,9 @@
    {
     "ns4w.org": {
      "ns4w.org": [
-      "ns4w.org/gsm.js",
       "ns4w.org/images/promo/",
-      "ns4w.org/images/vod_"
+      "ns4w.org/images/vod_",
+      "ns4w.org/gsm.js"
      ]
     }
    },
@@ -150224,8 +150210,8 @@
    {
     "onlinestars.net": {
      "onlinestars.net": [
-      "onlinestars.net/ban/",
-      "onlinestars.net/br/"
+      "onlinestars.net/br/",
+      "onlinestars.net/ban/"
      ]
     }
    },
@@ -150253,8 +150239,8 @@
    {
     "pastime.biz": {
      "pastime.biz": [
-      "pastime.biz/images/iloveint.gif",
       "pastime.biz/images/interracial-porn.gif",
+      "pastime.biz/images/iloveint.gif",
       "pastime.biz"
      ]
     }
@@ -150269,21 +150255,21 @@
    {
     "perfectgirls.net": {
      "perfectgirls.net": [
-      "perfectgirls.net/exo/",
-      "perfectgirls.net/b/"
+      "perfectgirls.net/b/",
+      "perfectgirls.net/exo/"
      ]
     }
    },
    {
     "phncdn.com": {
      "phncdn.com": [
-      "phncdn.com",
       "phncdn.com/images/skin/",
-      "phncdn.com/mobile/js/interstitial-min.js",
-      "phncdn.com/images/premium_",
       "phncdn.com/iframe",
+      "phncdn.com",
       "phncdn.com/images/banners/",
-      "phncdn.com/images/premium/"
+      "phncdn.com/mobile/js/interstitial-min.js",
+      "phncdn.com/images/premium/",
+      "phncdn.com/images/premium_"
      ]
     }
    },
@@ -150319,8 +150305,8 @@
    {
     "picsexhub.com": {
      "picsexhub.com": [
-      "picsexhub.com/js/pops.",
       "picsexhub.com/rec/",
+      "picsexhub.com/js/pops.",
       "picsexhub.com/js/pops2."
      ]
     }
@@ -150351,35 +150337,35 @@
    {
     "picxme.com": {
      "picxme.com": [
-      "picxme.com/rec/",
-      "picxme.com/js/pops."
+      "picxme.com/js/pops.",
+      "picxme.com/rec/"
      ]
     }
    },
    {
     "pink-o-rama.com": {
      "pink-o-rama.com": [
+      "pink-o-rama.com/Brothersincash",
       "pink-o-rama.com/Nscash",
       "pink-o-rama.com/Fetishhits",
-      "pink-o-rama.com/Teendreams",
-      "pink-o-rama.com/Gammae",
-      "pink-o-rama.com/Royalcash/",
       "pink-o-rama.com/Karups",
+      "pink-o-rama.com/Teendreams",
       "pink-o-rama.com/Fuckyou",
-      "pink-o-rama.com/Brothersincash",
-      "pink-o-rama.com/Longbucks/",
       "pink-o-rama.com/Privatecash",
+      "pink-o-rama.com/Royalcash/",
+      "pink-o-rama.com/Blazingbucks",
       "pink-o-rama.com/Pimproll/",
-      "pink-o-rama.com/Blazingbucks"
+      "pink-o-rama.com/Gammae",
+      "pink-o-rama.com/Longbucks/"
      ]
     }
    },
    {
     "pinkrod.com": {
      "pinkrod.com": [
-      "pinkrod.com/pinkrod_html/",
+      "pinkrod.com/iframes/",
       "pinkrod.com/js/adppinkrod",
-      "pinkrod.com/iframes/"
+      "pinkrod.com/pinkrod_html/"
      ]
     }
    },
@@ -150435,12 +150421,12 @@
    {
     "porn-w.org": {
      "porn-w.org": [
-      "porn-w.org/images/chs.gif",
-      "porn-w.org/images/zevera.png",
+      "porn-w.org/images/lsb.gif",
       "porn-w.org/images/cosy/",
-      "porn-w.org/chili.php",
       "porn-w.org/images/ls.gif",
-      "porn-w.org/images/lsb.gif"
+      "porn-w.org/chili.php",
+      "porn-w.org/images/zevera.png",
+      "porn-w.org/images/chs.gif"
      ]
     }
    },
@@ -150462,17 +150448,17 @@
    {
     "porn8x.net": {
      "porn8x.net": [
-      "porn8x.net/js/popup.js",
-      "porn8x.net/js/outtrade.js"
+      "porn8x.net/js/outtrade.js",
+      "porn8x.net/js/popup.js"
      ]
     }
    },
    {
     "pornalized.com": {
      "pornalized.com": [
-      "pornalized.com/js/adppornalized5.js",
+      "pornalized.com/pornalized_html/closetoplay_",
       "pornalized.com/contents/content_sources/",
-      "pornalized.com/pornalized_html/closetoplay_"
+      "pornalized.com/js/adppornalized5.js"
      ]
     }
    },
@@ -150501,11 +150487,11 @@
    {
     "pornbus.org": {
      "pornbus.org": [
+      "pornbus.org/includes/js/ex.js",
+      "pornbus.org/includes/js/layer.js",
       "pornbus.org/includes/js/cat.js",
       "pornbus.org/includes/js/bgcont.js",
-      "pornbus.org/includes/js/exa.js",
-      "pornbus.org/includes/js/ex.js",
-      "pornbus.org/includes/js/layer.js"
+      "pornbus.org/includes/js/exa.js"
      ]
     }
    },
@@ -150549,17 +150535,17 @@
     "pornhub.com": {
      "pornhub.com": [
       "pornhub.com/catagories/costume/",
+      "pornhub.com/jpg/",
       "pornhub.com/front/alternative/",
-      "pornhub.com/channels/pay/",
-      "pornhub.com/jpg/"
+      "pornhub.com/channels/pay/"
      ]
     }
    },
    {
     "pornhub.phncdn.com": {
      "pornhub.phncdn.com": [
-      "pornhub.phncdn.com/misc/xml/preroll.xml",
-      "pornhub.phncdn.com/images/campaign-backgrounds/"
+      "pornhub.phncdn.com/images/campaign-backgrounds/",
+      "pornhub.phncdn.com/misc/xml/preroll.xml"
      ]
     }
    },
@@ -150580,10 +150566,10 @@
    {
     "pornmaturetube.com": {
      "pornmaturetube.com": [
-      "pornmaturetube.com/eureka/",
-      "pornmaturetube.com/content/",
       "pornmaturetube.com/content2/",
-      "pornmaturetube.com/show_adv."
+      "pornmaturetube.com/show_adv.",
+      "pornmaturetube.com/eureka/",
+      "pornmaturetube.com/content/"
      ]
     }
    },
@@ -150597,10 +150583,10 @@
    {
     "pornoid.com": {
      "pornoid.com": [
-      "pornoid.com/js/adppornoid",
       "pornoid.com/pornoid_html/",
+      "pornoid.com/iframes/bottom",
       "pornoid.com/contents/content_sources/",
-      "pornoid.com/iframes/bottom"
+      "pornoid.com/js/adppornoid"
      ]
     }
    },
@@ -150614,8 +150600,8 @@
    {
     "pornorips.com": {
      "pornorips.com": [
-      "pornorips.com/hwpop.js",
-      "pornorips.com"
+      "pornorips.com",
+      "pornorips.com/hwpop.js"
      ]
     }
    },
@@ -150659,8 +150645,8 @@
    {
     "pornshare.biz": {
      "pornshare.biz": [
-      "pornshare.biz/1.js",
-      "pornshare.biz/2.js"
+      "pornshare.biz/2.js",
+      "pornshare.biz/1.js"
      ]
     }
    },
@@ -150689,8 +150675,8 @@
    {
     "porntube.com": {
      "porntube.com": [
-      "porntube.com/adb/",
-      "porntube.com/ads|"
+      "porntube.com/ads|",
+      "porntube.com/adb/"
      ]
     }
    },
@@ -150796,28 +150782,28 @@
    {
     "realgfporn.com": {
      "realgfporn.com": [
-      "realgfporn.com/js/realgfporn.js",
-      "realgfporn.com/js/popall.js"
+      "realgfporn.com/js/popall.js",
+      "realgfporn.com/js/realgfporn.js"
      ]
     }
    },
    {
     "realhomesex.net": {
      "realhomesex.net": [
-      "realhomesex.net/pop/",
-      "realhomesex.net/floater.js"
+      "realhomesex.net/floater.js",
+      "realhomesex.net/pop/"
      ]
     }
    },
    {
     "redtube.com": {
      "redtube.com": [
-      "redtube.com/bestporn/",
-      "redtube.com/sexychicks/",
       "redtube.com/barelylegal/",
-      "redtube.com/nymphos/",
+      "redtube.com/wierd/",
+      "redtube.com/sexychicks/",
       "redtube.com",
-      "redtube.com/wierd/"
+      "redtube.com/nymphos/",
+      "redtube.com/bestporn/"
      ]
     }
    },
@@ -150859,8 +150845,8 @@
    {
     "rule34.xxx": {
      "rule34.xxx": [
-      "rule34.xxx/bf/",
-      "rule34.xxx/r34.js"
+      "rule34.xxx/r34.js",
+      "rule34.xxx/bf/"
      ]
     }
    },
@@ -150874,8 +150860,8 @@
    {
     "russiansexytube.com": {
      "russiansexytube.com": [
-      "russiansexytube.com/js/spc_banners_init.js",
-      "russiansexytube.com/js/video_popup.js"
+      "russiansexytube.com/js/video_popup.js",
+      "russiansexytube.com/js/spc_banners_init.js"
      ]
     }
    },
@@ -150924,8 +150910,8 @@
    {
     "sensualgirls.org": {
      "sensualgirls.org": [
-      "sensualgirls.org/media/banners/",
-      "sensualgirls.org/banner/"
+      "sensualgirls.org/banner/",
+      "sensualgirls.org/media/banners/"
      ]
     }
    },
@@ -151004,8 +150990,8 @@
    {
     "sexuhot.com": {
      "sexuhot.com": [
-      "sexuhot.com/images/xbanner",
-      "sexuhot.com/splayer.js"
+      "sexuhot.com/splayer.js",
+      "sexuhot.com/images/xbanner"
      ]
     }
    },
@@ -151041,8 +151027,8 @@
    {
     "sexyclips.org": {
      "sexyclips.org": [
-      "sexyclips.org/i/130x500.gif",
-      "sexyclips.org/banners/"
+      "sexyclips.org/banners/",
+      "sexyclips.org/i/130x500.gif"
      ]
     }
    },
@@ -151077,8 +151063,8 @@
    {
     "shanbara.jp": {
      "shanbara.jp": [
-      "shanbara.jp/okusamadx.gif",
-      "shanbara.jp/300_200plus.jpg"
+      "shanbara.jp/300_200plus.jpg",
+      "shanbara.jp/okusamadx.gif"
      ]
     }
    },
@@ -151099,8 +151085,8 @@
    {
     "shooshtime.com": {
      "shooshtime.com": [
-      "shooshtime.com/ads/",
-      "shooshtime.com/images/chosenplugs/"
+      "shooshtime.com/images/chosenplugs/",
+      "shooshtime.com/ads/"
      ]
     }
    },
@@ -151299,8 +151285,8 @@
    {
     "thefappeningblog.com": {
      "thefappeningblog.com": [
-      "thefappeningblog.com/icloud9.html",
-      "thefappeningblog.com/sproject/"
+      "thefappeningblog.com/sproject/",
+      "thefappeningblog.com/icloud9.html"
      ]
     }
    },
@@ -151321,17 +151307,17 @@
    {
     "thenipslip.com": {
      "thenipslip.com": [
-      "thenipslip.com/GGWDrunkenAd.jpg",
-      "thenipslip.com/mfcbanner.gif"
+      "thenipslip.com/mfcbanner.gif",
+      "thenipslip.com/GGWDrunkenAd.jpg"
      ]
     }
    },
    {
     "thenude.eu": {
      "thenude.eu": [
-      "thenude.eu/media/mxg/",
       "thenude.eu/images/sexart_sidebar.png",
-      "thenude.eu/affiliates/"
+      "thenude.eu/affiliates/",
+      "thenude.eu/media/mxg/"
      ]
     }
    },
@@ -151353,8 +151339,8 @@
     "thisav.com": {
      "thisav.com": [
       "thisav.com/0628.",
-      "thisav.com/js/pu.js",
-      "thisav.com/js/thisav_pop.js"
+      "thisav.com/js/thisav_pop.js",
+      "thisav.com/js/pu.js"
      ]
     }
    },
@@ -151384,9 +151370,9 @@
    {
     "tnaflix.com": {
      "tnaflix.com": [
+      "tnaflix.com",
       "tnaflix.com/banner/",
       "tnaflix.com/display.php",
-      "tnaflix.com",
       "tnaflix.com/flixPlayerImages/"
      ]
     }
@@ -151424,8 +151410,8 @@
    {
     "twinsporn.net": {
      "twinsporn.net": [
-      "twinsporn.net/images/free-penis-pills.png",
-      "twinsporn.net/images/delay.gif"
+      "twinsporn.net/images/delay.gif",
+      "twinsporn.net/images/free-penis-pills.png"
      ]
     }
    },
@@ -151482,9 +151468,9 @@
    {
     "vid2c.com": {
      "vid2c.com": [
-      "vid2c.com/js/atxpp.js",
-      "vid2c.com/js/pp.js",
       "vid2c.com/pap.js",
+      "vid2c.com/js/pp.js",
+      "vid2c.com/js/atxpp.js",
       "vid2c.com/pp.js"
      ]
     }
@@ -151523,8 +151509,8 @@
    {
     "voyeurhit.com": {
      "voyeurhit.com": [
-      "voyeurhit.com/related/voyeurhit.php",
-      "voyeurhit.com/contents/content_sources/"
+      "voyeurhit.com/contents/content_sources/",
+      "voyeurhit.com/related/voyeurhit.php"
      ]
     }
    },
@@ -151587,8 +151573,8 @@
    {
     "watchmygf.me": {
      "watchmygf.me": [
-      "watchmygf.me/contents/content_sources/",
-      "watchmygf.me/banner/"
+      "watchmygf.me/banner/",
+      "watchmygf.me/contents/content_sources/"
      ]
     }
    },
@@ -151670,8 +151656,8 @@
    {
     "wunbuck.com": {
      "wunbuck.com": [
-      "wunbuck.com/_odd_images/banners/",
-      "wunbuck.com/iframes/aaw_leaderboard.html"
+      "wunbuck.com/iframes/aaw_leaderboard.html",
+      "wunbuck.com/_odd_images/banners/"
      ]
     }
    },
@@ -151713,19 +151699,19 @@
    {
     "xbutter.com": {
      "xbutter.com": [
-      "xbutter.com/geturl.php/",
+      "xbutter.com/js/pop-er.js",
       "xbutter.com/adz.html",
-      "xbutter.com/js/pop-er.js"
+      "xbutter.com/geturl.php/"
      ]
     }
    },
    {
     "xcritic.com": {
      "xcritic.com": [
-      "xcritic.com/images/watch-",
+      "xcritic.com/images/buy-",
       "xcritic.com/img/200x150_",
       "xcritic.com/images/rent-",
-      "xcritic.com/images/buy-"
+      "xcritic.com/images/watch-"
      ]
     }
    },
@@ -151761,9 +151747,9 @@
     "xozilla.com": {
      "xozilla.com": [
       "xozilla.com/player/html.php",
+      "xozilla.com/js/pu.js",
       "xozilla.com/agent.php",
-      "xozilla.com/62ca745f.js",
-      "xozilla.com/js/pu.js"
+      "xozilla.com/62ca745f.js"
      ]
     }
    },
@@ -151798,8 +151784,8 @@
    {
     "xxvideo.us": {
      "xxvideo.us": [
-      "xxvideo.us/bnr.js",
       "xxvideo.us/playertext.html",
+      "xxvideo.us/bnr.js",
       "xxvideo.us/ad728x15"
      ]
     }
@@ -151894,19 +151880,19 @@
     "youngpornvideos.com": {
      "youngpornvideos.com": [
       "youngpornvideos.com/images/teencash/",
-      "youngpornvideos.com/images/webmasterdelightlinks/",
-      "youngpornvideos.com/images/mofoscash/",
       "youngpornvideos.com/images/bangbros/",
       "youngpornvideos.com/images/glamglam/",
-      "youngpornvideos.com/images/wmasterthecoolporn/"
+      "youngpornvideos.com/images/wmasterthecoolporn/",
+      "youngpornvideos.com/images/webmasterdelightlinks/",
+      "youngpornvideos.com/images/mofoscash/"
      ]
     }
    },
    {
     "youporn.com": {
      "youporn.com": [
-      "youporn.com/watch_postroll/",
-      "youporn.com/capedorset/"
+      "youporn.com/capedorset/",
+      "youporn.com/watch_postroll/"
      ]
     }
    },
@@ -151927,8 +151913,8 @@
    {
     "yourdarkdesires.com": {
      "yourdarkdesires.com": [
-      "yourdarkdesires.com/3.html",
       "yourdarkdesires.com/2.html",
+      "yourdarkdesires.com/3.html",
       "yourdarkdesires.com/1.html"
      ]
     }
@@ -151936,8 +151922,8 @@
    {
     "yourlust.com": {
      "yourlust.com": [
-      "yourlust.com/im/onpause.html",
-      "yourlust.com/im/postroll.html"
+      "yourlust.com/im/postroll.html",
+      "yourlust.com/im/onpause.html"
      ]
     }
    },
@@ -151965,8 +151951,8 @@
    {
     "yporn.tv": {
      "yporn.tv": [
-      "yporn.tv/uploads/flv_player/commercials/",
-      "yporn.tv/uploads/flv_player/midroll_images/"
+      "yporn.tv/uploads/flv_player/midroll_images/",
+      "yporn.tv/uploads/flv_player/commercials/"
      ]
     }
    },

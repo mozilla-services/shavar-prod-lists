@@ -103,9 +103,9 @@
    {
     "amazonaws.com": {
      "amazonaws.com": [
-      "amazonaws.com",
+      "amazonaws.com/fby/",
       "amazonaws.com/fby.js",
-      "amazonaws.com/fby/"
+      "amazonaws.com"
      ]
     }
    },
@@ -329,8 +329,8 @@
    {
     "bufferapp.com": {
      "bufferapp.com": [
-      "bufferapp.com",
-      "bufferapp.com/js/button.js"
+      "bufferapp.com/js/button.js",
+      "bufferapp.com"
      ]
     }
    },
@@ -386,14 +386,14 @@
    {
     "cloudfront.net": {
      "cloudfront.net": [
-      "cloudfront.net/linkedin/",
       "cloudfront.net/googleplus/",
       "cloudfront.net",
+      "cloudfront.net/instagram/",
       "cloudfront.net/twitter/",
-      "cloudfront.net/facebookpage/",
-      "cloudfront.net/js/slide.js",
       "cloudfront.net/facebook/",
-      "cloudfront.net/instagram/"
+      "cloudfront.net/facebookpage/",
+      "cloudfront.net/linkedin/",
+      "cloudfront.net/js/slide.js"
      ]
     }
    },
@@ -841,8 +841,8 @@
    {
     "google.com": {
      "google.com": [
-      "google.com/uds/",
       "google.com/_/+1/",
+      "google.com/uds/",
       "google.com"
      ]
     }
@@ -1194,8 +1194,8 @@
    {
     "mailjet.com": {
      "mailjet.com": [
-      "mailjet.com/statics/js/widget.modal.js",
-      "mailjet.com/widget/"
+      "mailjet.com/widget/",
+      "mailjet.com/statics/js/widget.modal.js"
      ]
     }
    },
@@ -1496,8 +1496,8 @@
    {
     "plista.com": {
      "plista.com": [
-      "plista.com",
-      "plista.com/like.php"
+      "plista.com/like.php",
+      "plista.com"
      ]
     }
    },
@@ -1721,9 +1721,9 @@
    {
     "sail-horizon.com": {
      "sail-horizon.com": [
-      "sail-horizon.com/scout/",
       "sail-horizon.com/horizon/",
-      "sail-horizon.com"
+      "sail-horizon.com",
+      "sail-horizon.com/scout/"
      ]
     }
    },
@@ -1835,8 +1835,8 @@
    {
     "sheknows.com": {
      "sheknows.com": [
-      "sheknows.com/widget/",
-      "sheknows.com/api/module"
+      "sheknows.com/api/module",
+      "sheknows.com/widget/"
      ]
     }
    },
@@ -2957,8 +2957,8 @@
    {
     "apis.google.com": {
      "apis.google.com": [
-      "apis.google.com/js/platform.js",
-      "apis.google.com"
+      "apis.google.com",
+      "apis.google.com/js/platform.js"
      ]
     }
    },
@@ -2973,8 +2973,8 @@
    {
     "assets.tumblr.com": {
      "assets.tumblr.com": [
-      "assets.tumblr.com/assets/html/iframe/o.html",
-      "assets.tumblr.com/assets/html/iframe/teaser.html"
+      "assets.tumblr.com/assets/html/iframe/teaser.html",
+      "assets.tumblr.com/assets/html/iframe/o.html"
      ]
     }
    },
@@ -3135,27 +3135,27 @@
    {
     "facebook.com": {
      "facebook.com": [
-      "facebook.com/plugins/subscribe",
-      "facebook.com/whitepages/wpminiprofile.php",
-      "facebook.com/plugins/page.php",
-      "facebook.com/plugins/fan.php",
       "facebook.com/connect/connect.php",
-      "facebook.com/restserver.php",
-      "facebook.com/widgets/activity.php",
-      "facebook.com/plugins/facepile.php",
-      "facebook.com/plugins/likebox/",
-      "facebook.com/plugins/like_box.php",
-      "facebook.com/widgets/fan.php",
       "facebook.com/plugins/recommendations.php",
-      "facebook.com/plugins/follow",
-      "facebook.com/plugins/activity.php",
-      "facebook.com/plugins/send.php",
-      "facebook.com/plugins/subscribe.php",
-      "facebook.com/plugins/recommendations_bar.php",
-      "facebook.com",
       "facebook.com/plugins/follow.php",
+      "facebook.com/plugins/like_box.php",
+      "facebook.com/plugins/facepile.php",
+      "facebook.com",
+      "facebook.com/plugins/likebox/",
+      "facebook.com/plugins/activity.php",
+      "facebook.com/plugins/fan.php",
+      "facebook.com/plugins/recommendations_bar.php",
+      "facebook.com/plugins/send.php",
+      "facebook.com/whitepages/wpminiprofile.php",
+      "facebook.com/widgets/recommendations.php",
+      "facebook.com/plugins/page.php",
+      "facebook.com/widgets/activity.php",
+      "facebook.com/plugins/subscribe.php",
+      "facebook.com/widgets/fan.php",
       "facebook.com/plugins/save.php",
-      "facebook.com/widgets/recommendations.php"
+      "facebook.com/restserver.php",
+      "facebook.com/plugins/subscribe",
+      "facebook.com/plugins/follow"
      ]
     }
    },
@@ -3372,8 +3372,8 @@
    {
     "linkedin.com": {
      "linkedin.com": [
-      "linkedin.com/img/",
       "linkedin.com/uas/js/userspace",
+      "linkedin.com/img/",
       "linkedin.com/countserv/"
      ]
     }
@@ -3458,9 +3458,9 @@
    {
     "pinterest.com": {
      "pinterest.com": [
-      "pinterest.com/js/pinit_main.js",
+      "pinterest.com/images/",
       "pinterest.com/v1/urls/count.json",
-      "pinterest.com/images/"
+      "pinterest.com/js/pinit_main.js"
      ]
     }
    },
@@ -3495,8 +3495,8 @@
    {
     "platform.twitter.com": {
      "platform.twitter.com": [
-      "platform.twitter.com/anywhere.js",
-      "platform.twitter.com/js/button."
+      "platform.twitter.com/js/button.",
+      "platform.twitter.com/anywhere.js"
      ]
     }
    },
@@ -3538,13 +3538,13 @@
    {
     "reddit.com": {
      "reddit.com": [
-      "reddit.com/button.js",
+      "reddit.com/domain/",
       "reddit.com/static/",
-      "reddit.com/api/info.json",
       "reddit.com/buttonlite.js",
       "reddit.com/buttonlite",
       "reddit.com",
-      "reddit.com/domain/"
+      "reddit.com/button.js",
+      "reddit.com/api/info.json"
      ]
     }
    },
@@ -3777,9 +3777,9 @@
    {
     "stumbleupon.com": {
      "stumbleupon.com": [
-      "stumbleupon.com/services/",
+      "stumbleupon.com/hostedbadge",
       "stumbleupon.com/badge/",
-      "stumbleupon.com/hostedbadge"
+      "stumbleupon.com/services/"
      ]
     }
    },
@@ -3877,10 +3877,10 @@
    {
     "twitter.com": {
      "twitter.com": [
-      "twitter.com/i/jot",
-      "twitter.com/account/",
+      "twitter.com/javascripts/",
       "twitter.com",
-      "twitter.com/javascripts/"
+      "twitter.com/account/",
+      "twitter.com/i/jot"
      ]
     }
    },
@@ -3929,20 +3929,20 @@
    {
     "vk.com": {
      "vk.com": [
-      "vk.com/widget_community_messages.php",
       "vk.com/images/",
-      "vk.com/widget_like.php",
+      "vk.com/widget_community.php",
       "vk.com/share.php",
-      "vk.com/widget_community.php"
+      "vk.com/widget_like.php",
+      "vk.com/widget_community_messages.php"
      ]
     }
    },
    {
     "vkontakte.ru": {
      "vkontakte.ru": [
+      "vkontakte.ru/widget_community.php",
       "vkontakte.ru/share.php",
-      "vkontakte.ru/widget_like.php",
-      "vkontakte.ru/widget_community.php"
+      "vkontakte.ru/widget_like.php"
      ]
     }
    },
@@ -4092,8 +4092,8 @@
    {
     "youtube.com": {
      "youtube.com": [
-      "youtube.com/subscribe_embed",
-      "youtube.com/subscribe_widget"
+      "youtube.com/subscribe_widget",
+      "youtube.com/subscribe_embed"
      ]
     }
    },
@@ -4471,8 +4471,8 @@
    {
     "cultofmac.com": {
      "cultofmac.com": [
-      "cultofmac.com/e2ma.js",
-      "cultofmac.com"
+      "cultofmac.com",
+      "cultofmac.com/e2ma.js"
      ]
     }
    },
@@ -4680,13 +4680,6 @@
     }
    },
    {
-    "orain.org": {
-     "orain.org": [
-      "orain.org/w/index.php/Special:BannerRandom"
-     ]
-    }
-   },
-   {
     "planelogger.com": {
      "planelogger.com": [
       "planelogger.com"
@@ -4787,8 +4780,8 @@
    {
     "winhelponline.com": {
      "winhelponline.com": [
-      "winhelponline.com/facebook.png",
-      "winhelponline.com/feed.png"
+      "winhelponline.com/feed.png",
+      "winhelponline.com/facebook.png"
      ]
     }
    },
@@ -4803,8 +4796,8 @@
    {
     "xhamster.com": {
      "xhamster.com": [
-      "xhamster.com/ajax/cams-widget/",
-      "xhamster.com/ajax/wid-cams-widget/"
+      "xhamster.com/ajax/wid-cams-widget/",
+      "xhamster.com/ajax/cams-widget/"
      ]
     }
    },
@@ -5225,10 +5218,10 @@
    {
     "kuwaittimes.net": {
      "kuwaittimes.net": [
+      "kuwaittimes.net/yt.",
       "kuwaittimes.net/in.",
       "kuwaittimes.net/tw.",
-      "kuwaittimes.net/fb.",
-      "kuwaittimes.net/yt."
+      "kuwaittimes.net/fb."
      ]
     }
    },
@@ -5322,8 +5315,8 @@
    {
     "schwalbe.co.uk": {
      "schwalbe.co.uk": [
-      "schwalbe.co.uk/_webedit/cached-images/174-37-38-0-0-37-38",
-      "schwalbe.co.uk/_webedit/cached-images/172-37-38-0-0-37-38"
+      "schwalbe.co.uk/_webedit/cached-images/172-37-38-0-0-37-38",
+      "schwalbe.co.uk/_webedit/cached-images/174-37-38-0-0-37-38"
      ]
     }
    },
@@ -6006,12 +5999,12 @@
    {
     "draugiem.lv": {
      "draugiem.lv": [
-      "draugiem.lv",
-      "draugiem.lv/business/ext/fans/",
-      "draugiem.lv/lapas/widgets/",
-      "draugiem.lv/say/ext/recommend.php",
       "draugiem.lv/say/ext/like.php",
-      "draugiem.lv/business/ext/follow/"
+      "draugiem.lv/say/ext/recommend.php",
+      "draugiem.lv/business/ext/fans/",
+      "draugiem.lv/business/ext/follow/",
+      "draugiem.lv/lapas/widgets/",
+      "draugiem.lv"
      ]
     }
    },
@@ -6151,9 +6144,9 @@
    {
     "nioutaik.fr": {
      "nioutaik.fr": [
-      "nioutaik.fr/themes/freshy/images/googlepeuluss.gif",
+      "nioutaik.fr/themes/freshy/images/facedebouc.gif",
       "nioutaik.fr/themes/freshy/images/zoiseau.gif",
-      "nioutaik.fr/themes/freshy/images/facedebouc.gif"
+      "nioutaik.fr/themes/freshy/images/googlepeuluss.gif"
      ]
     }
    },
