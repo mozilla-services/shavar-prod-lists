@@ -1138,14 +1138,6 @@
         }
       },
       {
-        "AkroseLabs": {
-          "https://www.arkoselabs.com/index.html": [
-            "funcaptcha.com"
-          ],
-          "fingerprinting": "true"
-        }
-      },
-      {
         "AllStar Media": {
           "http://allstarmediagroup.com/": [
             "allstarmediagroup.com"
