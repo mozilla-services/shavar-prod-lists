@@ -397,6 +397,14 @@
             "go-mpulse.net"
         ]
     },
+    "Sputnik.ru": {
+        "properties": [
+            "sputnik.ru"
+        ],
+        "resources": [
+            "sputnik.ru"
+        ]
+    },
     "Facebook": {
         "properties": [
             "facebook.com",
@@ -3684,15 +3692,6 @@
             "waterfrontmedia.com"
         ]
     },
-    "Evidon": {
-        "properties": [
-            "evidon.com"
-        ],
-        "resources": [
-            "evidon.com",
-            "betrad.com"
-        ]
-    },
     "Evisions Marketing": {
         "properties": [
             "evisionsmarketing.com",
@@ -3768,13 +3767,11 @@
     },
     "Experian": {
         "properties": [
-            "experian.com",
-            "pricegrabber.com"
+            "experian.com"
         ],
         "resources": [
             "experian.com",
-            "audienceiq.com",
-            "pricegrabber.com"
+            "audienceiq.com"
         ]
     },
     "Exponential Interactive": {
@@ -6947,6 +6944,14 @@
             "shopzilla.com"
         ]
     },
+    "Shortest": {
+        "properties": [
+            "shorte.st"
+        ],
+        "resources": [
+            "shorte.st"
+        ]
+    },
     "Signifyd": {
         "properties": [
             "signifyd.com"
@@ -8650,11 +8655,13 @@
     },
     "Connexity": {
         "properties": [
-            "connexity.com"
+            "connexity.com",
+            "pricegrabber.com"
         ],
         "resources": [
             "connexity.com",
-            "connexity.net"
+            "connexity.net",
+            "pricegrabber.com"
         ]
     },
     "Convert Insights": {
@@ -10599,11 +10606,10 @@
     },
     "Lockerz": {
         "properties": [
-            "addtoany.com"
+            "lockerz.com"
         ],
         "resources": [
-            "lockerz.com",
-            "addtoany.com"
+            "lockerz.com"
         ]
     },
     "Mail.Ru": {
