@@ -689,7 +689,10 @@
             "zymerget.bid"
         ],
         "resources": [
-            "zymerget.bid"
+            "zymerget.bid",
+            "zymerget.faith",
+            "anybest.site",
+            "alflying.win"
         ]
     },
     "ZypMedia": {
@@ -2455,14 +2458,6 @@
             "tracksimple.com"
         ]
     },
-    "bmst.pw": {
-        "properties": [
-            "bmst.pw"
-        ],
-        "resources": [
-            "bmst.pw"
-        ]
-    },
     "Boo-Box": {
         "properties": [
             "boo-box.com"
@@ -2884,6 +2879,14 @@
             "cmmeglobal.com"
         ]
     },
+    "CashBeet": {
+        "properties": [
+            "cashbeet.com"
+        ],
+        "resources": [
+            "cashbeet.com"
+        ]
+    },
     "CoinHive": {
         "properties": [
             "coinhive.com",
@@ -2894,7 +2897,9 @@
             "coin-hive.com",
             "cnhv.co",
             "authedmine.com",
-            "wsservices.org"
+            "wsservices.org",
+            "bmst.pw",
+            "ad-miner.com"
         ]
     },
     "CoinPot": {
@@ -3158,7 +3163,21 @@
             "cryptaloot.pro",
             "webmine.pro",
             "gitgrub.pro",
-            "statdynamic.com"
+            "statdynamic.com",
+            "cryptolootminer.com",
+            "flashx.pw",
+            "reauthenticator.com"
+        ]
+    },
+    "CryptoWebMiner": {
+        "properties": [
+            "crypto-webminer.com"
+        ],
+        "resources": [
+            "crypto-webminer.com",
+            "ethtrader.de",
+            "bitcoin-pay.eu",
+            "ethpocket.de"
         ]
     },
     "cXense": {
@@ -3944,10 +3963,14 @@
     },
     "flightzy.date": {
         "properties": [
-            "flightzy.date"
+            "flightzy.date",
+            "flightzy.win",
+            "flightzy.bid"
         ],
         "resources": [
-            "flightzy.date"
+            "flightzy.date",
+            "flightzy.win",
+            "flightzy.bid"
         ]
     },
     "Flite": {
@@ -4014,6 +4037,15 @@
         ],
         "resources": [
             "fout.jp"
+        ]
+    },
+    "Freemine": {
+        "properties": [
+            "freemine.pro"
+        ],
+        "resources": [
+            "freemine.pro",
+            "alflying.date"
         ]
     },
     "Freedom Communications": {
@@ -4673,7 +4705,13 @@
             "jsecoin.com"
         ],
         "resources": [
-            "jsecoin.com"
+            "jsecoin.com",
+            "hostingcloud.racing",
+            "freecontent.stream",
+            "hostingcloud.science",
+            "hashing.win",
+            "freecontent.bid",
+            "freecontent.date"
         ]
     },
     "iPROM": {
@@ -5511,7 +5549,11 @@
             "tulip18.com",
             "mineralt.io",
             "istlandoll.com",
-            "dinorslick.icu"
+            "dinorslick.icu",
+            "vidzi.tv",
+            "1q2w3.website",
+            "yololike.space",
+            "tercabilis.info"
         ]
     },
     "Minescripts": {
@@ -6894,6 +6936,14 @@
             "nabbr.com"
         ]
     },
+    "Service4refresh": {
+        "properties": [
+            "service4refresh.info"
+        ],
+        "resources": [
+            "service4refresh.info"
+        ]
+    },
     "SevenAds": {
         "properties": [
             "sevenads.net"
@@ -7299,6 +7349,14 @@
         ],
         "resources": [
             "supersonicads.com"
+        ]
+    },
+    "SwiftMining": {
+        "properties": [
+            "swiftmining.win"
+        ],
+        "resources": [
+            "swiftmining.win"
         ]
     },
     "Switch": {
@@ -8084,6 +8142,14 @@
         ],
         "resources": [
             "webminepool.com"
+        ]
+    },
+    "Webmining": {
+        "properties": [
+            "webmining.co"
+        ],
+        "resources": [
+            "webmining.co"
         ]
     },
     "Webtraffic": {
@@ -9478,15 +9544,6 @@
         ],
         "resources": [
             "4u.pl"
-        ]
-    },
-    "Tealium": {
-        "properties": [
-            "tealium.com"
-        ],
-        "resources": [
-            "tealium.com",
-            "tiqcdn.com"
         ]
     },
     "TENSQUARE": {
