@@ -641,6 +641,16 @@
         "admatrix.jp"
       ]
     },
+    "AdMaven": {
+      "properties": [
+        "ad-maven.com"
+      ],
+      "resources": [
+        "rensovetors.info",
+        "boudja.com",
+        "ad-maven.com"
+      ]
+    },
     "AdMaximizer Network": {
       "properties": [
         "admaximizer.com"
@@ -1897,6 +1907,18 @@
         "w3roi.com"
       ]
     },
+    "Azet": {
+      "properties": [
+        "mediaimpact.sk",
+        "azet.sk"
+      ],
+      "resources": [
+        "mediaimpact.sk",
+        "azet.sk",
+        "rsz.sk",
+        "azetklik.sk"
+      ]
+    },
     "BackBeat Media": {
       "properties": [
         "backbeatmedia.com"
@@ -2275,7 +2297,8 @@
         "brightedge.com"
       ],
       "resources": [
-        "brightedge.com"
+        "brightedge.com",
+        "b0e8.com"
       ]
     },
     "BrightRoll": {
@@ -2726,6 +2749,20 @@
       "resources": [
         "clickdistrict.com",
         "creative-serving.com"
+      ]
+    },
+    "ClickFrog": {
+      "properties": [
+        "clickfrog.ru"
+      ],
+      "resources": [
+        "quitzon.net",
+        "bashirian.biz",
+        "franecki.net",
+        "buckridge.link",
+        "wisokykulas.bid",
+        "reichelcormier.bid",
+        "clickfrog.ru"
       ]
     },
     "ClickFuel": {
@@ -3594,10 +3631,12 @@
     },
     "Disqus": {
       "properties": [
-        "disqus.com"
+        "disqus.com",
+        "disqusads.com"
       ],
       "resources": [
-        "disqus.com"
+        "disqus.com",
+        "disqusads.com"
       ]
     },
     "dmpxs": {
@@ -4207,6 +4246,14 @@
         "faithadnet.com"
       ]
     },
+    "Fanplayr": {
+      "properties": [
+        "fanplayr.com"
+      ],
+      "resources": [
+        "fanplayr.com"
+      ]
+    },
     "Fathom": {
       "properties": [
         "fathomdelivers.com",
@@ -4626,6 +4673,14 @@
       "resources": [
         "glammedia.com",
         "glam.com"
+      ]
+    },
+    "Gleam": {
+      "properties": [
+        "gleam.io"
+      ],
+      "resources": [
+        "gleam.io"
       ]
     },
     "Global Takeoff": {
@@ -7754,6 +7809,14 @@
         "pictela.net"
       ]
     },
+    "PinPoll": {
+      "properties": [
+        "pinpoll.com"
+      ],
+      "resources": [
+        "pinpoll.com"
+      ]
+    },
     "Pinterest": {
       "properties": [
         "pinterest.com",
@@ -7923,6 +7986,14 @@
         "powerlinks.com"
       ]
     },
+    "PPCProtect": {
+      "properties": [
+        "ppcprotect.com"
+      ],
+      "resources": [
+        "ppcprotect.com"
+      ]
+    },
     "PrecisionClick": {
       "properties": [
         "precisionclick.com"
@@ -7970,6 +8041,14 @@
         "dashboardad.net"
       ]
     },
+    "PrismApp": {
+      "properties": [
+        "prismapp.io"
+      ],
+      "resources": [
+        "prismapp.io"
+      ]
+    },
     "Proclivity": {
       "properties": [
         "proclivitysystems.com",
@@ -7987,6 +8066,14 @@
       ],
       "resources": [
         "projectwonderful.com"
+      ]
+    },
+    "PrometheusIntelligenceTechnology": {
+      "properties": [
+        "prometheusintelligencetechnology.com"
+      ],
+      "resources": [
+        "prometheusintelligencetechnology.com"
       ]
     },
     "Pronunciator": {
@@ -8549,6 +8636,15 @@
       "resources": [
         "samurai-factory.jp",
         "shinobi.jp"
+      ]
+    },
+    "SAP": {
+      "properties": [
+        "sap.com"
+      ],
+      "resources": [
+        "sap.com",
+        "seewhy.com"
       ]
     },
     "Sapient": {
@@ -10884,6 +10980,14 @@
       "resources": [
         "yume.com",
         "yumenetworks.com"
+      ]
+    },
+    "ZafulAffiliate": {
+      "properties": [
+        "zaful.com"
+      ],
+      "resources": [
+        "zaful.com"
       ]
     },
     "Zango": {

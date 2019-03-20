@@ -483,6 +483,15 @@
         }
       },
       {
+        "AdMaven": {
+          "https://ad-maven.com/": [
+            "rensovetors.info",
+            "boudja.com",
+            "ad-maven.com"
+          ]
+        }
+      },
+      {
         "AdMaximizer Network": {
           "http://admaximizer.com/": [
             "admaximizer.com"
@@ -1366,6 +1375,14 @@
         }
       },
       {
+        "Azet": {
+          "http://mediaimpact.sk/": [
+            "rsz.sk",
+            "azetklik.sk"
+          ]
+        }
+      },
+      {
         "BackBeat Media": {
           "http://www.backbeatmedia.com/": [
             "backbeatmedia.com"
@@ -1860,6 +1877,13 @@
         }
       },
       {
+        "ClickFrog": {
+          "https://clickfrog.ru/": [
+            "clickfrog.ru"
+          ]
+        }
+      },
+      {
         "ClickFuel": {
           "http://clickfuel.com/": [
             "conversiondashboard.com"
@@ -2349,6 +2373,13 @@
         }
       },
       {
+        "Disqus": {
+          "http://disqus.com/": [
+            "disqusads.com"
+          ]
+        }
+      },
+      {
         "dmpxs": {
           "http://bob.dmpxs.com": [
             "dmpxs.com"
@@ -2743,6 +2774,13 @@
         }
       },
       {
+        "Fanplayr": {
+          "https://fanplayr.com/": [
+            "fanplayr.com"
+          ]
+        }
+      },
+      {
         "Fathom": {
           "http://www.fathomdelivers.com/": [
             "fathomdelivers.com",
@@ -2980,6 +3018,13 @@
           "http://www.glammedia.com/": [
             "glam.com",
             "glammedia.com"
+          ]
+        }
+      },
+      {
+        "Gleam": {
+          "https://gleam.io/": [
+            "gleam.io"
           ]
         }
       },
@@ -4705,6 +4750,13 @@
         }
       },
       {
+        "PinPoll": {
+          "https://pinpoll.com/": [
+            "pinpoll.com"
+          ]
+        }
+      },
+      {
         "Pixel.sg": {
           "http://www.pixel.sg/": [
             "pixel.sg"
@@ -4814,6 +4866,13 @@
         }
       },
       {
+        "PPCProtect": {
+          "https://ppcprotect.com": [
+            "ppcprotect.com"
+          ]
+        }
+      },
+      {
         "PrecisionClick": {
           "http://www.precisionclick.com/": [
             "precisionclick.com"
@@ -4856,6 +4915,13 @@
         }
       },
       {
+        "PrismApp": {
+          "https://www.prismapp.io/": [
+            "prismapp.io"
+          ]
+        }
+      },
+      {
         "Proclivity": {
           "http://www.proclivitymedia.com/": [
             "proclivitymedia.com",
@@ -4868,6 +4934,13 @@
         "Project Wonderful": {
           "http://www.projectwonderful.com/": [
             "projectwonderful.com"
+          ]
+        }
+      },
+      {
+        "PrometheusIntelligenceTechnology": {
+          "https://prometheusintelligencetechnology.com/": [
+            "prometheusintelligencetechnology.com"
           ]
         }
       },
@@ -5233,6 +5306,13 @@
           "http://www.samurai-factory.jp/": [
             "samurai-factory.jp",
             "shinobi.jp"
+          ]
+        }
+      },
+      {
+        "SAP": {
+          "https://www.sap.com": [
+            "seewhy.com"
           ]
         }
       },
@@ -6526,6 +6606,15 @@
           "http://www.yume.com/": [
             "yume.com",
             "yumenetworks.com"
+          ]
+        }
+      },
+      {
+        "ZafulAffiliate": {
+          "https://affiliate.zaful.com/": [
+            "zaful.com",
+            "gw-ec.com",
+            "affasi.com"
           ]
         }
       },
@@ -7949,7 +8038,8 @@
       {
         "BrightEdge": {
           "http://www.brightedge.com/": [
-            "brightedge.com"
+            "brightedge.com",
+            "b0e8.com"
           ]
         }
       },
@@ -9243,6 +9333,15 @@
     ],
     "Fingerprinting": [
       {
+        "AdMaven": {
+          "https://ad-maven.com/": [
+            "rensovetors.info",
+            "boudja.com",
+            "ad-maven.com"
+          ]
+        }
+      },
+      {
         "Admicro": {
           "http://www.admicro.vn/": [
             "admicro.vn",
@@ -9281,6 +9380,14 @@
         }
       },
       {
+        "Azet": {
+          "http://mediaimpact.sk/": [
+            "rsz.sk",
+            "azetklik.sk"
+          ]
+        }
+      },
+      {
         "BlueCava": {
           "http://www.bluecava.com/": [
             "bluecava.com"
@@ -9291,6 +9398,13 @@
         "BoostBox": {
           "https://www.boostbox.com.br/": [
             "boostbox.com.br"
+          ]
+        }
+      },
+      {
+        "BrightEdge": {
+          "http://www.brightedge.com/": [
+            "b0e8.com"
           ]
         }
       },
@@ -9307,6 +9421,18 @@
         "Clickayab": {
           "http://www.clickyab.com": [
             "clickyab.com"
+          ]
+        }
+      },
+      {
+        "ClickFrog": {
+          "https://clickfrog.ru/": [
+            "quitzon.net",
+            "bashirian.biz",
+            "franecki.net",
+            "buckridge.link",
+            "wisokykulas.bid",
+            "reichelcormier.bid"
           ]
         }
       },
@@ -9340,10 +9466,24 @@
         }
       },
       {
+        "Fanplayr": {
+          "https://fanplayr.com/": [
+            "fanplayr.com"
+          ]
+        }
+      },
+      {
         "Foresee": {
           "https://www.foresee.com": [
             "answerscloud.com",
             "foresee.com"
+          ]
+        }
+      },
+      {
+        "Gleam": {
+          "https://gleam.io/": [
+            "gleam.io"
           ]
         }
       },
@@ -9412,6 +9552,13 @@
         }
       },
       {
+        "PinPoll": {
+          "https://pinpoll.com/": [
+            "pinpoll.com"
+          ]
+        }
+      },
+      {
         "PixAnalytics": {
           "https://pixanalytics.com/": [
             "pixanalytics.com"
@@ -9422,6 +9569,34 @@
         "Pixlee": {
           "https://www.pixlee.com/": [
             "pixlee.com"
+          ]
+        }
+      },
+      {
+        "PPCProtect": {
+          "https://ppcprotect.com": [
+            "ppcprotect.com"
+          ]
+        }
+      },
+      {
+        "PrismApp": {
+          "https://www.prismapp.io/": [
+            "prismapp.io"
+          ]
+        }
+      },
+      {
+        "PrometheusIntelligenceTechnology": {
+          "https://prometheusintelligencetechnology.com/": [
+            "prometheusintelligencetechnology.com"
+          ]
+        }
+      },
+      {
+        "SAP": {
+          "https://www.sap.com": [
+            "seewhy.com"
           ]
         }
       },
@@ -9487,6 +9662,15 @@
         "YSance": {
           "https://www.ysance.com/data-services/fr/home/": [
             "y-track.com"
+          ]
+        }
+      },
+      {
+        "ZafulAffiliate": {
+          "https://affiliate.zaful.com/": [
+            "zaful.com",
+            "gw-ec.com",
+            "affasi.com"
           ]
         }
       }
