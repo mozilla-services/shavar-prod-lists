@@ -1905,7 +1905,8 @@
       "automattic.com",
       "polldaddy.com",
       "gravatar.com",
-      "intensedebate.com"
+      "intensedebate.com",
+      "pubmine.com"
     ]
   },
   "Avalanchers": {
@@ -2117,7 +2118,8 @@
       "bidswitch.com"
     ],
     "resources": [
-      "bidswitch.net"
+      "bidswitch.net",
+      "mfadsrvr.com"
     ]
   },
   "Bidtellect": {
@@ -4022,6 +4024,14 @@
       "usemax.de"
     ]
   },
+  "Emerse": {
+    "properties": [
+      "emerse.com"
+    ],
+    "resources": [
+      "emerse.com"
+    ]
+  },
   "EMX": {
     "properties": [
       "emxdigital.com"
@@ -5765,14 +5775,6 @@
     "resources": [
       "intentmedia.com",
       "intentmedia.net"
-    ]
-  },
-  "Intercom": {
-    "properties": [
-      "intercom.io"
-    ],
-    "resources": [
-      "intercom.io"
     ]
   },
   "Intergi": {
