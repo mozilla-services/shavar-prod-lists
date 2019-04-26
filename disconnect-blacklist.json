@@ -5750,6 +5750,13 @@
         }
       },
       {
+        "Sojern": {
+          "https://www.sojern.com": [
+            "sojern.com"
+          ]
+        }
+      },
+      {
         "Sonobi": {
           "http://sonobi.com/": [
             "sonobi.com"
@@ -10738,7 +10745,6 @@
             "teracent.com",
             "teracent.net",
             "ytsa.net",
-            "googletagmanager.com",
             "adservice.google.com",
             "adservice.google.ca"
           ]
