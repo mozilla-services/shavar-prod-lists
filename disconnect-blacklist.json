@@ -1510,6 +1510,13 @@
         }
       },
       {
+        "Bidr": {
+          "http://bidr.io": [
+            "bidr.io"
+          ]
+        }
+      },
+      {
         "BidSwitch": {
           "https://www.bidswitch.com/": [
             "bidswitch.net",
@@ -3013,6 +3020,13 @@
         "Freedom Communications": {
           "http://www.freedom.com/": [
             "freedom.com"
+          ]
+        }
+      },
+      {
+        "FreeWheel": {
+          "http://www.freewheel.tv/": [
+            "stickyadstv.com"
           ]
         }
       },
@@ -8171,13 +8185,6 @@
         }
       },
       {
-        "AdScore": {
-          "http://www.adscoremarketing.com/": [
-            "adsco.re"
-          ]
-        }
-      },
-      {
         "Adventori": {
           "https://adventori.com": [
             "adventori.com"
@@ -9390,13 +9397,6 @@
         }
       },
       {
-        "TinyCloud": {
-          "https://www.tiny.cloud/": [
-            "tinymce.com"
-          ]
-        }
-      },
-      {
         "TNS": {
           "http://www.tnsglobal.com/": [
             "sesamestats.com",
@@ -10283,13 +10283,6 @@
         "TechSolutions": {
           "https://www.techsolutions.com.tw/": [
             "techsolutions.com.tw"
-          ]
-        }
-      },
-      {
-        "TinyCloud": {
-          "https://www.tiny.cloud/": [
-            "tinymce.com"
           ]
         }
       },
