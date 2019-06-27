@@ -21,8 +21,9 @@ versions of the blacklist: the "Basic protection" list, which excludes the
 A vestige of the list is the "Disconnect" category, which contains Facebook,
 Twitter, and Google domains. Domains from this category are remapped into the
 Social, Advertising, or Analytics categories as described
-[here](https://github.com/mozilla-services/shavar-list-creation/blob/57688d9fbb9531df4a7cc10084f0bb0c37080028/disconnect_mapping.py)
-This remapping is temporary until the list is updated to fix these issues.
+[here](https://github.com/mozilla-services/shavar-list-creation/blob/master/disconnect_mapping.json).
+This remapping occurs at the time of list creation, so the Social, Analytics,
+and Advertising lists consumed by Firefox will contain these domains.
 
 ### Entity list
 Tracking protection technically works by blocking loads from blocked domains. But the Entity List conceptually changes it, so that it is no longer about domains, but about the companies. If you are visiting a website, engaged 1-on-1 with them, Tracking Protection will block the other companies who the user may not realize are even present and didn't explicitly intend to interact with.
