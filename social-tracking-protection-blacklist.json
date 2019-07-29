@@ -9,30 +9,17 @@
 
                      "facebook.com",
                      "facebook.net",
+                     "facebook.de",
+                     "facebook.fr",
                      "fb.com",
                      "fbcdn.net",
-                     "fbcdn.com",
-                     "fbsbx.com",
                      "friendfeed.com",
-                     "tfbnw.net",
 
                      "instagram.com",
-                     "cdninstagram.com",
 
                      "messenger.com",
-                     "m.me",
-                     "messengerdevelopers.com",
 
-                     "atdmt.com",
-
-                     "onavo.com",
-
-                     "oculus.com",
-                     "oculusvr.com",
-                     "oculusbrand.com",
-                     "oculusforbusiness.com",
-
-                     "whatsapp.com"
+                     "atdmt.com"
                  ]
              }
          }
@@ -45,7 +32,8 @@
                      "crashlytics.com",
                      "tweetdeck.com",
                      "twimg.com",
-                     "twitter.com"
+                     "twitter.com",
+                     "twitter.jp"
                  ]
              }
          }
