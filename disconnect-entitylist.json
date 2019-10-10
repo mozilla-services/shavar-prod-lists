@@ -798,7 +798,6 @@
     "resources": [
       "2o7.net",
       "adobe.com",
-      "adobedtm.com",
       "auditude.com",
       "demdex.com",
       "demdex.net",
@@ -5441,21 +5440,6 @@
       "ligatus.com"
     ]
   },
-  "GSI Commerce": {
-    "properties": [
-      "pepperjam.com"
-    ],
-    "resources": [
-      "gsicommerce.com",
-      "gsimedia.net",
-      "pepperjam.com",
-      "pjatr.com",
-      "pjtra.com",
-      "pntra.com",
-      "pntrac.com",
-      "pntrs.com"
-    ]
-  },
   "GTop": {
     "properties": [
       "arenaweb.ro"
@@ -8839,6 +8823,20 @@
     ],
     "resources": [
       "radarurl.com"
+    ]
+  },
+  "Radial": {
+    "properties": [
+      "radial.com"
+    ],
+    "resources": [
+      "gsicommerce.com",
+      "gsimedia.net",
+      "pjatr.com",
+      "pjtra.com",
+      "pntra.com",
+      "pntrac.com",
+      "pntrs.com"
     ]
   },
   "Radiate Media": {
