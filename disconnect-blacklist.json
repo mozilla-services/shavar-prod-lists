@@ -3411,13 +3411,6 @@
         }
       },
       {
-        "HotelChamp": {
-          "https://www.hotelchamp.com": [
-            "hotelchamp.com"
-          ]
-        }
-      },
-      {
         "HotMart": {
           "https://www.hotmart.com/en/": [
             "hotmart.com"
@@ -6613,14 +6606,6 @@
         "up-value": {
           "http://www.up-value.de/": [
             "up-value.de"
-          ]
-        }
-      },
-      {
-        "USI Technologies": {
-          "http://www.usitechnologies.com/": [
-            "upsellit.com",
-            "usitechnologies.com"
           ]
         }
       },
@@ -10982,6 +10967,7 @@
             "adservice.google.com",
             "adwords.google.com",
             "cc-dt.com",
+            "crashlytics.com",
             "destinationurl.com",
             "developers.google.com",
             "doubleclick.net",
@@ -11011,7 +10997,6 @@
         "Twitter": {
           "https://twitter.com/": [
             "ads-twitter.com",
-            "crashlytics.com",
             "tweetdeck.com",
             "twimg.com",
             "twitter.com",
