@@ -3334,20 +3334,6 @@
         }
       },
       {
-        "GSI Commerce": {
-          "http://www.gsicommerce.com/": [
-            "gsicommerce.com",
-            "gsimedia.net",
-            "pepperjam.com",
-            "pjatr.com",
-            "pjtra.com",
-            "pntra.com",
-            "pntrac.com",
-            "pntrs.com"
-          ]
-        }
-      },
-      {
         "GumGum": {
           "http://gumgum.com/": [
             "gumgum.com"
@@ -3421,13 +3407,6 @@
             "horyzon-media.com",
             "meetic-partners.com",
             "smartadserver.com"
-          ]
-        }
-      },
-      {
-        "HotelChamp": {
-          "https://www.hotelchamp.com": [
-            "hotelchamp.com"
           ]
         }
       },
@@ -3527,13 +3506,6 @@
             "ignitionone.com",
             "ignitionone.net",
             "searchignite.com"
-          ]
-        }
-      },
-      {
-        "iMedia": {
-          "http://www.imedia.cz": [
-            "imedia.cz"
           ]
         }
       },
@@ -5410,6 +5382,19 @@
         }
       },
       {
+        "Radial": {
+          "https://www.radial.com": [
+            "gsicommerce.com",
+            "gsimedia.net",
+            "pjatr.com",
+            "pjtra.com",
+            "pntra.com",
+            "pntrac.com",
+            "pntrs.com"
+          ]
+        }
+      },
+      {
         "Radiate Media": {
           "http://www.radiatemedia.com/": [
             "matchbin.com",
@@ -6614,14 +6599,6 @@
         "up-value": {
           "http://www.up-value.de/": [
             "up-value.de"
-          ]
-        }
-      },
-      {
-        "USI Technologies": {
-          "http://www.usitechnologies.com/": [
-            "upsellit.com",
-            "usitechnologies.com"
           ]
         }
       },
@@ -8405,13 +8382,6 @@
         }
       },
       {
-        "Adobe": {
-          "http://www.adobe.com/": [
-            "adobedtm.com"
-          ]
-        }
-      },
-      {
         "Adventori": {
           "https://adventori.com": [
             "adventori.com"
@@ -10188,7 +10158,7 @@
       {
         "Gleam": {
           "https://gleam.io/": [
-            "gleam.io"
+            "fraudjs.io"
           ]
         }
       },
@@ -10967,6 +10937,7 @@
       {
         "Facebook": {
           "http://www.facebook.com/": [
+            "apps.fbsbx.com",
             "atdmt.com",
             "atlassolutions.com",
             "facebook.com",
@@ -10989,6 +10960,7 @@
             "adservice.google.com",
             "adwords.google.com",
             "cc-dt.com",
+            "crashlytics.com",
             "destinationurl.com",
             "developers.google.com",
             "doubleclick.net",
@@ -11018,7 +10990,6 @@
         "Twitter": {
           "https://twitter.com/": [
             "ads-twitter.com",
-            "crashlytics.com",
             "tweetdeck.com",
             "twimg.com",
             "twitter.com",
