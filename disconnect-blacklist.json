@@ -10681,6 +10681,13 @@
         }
       },
       {
+        "Google": {
+          "http://www.google.com/": [
+            "smartlock.google.com"
+          ]
+        }
+      },
+      {
         "LinkedIn": {
           "http://www.linkedin.com/": [
             "licdn.com",
