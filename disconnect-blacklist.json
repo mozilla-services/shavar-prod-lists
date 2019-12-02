@@ -9644,6 +9644,13 @@
         }
       },
       {
+        "Tealium": {
+          "https://tealium.com": [
+            "tealiumiq.com"
+          ]
+        }
+      },
+      {
         "TechSolutions": {
           "https://www.techsolutions.com.tw/": [
             "techsolutions.com.tw"
