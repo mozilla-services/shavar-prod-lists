@@ -5582,14 +5582,10 @@
   },
   "Horyzon Media": {
     "properties": [
-      "horyzon-media.com",
-      "meetic-partners.com",
-      "smartadserver.com"
+      "horyzon-media.com"
     ],
     "resources": [
-      "horyzon-media.com",
-      "meetic-partners.com",
-      "smartadserver.com"
+      "horyzon-media.com"
     ]
   },
   "HotelChamp": {
@@ -6921,7 +6917,8 @@
     ],
     "resources": [
       "chemistry.com",
-      "match.com"
+      "match.com",
+      "meetic-partners.com"
     ]
   },
   "Matomy": {
@@ -9641,6 +9638,14 @@
     ],
     "resources": [
       "smaato.com"
+    ]
+  },
+  "SmartAdServer": {
+    "properties": [
+      "smartadserver.com"
+    ],
+    "resources": [
+      "smartadserver.com"
     ]
   },
   "Smartlook": {

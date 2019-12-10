@@ -3404,9 +3404,7 @@
       {
         "Horyzon Media": {
           "http://www.horyzon-media.com/": [
-            "horyzon-media.com",
-            "meetic-partners.com",
-            "smartadserver.com"
+            "horyzon-media.com"
           ]
         }
       },
@@ -4210,7 +4208,8 @@
         "Match.com": {
           "http://www.match.com/": [
             "chemistry.com",
-            "match.com"
+            "match.com",
+            "meetic-partners.com"
           ]
         }
       },
@@ -5852,6 +5851,13 @@
         "Smaato": {
           "http://www.smaato.com/": [
             "smaato.com"
+          ]
+        }
+      },
+      {
+        "SmartAdServer": {
+          "http://smartadserver.com/": [
+            "smartadserver.com"
           ]
         }
       },
