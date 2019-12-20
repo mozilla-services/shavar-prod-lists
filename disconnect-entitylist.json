@@ -4109,12 +4109,10 @@
       "ebay.in",
       "ebay.it",
       "ebay.nl",
-      "ebay.pl",
-      "gopjn.com"
+      "ebay.pl"
     ],
     "resources": [
-      "ebay.com",
-      "gopjn.com"
+      "ebay.com"
     ]
   },
   "Echo": {
@@ -5582,14 +5580,10 @@
   },
   "Horyzon Media": {
     "properties": [
-      "horyzon-media.com",
-      "meetic-partners.com",
-      "smartadserver.com"
+      "horyzon-media.com"
     ],
     "resources": [
-      "horyzon-media.com",
-      "meetic-partners.com",
-      "smartadserver.com"
+      "horyzon-media.com"
     ]
   },
   "HotelChamp": {
@@ -6921,7 +6915,8 @@
     ],
     "resources": [
       "chemistry.com",
-      "match.com"
+      "match.com",
+      "meetic-partners.com"
     ]
   },
   "Matomy": {
@@ -7939,14 +7934,6 @@
       "ohanaqb.com"
     ]
   },
-  "Olark": {
-    "properties": [
-      "olark.com"
-    ],
-    "resources": [
-      "olark.com"
-    ]
-  },
   "Omnicom Group": {
     "properties": [
       "accuenmedia.com",
@@ -8861,12 +8848,7 @@
     ],
     "resources": [
       "gsicommerce.com",
-      "gsimedia.net",
-      "pjatr.com",
-      "pjtra.com",
-      "pntra.com",
-      "pntrac.com",
-      "pntrs.com"
+      "gsimedia.net"
     ]
   },
   "Radiate Media": {
@@ -9654,6 +9636,14 @@
     ],
     "resources": [
       "smaato.com"
+    ]
+  },
+  "SmartAdServer": {
+    "properties": [
+      "smartadserver.com"
+    ],
+    "resources": [
+      "smartadserver.com"
     ]
   },
   "Smartlook": {
@@ -11519,16 +11509,6 @@
     "resources": [
       "wiredminds.com",
       "wiredminds.de"
-    ]
-  },
-  "Wirtualna Polska": {
-    "properties": [
-      "adtotal.pl",
-      "wp.pl"
-    ],
-    "resources": [
-      "adtotal.pl",
-      "wp.pl"
     ]
   },
   "Wishabi": {
