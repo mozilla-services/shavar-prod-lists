@@ -1,6 +1,6 @@
 # shavar-prod-lists
 This repo serves as a staging area for
-[shavar](https://github.com/mozilla-services/shavar)/
+[shavar](https://github.com/mozilla-services/shavar) /
 [tracking protection](https://wiki.mozilla.org/Security/Tracking_protection)
 lists prior to
 [production deployment to Firefox](https://mana.mozilla.org/wiki/display/SVCOPS/Shavar+-+aka+Mozilla's+Tracking+Protection).
@@ -37,7 +37,7 @@ Firefox consumes the list as follows:
     "Level 2" list which includes the "Content" category.
 * **Cryptomining**: anything in the Cryptomining category
 * **Fingerprinting**: anything in the Fingerprinting category. By default,
-    ETP's fingerprinting blocking only blocks __Tracking Fingerprinters__, that
+    ETP's fingerprinting blocking only blocks _Tracking Fingerprinters_, that
     is domains which appear in both the Fingerprinting category and one of the
     Tracking categories.
 
@@ -46,13 +46,13 @@ Firefox consumes the list as follows:
 A version controlled copy of Disconnect's
 [list of entities](https://github.com/disconnectme/disconnect-tracking-protection/blob/master/entities.json).
 ETP classifies a resource as a tracking resource when it is present on
-blocklist and loaded as a third-party. The Entity list whitelists different
-domains that are wholly owned by the same company as the user is visiting.
-For example, if abcd.com owns efgh.com and efgh.com is on the blacklist, it
-will not be blocked on abcd.com. Instead, efgh.com will be treated as
-first party on abcd.com, since the same company owns both. But since efgh.com
-is on the blacklist it will be blocked on other third-party domains that are
-not all owned by the same parent company.
+blocklist and loaded as a third-party. The Entity list is used to whitelist
+third-party subresources that are wholly owned by the same company that owns
+the top-level website that the user is visiting. For example, if abcd.com owns
+efgh.com and efgh.com is on the blacklist, it will not be blocked on abcd.com.
+Instead, efgh.com will be treated as first party on abcd.com, since the same
+company owns both. But since efgh.com is on the blacklist it will be blocked on
+other third-party domains that are not all owned by the same parent company.
 
 ## Other lists
 
