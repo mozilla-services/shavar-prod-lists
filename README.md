@@ -58,7 +58,7 @@ other third-party domains that are not all owned by the same parent company.
 
 In addition, Mozilla maintains a several lists for Firefox-specific features
 and experiments. The lists currently in active use are:
-* `social-tracking-protection-blacklist.json`: a subset of social trackers from
+* `social-tracking-protection-blacklist.json`: a subset of trackers from
     Disconnect's blocklist. This list is used to identify "social media"
     trackers within Firefox's UI. All of the origins on this list should also
     be included in Disconnect's `disconnect-blacklist.json` list.
