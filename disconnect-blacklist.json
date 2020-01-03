@@ -2672,8 +2672,7 @@
       {
         "eBay": {
           "http://www.ebay.com/": [
-            "ebay.com",
-            "gopjn.com"
+            "ebay.com"
           ]
         }
       },
@@ -3412,9 +3411,7 @@
       {
         "Horyzon Media": {
           "http://www.horyzon-media.com/": [
-            "horyzon-media.com",
-            "meetic-partners.com",
-            "smartadserver.com"
+            "horyzon-media.com"
           ]
         }
       },
@@ -4239,7 +4236,8 @@
         "Match.com": {
           "http://www.match.com/": [
             "chemistry.com",
-            "match.com"
+            "match.com",
+            "meetic-partners.com"
           ]
         }
       },
@@ -5414,12 +5412,7 @@
         "Radial": {
           "https://www.radial.com": [
             "gsicommerce.com",
-            "gsimedia.net",
-            "pjatr.com",
-            "pjtra.com",
-            "pntra.com",
-            "pntrac.com",
-            "pntrs.com"
+            "gsimedia.net"
           ]
         }
       },
@@ -5890,6 +5883,13 @@
         }
       },
       {
+        "SmartAdServer": {
+          "http://smartadserver.com/": [
+            "smartadserver.com"
+          ]
+        }
+      },
+      {
         "SmartyAds": {
           "https://smartyads.com/": [
             "smartyads.com"
@@ -6166,6 +6166,13 @@
         "Summit": {
           "http://www.summit.co.uk/": [
             "summitmedia.co.uk"
+          ]
+        }
+      },
+      {
+        "Superfish": {
+          "http://www.superfish.com/": [
+            "superfish.com"
           ]
         }
       },
@@ -6894,14 +6901,6 @@
           "http://www.wiredminds.com/": [
             "wiredminds.com",
             "wiredminds.de"
-          ]
-        }
-      },
-      {
-        "Wirtualna Polska": {
-          "http://www.wp.pl/": [
-            "adtotal.pl",
-            "wp.pl"
           ]
         }
       },
@@ -7982,13 +7981,6 @@
         }
       },
       {
-        "Olark": {
-          "http://www.olark.com/": [
-            "olark.com"
-          ]
-        }
-      },
-      {
         "Ooyala": {
           "http://www.ooyala.com/": [
             "oo4.com",
@@ -8084,13 +8076,6 @@
         "Spring Metrics": {
           "http://www.springmetrics.com/": [
             "springmetrics.com"
-          ]
-        }
-      },
-      {
-        "Superfish": {
-          "http://www.superfish.com/": [
-            "superfish.com"
           ]
         }
       },
