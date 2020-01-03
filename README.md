@@ -101,10 +101,10 @@ of which may only be done by Disconnect. Fast-tracked changes should have
 minimal, if any, risk of breakage.
 
 Changes that may be fast-tracked include:
-* Deleting a domain from the list.
+* Deleting a domain from the blocklist and its respective domains from the entity list.
 * Adding new domains to the entity list.
 * Replacing a domain currently on the list with a new domain at the request of
-  the entity.
+  the company that owns the domain. These requests must go through Disconnect.
 * Moving a domain between list categories of the same feature.
 
 As soon as Disconnect makes changes of this type we will merge
@@ -113,9 +113,9 @@ them into each versioned list and deploy them across all channels.
 #### Temporary exceptions
 
 If we discover breakage that we'd like to fix through Firefox code changes, we
-may temporarily whitelist the relevant domains while we work on the fixes. To
+may temporarily unblock the relevant domains while we work on the fixes. To
 prevent these from becoming permanent exceptions, a deadline must be provided by
-the engineer at the time of whitelisting, with a maximum deadline of 18 months.
+the engineer at the time of unblocking, with a maximum deadline of 18 months.
 These are tracked in [Bug 1537702](https://bugzilla.mozilla.org/show_bug.cgi?id=1537702).
 
 #### List freezes
