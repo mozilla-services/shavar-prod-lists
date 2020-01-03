@@ -21,7 +21,7 @@ should be reported to Disconnect.
 #### `disconnect-blacklist.json`
 A version controlled copy of Disconnect's
 [list of trackers](https://github.com/disconnectme/disconnect-tracking-protection/blob/master/services.json).
-This blacklist is the core of tracking protection in Firefox.
+This blocklist is the core of tracking protection in Firefox.
 
 A vestige of the list is the "Disconnect" category, which contains Facebook,
 Twitter, and Google domains. Domains from this category are remapped into the
@@ -46,12 +46,12 @@ Firefox consumes the list as follows:
 A version controlled copy of Disconnect's
 [list of entities](https://github.com/disconnectme/disconnect-tracking-protection/blob/master/entities.json).
 ETP classifies a resource as a tracking resource when it is present on
-blocklist and loaded as a third-party. The Entity list is used to whitelist
+blocklist and loaded as a third-party. The Entity list is used to allow
 third-party subresources that are wholly owned by the same company that owns
 the top-level website that the user is visiting. For example, if abcd.com owns
 efgh.com and efgh.com is on the blacklist, it will not be blocked on abcd.com.
 Instead, efgh.com will be treated as first party on abcd.com, since the same
-company owns both. But since efgh.com is on the blacklist it will be blocked on
+company owns both. But since efgh.com is on the blocklist it will be blocked on
 other third-party domains that are not all owned by the same parent company.
 
 ## Other lists
