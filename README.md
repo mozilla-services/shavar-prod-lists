@@ -49,7 +49,7 @@ ETP classifies a resource as a tracking resource when it is present on
 blocklist and loaded as a third-party. The Entity list is used to allow
 third-party subresources that are wholly owned by the same company that owns
 the top-level website that the user is visiting. For example, if abcd.com owns
-efgh.com and efgh.com is on the blacklist, it will not be blocked on abcd.com.
+efgh.com and efgh.com is on the blocklist, it will not be blocked on abcd.com.
 Instead, efgh.com will be treated as first party on abcd.com, since the same
 company owns both. But since efgh.com is on the blocklist it will be blocked on
 other third-party domains that are not all owned by the same parent company.
@@ -63,7 +63,7 @@ and experiments. The lists currently in active use are:
     trackers within Firefox's UI. All of the origins on this list should also
     be included in Disconnect's `disconnect-blacklist.json` list.
 * `google-mapping.json`: a legacy entity remapping file used by Firefox iOS.
-    This list should not be used be any new products. Instead, the
+    This list should not be used in any new products. Instead, the
     [`disconnect-mapping.json`](https://github.com/mozilla-services/shavar-list-creation/blob/master/disconnect_mapping.json)
     list should be used.
 
