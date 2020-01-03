@@ -1847,10 +1847,10 @@
   "AT Internet": {
     "properties": [
       "atinternet.com",
-      "hit-parade.com",
       "xiti.com"
     ],
     "resources": [
+      "at-o.net",
       "atinternet.com",
       "hit-parade.com",
       "xiti.com"
@@ -3583,7 +3583,8 @@
       "criteo.com",
       "criteo.net",
       "hlserve.com",
-      "hooklogic.com"
+      "hooklogic.com",
+      "storetail.io"
     ]
   },
   "Cross Pixel": {
@@ -5664,6 +5665,15 @@
       "hurra.com"
     ]
   },
+  "IAB": {
+    "properties": [
+      "digitru.st",
+      "iabtechlab.com"
+    ],
+    "resources": [
+      "digitru.st"
+    ]
+  },
   "IAC": {
     "properties": [
       "iac.com",
@@ -5694,6 +5704,14 @@
       "ibm.com",
       "unica.com",
       "xtify.com"
+    ]
+  },
+  "ID5": {
+    "properties": [
+      "id5.io"
+    ],
+    "resources": [
+      "id5-sync.com"
     ]
   },
   "IDG": {
@@ -6237,6 +6255,14 @@
     ],
     "resources": [
       "keymetric.net"
+    ]
+  },
+  "Keywee": {
+    "properties": [
+      "keywee.co"
+    ],
+    "resources": [
+      "keywee.co"
     ]
   },
   "kikin": {
@@ -9803,6 +9829,14 @@
       "deployads.com"
     ]
   },
+  "Sourcepoint": {
+    "properties": [
+      "sourcepoint.com"
+    ],
+    "resources": [
+      "summerhamster.com"
+    ]
+  },
   "Sovrn": {
     "properties": [
       "sovrn.com"
@@ -10279,6 +10313,14 @@
     ],
     "resources": [
       "teads.tv"
+    ]
+  },
+  "Tealium": {
+    "properties": [
+      "tealium.com"
+    ],
+    "resources": [
+      "tealiumiq.com"
     ]
   },
   "Technorati": {

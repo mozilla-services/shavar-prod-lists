@@ -2063,7 +2063,13 @@
       {
         "ClickFrog": {
           "https://clickfrog.ru/": [
-            "clickfrog.ru"
+            "bashirian.biz",
+            "buckridge.link",
+            "clickfrog.ru",
+            "franecki.net",
+            "quitzon.net",
+            "reichelcormier.bid",
+            "wisokykulas.bid"
           ]
         }
       },
@@ -2352,7 +2358,8 @@
             "criteo.com",
             "criteo.net",
             "hlserve.com",
-            "hooklogic.com"
+            "hooklogic.com",
+            "storetail.io"
           ]
         }
       },
@@ -3270,6 +3277,7 @@
       {
         "Gleam": {
           "https://gleam.io/": [
+            "fraudjs.io",
             "gleam.io"
           ]
         }
@@ -3452,6 +3460,13 @@
         }
       },
       {
+        "IAB": {
+          "https://iabtechlab.com/": [
+            "digitru.st"
+          ]
+        }
+      },
+      {
         "IAC": {
           "http://www.iac.com/": [
             "iac.com",
@@ -3471,6 +3486,13 @@
         "IBM": {
           "http://www.ibm.com/": [
             "unica.com"
+          ]
+        }
+      },
+      {
+        "ID5": {
+          "http://id5.io/": [
+            "id5-sync.com"
           ]
         }
       },
@@ -3818,6 +3840,13 @@
         "Keyade": {
           "http://www.keyade.com/": [
             "keyade.com"
+          ]
+        }
+      },
+      {
+        "Keywee": {
+          "https://keywee.co": [
+            "keywee.co"
           ]
         }
       },
@@ -7625,6 +7654,7 @@
             "google.co.za",
             "google.co.zm",
             "google.co.zw",
+            "google.com",
             "google.com.af",
             "google.com.ag",
             "google.com.ai",
@@ -7797,7 +7827,6 @@
             "video.google.com",
             "videos.google.com",
             "wallet.google.com",
-            "www.google.com",
             "youtube.com"
           ]
         }
@@ -8427,6 +8456,7 @@
       {
         "AT Internet": {
           "http://www.atinternet.com/": [
+            "at-o.net",
             "atinternet.com",
             "xiti.com"
           ]
@@ -9536,6 +9566,13 @@
         }
       },
       {
+        "Sourcepoint": {
+          "https://www.sourcepoint.com/": [
+            "summerhamster.com"
+          ]
+        }
+      },
+      {
         "Sputnik.ru": {
           "http://sputnik.ru": [
             "sputnik.ru"
@@ -9588,6 +9625,13 @@
         "Stratigent": {
           "http://www.stratigent.com/": [
             "stratigent.com"
+          ]
+        }
+      },
+      {
+        "Tealium": {
+          "https://tealium.com": [
+            "tealiumiq.com"
           ]
         }
       },
@@ -10618,6 +10662,13 @@
         "Digg": {
           "http://digg.com/": [
             "digg.com"
+          ]
+        }
+      },
+      {
+        "Google": {
+          "http://www.google.com/": [
+            "smartlock.google.com"
           ]
         }
       },
