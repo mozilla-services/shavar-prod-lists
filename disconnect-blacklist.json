@@ -10014,13 +10014,6 @@
         }
       },
       {
-        "Cbox": {
-          "http://www.cbox.ws/": [
-            "cbox.ws"
-          ]
-        }
-      },
-      {
         "ClearLink": {
           "https://www.clearlink.com/": [
             "clearlink.com"
