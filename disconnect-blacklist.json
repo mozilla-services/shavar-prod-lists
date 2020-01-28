@@ -2964,6 +2964,13 @@
         }
       },
       {
+        "Facebook": {
+          "http://www.facebook.com/": [
+            "atlassolutions.com"
+          ]
+        }
+      },
+      {
         "Facilitate Digital": {
           "http://www.facilitatedigital.com/": [
             "adsfac.eu",
@@ -3300,6 +3307,30 @@
         "GoldSpot Media": {
           "http://www.goldspotmedia.com/": [
             "goldspotmedia.com"
+          ]
+        }
+      },
+      {
+        "Google": {
+          "http://www.google.com/": [
+            "2mdn.net",
+            "admeld.com",
+            "admob.com",
+            "adservice.google.ca",
+            "adservice.google.com",
+            "adwords.google.com",
+            "cc-dt.com",
+            "destinationurl.com",
+            "doubleclick.net",
+            "googleadservices.com",
+            "googlesyndication.com",
+            "googletagmanager.com",
+            "googletagservices.com",
+            "invitemedia.com",
+            "smtad.net",
+            "teracent.com",
+            "teracent.net",
+            "ytsa.net"
           ]
         }
       },
@@ -6519,6 +6550,13 @@
         }
       },
       {
+        "Twitter": {
+          "https://twitter.com/": [
+            "ads-twitter.com"
+          ]
+        }
+      },
+      {
         "Twyn Group": {
           "http://www.twyn.com/": [
             "twyn-group.com",
@@ -8861,6 +8899,14 @@
         }
       },
       {
+        "Google": {
+          "http://www.google.com/": [
+            "google-analytics.com",
+            "postrank.com"
+          ]
+        }
+      },
+      {
         "GoSquared": {
           "https://www.gosquared.com/": [
             "gosquared.com"
@@ -9636,6 +9682,14 @@
         "TrafficScore": {
           "https://trafficscore.com/": [
             "trafficscore.com"
+          ]
+        }
+      },
+      {
+        "Twitter": {
+          "https://twitter.com/": [
+            "crashlytics.com",
+            "tweetdeck.com"
           ]
         }
       },
@@ -10615,6 +10669,41 @@
         }
       },
       {
+<<<<<<< HEAD
+=======
+        "Facebook": {
+          "http://www.facebook.com/": [
+            "apps.fbsbx.com",
+            "atdmt.com",
+            "facebook.com",
+            "facebook.de",
+            "facebook.fr",
+            "facebook.net",
+            "fb.com",
+            "fbsbx.com",
+            "friendfeed.com"
+          ]
+        }
+      },
+      {
+        "Google": {
+          "http://www.google.com/": [
+            "developers.google.com",
+            "gmail.com",
+            "googlemail.com",
+            "inbox.google.com",
+            "mail.google.com",
+            "orkut.com",
+            "plus.google.com",
+            "plusone.google.com",
+            "smartlock.google.com",
+            "voice.google.com",
+            "wave.google.com"
+          ]
+        }
+      },
+      {
+>>>>>>> b93882b... removes `Disconnect` category and remaps to appropriate categories
         "LinkedIn": {
           "http://www.linkedin.com/": [
             "licdn.com",
@@ -10678,6 +10767,16 @@
           "http://www.stumbleupon.com/": [
             "stumble-upon.com",
             "stumbleupon.com"
+          ]
+        }
+      },
+      {
+        "Twitter": {
+          "https://twitter.com/": [
+            "backtype.com",
+            "twimg.com",
+            "twitter.com",
+            "twitter.jp"
           ]
         }
       },
@@ -10907,71 +11006,6 @@
         "Webmining": {
           "https://webmining.co/": [
             "webmining.co"
-          ]
-        }
-      }
-    ],
-    "Disconnect": [
-      {
-        "Facebook": {
-          "http://www.facebook.com/": [
-            "apps.fbsbx.com",
-            "atdmt.com",
-            "atlassolutions.com",
-            "facebook.com",
-            "facebook.de",
-            "facebook.fr",
-            "facebook.net",
-            "fb.com",
-            "fbsbx.com",
-            "friendfeed.com"
-          ]
-        }
-      },
-      {
-        "Google": {
-          "http://www.google.com/": [
-            "2mdn.net",
-            "admeld.com",
-            "admob.com",
-            "adservice.google.ca",
-            "adservice.google.com",
-            "adwords.google.com",
-            "cc-dt.com",
-            "crashlytics.com",
-            "destinationurl.com",
-            "developers.google.com",
-            "doubleclick.net",
-            "gmail.com",
-            "google-analytics.com",
-            "googleadservices.com",
-            "googlemail.com",
-            "googlesyndication.com",
-            "googletagservices.com",
-            "inbox.google.com",
-            "invitemedia.com",
-            "mail.google.com",
-            "orkut.com",
-            "plus.google.com",
-            "plusone.google.com",
-            "postrank.com",
-            "smtad.net",
-            "teracent.com",
-            "teracent.net",
-            "voice.google.com",
-            "wave.google.com",
-            "ytsa.net"
-          ]
-        }
-      },
-      {
-        "Twitter": {
-          "https://twitter.com/": [
-            "ads-twitter.com",
-            "tweetdeck.com",
-            "twimg.com",
-            "twitter.com",
-            "twitter.jp"
           ]
         }
       }
