@@ -3140,7 +3140,7 @@
       {
         "Friends2Follow": {
           "https://friends2follow.com/": [
-            "friends2follow.com"
+            "tracking.friends2follow.com"
           ]
         }
       },
@@ -6806,13 +6806,6 @@
         }
       },
       {
-        "ViralLoops": {
-          "https://viral-loops.com": [
-            "viral-loops.com"
-          ]
-        }
-      },
-      {
         "VisibleBrands": {
           "http://www.visbrands.com/": [
             "visbrands.com"
@@ -10219,7 +10212,7 @@
       {
         "Friends2Follow": {
           "https://friends2follow.com/": [
-            "friends2follow.com"
+            "antifraudjs.friends2follow.com"
           ]
         }
       },
@@ -10636,13 +10629,6 @@
         "VerticalHealth": {
           "https://www.verticalhealth.com/": [
             "verticalhealth.net"
-          ]
-        }
-      },
-      {
-        "ViralLoops": {
-          "https://viral-loops.com": [
-            "viral-loops.com"
           ]
         }
       },
