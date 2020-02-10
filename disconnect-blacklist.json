@@ -10662,8 +10662,6 @@
         }
       },
       {
-<<<<<<< HEAD
-=======
         "Facebook": {
           "http://www.facebook.com/": [
             "apps.fbsbx.com",
@@ -10696,7 +10694,6 @@
         }
       },
       {
->>>>>>> b93882b... removes `Disconnect` category and remaps to appropriate categories
         "LinkedIn": {
           "http://www.linkedin.com/": [
             "licdn.com",
