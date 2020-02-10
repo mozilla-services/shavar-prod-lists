@@ -5894,7 +5894,8 @@
   },
   "IBM": {
     "properties": [
-      "ibm.com"
+      "ibm.com",
+      "multicloud-ibm.com"
     ],
     "resources": [
       "cmcore.com",
@@ -11402,14 +11403,6 @@
     "resources": [
       "vindicogroup.com",
       "vindicosuite.com"
-    ]
-  },
-  "ViralLoops": {
-    "properties": [
-      "viral-loops.com"
-    ],
-    "resources": [
-      "viral-loops.com"
     ]
   },
   "VisibleBrands": {
