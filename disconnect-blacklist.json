@@ -3324,7 +3324,6 @@
             "doubleclick.net",
             "googleadservices.com",
             "googlesyndication.com",
-            "googletagmanager.com",
             "googletagservices.com",
             "invitemedia.com",
             "smtad.net",
@@ -10763,7 +10762,6 @@
       {
         "Twitter": {
           "https://twitter.com/": [
-            "backtype.com",
             "twimg.com",
             "twitter.com",
             "twitter.jp"
