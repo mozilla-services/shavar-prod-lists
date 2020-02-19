@@ -1534,6 +1534,14 @@
       "aloodo.com"
     ]
   },
+  "AlterGeo": {
+    "properties": [
+      "altergeo.ru"
+    ],
+    "resources": [
+      "altergeo.ru"
+    ]
+  },
   "Amadesa": {
     "properties": [
       "amadesa.com"
@@ -5603,6 +5611,14 @@
       "graphenedigitalanalytics.in"
     ]
   },
+  "Graphnium": {
+    "properties": [
+      "graphinium.com"
+    ],
+    "resources": [
+      "crm4d.com"
+    ]
+  },
   "Gravity": {
     "properties": [
       "gravity.com",
@@ -6237,6 +6253,15 @@
       "iperceptions.com"
     ]
   },
+  "IponWeb": {
+    "properties": [
+      "iponweb.com"
+    ],
+    "resources": [
+      "iponweb.com",
+      "iponweb.net"
+    ]
+  },
   "iPROM": {
     "properties": [
       "centraliprom.com",
@@ -6776,6 +6801,15 @@
     ],
     "resources": [
       "liverail.com"
+    ]
+  },
+  "LiveRamp": {
+    "properties": [
+      "liveramp.com"
+    ],
+    "resources": [
+      "liveramp.com",
+      "tvpixel.com"
     ]
   },
   "LKQD": {
@@ -8189,6 +8223,14 @@
       "onaudience.com"
     ]
   },
+  "Onclusive": {
+    "properties": [
+      "onclusive.com"
+    ],
+    "resources": [
+      "airpr.com"
+    ]
+  },
   "OneAd": {
     "properties": [
       "onead.com.tw"
@@ -8523,6 +8565,14 @@
     "resources": [
       "lzjl.com",
       "paypopup.com"
+    ]
+  },
+  "PebblePost": {
+    "properties": [
+      "pebblepost.com"
+    ],
+    "resources": [
+      "pbbl.co"
     ]
   },
   "Peer39": {
@@ -9116,12 +9166,10 @@
   },
   "Rapleaf": {
     "properties": [
-      "liveramp.com",
       "rapleaf.com",
       "rlcdn.com"
     ],
     "resources": [
-      "liveramp.com",
       "rapleaf.com",
       "rlcdn.com"
     ]
@@ -9230,6 +9278,14 @@
     "resources": [
       "researchnow.com",
       "valuedopinions.co.uk"
+    ]
+  },
+  "ResolutionMedia": {
+    "properties": [
+      "nonstoppartner.net"
+    ],
+    "resources": [
+      "nonstoppartner.net"
     ]
   },
   "Resolution Media": {
@@ -10448,6 +10504,14 @@
       "tailsweep.com"
     ]
   },
+  "Taleria": {
+    "properties": [
+      "telaria.com"
+    ],
+    "resources": [
+      "freeskreen.com"
+    ]
+  },
   "Tapad": {
     "properties": [
       "tapad.com"
@@ -10842,6 +10906,14 @@
     ],
     "resources": [
       "trafmag.com"
+    ]
+  },
+  "Traverse": {
+    "properties": [
+      "traversedata.com"
+    ],
+    "resources": [
+      "traversedlp.com"
     ]
   },
   "Travora Media": {
@@ -11532,6 +11604,14 @@
     "resources": [
       "contentwidgets.net",
       "wahoha.com"
+    ]
+  },
+  "Wayfair": {
+    "properties": [
+      "wayfair.com"
+    ],
+    "resources": [
+      "wayfair.com"
     ]
   },
   "WebAds": {
