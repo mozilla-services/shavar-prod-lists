@@ -10338,13 +10338,6 @@
         }
       },
       {
-        "HotMart": {
-          "https://www.hotmart.com/en/": [
-            "hotmart.com"
-          ]
-        }
-      },
-      {
         "iMedia": {
           "http://www.imedia.cz": [
             "imedia.cz"
@@ -10406,14 +10399,6 @@
           "https://www.maxmind.com/en/home": [
             "maxmind.com",
             "mmapiws.com"
-          ]
-        }
-      },
-      {
-        "MediaMath": {
-          "http://www.mediamath.com/": [
-            "mathtag.com",
-            "mediamath.com"
           ]
         }
       },
