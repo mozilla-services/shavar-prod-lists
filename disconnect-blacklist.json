@@ -10121,13 +10121,6 @@
         }
       },
       {
-        "DoubleVerify": {
-          "http://www.doubleverify.com/": [
-            "doubleverify.com"
-          ]
-        }
-      },
-      {
         "ECSAnalytics": {
           "https://www.theecsinc.com/": [
             "ecsanalytics.com"
