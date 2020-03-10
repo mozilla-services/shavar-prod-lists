@@ -10236,13 +10236,6 @@
         }
       },
       {
-        "DoubleVerify": {
-          "http://www.doubleverify.com/": [
-            "doubleverify.com"
-          ]
-        }
-      },
-      {
         "ECSAnalytics": {
           "https://www.theecsinc.com/": [
             "ecsanalytics.com"
@@ -10338,13 +10331,6 @@
         }
       },
       {
-        "HotMart": {
-          "https://www.hotmart.com/en/": [
-            "hotmart.com"
-          ]
-        }
-      },
-      {
         "iMedia": {
           "http://www.imedia.cz": [
             "imedia.cz"
@@ -10406,14 +10392,6 @@
           "https://www.maxmind.com/en/home": [
             "maxmind.com",
             "mmapiws.com"
-          ]
-        }
-      },
-      {
-        "MediaMath": {
-          "http://www.mediamath.com/": [
-            "mathtag.com",
-            "mediamath.com"
           ]
         }
       },
@@ -10689,13 +10667,6 @@
         }
       },
       {
-        "USocial": {
-          "https://usocial.pro": [
-            "usocial.pro"
-          ]
-        }
-      },
-      {
         "Vendemore": {
           "https://vendemore.com/": [
             "vendemore.com"
@@ -10880,13 +10851,6 @@
             "twimg.com",
             "twitter.com",
             "twitter.jp"
-          ]
-        }
-      },
-      {
-        "USocial": {
-          "https://usocial.pro": [
-            "usocial.pro"
           ]
         }
       },
