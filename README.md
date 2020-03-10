@@ -14,8 +14,8 @@ and past versions of Firefox all use versions of this list, accessible as
 [branches](https://github.com/mozilla-services/shavar-prod-lists/branches) of
 this repository. We may also unblock certain domains through our anti-tracking
 interventions temporarily when we discover site breakage. These temporary
-exceptions are tracked in [Bug 1537702](https://bugzilla.mozilla.org/show_bug.cgi?id=1537702)
-, and the policy governing their use is [described below](#temporary-exceptions).
+exceptions are tracked in [Bug 1537702](https://bugzilla.mozilla.org/show_bug.cgi?id=1537702),
+and the policy governing their use is [described below](#temporary-exceptions).
 
 These lists are processed and transformed and sent to Firefox via
 [Shavar](https://mana.mozilla.org/wiki/display/SVCOPS/Shavar+-+aka+Mozilla's+Tracking+Protection).
