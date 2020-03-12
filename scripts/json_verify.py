@@ -155,6 +155,12 @@ def find_uris(categories_json):
                 except AssertionError:
                     errors.append("%s has bad DNT value: %s" % (entity_name,
                                                                 dnt_value))
+                                                                                # pop sub-category tags out of the dict
+                for tag in ALL_TAGS:
+                    tag_value = entity_json.pop(tag, '')
+                    assert tag_value in ["true", ""]
+                    if tag_value == "":
+                        continue
                 for domain, uris in entity_json.iteritems():
                     assert type(domain) is UnicodeType
                     assert type(uris) is ListType
