@@ -8519,6 +8519,13 @@
         }
       },
       {
+        "Akamai": {
+          "http://www.akamai.com/": [
+            "go-mpulse.net"
+          ]
+        }
+      },
+      {
         "Amadesa": {
           "http://www.amadesa.com/": [
             "amadesa.com"
@@ -9671,13 +9678,6 @@
         "Snoobi": {
           "http://www.snoobi.com/": [
             "snoobi.com"
-          ]
-        }
-      },
-      {
-        "Soasta": {
-          "https://www.soasta.com": [
-            "go-mpulse.net"
           ]
         }
       },
