@@ -8419,6 +8419,13 @@
         }
       },
       {
+        "Akamai": {
+          "http://www.akamai.com/": [
+            "go-mpulse.net"
+          ]
+        }
+      },
+      {
         "Amadesa": {
           "http://www.amadesa.com/": [
             "amadesa.com"
@@ -9574,9 +9581,9 @@
         }
       },
       {
-        "Soasta": {
-          "https://www.soasta.com": [
-            "go-mpulse.net"
+        "Sourcepoint": {
+          "https://www.sourcepoint.com/": [
+            "summerhamster.com"
           ]
         }
       },
