@@ -95,7 +95,7 @@ if True:
                                        if item[0].isdigit() else float('inf'), item))
         for domain in large_to_small_diff:
             category_domain_diff.write(domain + '\n')
-
+        assert len(large_to_small_diff) == 0
         small_to_large_diff = set()
         category_domain_diff.write(
             '{} domains not in {}\n'.format(smaller_list_name, larger_list_name))
@@ -107,6 +107,7 @@ if True:
                                        if item[0].isdigit() else float('inf'), item))
         for domain in small_to_large_diff:
             category_domain_diff.write(domain + '\n')
+        assert len(small_to_large_diff) == 0
 import ipdb; ipdb.set_trace()
 if False:
     disconnect_entities = []
