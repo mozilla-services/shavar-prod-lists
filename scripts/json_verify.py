@@ -10,6 +10,7 @@ import traceback
 from collections import Counter
 from types import DictType, ListType, UnicodeType
 from urlparse import urlparse
+import category_domains
 
 FINGERPRINTING_TAG = 'fingerprinting'
 CRYPTOMINING_TAG = 'cryptominer'
@@ -276,7 +277,7 @@ def start(filename=None):
         for f in glob.glob("*.json"):
             run(f)
 
-
+category_domains.find_category_domain_diff()
 args = parser.parse_args()
 start(args.file)
 print("\n block_host_uris: %s " % len(block_host_uris))
