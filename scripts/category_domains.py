@@ -48,7 +48,8 @@ category_domain_diff = open('domain-diff-category.txt', 'wb')
 
 content_domains = set()
 base_domains = set()
-if True:
+
+def find_category_domain_diff():
     for category in CATEGORIES:
         category_domain_diff.write('!!! Checking diff for category: {} !!!\n'.format(category))
         category_domains_shavar = get_domains_from_filters(
