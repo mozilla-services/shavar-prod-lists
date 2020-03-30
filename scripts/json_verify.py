@@ -30,7 +30,6 @@ dupe_hosts = {
     "properties": [],
     "resources": []
 }
-tag_counts = Counter()
 block_host_uris = []
 entity_host_uris = []
 errors = []
@@ -162,7 +161,6 @@ def find_uris(categories_json):
                     assert tag_value in ["true", ""]
                     if tag_value == "":
                         continue
-                    tag_counts[tag] += 1
                 for domain, uris in entity_json.iteritems():
                     assert type(domain) is UnicodeType
                     assert type(uris) is ListType
@@ -282,8 +280,6 @@ def start(filename=None):
 args = parser.parse_args()
 start(args.file)
 print("\n block_host_uris: %s " % len(block_host_uris))
-for tag in ALL_TAGS:
-    print("    -> %15s: %4d" % (tag, tag_counts[tag]))
 print("\n entity_host_uris: %s " % len(entity_host_uris))
 assert "itisatracker.com" in block_host_uris
 exit(result)
