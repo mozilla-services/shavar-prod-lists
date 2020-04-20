@@ -1,4 +1,7 @@
 # shavar-prod-lists
+
+[![Build Status](https://travis-ci.org/mozilla-services/shavar-prod-lists.svg?branch=master)](https://travis-ci.org/mozilla-services/shavar-prod-lists)
+
 This repo serves as a staging area for
 [shavar](https://github.com/mozilla-services/shavar) /
 [tracking protection](https://wiki.mozilla.org/Security/Tracking_protection)
