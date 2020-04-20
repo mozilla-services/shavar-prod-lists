@@ -61,7 +61,6 @@ def verify(file):
             try:
                 # determine which schema this file uses
                 if ("categories" in json_obj):
-                    # google_mapping.json
                     # disconnect_blacklist.json
                     find_uris(json_obj["categories"])
                 else:
@@ -70,7 +69,7 @@ def verify(file):
             except Exception as e:
                 excp = traceback.format_exception(*sys.exc_info())
                 errors.append(
-                    "---Error: Recieved error %s while parsing file.\n%s" % (
+                    "---Error: Received error %s while parsing file.\n%s" % (
                         type(e), ''.join(excp))
                 )
     except ValueError as e:
