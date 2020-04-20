@@ -7755,6 +7755,7 @@
             "google.co.za",
             "google.co.zm",
             "google.co.zw",
+            "google.com",
             "google.com.af",
             "google.com.ag",
             "google.com.ai",
@@ -7927,7 +7928,6 @@
             "video.google.com",
             "videos.google.com",
             "wallet.google.com",
-            "www.google.com",
             "youtube.com"
           ]
         }
@@ -10598,13 +10598,6 @@
         "Socital": {
           "https://www.socital.com": [
             "socital.com"
-          ]
-        }
-      },
-      {
-        "StackTrack": {
-          "http://stat-track.com": [
-            "stat-track.com"
           ]
         }
       },
