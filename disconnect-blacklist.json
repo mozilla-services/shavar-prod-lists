@@ -9854,6 +9854,13 @@
         }
       },
       {
+        "SnowplowAnalytics": {
+          "https://snowplowanalytics.com/": [
+            "snplow.net"
+          ]
+        }
+      },
+      {
         "Sourcepoint": {
           "https://www.sourcepoint.com/": [
             "summerhamster.com"
