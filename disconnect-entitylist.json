@@ -409,7 +409,8 @@
     "resources": [
       "adform.com",
       "adform.net",
-      "adformdsp.net"
+      "adformdsp.net",
+      "seadform.net"
     ]
   },
   "AdFox": {
@@ -452,6 +453,18 @@
     ],
     "resources": [
       "adgainersolutions.com"
+    ]
+  },
+  "AdGear": {
+    "properties": [
+      "adgear.com",
+      "bloom-hq.com"
+    ],
+    "resources": [
+      "adgear.com",
+      "adgrx.com",
+      "bloom-hq.com",
+      "runadtag.com"
     ]
   },
   "AdGent Digital": {
@@ -858,6 +871,14 @@
       "adonion.com"
     ]
   },
+  "ADOP": {
+    "properties": [
+      "adop.cc"
+    ],
+    "resources": [
+      "adop.cc"
+    ]
+  },
   "Adorika": {
     "properties": [
       "clickotmedia.com"
@@ -970,16 +991,6 @@
     ],
     "resources": [
       "adriver.ru"
-    ]
-  },
-  "adrolays": {
-    "properties": [
-      "contactimpact.de"
-    ],
-    "resources": [
-      "adrolays.com",
-      "adrolays.de",
-      "contactimpact.de"
     ]
   },
   "AdRoll": {
@@ -1153,6 +1164,14 @@
     ],
     "resources": [
       "adtelligence.de"
+    ]
+  },
+  "AdTelligent": {
+    "properties": [
+      "adtelligent.com"
+    ],
+    "resources": [
+      "vertamedia.com"
     ]
   },
   "Adthink": {
@@ -1428,13 +1447,14 @@
       "afterdownload.com"
     ]
   },
-  "AIData": {
+  "aidata": {
     "properties": [
       "advombat.ru",
       "aidata.me"
     ],
     "resources": [
       "advombat.ru",
+      "aidata.io",
       "aidata.me"
     ]
   },
@@ -1862,6 +1882,14 @@
       "whiskyandwines.com"
     ]
   },
+  "Atedra": {
+    "properties": [
+      "atedra.com"
+    ],
+    "resources": [
+      "atedra.com"
+    ]
+  },
   "AT Internet": {
     "properties": [
       "atinternet.com",
@@ -2011,6 +2039,17 @@
     "resources": [
       "avantlink.com",
       "avmws.com"
+    ]
+  },
+  "AvidMedia": {
+    "properties": [
+      "avidglobalmedia.eu"
+    ],
+    "resources": [
+      "adspdbl.com",
+      "avidglobalmedia.com",
+      "avidglobalmedia.eu",
+      "metadsp.co.uk"
     ]
   },
   "Avocet": {
@@ -2376,17 +2415,6 @@
       "blogrollr.com"
     ]
   },
-  "BLOOM Digital Platforms": {
-    "properties": [
-      "adgear.com",
-      "bloom-hq.com"
-    ],
-    "resources": [
-      "adgear.com",
-      "adgrx.com",
-      "bloom-hq.com"
-    ]
-  },
   "BloomReach": {
     "properties": [
       "bloomreach.com",
@@ -2533,6 +2561,14 @@
     ],
     "resources": [
       "breaktime.com.tw"
+    ]
+  },
+  "Bridgewell": {
+    "properties": [
+      "bridgewell.com"
+    ],
+    "resources": [
+      "scupio.com"
     ]
   },
   "Brightcove": {
@@ -3419,6 +3455,17 @@
       "contactatonce.com"
     ]
   },
+  "ContactImpact": {
+    "properties": [
+      "contactimpact.de"
+    ],
+    "resources": [
+      "adrolays.com",
+      "adrolays.de",
+      "contactimpact.de",
+      "df-srv.de"
+    ]
+  },
   "CONTAXE": {
     "properties": [
       "contaxe.com"
@@ -3758,6 +3805,14 @@
       "dataxu.net",
       "mexad.com",
       "w55c.net"
+    ]
+  },
+  "DatMean": {
+    "properties": [
+      "datmean.com"
+    ],
+    "resources": [
+      "aroa.io"
     ]
   },
   "Datonics": {
@@ -4336,6 +4391,14 @@
       "ero-advertising.com"
     ]
   },
+  "Eskimi": {
+    "properties": [
+      "eskimi.com"
+    ],
+    "resources": [
+      "eskimi.com"
+    ]
+  },
   "Etarget": {
     "properties": [
       "etarget.net",
@@ -4906,6 +4969,14 @@
     "resources": [
       "futureads.com",
       "resultlinks.com"
+    ]
+  },
+  "FuturePlc": {
+    "properties": [
+      "futureplc.com"
+    ],
+    "resources": [
+      "servebom.com"
     ]
   },
   "Fyber": {
@@ -6258,6 +6329,14 @@
     ],
     "resources": [
       "interpolls.com"
+    ]
+  },
+  "IntimateMerger": {
+    "properties": [
+      "intimatemerger.com"
+    ],
+    "resources": [
+      "im-apps.net"
     ]
   },
   "Inuvo": {
@@ -7885,6 +7964,14 @@
     "resources": [
       "affbuzzads.com",
       "movielush.com"
+    ]
+  },
+  "mParticle": {
+    "properties": [
+      "mparticle.com"
+    ],
+    "resources": [
+      "mparticle.com"
     ]
   },
   "MTS": {
@@ -9595,6 +9682,14 @@
       "staticstuff.net"
     ]
   },
+  "RTBHouse": {
+    "properties": [
+      "rtbhouse.com"
+    ],
+    "resources": [
+      "creativecdn.com"
+    ]
+  },
   "rtk": {
     "properties": [
       "rtk.io"
@@ -10047,6 +10142,7 @@
       "smartadserver.com"
     ],
     "resources": [
+      "sascdn.com",
       "smartadserver.com"
     ]
   },
@@ -10113,6 +10209,14 @@
     "resources": [
       "snoobi.com",
       "snoobi.fi"
+    ]
+  },
+  "SnowplowAnalytics": {
+    "properties": [
+      "snowplowanalytics.com"
+    ],
+    "resources": [
+      "snplow.net"
     ]
   },
   "SocialChorus": {
@@ -10583,6 +10687,15 @@
       "factortg.com"
     ]
   },
+  "Symplify": {
+    "properties": [
+      "symplify.com"
+    ],
+    "resources": [
+      "cdn-sitegainer.com",
+      "sitegainer.com"
+    ]
+  },
   "Synacor": {
     "properties": [
       "synacor.com"
@@ -10683,6 +10796,14 @@
     "resources": [
       "quicknoodles.com",
       "tattomedia.com"
+    ]
+  },
+  "Tchibo": {
+    "properties": [
+      "tchibo.de"
+    ],
+    "resources": [
+      "tchibo.de"
     ]
   },
   "Teadma": {
@@ -10796,6 +10917,15 @@
     "resources": [
       "thesearchagency.com",
       "thesearchagency.net"
+    ]
+  },
+  "TheTimesGroup": {
+    "properties": [
+      "indiatimes.com",
+      "timesofindia.com"
+    ],
+    "resources": [
+      "clmbtech.com"
     ]
   },
   "The Trade Desk": {
@@ -11756,6 +11886,14 @@
       "web.com"
     ]
   },
+  "WebediaGroup": {
+    "properties": [
+      "webedia-group.com"
+    ],
+    "resources": [
+      "goutee.top"
+    ]
+  },
   "WebGozar.com": {
     "properties": [
       "webgozar.com",
@@ -12119,6 +12257,7 @@
       "api-maps.yandex.ru",
       "moikrug.ru",
       "web-visor.com",
+      "webvisor.org",
       "yandex.by",
       "yandex.com",
       "yandex.com.tr",
