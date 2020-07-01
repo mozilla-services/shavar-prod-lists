@@ -173,3 +173,6 @@ $ ./scripts/json_verify.py -f tests/disconnect_blacklist_invalid.json
 tests/disconnect_blacklist_invalid.json : invalid
 Facebook has bad DNT value: bogus
 ```
+
+# License
+Find more details about license [here](LICENSE)
