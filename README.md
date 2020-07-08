@@ -56,16 +56,12 @@ other third-party domains that are not all owned by the same parent company.
 
 ## Other lists
 
-In addition, Mozilla maintains a several lists for Firefox-specific features
-and experiments. The lists currently in active use are:
+In addition, Mozilla maintains several lists for Firefox-specific features and
+experiments. The lists currently in active use are:
 * `social-tracking-protection-blacklist.json`: a subset of trackers from
     Disconnect's blocklist. This list is used to identify "social media"
     trackers within Firefox's UI. All of the origins on this list should also
     be included in Disconnect's `disconnect-blacklist.json` list.
-* `google-mapping.json`: a legacy entity remapping file used by Firefox iOS.
-    This list should not be used in any new products. Instead, the
-    [`disconnect-mapping.json`](https://github.com/mozilla-services/shavar-list-creation/blob/master/disconnect_mapping.json)
-    list should be used.
 
 ## List Versioning and Release Process
 
@@ -153,8 +149,6 @@ To help validate the validator (such meta!), use the list fixtures in the
   `disconnect-blacklist.json` with an invalid `"dnt"` value
 * `tests/disconnect_blacklist_valid.json` - copy of `disconnect-blacklist.json`
   with all valid values
-* `tests/google_mapping_invalid.json` - copy of `google_mapping.json` with
-  invalid JSON
 
 
 ```
@@ -166,11 +160,6 @@ $ ./scripts/json_verify.py -f tests/disconnect_blacklist_invalid.json
 
 tests/disconnect_blacklist_invalid.json : invalid
 Facebook has bad DNT value: bogus
-
-$ ./scripts/json_verify.py -f tests/google_mapping_invalid.json
-
-tests/google_mapping_invalid.json : invalid
-Error: Expecting property name: line 1  column 2 (char 1)
 ```
 
 # License
