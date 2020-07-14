@@ -1,3 +1,23 @@
+All files in this repository are licensed under the terms of the
+Mozilla Public License with the exception of,
+
+the following files:
+  tests/disconnect_blacklist_invalid.json
+  tests/disconnect_blacklist_valid.json
+are licensed under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+See <http://www.gnu.org/licenses/> for more details.
+
+the following files:
+  disconnect-blacklist.json
+  disconnect-entitylist.json
+are licensed under the terms of the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International license.
+See <https://creativecommons.org/licenses/by-nc-sa/4.0/> for more
+details.
+
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
