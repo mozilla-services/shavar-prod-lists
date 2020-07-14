@@ -11,13 +11,9 @@ from collections import Counter
 from types import DictType, ListType, UnicodeType
 from urlparse import urlparse
 
-FINGERPRINTING_TAG = 'fingerprinting'
-CRYPTOMINING_TAG = 'cryptominer'
 SESSION_REPLAY_TAG = 'session-replay'
 PERFORMANCE_TAG = 'performance'
 ALL_TAGS = [
-    FINGERPRINTING_TAG,
-    CRYPTOMINING_TAG,
     SESSION_REPLAY_TAG,
     PERFORMANCE_TAG
 ]
@@ -86,11 +82,11 @@ def find_uris(categories_json):
     """
     `categories_json` is expected to match this format:
         "categories": {
-            "Disconnect": [
+            "Advertising": [
                 {
-                    "Facebook": {
-                        "http://www.facebook.com/": [
-                            "facebook.com",
+                    "[x+1]": {
+                        "http://www.xplusone.com/": [
+                            "ru4.com",
                             ...
                         ]
                     }
@@ -105,36 +101,28 @@ def find_uris(categories_json):
                 },
                 ...
             ],
-            "Advertising": [
-                {
-                    "[x+1]": {
-                        "http://www.xplusone.com/": [
-                            "ru4.com",
-                            ...
-                        ]
-                    }
-                },
+            "Fingerprinting": [
                 {
                     "Example Fingerprinter": {
                         "http://example.com/": [
                             "example.com",
                             "fingerprinting.example"
-                        ],
-                        "fingerprinting": "true"
+                        ]
                     }
                 },
+                ...
+            ],
+            "Cryptomining": [
                 {
                     "The Best Tracker LLC": {
                         "http://tracker.example/": [
                             "tracker.example",
                             ...
-                        ],
-                        "fingerprinting": "true",
-                        "cryptominer": "true"
+                        ]
                     }
                 },
                 ...
-            ]
+            ],
             ...
         }
     """
