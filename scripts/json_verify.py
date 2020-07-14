@@ -65,7 +65,7 @@ def verify(file):
                     find_uris(json_obj["categories"])
                 else:
                     # disconnect_entitylist.json
-                    find_uris_in_entities(json_obj)
+                    find_uris_in_entities(json_obj["entities"])
             except Exception as e:
                 excp = traceback.format_exception(*sys.exc_info())
                 errors.append(
