@@ -64,8 +64,12 @@ def verify(file):
                 if ("categories" in json_obj):
                     # disconnect_blacklist.json
                     find_uris(json_obj["categories"])
-                else:
+                elif ("entities" in json_obj):
                     # disconnect_entitylist.json
+                    find_uris_in_entities(json_obj["entities"])
+                else:
+                    # disconnect_entitylist.json old structure
+                    # deprecated after PR 235
                     find_uris_in_entities(json_obj)
             except Exception as e:
                 excp = traceback.format_exception(*sys.exc_info())
