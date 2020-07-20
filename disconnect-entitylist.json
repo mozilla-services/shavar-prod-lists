@@ -940,16 +940,6 @@
         "adreactor.com"
       ]
     },
-    "AdReady": {
-      "properties": [
-        "digitalremedy.com"
-      ],
-      "resources": [
-        "adready.com",
-        "adreadytractions.com",
-        "digitalremedy"
-      ]
-    },
     "AdRevolution": {
       "properties": [
         "adrevolution.com"
@@ -1313,7 +1303,6 @@
         "adyield.com"
       ],
       "resources": [
-        "adxyield.com",
         "adyield.com"
       ]
     },
@@ -3889,6 +3878,16 @@
         "impact-ad.jp"
       ]
     },
+    "DigitalRemedy": {
+      "properties": [
+        "digitalremedy.com"
+      ],
+      "resources": [
+        "adready.com",
+        "adreadytractions.com",
+        "digitalremedy.com"
+      ]
+    },
     "Digital River": {
       "properties": [
         "digitalriver.com",
@@ -4090,6 +4089,7 @@
     },
     "eBay": {
       "properties": [
+        "ebay-kleinanzeigen.de",
         "ebay.at",
         "ebay.ba",
         "ebay.be",
@@ -8619,14 +8619,6 @@
         "pontiflex.com"
       ]
     },
-    "Poool": {
-      "properties": [
-        "poool.fr"
-      ],
-      "resources": [
-        "poool.fr"
-      ]
-    },
     "PopAds": {
       "properties": [
         "popads.net"
@@ -11565,6 +11557,7 @@
         "whiteops.com"
       ],
       "resources": [
+        "adxyield.com",
         "adzmath.com",
         "whiteops.com"
       ]
