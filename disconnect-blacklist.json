@@ -2755,7 +2755,9 @@
       {
         "eBay": {
           "http://www.ebay.com/": [
-            "ebay.com"
+            "ebay.com",
+            "ebayimg.com",
+            "ebaystatic.com"
           ]
         }
       },
@@ -3163,6 +3165,13 @@
         }
       },
       {
+        "Flocktory": {
+          "https://www.flocktory.com/en/": [
+            "flocktory.com"
+          ]
+        }
+      },
+      {
         "Fluct": {
           "https://corp.fluct.jp/": [
             "adingo.jp",
@@ -3435,6 +3444,8 @@
             "cc-dt.com",
             "destinationurl.com",
             "doubleclick.net",
+            "fcmatch.google.com",
+            "fcmatch.youtube.com",
             "googleadservices.com",
             "googlesyndication.com",
             "googletagservices.com",
@@ -5150,6 +5161,13 @@
         }
       },
       {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
+          ]
+        }
+      },
+      {
         "Outbrain": {
           "http://www.outbrain.com/": [
             "outbrain.com",
@@ -6701,6 +6719,14 @@
           "http://www.traffichaus.com/": [
             "traffichaus.com",
             "traffichouse.com"
+          ]
+        }
+      },
+      {
+        "TrafficJunky": {
+          "https://www.trafficjunky.com/": [
+            "trafficjunky.com",
+            "trafficjunky.net"
           ]
         }
       },
@@ -10580,6 +10606,13 @@
         "Opolen": {
           "https://opolen.com.br": [
             "opolen.com.br"
+          ]
+        }
+      },
+      {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
           ]
         }
       },

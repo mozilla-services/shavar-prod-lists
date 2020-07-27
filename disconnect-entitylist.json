@@ -4204,7 +4204,9 @@
         "ebay.pl"
       ],
       "resources": [
-        "ebay.com"
+        "ebay.com",
+        "ebayimg.com",
+        "ebaystatic.com"
       ]
     },
     "Echo": {
@@ -4810,6 +4812,14 @@
       "resources": [
         "flite.com",
         "widgetserver.com"
+      ]
+    },
+    "Flocktory": {
+      "properties": [
+        "flocktory.com"
+      ],
+      "resources": [
+        "flocktory.com"
       ]
     },
     "Fluct": {
@@ -8636,6 +8646,14 @@
         "otracking.com"
       ]
     },
+    "Origo": {
+      "properties": [
+        "origo.hu"
+      ],
+      "resources": [
+        "origo.hu"
+      ]
+    },
     "Outbrain": {
       "properties": [
         "outbrain.com",
@@ -11121,6 +11139,15 @@
       "resources": [
         "traffichaus.com",
         "traffichouse.com"
+      ]
+    },
+    "TrafficJunky": {
+      "properties": [
+        "trafficjunky.com"
+      ],
+      "resources": [
+        "trafficjunky.com",
+        "trafficjunky.net"
       ]
     },
     "TrafficRevenue": {
