@@ -759,14 +759,6 @@
         }
       },
       {
-        "AdReady": {
-          "http://www.adready.com/": [
-            "adready.com",
-            "adreadytractions.com"
-          ]
-        }
-      },
-      {
         "AdRevolution": {
           "http://adrevolution.com/": [
             "adrevolution.com"
@@ -1053,7 +1045,6 @@
       {
         "AdYield": {
           "http://www.adyield.com/": [
-            "adxyield.com",
             "adyield.com"
           ]
         }
@@ -2612,6 +2603,14 @@
         "DigitalAdConsortium": {
           "https://www.dac.co.jp/": [
             "impact-ad.jp"
+          ]
+        }
+      },
+      {
+        "DigitalRemedy": {
+          "https://www.digitalremedy.com/": [
+            "adready.com",
+            "adreadytractions.com"
           ]
         }
       },
@@ -9660,13 +9659,6 @@
         }
       },
       {
-        "Poool": {
-          "http://poool.fr/": [
-            "poool.fr"
-          ]
-        }
-      },
-      {
         "Pronunciator": {
           "http://www.pronunciator.com/": [
             "pronunciator.com",
@@ -10066,6 +10058,7 @@
       {
         "White Ops": {
           "https://www.whiteops.com/": [
+            "adxyield.com",
             "adzmath.com",
             "whiteops.com"
           ]
@@ -10728,13 +10721,6 @@
         "Smi": {
           "http://24smi.net": [
             "24smi.net"
-          ]
-        }
-      },
-      {
-        "Socital": {
-          "https://www.socital.com": [
-            "socital.com"
           ]
         }
       },
