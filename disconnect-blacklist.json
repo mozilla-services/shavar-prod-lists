@@ -2441,6 +2441,13 @@
         }
       },
       {
+        "Curalate": {
+          "https://www.curalate.com/": [
+            "curalate.com"
+          ]
+        }
+      },
+      {
         "cXense": {
           "http://www.cxense.com/": [
             "cxense.com",
@@ -5282,6 +5289,13 @@
         }
       },
       {
+        "Permutive": {
+          "https://permutive.com/": [
+            "permutive.com"
+          ]
+        }
+      },
+      {
         "Pheedo": {
           "http://site.pheedo.com/": [
             "pheedo.com"
@@ -5847,6 +5861,13 @@
             "rocketfuel.com",
             "ru4.com",
             "xplusone.com"
+          ]
+        }
+      },
+      {
+        "RoqAd": {
+          "https://www.roq.ad/": [
+            "rqtrk.eu"
           ]
         }
       },
