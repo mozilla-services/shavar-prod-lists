@@ -3703,6 +3703,14 @@
         "ethtrader.de"
       ]
     },
+    "Curalate": {
+      "properties": [
+        "curalate.com"
+      ],
+      "resources": [
+        "curalate.com"
+      ]
+    },
     "cXense": {
       "properties": [
         "cxense.com"
@@ -8862,6 +8870,14 @@
         "perimeterx.com"
       ]
     },
+    "Permutive": {
+      "properties": [
+        "permutive.com"
+      ],
+      "resources": [
+        "permutive.com"
+      ]
+    },
     "PersianStat.com": {
       "properties": [
         "persianstat.com"
@@ -9696,6 +9712,14 @@
       ],
       "resources": [
         "rollick.io"
+      ]
+    },
+    "RoqAd": {
+      "properties": [
+        "roq.ad"
+      ],
+      "resources": [
+        "rqtrk.eu"
       ]
     },
     "Rovion": {
