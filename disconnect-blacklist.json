@@ -9144,6 +9144,7 @@
       {
         "Google": {
           "http://www.google.com/": [
+            "crashlytics.com",
             "google-analytics.com",
             "postrank.com"
           ]
@@ -9945,7 +9946,6 @@
       {
         "Twitter": {
           "https://twitter.com/": [
-            "crashlytics.com",
             "tweetdeck.com"
           ]
         }
