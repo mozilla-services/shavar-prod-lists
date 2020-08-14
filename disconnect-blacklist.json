@@ -759,14 +759,6 @@
         }
       },
       {
-        "AdReady": {
-          "http://www.adready.com/": [
-            "adready.com",
-            "adreadytractions.com"
-          ]
-        }
-      },
-      {
         "AdRevolution": {
           "http://adrevolution.com/": [
             "adrevolution.com"
@@ -1053,7 +1045,6 @@
       {
         "AdYield": {
           "http://www.adyield.com/": [
-            "adxyield.com",
             "adyield.com"
           ]
         }
@@ -2450,6 +2441,13 @@
         }
       },
       {
+        "Curalate": {
+          "https://www.curalate.com/": [
+            "curalate.com"
+          ]
+        }
+      },
+      {
         "cXense": {
           "http://www.cxense.com/": [
             "cxense.com",
@@ -2616,6 +2614,14 @@
         }
       },
       {
+        "DigitalRemedy": {
+          "https://www.digitalremedy.com/": [
+            "adready.com",
+            "adreadytractions.com"
+          ]
+        }
+      },
+      {
         "Digital River": {
           "http://www.digitalriver.com/": [
             "digitalriver.com",
@@ -2756,7 +2762,9 @@
       {
         "eBay": {
           "http://www.ebay.com/": [
-            "ebay.com"
+            "ebay.com",
+            "ebayimg.com",
+            "ebaystatic.com"
           ]
         }
       },
@@ -3164,6 +3172,13 @@
         }
       },
       {
+        "Flocktory": {
+          "https://www.flocktory.com/en/": [
+            "flocktory.com"
+          ]
+        }
+      },
+      {
         "Fluct": {
           "https://corp.fluct.jp/": [
             "adingo.jp",
@@ -3436,6 +3451,8 @@
             "cc-dt.com",
             "destinationurl.com",
             "doubleclick.net",
+            "fcmatch.google.com",
+            "fcmatch.youtube.com",
             "googleadservices.com",
             "googlesyndication.com",
             "googletagservices.com",
@@ -5151,6 +5168,13 @@
         }
       },
       {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
+          ]
+        }
+      },
+      {
         "Outbrain": {
           "http://www.outbrain.com/": [
             "outbrain.com",
@@ -5261,6 +5285,13 @@
         "PerimeterX": {
           "https://www.perimeterx.com": [
             "perimeterx.net"
+          ]
+        }
+      },
+      {
+        "Permutive": {
+          "https://permutive.com/": [
+            "permutive.com"
           ]
         }
       },
@@ -6709,6 +6740,14 @@
           "http://www.traffichaus.com/": [
             "traffichaus.com",
             "traffichouse.com"
+          ]
+        }
+      },
+      {
+        "TrafficJunky": {
+          "https://www.trafficjunky.com/": [
+            "trafficjunky.com",
+            "trafficjunky.net"
           ]
         }
       },
@@ -9152,6 +9191,7 @@
       {
         "Google": {
           "http://www.google.com/": [
+            "crashlytics.com",
             "google-analytics.com",
             "postrank.com"
           ]
@@ -9667,13 +9707,6 @@
         }
       },
       {
-        "Poool": {
-          "http://poool.fr/": [
-            "poool.fr"
-          ]
-        }
-      },
-      {
         "Pronunciator": {
           "http://www.pronunciator.com/": [
             "pronunciator.com",
@@ -9960,7 +9993,6 @@
       {
         "Twitter": {
           "https://twitter.com/": [
-            "crashlytics.com",
             "tweetdeck.com"
           ]
         }
@@ -10073,6 +10105,7 @@
       {
         "White Ops": {
           "https://www.whiteops.com/": [
+            "adxyield.com",
             "adzmath.com",
             "whiteops.com"
           ]
@@ -10598,6 +10631,13 @@
         }
       },
       {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
+          ]
+        }
+      },
+      {
         "PaymentsMB": {
           "https://paymentsmb.com": [
             "paymentsmb.com"
@@ -10735,13 +10775,6 @@
         "Smi": {
           "http://24smi.net": [
             "24smi.net"
-          ]
-        }
-      },
-      {
-        "Socital": {
-          "https://www.socital.com": [
-            "socital.com"
           ]
         }
       },

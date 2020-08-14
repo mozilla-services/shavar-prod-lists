@@ -969,16 +969,6 @@
         "adreactor.com"
       ]
     },
-    "AdReady": {
-      "properties": [
-        "digitalremedy.com"
-      ],
-      "resources": [
-        "adready.com",
-        "adreadytractions.com",
-        "digitalremedy"
-      ]
-    },
     "AdRevolution": {
       "properties": [
         "adrevolution.com"
@@ -1340,7 +1330,6 @@
         "adyield.com"
       ],
       "resources": [
-        "adxyield.com",
         "adyield.com"
       ]
     },
@@ -3714,6 +3703,14 @@
         "ethtrader.de"
       ]
     },
+    "Curalate": {
+      "properties": [
+        "curalate.com"
+      ],
+      "resources": [
+        "curalate.com"
+      ]
+    },
     "cXense": {
       "properties": [
         "cxense.com"
@@ -3977,6 +3974,16 @@
         "impact-ad.jp"
       ]
     },
+    "DigitalRemedy": {
+      "properties": [
+        "digitalremedy.com"
+      ],
+      "resources": [
+        "adready.com",
+        "adreadytractions.com",
+        "digitalremedy.com"
+      ]
+    },
     "Digital River": {
       "properties": [
         "digitalriver.com",
@@ -4178,6 +4185,14 @@
     },
     "eBay": {
       "properties": [
+        "2dehands.be",
+        "2ememain.be",
+        "automobile.fr",
+        "automobile.it",
+        "bilbasen.dk",
+        "bilinfo.dk",
+        "dba.dk",
+        "ebay-kleinanzeigen.de",
         "ebay.at",
         "ebay.ba",
         "ebay.be",
@@ -4201,10 +4216,27 @@
         "ebay.in",
         "ebay.it",
         "ebay.nl",
-        "ebay.pl"
+        "ebay.pl",
+        "ebaymotorspro.co.uk",
+        "gumtree.co.za",
+        "gumtree.com",
+        "gumtree.com.au",
+        "gumtree.ie",
+        "gumtree.pl",
+        "gumtree.sg",
+        "kijiji.ca",
+        "kijiji.it",
+        "kijijiautos.ca",
+        "marktplaats.nl",
+        "mobile.de",
+        "motor-talk.de",
+        "motortalk.net",
+        "vivanuncios.com.mx"
       ],
       "resources": [
-        "ebay.com"
+        "ebay.com",
+        "ebayimg.com",
+        "ebaystatic.com"
       ]
     },
     "Echo": {
@@ -4644,6 +4676,7 @@
     "Facebook": {
       "properties": [
         "atlassolutions.com",
+        "e.gg",
         "facebook.com",
         "facebook.de",
         "facebook.fr",
@@ -4810,6 +4843,14 @@
       "resources": [
         "flite.com",
         "widgetserver.com"
+      ]
+    },
+    "Flocktory": {
+      "properties": [
+        "flocktory.com"
+      ],
+      "resources": [
+        "flocktory.com"
       ]
     },
     "Fluct": {
@@ -8636,6 +8677,14 @@
         "otracking.com"
       ]
     },
+    "Origo": {
+      "properties": [
+        "origo.hu"
+      ],
+      "resources": [
+        "origo.hu"
+      ]
+    },
     "Outbrain": {
       "properties": [
         "outbrain.com",
@@ -8821,6 +8870,14 @@
         "perimeterx.com"
       ]
     },
+    "Permutive": {
+      "properties": [
+        "permutive.com"
+      ],
+      "resources": [
+        "permutive.com"
+      ]
+    },
     "PersianStat.com": {
       "properties": [
         "persianstat.com"
@@ -8996,14 +9053,6 @@
       "resources": [
         "pontiflex.com"
       ]
-    },
-    "Poool": {	
-      "properties": [	
-        "poool.fr"	
-      ],	
-      "resources": [	
-        "poool.fr"	
-      ]	
     },
     "PopAds": {
       "properties": [
@@ -11139,6 +11188,15 @@
         "traffichouse.com"
       ]
     },
+    "TrafficJunky": {
+      "properties": [
+        "trafficjunky.com"
+      ],
+      "resources": [
+        "trafficjunky.com",
+        "trafficjunky.net"
+      ]
+    },
     "TrafficRevenue": {
       "properties": [
         "trafficrevenue.net"
@@ -12048,6 +12106,7 @@
         "whiteops.com"
       ],
       "resources": [
+        "adxyield.com",
         "adzmath.com",
         "whiteops.com"
       ]
