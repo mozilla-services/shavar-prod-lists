@@ -17,9 +17,6 @@ def get_unique_uris(blacklist):
         for entity in category_json:
                 for entity_name, entity_json in entity.items():
                     for domain, uris in entity_json.items():
-                        #if domain in ['session-replay', 'dnt', 'performance']:
-                        #    continue
-                        
                         if not entity_name in unique_uris:
                             unique_uris[entity_name] = set()
                         
