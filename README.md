@@ -52,6 +52,7 @@ Firefox consumes the list as follows:
     By default, ETP's fingerprinting blocking only blocks
     _Tracking Fingerprinters_, that is domains which appear in both the
     FingerprintingInvasive category and one of the Tracking categories.
+    Firefox does not use the FingerprintingGeneral category at this time.
 
 #### `disconnect-entitylist.json`
 
