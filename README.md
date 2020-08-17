@@ -48,10 +48,10 @@ Firefox consumes the list as follows:
     "Level 1" list, which excludes the "Content" category, and the
     "Level 2" list which includes the "Content" category.
 * **Cryptomining**: anything in the Cryptomining category
-* **Fingerprinting**: anything in the Fingerprinting category. By default,
-    ETP's fingerprinting blocking only blocks _Tracking Fingerprinters_, that
-    is domains which appear in both the Fingerprinting category and one of the
-    Tracking categories.
+* **Fingerprinting**: anything in the FingerprintingInvasive category.
+    By default, ETP's fingerprinting blocking only blocks
+    _Tracking Fingerprinters_, that is domains which appear in both the
+    FingerprintingInvasive category and one of the Tracking categories.
 
 #### `disconnect-entitylist.json`
 
