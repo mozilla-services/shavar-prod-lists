@@ -3665,6 +3665,13 @@
         }
       },
       {
+        "ie8eamus": {
+          "https://ie8eamus.com/": [
+            "ie8eamus.com"
+          ]
+        }
+      },
+      {
         "iEntry": {
           "http://www.ientry.com/": [
             "600z.com",
@@ -10322,6 +10329,15 @@
         }
       },
       {
+        "Bouncex": {
+          "https://www.bouncex.com/": [
+            "bounceexchange.com",
+            "bouncex.com",
+            "bouncex.net"
+          ]
+        }
+      },
+      {
         "Brandcrumb": {
           "http://www.brandcrumb.com": [
             "brandcrumb.com"
@@ -10508,6 +10524,13 @@
         }
       },
       {
+        "ie8eamus": {
+          "https://ie8eamus.com/": [
+            "ie8eamus.com"
+          ]
+        }
+      },
+      {
         "iMedia": {
           "http://www.imedia.cz": [
             "imedia.cz"
@@ -10690,6 +10713,13 @@
         "PrometheusIntelligenceTechnology": {
           "https://prometheusintelligencetechnology.com/": [
             "prometheusintelligencetechnology.com"
+          ]
+        }
+      },
+      {
+        "Protected Media": {
+          "http://www.protected.media/": [
+            "ad-score.com"
           ]
         }
       },
@@ -10925,15 +10955,6 @@
             "bkrtx.com",
             "bluekai.com",
             "tracksimple.com"
-          ]
-        }
-      },
-      {
-        "Bouncex": {
-          "https://www.bouncex.com/": [
-            "bounceexchange.com",
-            "bouncex.com",
-            "bouncex.net"
           ]
         }
       },
