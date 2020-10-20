@@ -1407,8 +1407,7 @@
       {
         "AvantLink": {
           "http://www.avantlink.com/": [
-            "avantlink.com",
-            "avantmetrics.com"
+            "avantlink.com"
           ]
         }
       },
@@ -5521,14 +5520,6 @@
         }
       },
       {
-        "Rapleaf": {
-          "http://www.rapleaf.com/": [
-            "rapleaf.com",
-            "rlcdn.com"
-          ]
-        }
-      },
-      {
         "ReachLocal": {
           "http://www.reachlocal.com/": [
             "reachlocal.com",
@@ -6514,6 +6505,14 @@
           "http://www.touchcommerce.com/": [
             "inq.com",
             "touchcommerce.com"
+          ]
+        }
+      },
+      {
+        "TowerData": {
+          "https://www.towerdata.com/": [
+            "rapleaf.com",
+            "rlcdn.com"
           ]
         }
       },
