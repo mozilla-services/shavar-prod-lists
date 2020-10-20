@@ -10647,13 +10647,6 @@
         }
       },
       {
-        "Origo": {
-          "https://www.origo.hu/index.html": [
-            "origo.hu"
-          ]
-        }
-      },
-      {
         "PaymentsMB": {
           "https://paymentsmb.com": [
             "paymentsmb.com"
@@ -11147,6 +11140,13 @@
             "openx.org",
             "openxenterprise.com",
             "servedbyopenx.com"
+          ]
+        }
+      },
+      {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
           ]
         }
       },
