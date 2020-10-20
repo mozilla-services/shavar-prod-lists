@@ -10306,6 +10306,14 @@
         "socialinterface.com"
       ]
     },
+    "SocialNative": {
+      "properties": [
+        "socialnative.com"
+      ],
+      "resources": [
+        "photorank.me"
+      ]
+    },
     "SocialTwist": {
       "properties": [
         "socialtwist.com"
@@ -10521,6 +10529,14 @@
       ],
       "resources": [
         "stackadapt.com"
+      ]
+    },
+    "Stackla": {
+      "properties": [
+        "stackla.com"
+      ],
+      "resources": [
+        "stackla.com"
       ]
     },
     "StackTrack": {
@@ -12475,6 +12491,14 @@
       ],
       "resources": [
         "yoggrt.com"
+      ]
+    },
+    "Yotpo": {
+      "properties": [
+        "yotpo.com"
+      ],
+      "resources": [
+        "yotpo.com"
       ]
     },
     "youknowbest": {

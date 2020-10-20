@@ -6190,6 +6190,13 @@
         }
       },
       {
+        "SocialNative": {
+          "https://www.socialnative.com/": [
+            "photorank.me"
+          ]
+        }
+      },
+      {
         "SocialTwist": {
           "http://tellafriend.socialtwist.com/": [
             "socialtwist.com"
@@ -6347,6 +6354,13 @@
         "StackAdapt": {
           "https://www.stackadapt.com/": [
             "stackadapt.com"
+          ]
+        }
+      },
+      {
+        "Stackla": {
+          "https://stackla.com/": [
+            "stackla.com"
           ]
         }
       },
@@ -7444,6 +7458,13 @@
         "Yoggrt": {
           "http://www.yoggrt.com/": [
             "yoggrt.com"
+          ]
+        }
+      },
+      {
+        "Yotpo": {
+          "https://www.yotpo.com/": [
+            "yotpo.com"
           ]
         }
       },
