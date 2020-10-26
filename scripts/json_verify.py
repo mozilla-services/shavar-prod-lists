@@ -185,10 +185,6 @@ def check_uri(uri):
     # 	no scheme, port, fragment, path or query string
     # 	no disallowed characters
     # 	no leading/trailing garbage
-    try:
-        uri.decode('ascii')
-    except UnicodeEncodeError:
-        bad_uris.append(uri)
     parsed_uri = urlparse(uri)
     try:
         assert parsed_uri.scheme == ''
@@ -209,7 +205,7 @@ def find_line_number(uri):
     line = 0
     try:
         for x in range(0, len(file_contents)):
-            temp = file_contents[x][0].decode("utf-8", "ignore")
+            temp = file_contents[x][0]
             if re.search(uri, temp):
                 line = file_contents[x][1]
                 file_contents.pop(x)
