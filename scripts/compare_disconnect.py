@@ -44,6 +44,8 @@ if len(category_diff) > 0:
     print('Categories do not match – diff is ' + str(category_diff))
 
 for category, unique_uris in shavar_uris.items():
+    if category in category_diff:
+        continue
     entity_diff = unique_uris.keys() ^ disconnect_uris[category].keys()
     if len(entity_diff) > 0:
         result = 1
@@ -52,6 +54,8 @@ for category, unique_uris in shavar_uris.items():
         )
 
     for entity in unique_uris.keys():
+        if entity in entity_diff:
+            continue
         uris_diff = unique_uris[entity] ^ disconnect_uris[category][entity]
         if(len(uris_diff) > 0):
             result = 1
