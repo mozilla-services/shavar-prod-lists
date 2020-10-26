@@ -9,7 +9,7 @@ import sys
 import traceback
 from collections import Counter
 from types import DictType, ListType, UnicodeType
-from urlparse import urlparse
+from urllib.parse import urlparse
 
 SESSION_REPLAY_TAG = 'session-replay'
 PERFORMANCE_TAG = 'performance'
