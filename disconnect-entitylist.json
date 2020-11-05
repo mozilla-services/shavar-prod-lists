@@ -4230,7 +4230,9 @@
         "marktplaats.nl",
         "mobile.de",
         "motor-talk.de",
+        "motorbasar.de",
         "motortalk.net",
+        "motortests.de",
         "vivanuncios.com.mx"
       ],
       "resources": [
@@ -9417,16 +9419,6 @@
         "rambler.ru"
       ]
     },
-    "Rapleaf": {
-      "properties": [
-        "rapleaf.com",
-        "rlcdn.com"
-      ],
-      "resources": [
-        "rapleaf.com",
-        "rlcdn.com"
-      ]
-    },
     "ReachLocal": {
       "properties": [
         "reachlocal.com",
@@ -11133,6 +11125,17 @@
         "inq.com",
         "nuance.com",
         "touchcommerce.com"
+      ]
+    },
+    "TowerData": {
+      "properties": [
+        "rapleaf.com",
+        "rlcdn.com",
+        "towerdata.com"
+      ],
+      "resources": [
+        "rapleaf.com",
+        "rlcdn.com"
       ]
     },
     "TraceMyIP.org": {
