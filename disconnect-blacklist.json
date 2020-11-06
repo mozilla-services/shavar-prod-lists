@@ -1446,8 +1446,7 @@
       {
         "AvantLink": {
           "http://www.avantlink.com/": [
-            "avantlink.com",
-            "avantmetrics.com"
+            "avantlink.com"
           ]
         }
       },
@@ -5674,14 +5673,6 @@
         }
       },
       {
-        "Rapleaf": {
-          "http://www.rapleaf.com/": [
-            "rapleaf.com",
-            "rlcdn.com"
-          ]
-        }
-      },
-      {
         "ReachLocal": {
           "http://www.reachlocal.com/": [
             "reachlocal.com",
@@ -6732,6 +6723,14 @@
           "http://www.touchcommerce.com/": [
             "inq.com",
             "touchcommerce.com"
+          ]
+        }
+      },
+      {
+        "TowerData": {
+          "https://www.towerdata.com/": [
+            "rapleaf.com",
+            "rlcdn.com"
           ]
         }
       },
@@ -10277,13 +10276,6 @@
         }
       },
       {
-        "Albacross": {
-          "https://albacross.com": [
-            "albacross.com"
-          ]
-        }
-      },
-      {
         "AppCast": {
           "https://appcast.io/": [
             "appcast.io"
@@ -10676,13 +10668,6 @@
         }
       },
       {
-        "Origo": {
-          "https://www.origo.hu/index.html": [
-            "origo.hu"
-          ]
-        }
-      },
-      {
         "PaymentsMB": {
           "https://paymentsmb.com": [
             "paymentsmb.com"
@@ -10955,6 +10940,13 @@
         }
       },
       {
+        "Albacross": {
+          "https://albacross.com": [
+            "albacross.com"
+          ]
+        }
+      },
+      {
         "AvantLink": {
           "http://www.avantlink.com/": [
             "avantlink.com",
@@ -11169,6 +11161,13 @@
             "openx.org",
             "openxenterprise.com",
             "servedbyopenx.com"
+          ]
+        }
+      },
+      {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
           ]
         }
       },
