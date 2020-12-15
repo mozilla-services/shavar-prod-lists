@@ -8194,14 +8194,6 @@
         "opera.com"
       ]
     },
-    "Opolen": {
-      "properties": [
-        "opolen.com.br"
-      ],
-      "resources": [
-        "opolen.com.br"
-      ]
-    },
     "OPT": {
       "properties": [
         "www.opt.ne.jp"
@@ -8618,6 +8610,14 @@
       "resources": [
         "mediavoice.com",
         "polarmobile.com"
+      ]
+    },
+    "Polen": {
+      "properties": [
+        "opolen.com.br"
+      ],
+      "resources": [
+        "opolen.com.br"
       ]
     },
     "Politads": {
