@@ -1446,8 +1446,7 @@
       {
         "AvantLink": {
           "http://www.avantlink.com/": [
-            "avantlink.com",
-            "avantmetrics.com"
+            "avantlink.com"
           ]
         }
       },
@@ -5674,14 +5673,6 @@
         }
       },
       {
-        "Rapleaf": {
-          "http://www.rapleaf.com/": [
-            "rapleaf.com",
-            "rlcdn.com"
-          ]
-        }
-      },
-      {
         "ReachLocal": {
           "http://www.reachlocal.com/": [
             "reachlocal.com",
@@ -6173,19 +6164,17 @@
         }
       },
       {
-        "SocialChorus": {
-          "http://www.socialchorus.com/": [
-            "halogenmediagroup.com",
-            "halogennetwork.com",
-            "socialchorus.com"
-          ]
-        }
-      },
-      {
         "SocialInterface": {
           "http://socialinterface.com/": [
             "ratevoice.com",
             "socialinterface.com"
+          ]
+        }
+      },
+      {
+        "SocialNative": {
+          "https://www.socialnative.com/": [
+            "photorank.me"
           ]
         }
       },
@@ -6347,6 +6336,13 @@
         "StackAdapt": {
           "https://www.stackadapt.com/": [
             "stackadapt.com"
+          ]
+        }
+      },
+      {
+        "Stackla": {
+          "https://stackla.com/": [
+            "stackla.com"
           ]
         }
       },
@@ -6722,6 +6718,14 @@
         }
       },
       {
+        "TowerData": {
+          "https://www.towerdata.com/": [
+            "rapleaf.com",
+            "rlcdn.com"
+          ]
+        }
+      },
+      {
         "TrackingSoft": {
           "http://trackingsoft.com/": [
             "trackingsoft.com"
@@ -6880,19 +6884,6 @@
           "https://www.ucfunnel.com/": [
             "aralego.com",
             "ucfunnel.com"
-          ]
-        }
-      },
-      {
-        "uCoz": {
-          "http://www.ucoz.com/": [
-            "ucoz.ae",
-            "ucoz.br",
-            "ucoz.com",
-            "ucoz.du",
-            "ucoz.fr",
-            "ucoz.net",
-            "ucoz.ru"
           ]
         }
       },
@@ -7444,6 +7435,13 @@
         "Yoggrt": {
           "http://www.yoggrt.com/": [
             "yoggrt.com"
+          ]
+        }
+      },
+      {
+        "Yotpo": {
+          "https://www.yotpo.com/": [
+            "yotpo.com"
           ]
         }
       },
@@ -9643,13 +9641,6 @@
         }
       },
       {
-        "Opolen": {
-          "https://opolen.com.br": [
-            "opolen.com.br"
-          ]
-        }
-      },
-      {
         "Optimizely": {
           "https://www.optimizely.com/": [
             "optimizely.com"
@@ -9711,6 +9702,13 @@
         "PixAnalytics": {
           "https://pixanalytics.com/": [
             "pixanalytics.com"
+          ]
+        }
+      },
+      {
+        "Polen": {
+          "https://polen.com.br/": [
+            "opolen.com.br"
           ]
         }
       },
@@ -10256,13 +10254,6 @@
         }
       },
       {
-        "Albacross": {
-          "https://albacross.com": [
-            "albacross.com"
-          ]
-        }
-      },
-      {
         "AppCast": {
           "https://appcast.io/": [
             "appcast.io"
@@ -10459,13 +10450,6 @@
         }
       },
       {
-        "Fanplayr": {
-          "https://fanplayr.com/": [
-            "fanplayr.com"
-          ]
-        }
-      },
-      {
         "Foresee": {
           "https://www.foresee.com": [
             "answerscloud.com",
@@ -10560,13 +10544,6 @@
         }
       },
       {
-        "justuno": {
-          "https://www.justuno.com/": [
-            "justuno.com"
-          ]
-        }
-      },
-      {
         "Konduto": {
           "http://konduto.com": [
             "k-analytix.com",
@@ -10644,20 +10621,6 @@
         "OnlineMetrix": {
           "http://h.online-metrix.net": [
             "online-metrix.net"
-          ]
-        }
-      },
-      {
-        "Opolen": {
-          "https://opolen.com.br": [
-            "opolen.com.br"
-          ]
-        }
-      },
-      {
-        "Origo": {
-          "https://www.origo.hu/index.html": [
-            "origo.hu"
           ]
         }
       },
@@ -10934,6 +10897,13 @@
         }
       },
       {
+        "Albacross": {
+          "https://albacross.com": [
+            "albacross.com"
+          ]
+        }
+      },
+      {
         "AvantLink": {
           "http://www.avantlink.com/": [
             "avantlink.com",
@@ -11032,6 +11002,13 @@
         }
       },
       {
+        "Fanplayr": {
+          "https://fanplayr.com/": [
+            "fanplayr.com"
+          ]
+        }
+      },
+      {
         "Fiksu": {
           "http://www.fiksu.com/": [
             "fiksu.com"
@@ -11098,6 +11075,13 @@
         }
       },
       {
+        "justuno": {
+          "https://www.justuno.com/": [
+            "justuno.com"
+          ]
+        }
+      },
+      {
         "KISSmetrics": {
           "http://kissmetrics.com/": [
             "kissmetrics.com"
@@ -11152,9 +11136,23 @@
         }
       },
       {
+        "Origo": {
+          "https://www.origo.hu/index.html": [
+            "origo.hu"
+          ]
+        }
+      },
+      {
         "PinPoll": {
           "https://pinpoll.com/": [
             "pinpoll.com"
+          ]
+        }
+      },
+      {
+        "Polen": {
+          "https://polen.com.br/": [
+            "polen.com.br"
           ]
         }
       },

@@ -4230,7 +4230,9 @@
         "marktplaats.nl",
         "mobile.de",
         "motor-talk.de",
+        "motorbasar.de",
         "motortalk.net",
+        "motortests.de",
         "vivanuncios.com.mx"
       ],
       "resources": [
@@ -4689,6 +4691,7 @@
         "internalfb.com",
         "messenger.com",
         "oculus.com",
+        "oversightboard.com",
         "whatsapp.com",
         "workplace.com"
       ],
@@ -8587,14 +8590,6 @@
         "opera.com"
       ]
     },
-    "Opolen": {
-      "properties": [
-        "opolen.com.br"
-      ],
-      "resources": [
-        "opolen.com.br"
-      ]
-    },
     "OPT": {
       "properties": [
         "www.opt.ne.jp"
@@ -9037,6 +9032,14 @@
         "polarmobile.com"
       ]
     },
+    "Polen": {
+      "properties": [
+        "opolen.com.br"
+      ],
+      "resources": [
+        "opolen.com.br"
+      ]
+    },
     "Politads": {
       "properties": [
         "politads.com"
@@ -9423,16 +9426,6 @@
       ],
       "resources": [
         "rambler.ru"
-      ]
-    },
-    "Rapleaf": {
-      "properties": [
-        "rapleaf.com",
-        "rlcdn.com"
-      ],
-      "resources": [
-        "rapleaf.com",
-        "rlcdn.com"
       ]
     },
     "ReachLocal": {
@@ -10306,6 +10299,14 @@
         "socialinterface.com"
       ]
     },
+    "SocialNative": {
+      "properties": [
+        "socialnative.com"
+      ],
+      "resources": [
+        "photorank.me"
+      ]
+    },
     "SocialTwist": {
       "properties": [
         "socialtwist.com"
@@ -10521,6 +10522,14 @@
       ],
       "resources": [
         "stackadapt.com"
+      ]
+    },
+    "Stackla": {
+      "properties": [
+        "stackla.com"
+      ],
+      "resources": [
+        "stackla.com"
       ]
     },
     "StackTrack": {
@@ -11141,6 +11150,17 @@
         "inq.com",
         "nuance.com",
         "touchcommerce.com"
+      ]
+    },
+    "TowerData": {
+      "properties": [
+        "rapleaf.com",
+        "rlcdn.com",
+        "towerdata.com"
+      ],
+      "resources": [
+        "rapleaf.com",
+        "rlcdn.com"
       ]
     },
     "TraceMyIP.org": {
@@ -12475,6 +12495,14 @@
       ],
       "resources": [
         "yoggrt.com"
+      ]
+    },
+    "Yotpo": {
+      "properties": [
+        "yotpo.com"
+      ],
+      "resources": [
+        "yotpo.com"
       ]
     },
     "youknowbest": {
