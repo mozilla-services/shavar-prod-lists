@@ -6136,15 +6136,6 @@
         }
       },
       {
-        "SocialChorus": {
-          "http://www.socialchorus.com/": [
-            "halogenmediagroup.com",
-            "halogennetwork.com",
-            "socialchorus.com"
-          ]
-        }
-      },
-      {
         "SocialInterface": {
           "http://socialinterface.com/": [
             "ratevoice.com",
@@ -6851,19 +6842,6 @@
           "https://www.ucfunnel.com/": [
             "aralego.com",
             "ucfunnel.com"
-          ]
-        }
-      },
-      {
-        "uCoz": {
-          "http://www.ucoz.com/": [
-            "ucoz.ae",
-            "ucoz.br",
-            "ucoz.com",
-            "ucoz.du",
-            "ucoz.fr",
-            "ucoz.net",
-            "ucoz.ru"
           ]
         }
       },
@@ -9614,13 +9592,6 @@
         }
       },
       {
-        "Opolen": {
-          "https://opolen.com.br": [
-            "opolen.com.br"
-          ]
-        }
-      },
-      {
         "Optimizely": {
           "https://www.optimizely.com/": [
             "optimizely.com"
@@ -9682,6 +9653,13 @@
         "PixAnalytics": {
           "https://pixanalytics.com/": [
             "pixanalytics.com"
+          ]
+        }
+      },
+      {
+        "Polen": {
+          "https://polen.com.br/": [
+            "opolen.com.br"
           ]
         }
       },
@@ -10414,13 +10392,6 @@
         }
       },
       {
-        "Fanplayr": {
-          "https://fanplayr.com/": [
-            "fanplayr.com"
-          ]
-        }
-      },
-      {
         "Foresee": {
           "https://www.foresee.com": [
             "answerscloud.com",
@@ -10508,13 +10479,6 @@
         }
       },
       {
-        "justuno": {
-          "https://www.justuno.com/": [
-            "justuno.com"
-          ]
-        }
-      },
-      {
         "Konduto": {
           "http://konduto.com": [
             "k-analytix.com",
@@ -10592,13 +10556,6 @@
         "OnlineMetrix": {
           "http://h.online-metrix.net": [
             "online-metrix.net"
-          ]
-        }
-      },
-      {
-        "Opolen": {
-          "https://opolen.com.br": [
-            "opolen.com.br"
           ]
         }
       },
@@ -10973,6 +10930,13 @@
         }
       },
       {
+        "Fanplayr": {
+          "https://fanplayr.com/": [
+            "fanplayr.com"
+          ]
+        }
+      },
+      {
         "Fiksu": {
           "http://www.fiksu.com/": [
             "fiksu.com"
@@ -11035,6 +10999,13 @@
         "Infolinks": {
           "http://www.infolinks.com/": [
             "infolinks.com"
+          ]
+        }
+      },
+      {
+        "justuno": {
+          "https://www.justuno.com/": [
+            "justuno.com"
           ]
         }
       },
@@ -11103,6 +11074,13 @@
         "PinPoll": {
           "https://pinpoll.com/": [
             "pinpoll.com"
+          ]
+        }
+      },
+      {
+        "Polen": {
+          "https://polen.com.br/": [
+            "polen.com.br"
           ]
         }
       },
