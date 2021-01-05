@@ -125,6 +125,8 @@ If we discover breakage that we'd like to fix through Firefox code changes, we
 may temporarily unblock the relevant domains while we work on the fixes. To
 prevent these from becoming permanent exceptions, a deadline must be provided by
 the engineer at the time of unblocking, with a maximum deadline of 18 months.
+We may alternatively unblock domains for up to 6 months when we are working in
+collaboration with the impacted site or party to fix website breakage.
 These are tracked in [Bug 1537702](https://bugzilla.mozilla.org/show_bug.cgi?id=1537702).
 
 #### List freezes
