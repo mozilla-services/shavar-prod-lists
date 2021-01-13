@@ -776,6 +776,14 @@
         "nspmotion.com"
       ]
     },
+    "adNET": {
+      "properties": [
+        "adnet.de"
+      ],
+      "resources": [
+        "adnet.de"
+      ]
+    },
     "Adnetik": {
       "properties": [
         "wtp101.com"
@@ -1205,6 +1213,15 @@
       ],
       "resources": [
         "adultmoda.com"
+      ]
+    },
+    "AdvancedStore": {
+      "properties": [
+        "advanced-store.com"
+      ],
+      "resources": [
+        "ad4m.at",
+        "ad4mat.de"
       ]
     },
     "Adventive": {
@@ -10985,6 +11002,15 @@
       "resources": [
         "hittail.com",
         "thenumagroup.com"
+      ]
+    },
+    "TheReachGroup": {
+      "properties": [
+        "medialead.de",
+        "trg.de"
+      ],
+      "resources": [
+        "medialead.de"
       ]
     },
     "The Search Agency": {
