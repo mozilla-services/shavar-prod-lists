@@ -6070,7 +6070,8 @@
     "IBM": {
       "properties": [
         "ibm.com",
-        "multicloud-ibm.com"
+        "multicloud-ibm.com",
+        "weather.com"
       ],
       "resources": [
         "cmcore.com",
@@ -6913,16 +6914,6 @@
         "linkedin.com"
       ]
     },
-    "LinkShare": {
-      "properties": [
-        "rakutenmarketing.com"
-      ],
-      "resources": [
-        "linkshare.com",
-        "linksynergy.com",
-        "rakutenmarketing.com"
-      ]
-    },
     "Linkz": {
       "properties": [
         "linkz.net"
@@ -7656,6 +7647,7 @@
         "microsoftalumni.com",
         "microsoftalumni.org",
         "microsoftazuread-sso.com",
+        "microsoftedgeinsider.com",
         "microsoftedgeinsiders.com",
         "microsoftonline-p.com",
         "microsoftonline-p.net",
@@ -7679,6 +7671,7 @@
         "phonefactor.net",
         "s-msn.com",
         "sfx.ms",
+        "sharepoint-df.com",
         "sharepoint.com",
         "skype.com",
         "skypeforbusiness.com",
@@ -9418,6 +9411,47 @@
       ],
       "resources": [
         "radiusmarketing.com"
+      ]
+    },
+    "Rakuten": {
+      "properties": [
+        "fusioncom.co.jp",
+        "infoseek.co.jp",
+        "infoseek.ne.jp",
+        "infoseek.tenki.jp",
+        "ispeed.jp",
+        "kenko.com",
+        "kobo.com",
+        "marketspeed.jp",
+        "nikki.ne.jp",
+        "rakuten-bank.co.jp",
+        "rakuten-card.co.jp",
+        "rakuten-insurance.co.jp",
+        "rakuten-life.co.jp",
+        "rakuten-life.net",
+        "rakuten-sec.co.jp",
+        "rakuten.co.jp",
+        "rakuten.com",
+        "rakuten.com.au",
+        "rakuten.com.hk",
+        "rakuten.com.tw",
+        "rakuten.de",
+        "rakuten.net",
+        "rakuten.tv",
+        "rakutenadvertising.com",
+        "rakuteneagles.jp",
+        "rakutentrade.my",
+        "showtime.jp",
+        "soompi.com",
+        "viber.co.jp",
+        "viber.com",
+        "viki.com"
+      ],
+      "resources": [
+        "ebates.com",
+        "linkshare.com",
+        "linksynergy.com",
+        "rakutenmarketing.com"
       ]
     },
     "Rambler": {
