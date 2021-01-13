@@ -1245,17 +1245,6 @@
         }
       },
       {
-        "AppNexus": {
-          "http://www.appnexus.com/": [
-            "adlantic.nl",
-            "adnxs.com",
-            "adrdgt.com",
-            "alenty.com",
-            "appnexus.com"
-          ]
-        }
-      },
-      {
         "AppsFlyer": {
           "http://appsflyer.com/": [
             "appsflyer.com"
@@ -1308,6 +1297,11 @@
       {
         "AT&T": {
           "http://www.att.com/": [
+            "adlantic.nl",
+            "adnxs.com",
+            "adrdgt.com",
+            "alenty.com",
+            "appnexus.com",
             "att.com",
             "yp.com"
           ]
