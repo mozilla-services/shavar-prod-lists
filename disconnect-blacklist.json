@@ -4150,14 +4150,6 @@
         }
       },
       {
-        "LinkShare": {
-          "http://www.linkshare.com/": [
-            "linkshare.com",
-            "linksynergy.com"
-          ]
-        }
-      },
-      {
         "Linkz": {
           "http://www.linkz.net/": [
             "linkz.net"
@@ -5633,6 +5625,14 @@
         "Radius Marketing": {
           "http://www.radiusmarketing.com/": [
             "radiusmarketing.com"
+          ]
+        }
+      },
+      {
+        "Rakuten": {
+          "https://rakutenadvertising.com/": [
+            "linkshare.com",
+            "linksynergy.com"
           ]
         }
       },
