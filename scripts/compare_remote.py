@@ -5,10 +5,14 @@ import requests
 import json
 import argparse
 
-parser = argparse.ArgumentParser(description='Compare Shavar and Disconnect.me blocklist.')
-# parser.add_argument("file", type=str, help="blacklist to verify")
+parser = argparse.ArgumentParser(description='Compare current against Shavar or Disconnect.me blocklist. Default compare against remote.')
+parser.add_argument('-d', '--disconnect', help='Compare against Disconnect', action='store_true')
+parser.add_argument('-s', '--shavar', help='Compare against Disconnect')
 args = parser.parse_args()
-
+if args.disconnect:
+    github_url = 'https://raw.githubusercontent.com/disconnectme/shavar-prod-lists/master/disconnect-blacklist.json'
+else:
+    github_url = 'https://raw.githubusercontent.com/mozilla-services/shavar-prod-lists/master/social-tracking-protection-blacklist.json'
 result = 0
 
 def get_unique_uris(blocklist):
@@ -58,20 +62,13 @@ def compare_by_categories(curr_uris, remote_uris):
 curr_blcklist_json = open('disconnect-blacklist.json', 'r')
 curr_blcklist = json.load(curr_blcklist_json)
 # original repo https://raw.githubusercontent.com/disconnectme/disconnect-tracking-protection/master/services.json
-disconnect_resp = requests.get('https://raw.githubusercontent.com/disconnectme/shavar-prod-lists/master/disconnect-blacklist.json')
-shavar_resp = requests.get('disconnect_url=https://raw.githubusercontent.com/mozilla-services/shavar-prod-lists/master/social-tracking-protection-blacklist.json')
-disconnect_blocklist = json.loads(resp.content)
-shavar_blocklist = json.loads(resp.content)
+resp = requests.get(github_url)
+remote_blocklist = json.loads(resp.content)
 
 curr_uris = get_unique_uris(curr_blcklist)
-disconnect_uris = get_unique_uris(disconnect_blocklist)
-shavar_uris = get_unique_uris(disconnect_blocklist)
+remote_uris = get_unique_uris(remote_blocklist)
 
 # check current and remote has the same domains in the categories
-print('Diff between current changes and Disconnect')
-compare_by_categories(curr_uris, disconnect_uris)
-print('Diff between current changes and Shavar')
-compare_by_categories(curr_uris, shavar_uris)
-
+compare_by_categories(curr_uris, remote_uris)
 
 exit(result)
