@@ -9,7 +9,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: ['3.6', '3.7', '3.8', '3.9']
+        python-version: ['3.6', '3.7']
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python ${{ matrix.python-version }}
@@ -25,5 +25,3 @@ jobs:
       run: python scripts/compare_remote.py
     - name: Diff current blocklist with Disconnect
       run: python scripts/compare_remote.py -d
-    - name: Upload coverage
-      run: python -m codecov --name "Python ${{ matrix.python-version }}"
