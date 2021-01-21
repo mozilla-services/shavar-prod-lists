@@ -12,7 +12,7 @@ args = parser.parse_args()
 if args.disconnect:
     github_url = 'https://raw.githubusercontent.com/disconnectme/shavar-prod-lists/master/disconnect-blacklist.json'
 else:
-    github_url = 'https://raw.githubusercontent.com/mozilla-services/shavar-prod-lists/master/social-tracking-protection-blacklist.json'
+    github_url = 'https://raw.githubusercontent.com/mozilla-services/shavar-prod-lists/master/disconnect-blacklist.json'
 result = 0
 
 def get_unique_uris(blocklist):
