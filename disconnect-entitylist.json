@@ -211,14 +211,6 @@
         "adaptly.com"
       ]
     },
-    "Adap.tv": {
-      "properties": [
-        "adap.tv"
-      ],
-      "resources": [
-        "adap.tv"
-      ]
-    },
     "Adara Media": {
       "properties": [
         "adaramedia.com",
@@ -1128,18 +1120,6 @@
         "adswizz.com"
       ]
     },
-    "ADTECH": {
-      "properties": [
-        "adtech.com",
-        "adtech.de",
-        "adtechus.com"
-      ],
-      "resources": [
-        "adtech.com",
-        "adtech.de",
-        "adtechus.com"
-      ]
-    },
     "Adtegrity.com": {
       "properties": [
         "adtegrity.com",
@@ -1721,69 +1701,6 @@
         "dsply.com"
       ]
     },
-    "AOL": {
-      "properties": [
-        "5min.com",
-        "adsonar.com",
-        "advertising.com",
-        "aim.com",
-        "aol.com",
-        "aolcdn.com",
-        "aoltechguru.com",
-        "atwola.com",
-        "autoblog.com",
-        "cambio.com",
-        "dailyfinance.com",
-        "editions.com",
-        "engadget.com",
-        "games.com",
-        "homesessive.com",
-        "huffingtonpost.com",
-        "leadback.com",
-        "makers.com",
-        "mandatory.com",
-        "mapquest.com",
-        "moviefone.com",
-        "noisecreep.com",
-        "patch.com",
-        "pawnation.com",
-        "shortcuts.com",
-        "shoutcast.com",
-        "spinner.com",
-        "stylelist.com",
-        "stylemepretty.com",
-        "surphace.com",
-        "tacoda.net",
-        "techcrunch.com",
-        "theboombox.com",
-        "theboot.com",
-        "userplane.com",
-        "winamp.com"
-      ],
-      "resources": [
-        "5min.com",
-        "adsonar.com",
-        "adtechjp.com",
-        "advertising.com",
-        "aim.com",
-        "aol.com",
-        "aolcdn.com",
-        "aolcloud.net",
-        "atwola.com",
-        "editions.com",
-        "leadback.com",
-        "mapquest.com",
-        "patch.com",
-        "shortcuts.com",
-        "shoutcast.com",
-        "spinner.com",
-        "surphace.com",
-        "tacoda.net",
-        "userplane.com",
-        "vidible.tv",
-        "winamp.com"
-      ]
-    },
     "AppCast": {
       "properties": [
         "appcast.io"
@@ -1831,20 +1748,6 @@
       ],
       "resources": [
         "applovin.com"
-      ]
-    },
-    "AppNexus": {
-      "properties": [
-        "adlantic.nl",
-        "adnxs.com",
-        "adrdgt.com",
-        "appnexus.com"
-      ],
-      "resources": [
-        "adlantic.nl",
-        "adnxs.com",
-        "adrdgt.com",
-        "appnexus.com"
       ]
     },
     "AppsFlyer": {
@@ -1919,10 +1822,28 @@
     },
     "AT&T": {
       "properties": [
+        "adlantic.nl",
+        "adnxs.com",
+        "adrdgt.com",
+        "appnexus.com",
         "att.com",
+        "att.net",
+        "cnn.com",
+        "dccomics.com",
+        "hbo.com",
+        "hbogo.com",
+        "hbomax.com",
+        "hbonow.com",
+        "tbs.com",
+        "tnt.com",
+        "warnermediagroup.com",
         "yp.com"
       ],
       "resources": [
+        "adlantic.nl",
+        "adnxs.com",
+        "adrdgt.com",
+        "appnexus.com",
         "att.com",
         "yp.com"
       ]
@@ -6070,7 +5991,8 @@
     "IBM": {
       "properties": [
         "ibm.com",
-        "multicloud-ibm.com"
+        "multicloud-ibm.com",
+        "weather.com"
       ],
       "resources": [
         "cmcore.com",
@@ -6913,16 +6835,6 @@
         "linkedin.com"
       ]
     },
-    "LinkShare": {
-      "properties": [
-        "rakutenmarketing.com"
-      ],
-      "resources": [
-        "linkshare.com",
-        "linksynergy.com",
-        "rakutenmarketing.com"
-      ]
-    },
     "Linkz": {
       "properties": [
         "linkz.net"
@@ -7656,6 +7568,7 @@
         "microsoftalumni.com",
         "microsoftalumni.org",
         "microsoftazuread-sso.com",
+        "microsoftedgeinsider.com",
         "microsoftedgeinsiders.com",
         "microsoftonline-p.com",
         "microsoftonline-p.net",
@@ -7679,6 +7592,7 @@
         "phonefactor.net",
         "s-msn.com",
         "sfx.ms",
+        "sharepoint-df.com",
         "sharepoint.com",
         "skype.com",
         "skypeforbusiness.com",
@@ -9418,6 +9332,47 @@
       ],
       "resources": [
         "radiusmarketing.com"
+      ]
+    },
+    "Rakuten": {
+      "properties": [
+        "fusioncom.co.jp",
+        "infoseek.co.jp",
+        "infoseek.ne.jp",
+        "infoseek.tenki.jp",
+        "ispeed.jp",
+        "kenko.com",
+        "kobo.com",
+        "marketspeed.jp",
+        "nikki.ne.jp",
+        "rakuten-bank.co.jp",
+        "rakuten-card.co.jp",
+        "rakuten-insurance.co.jp",
+        "rakuten-life.co.jp",
+        "rakuten-life.net",
+        "rakuten-sec.co.jp",
+        "rakuten.co.jp",
+        "rakuten.com",
+        "rakuten.com.au",
+        "rakuten.com.hk",
+        "rakuten.com.tw",
+        "rakuten.de",
+        "rakuten.net",
+        "rakuten.tv",
+        "rakutenadvertising.com",
+        "rakuteneagles.jp",
+        "rakutentrade.my",
+        "showtime.jp",
+        "soompi.com",
+        "viber.co.jp",
+        "viber.com",
+        "viki.com"
+      ],
+      "resources": [
+        "ebates.com",
+        "linkshare.com",
+        "linksynergy.com",
+        "rakutenmarketing.com"
       ]
     },
     "Rambler": {
@@ -11695,6 +11650,116 @@
         "veremedia.com"
       ]
     },
+    "VerizonMedia": {
+      "properties": [
+        "5min.com",
+        "adap.tv",
+        "adsonar.com",
+        "adtech.com",
+        "adtech.de",
+        "adtechus.com",
+        "advertising.com",
+        "aim.com",
+        "aol.com",
+        "aolcdn.com",
+        "aoltechguru.com",
+        "atwola.com",
+        "autoblog.com",
+        "cambio.com",
+        "dailyfinance.com",
+        "editions.com",
+        "engadget.com",
+        "flickr.com",
+        "flurry.com",
+        "games.com",
+        "homesessive.com",
+        "huffingtonpost.com",
+        "leadback.com",
+        "makers.com",
+        "mandatory.com",
+        "mapquest.com",
+        "moviefone.com",
+        "noisecreep.com",
+        "patch.com",
+        "pawnation.com",
+        "shortcuts.com",
+        "shoutcast.com",
+        "spinner.com",
+        "stylelist.com",
+        "stylemepretty.com",
+        "surphace.com",
+        "tacoda.net",
+        "techcrunch.com",
+        "theboombox.com",
+        "theboot.com",
+        "tumblr.com",
+        "userplane.com",
+        "verizon.com",
+        "winamp.com",
+        "yahoo.co.jp",
+        "yahoo.com",
+        "yahoostudios.com",
+        "yuilibrary.com"
+      ],
+      "resources": [
+        "5min.com",
+        "adap.tv",
+        "adinterax.com",
+        "adrevolver.com",
+        "adsonar.com",
+        "adtech.com",
+        "adtech.de",
+        "adtechjp.com",
+        "adtechus.com",
+        "advertising.com",
+        "aim.com",
+        "aol.com",
+        "aolcdn.com",
+        "aolcloud.net",
+        "atwola.com",
+        "bluelithium.com",
+        "dapper.net",
+        "editions.com",
+        "flickr.com",
+        "flurry.com",
+        "interclick.com",
+        "leadback.com",
+        "luminate.com",
+        "mapquest.com",
+        "mybloglog.com",
+        "overture.com",
+        "patch.com",
+        "pixazza.com",
+        "rightmedia.com",
+        "rmxads.com",
+        "rocketmail.com",
+        "secure-adserver.com",
+        "shortcuts.com",
+        "shoutcast.com",
+        "spinner.com",
+        "staticflickr.com",
+        "surphace.com",
+        "tacoda.net",
+        "tumblr.com",
+        "userplane.com",
+        "verizon.com",
+        "vidible.tv",
+        "winamp.com",
+        "yahoo.co.jp",
+        "yahoo.com",
+        "yahooapis.com",
+        "yahooapis.jp",
+        "yahoofs.com",
+        "yieldmanager.com",
+        "yieldmanager.net",
+        "yimg.com",
+        "yimg.jp",
+        "yldmgrimg.net",
+        "ymail.com",
+        "yuilibrary.com",
+        "zenfs.com"
+      ]
+    },
     "Vertical Acuity": {
       "properties": [
         "verticalacuity.com"
@@ -12278,49 +12343,6 @@
       ],
       "resources": [
         "yabuka.com"
-      ]
-    },
-    "Yahoo!": {
-      "properties": [
-        "flickr.com",
-        "flurry.com",
-        "tumblr.com",
-        "yahoo.co.jp",
-        "yahoo.com",
-        "yahoostudios.com",
-        "yuilibrary.com"
-      ],
-      "resources": [
-        "adinterax.com",
-        "adrevolver.com",
-        "bluelithium.com",
-        "dapper.net",
-        "flickr.com",
-        "flurry.com",
-        "interclick.com",
-        "luminate.com",
-        "mybloglog.com",
-        "overture.com",
-        "pixazza.com",
-        "rightmedia.com",
-        "rmxads.com",
-        "rocketmail.com",
-        "secure-adserver.com",
-        "staticflickr.com",
-        "tumblr.com",
-        "yahoo.co.jp",
-        "yahoo.com",
-        "yahooapis.com",
-        "yahooapis.jp",
-        "yahoofs.com",
-        "yieldmanager.com",
-        "yieldmanager.net",
-        "yimg.com",
-        "yimg.jp",
-        "yldmgrimg.net",
-        "ymail.com",
-        "yuilibrary.com",
-        "zenfs.com"
       ]
     },
     "Yandex": {
