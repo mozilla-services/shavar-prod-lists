@@ -151,15 +151,9 @@ def find_uris(categories_json):
                     assert tag_value in ["true", ""]
                     if tag_value == "":
                         continue
-<<<<<<< HEAD
-                for domain, uris in entity_json.iteritems():
-                    assert type(domain) is UnicodeType
-                    assert type(uris) is ListType
-=======
                 for domain, uris in entity_json.items():
                     assert isinstance(domain, str)
                     assert isinstance(uris, list)
->>>>>>> 3be21bc... Make json_verify Py3 compatible
                     for uri in uris:
                         check_uri(uri)
                         block_host_uris.append(uri)
