@@ -8,16 +8,11 @@ import re
 import sys
 import traceback
 from collections import Counter
-from types import DictType, ListType, UnicodeType
-from urlparse import urlparse
+from urllib.parse import urlparse
 
-FINGERPRINTING_TAG = 'fingerprinting'
-CRYPTOMINING_TAG = 'cryptominer'
 SESSION_REPLAY_TAG = 'session-replay'
 PERFORMANCE_TAG = 'performance'
 ALL_TAGS = [
-    FINGERPRINTING_TAG,
-    CRYPTOMINING_TAG,
     SESSION_REPLAY_TAG,
     PERFORMANCE_TAG
 ]
@@ -90,11 +85,11 @@ def find_uris(categories_json):
     """
     `categories_json` is expected to match this format:
         "categories": {
-            "Disconnect": [
+            "Advertising": [
                 {
-                    "Facebook": {
-                        "http://www.facebook.com/": [
-                            "facebook.com",
+                    "[x+1]": {
+                        "http://www.xplusone.com/": [
+                            "ru4.com",
                             ...
                         ]
                     }
@@ -109,48 +104,40 @@ def find_uris(categories_json):
                 },
                 ...
             ],
-            "Advertising": [
-                {
-                    "[x+1]": {
-                        "http://www.xplusone.com/": [
-                            "ru4.com",
-                            ...
-                        ]
-                    }
-                },
+            "Fingerprinting": [
                 {
                     "Example Fingerprinter": {
                         "http://example.com/": [
                             "example.com",
                             "fingerprinting.example"
-                        ],
-                        "fingerprinting": "true"
+                        ]
                     }
                 },
+                ...
+            ],
+            "Cryptomining": [
                 {
                     "The Best Tracker LLC": {
                         "http://tracker.example/": [
                             "tracker.example",
                             ...
-                        ],
-                        "fingerprinting": "true",
-                        "cryptominer": "true"
+                        ]
                     }
                 },
                 ...
-            ]
+            ],
             ...
         }
     """
-    assert type(categories_json) is DictType
-    for category, category_json in categories_json.iteritems():
-        assert type(category) is UnicodeType
-        assert type(category_json) is ListType
+    assert isinstance(categories_json, dict)
+    for category, category_json in categories_json.items():
+        assert isinstance(category, str)
+        assert isinstance(category_json, list)
         for entity in category_json:
-            assert type(entity) is DictType
-            for entity_name, entity_json in entity.iteritems():
-                assert type(entity_name) is UnicodeType
-                assert type(entity_json) is DictType
+            assert isinstance(entity, dict)
+            for entity_name, entity_json in entity.items():
+                assert isinstance(entity_name, str)
+                assert isinstance(entity_json, dict)
                 # pop dnt out of the dict, so we can iteritems() over the rest
                 try:
                     dnt_value = entity_json.pop('dnt', '')
@@ -164,9 +151,9 @@ def find_uris(categories_json):
                     assert tag_value in ["true", ""]
                     if tag_value == "":
                         continue
-                for domain, uris in entity_json.iteritems():
-                    assert type(domain) is UnicodeType
-                    assert type(uris) is ListType
+                for domain, uris in entity_json.items():
+                    assert isinstance(domain, str)
+                    assert isinstance(uris, list)
                     for uri in uris:
                         check_uri(uri)
                         block_host_uris.append(uri)
@@ -178,13 +165,13 @@ def find_uris_in_entities(entitylist_json):
         "resources": []
     }
     assert len(entitylist_json.items()) > 0
-    assert type(entitylist_json) is DictType
-    for entity, types in entitylist_json.iteritems():
-        assert type(entity) is UnicodeType
-        assert type(types) is DictType
-        for host_type, uris in types.iteritems():
+    assert isinstance(entitylist_json, dict)
+    for entity, types in entitylist_json.items():
+        assert isinstance(entity, str)
+        assert isinstance(types, dict)
+        for host_type, uris in types.items():
             assert host_type in ["properties", "resources"]
-            assert type(uris) is ListType
+            assert isinstance(uris, list)
             for uri in uris:
                 if uri in checked_uris[host_type]:
                     dupe_hosts[host_type].append(uri)
@@ -198,10 +185,6 @@ def check_uri(uri):
     # 	no scheme, port, fragment, path or query string
     # 	no disallowed characters
     # 	no leading/trailing garbage
-    try:
-        uri.decode('ascii')
-    except UnicodeEncodeError:
-        bad_uris.append(uri)
     parsed_uri = urlparse(uri)
     try:
         assert parsed_uri.scheme == ''
@@ -222,7 +205,7 @@ def find_line_number(uri):
     line = 0
     try:
         for x in range(0, len(file_contents)):
-            temp = file_contents[x][0].decode("utf-8", "ignore")
+            temp = file_contents[x][0]
             if re.search(uri, temp):
                 line = file_contents[x][1]
                 file_contents.pop(x)
@@ -237,7 +220,7 @@ def make_errors_from_bad_uris():
     for bad_uri in bad_uris:
         errors.append("\tError: Bad URI: %s\t: in line %s" %
                       (bad_uri, find_line_number(bad_uri)))
-    for host_type, hosts in dupe_hosts.iteritems():
+    for host_type, hosts in dupe_hosts.items():
         for host in hosts:
             errors.append("\tDupe: Dupe host: %s\t in line %s" %
                           (host, find_line_number(host)))
