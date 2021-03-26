@@ -3156,6 +3156,14 @@
         "clixtell.com"
       ]
     },
+    "CloudMedia": {
+      "properties": [
+        "cloudmedia.fr"
+      ],
+      "resources": [
+        "cloud-media.fr"
+      ]
+    },
     "Clove Network": {
       "properties": [
         "clovenetwork.com"
@@ -3719,6 +3727,14 @@
         "datalogix.com",
         "nexac.com",
         "nextaction.net"
+      ]
+    },
+    "DataMind.ru": {
+      "properties": [
+        "datamind.ru"
+      ],
+      "resources": [
+        "datamind.ru"
       ]
     },
     "DataSift": {
@@ -5190,6 +5206,14 @@
         "reemo-ad.jp"
       ]
     },
+    "Gnezdo": {
+      "properties": [
+        "gnezdo.online"
+      ],
+      "resources": [
+        "gnezdo.ru"
+      ]
+    },
     "Go Daddy": {
       "properties": [
         "godaddy.com",
@@ -6471,6 +6495,14 @@
       ],
       "resources": [
         "jasperlabs.com"
+      ]
+    },
+    "JellyFish": {
+      "properties": [
+        "tradelab.fr"
+      ],
+      "resources": [
+        "tradelab.fr"
       ]
     },
     "Jemm": {
@@ -8669,6 +8701,14 @@
         "owneriq.net"
       ]
     },
+    "OwnPage": {
+      "properties": [
+        "ownpage.fr"
+      ],
+      "resources": [
+        "ownpage.fr"
+      ]
+    },
     "OxaMedia": {
       "properties": [
         "oxamedia.com"
@@ -10205,6 +10245,14 @@
         "24smi.net"
       ]
     },
+    "SMI2": {
+      "properties": [
+        "smi2.ru"
+      ],
+      "resources": [
+        "smi2.ru"
+      ]
+    },
     "Smiley Media": {
       "properties": [
         "smileymedia.com"
@@ -11331,6 +11379,14 @@
         "trustx.org"
       ]
     },
+    "TTarget": {
+      "properties": [
+        "ttarget.ru"
+      ],
+      "resources": [
+        "ttarget.ru"
+      ]
+    },
     "TubeMogul": {
       "properties": [
         "tmogul.com",
@@ -11573,6 +11629,14 @@
       ],
       "resources": [
         "uservoice.com"
+      ]
+    },
+    "UTarget": {
+      "properties": [
+        "utarget.pro"
+      ],
+      "resources": [
+        "utarget.ru"
       ]
     },
     "V12 Data": {
