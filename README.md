@@ -108,7 +108,7 @@ them into each versioned list and deploy them across all channels.
 
 #### Temporary exceptions
 
-We me choose to grant a temporary domain-based exemption in response to website
+We may choose to grant a temporary domain-based exemption in response to website
 breakage as detailed in our
 [anti-tracking policy](https://wiki.mozilla.org/Security/Anti_tracking_policy#Temporary_Web_Compatibility_Interventions).
 
