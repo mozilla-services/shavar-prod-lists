@@ -3309,13 +3309,6 @@
         }
       },
       {
-        "FundraiseUp": {
-          "https://fundraiseup.com/": [
-            "fundraiseup.com"
-          ]
-        }
-      },
-      {
         "Future Ads": {
           "https://www.futureads.com/": [
             "futureads.com",
@@ -10717,13 +10710,6 @@
         }
       },
       {
-        "FundraiseUp": {
-          "https://fundraiseup.com/": [
-            "fundraiseup.com"
-          ]
-        }
-      },
-      {
         "Gleam": {
           "https://gleam.io/": [
             "fraudjs.io"
@@ -11131,23 +11117,9 @@
         }
       },
       {
-        "VerizonMedia": {
-          "https://www.verizonmedia.com/": [
-            "yimg.com"
-          ]
-        }
-      },
-      {
         "VerticalHealth": {
           "https://www.verticalhealth.com/": [
             "verticalhealth.net"
-          ]
-        }
-      },
-      {
-        "VistaprintSchweizGmbH": {
-          "https://www.vistaprint.ch/": [
-            "vpsvc.com"
           ]
         }
       },
