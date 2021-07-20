@@ -2993,16 +2993,6 @@
         }
       },
       {
-        "Exponential Interactive": {
-          "http://www.exponential.com/": [
-            "adotube.com",
-            "exponential.com",
-            "fulltango.com",
-            "tribalfusion.com"
-          ]
-        }
-      },
-      {
         "Extension Factory": {
           "http://www.extensionfactory.com/": [
             "extensionfactory.com"
@@ -6926,6 +6916,16 @@
         }
       },
       {
+        "VDX": {
+          "https://vdx.tv": [
+            "adotube.com",
+            "exponential.com",
+            "fulltango.com",
+            "tribalfusion.com"
+          ]
+        }
+      },
+      {
         "Veeseo": {
           "http://veeseo.com": [
             "veeseo.com"
@@ -10802,6 +10802,13 @@
         }
       },
       {
+        "Adtima": {
+          "https://adtima.vn/": [
+            "zadn.vn"
+          ]
+        }
+      },
+      {
         "Albacross": {
           "https://albacross.com": [
             "albacross.com"
@@ -11125,6 +11132,13 @@
           "http://thetradedesk.com/": [
             "adsrvr.org",
             "thetradedesk.com"
+          ]
+        }
+      },
+      {
+        "Vtex": {
+          "https://vtex.com/br-pt/": [
+            "vtex.com.br"
           ]
         }
       },
