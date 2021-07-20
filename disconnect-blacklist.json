@@ -3057,16 +3057,6 @@
         }
       },
       {
-        "Exponential Interactive": {
-          "http://www.exponential.com/": [
-            "adotube.com",
-            "exponential.com",
-            "fulltango.com",
-            "tribalfusion.com"
-          ]
-        }
-      },
-      {
         "Extension Factory": {
           "http://www.extensionfactory.com/": [
             "extensionfactory.com"
@@ -7123,6 +7113,16 @@
         }
       },
       {
+        "VDX": {
+          "https://vdx.tv": [
+            "adotube.com",
+            "exponential.com",
+            "fulltango.com",
+            "tribalfusion.com"
+          ]
+        }
+      },
+      {
         "Veeseo": {
           "http://veeseo.com": [
             "veeseo.com"
@@ -10456,13 +10456,6 @@
         }
       },
       {
-        "Adtima": {
-          "https://adtima.vn/": [
-            "zadn.vn"
-          ]
-        }
-      },
-      {
         "AdxSpace": {
           "https://adx.space": [
             "00px.net"
@@ -11131,23 +11124,9 @@
         }
       },
       {
-        "Vtex": {
-          "https://vtex.com/br-pt/": [
-            "vtex.com.br"
-          ]
-        }
-      },
-      {
         "Warumbistdusoarm": {
           "https://warumbistdusoarm.space": [
             "warumbistdusoarm.space"
-          ]
-        }
-      },
-      {
-        "WeatherWidget": {
-          "https://weatherwidget.io/": [
-            "weatherwidget.io"
           ]
         }
       },
@@ -11235,6 +11214,13 @@
             "omniture.com",
             "omtrdc.net",
             "touchclarity.com"
+          ]
+        }
+      },
+      {
+        "Adtima": {
+          "https://adtima.vn/": [
+            "zadn.vn"
           ]
         }
       },
@@ -11553,6 +11539,13 @@
           "http://thetradedesk.com/": [
             "adsrvr.org",
             "thetradedesk.com"
+          ]
+        }
+      },
+      {
+        "Vtex": {
+          "https://vtex.com/br-pt/": [
+            "vtex.com.br"
           ]
         }
       },
