@@ -2886,16 +2886,6 @@
         }
       },
       {
-        "Exponential Interactive": {
-          "http://www.exponential.com/": [
-            "adotube.com",
-            "exponential.com",
-            "fulltango.com",
-            "tribalfusion.com"
-          ]
-        }
-      },
-      {
         "Extension Factory": {
           "http://www.extensionfactory.com/": [
             "extensionfactory.com"
@@ -6623,6 +6613,16 @@
           "http://www.vdopia.com/": [
             "ivdopia.com",
             "vdopia.com"
+          ]
+        }
+      },
+      {
+        "VDX": {
+          "https://vdx.tv": [
+            "adotube.com",
+            "exponential.com",
+            "fulltango.com",
+            "tribalfusion.com"
           ]
         }
       },
