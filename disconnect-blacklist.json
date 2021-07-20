@@ -11131,13 +11131,6 @@
         }
       },
       {
-        "Vtex": {
-          "https://vtex.com/br-pt/": [
-            "vtex.com.br"
-          ]
-        }
-      },
-      {
         "Warumbistdusoarm": {
           "https://warumbistdusoarm.space": [
             "warumbistdusoarm.space"
@@ -11553,6 +11546,13 @@
           "http://thetradedesk.com/": [
             "adsrvr.org",
             "thetradedesk.com"
+          ]
+        }
+      },
+      {
+        "Vtex": {
+          "https://vtex.com/br-pt/": [
+            "vtex.com.br"
           ]
         }
       },
