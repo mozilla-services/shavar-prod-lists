@@ -4427,18 +4427,6 @@
         "expo-max.com"
       ]
     },
-    "Exponential Interactive": {
-      "properties": [
-        "exponential.com",
-        "fulltango.com"
-      ],
-      "resources": [
-        "adotube.com",
-        "exponential.com",
-        "fulltango.com",
-        "tribalfusion.com"
-      ]
-    },
     "Extension Factory": {
       "properties": [
         "extensionfactory.com"
@@ -11335,6 +11323,19 @@
       "resources": [
         "ivdopia.com",
         "vdopia.com"
+      ]
+    },
+    "VDX": {
+      "properties": [
+        "exponential.com",
+        "fulltango.com",
+        "vdx.tv"
+      ],
+      "resources": [
+        "adotube.com",
+        "exponential.com",
+        "fulltango.com",
+        "tribalfusion.com"
       ]
     },
     "Veeseo": {
