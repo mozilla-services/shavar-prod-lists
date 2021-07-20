@@ -10456,13 +10456,6 @@
         }
       },
       {
-        "Adtima": {
-          "https://adtima.vn/": [
-            "zadn.vn"
-          ]
-        }
-      },
-      {
         "AdxSpace": {
           "https://adx.space": [
             "00px.net"
@@ -11228,6 +11221,13 @@
             "omniture.com",
             "omtrdc.net",
             "touchclarity.com"
+          ]
+        }
+      },
+      {
+        "Adtima": {
+          "https://adtima.vn/": [
+            "zadn.vn"
           ]
         }
       },
