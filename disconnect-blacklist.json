@@ -9418,6 +9418,13 @@
         }
       },
       {
+        "FundraiseUp": {
+          "https://fundraiseup.com/": [
+            "fndrsp.net"
+          ]
+        }
+      },
+      {
         "GetSiteControl": {
           "https://getsitecontrol.com/": [
             "getsitecontrol.com"
