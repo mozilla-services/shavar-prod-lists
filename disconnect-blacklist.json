@@ -506,6 +506,13 @@
         }
       },
       {
+        "Adman": {
+          "https://adman.gr/": [
+            "adman.gr"
+          ]
+        }
+      },
+      {
         "Admarketplace": {
           "http://www.admarketplace.com/": [
             "admarketplace.com",
@@ -826,6 +833,14 @@
           "http://www.adside.com/": [
             "adside.com",
             "doclix.com"
+          ]
+        }
+      },
+      {
+        "AdsKeeper": {
+          "https://www.adskeeper.com/": [
+            "adskeeper.co.uk",
+            "adskeeper.com"
           ]
         }
       },
@@ -1399,6 +1414,7 @@
             "alenty.com",
             "appnexus.com",
             "att.com",
+            "xandr.com",
             "yp.com"
           ]
         }
@@ -1633,6 +1649,13 @@
           "https://www.bidtellect.com/": [
             "bidtellect.com",
             "bttrack.com"
+          ]
+        }
+      },
+      {
+        "BidTheatre": {
+          "https://bidtheatre.com": [
+            "bidtheatre.com"
           ]
         }
       },
@@ -6880,6 +6903,13 @@
         }
       },
       {
+        "TrafficMedia": {
+          "https://www.traffic-media.co.uk/": [
+            "traffic-media.co.uk"
+          ]
+        }
+      },
+      {
         "TrafficRevenue": {
           "http://www.trafficrevenue.net/": [
             "trafficrevenue.net"
@@ -7415,6 +7445,13 @@
         "WideOrbit": {
           "https://www.wideorbit.com/": [
             "dep-x.com"
+          ]
+        }
+      },
+      {
+        "Widespace": {
+          "https://www.widespace.com/": [
+            "widespace.com"
           ]
         }
       },
