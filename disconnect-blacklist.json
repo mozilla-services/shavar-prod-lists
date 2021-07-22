@@ -3,6 +3,13 @@
   "categories": {
     "Advertising": [
       {
+        "1plusx": {
+          "https://www.1plusx.com/": [
+            "opecloud.com"
+          ]
+        }
+      },
+      {
         "2leep.com": {
           "http://2leep.com/": [
             "2leep.com"
@@ -865,6 +872,13 @@
             "adspirit.com",
             "adspirit.de",
             "adspirit.net"
+          ]
+        }
+      },
+      {
+        "Adsquare": {
+          "https://www.adsquare.com/": [
+            "adsquare.com"
           ]
         }
       },
@@ -4074,6 +4088,13 @@
         }
       },
       {
+        "JustPremium": {
+          "https://justpremium.com/": [
+            "justpremium.com"
+          ]
+        }
+      },
+      {
         "justuno": {
           "https://www.justuno.com/": [
             "justuno.com"
@@ -4920,6 +4941,13 @@
         "Nanigans": {
           "http://www.nanigans.com/": [
             "nanigans.com"
+          ]
+        }
+      },
+      {
+        "NanoInteractive": {
+          "https://www.nanointeractive.com/": [
+            "audiencemanager.de"
           ]
         }
       },
@@ -6077,6 +6105,13 @@
         "Scandinavian AdNetworks": {
           "http://www.scandinavianadnetworks.com/": [
             "scandinavianadnetworks.com"
+          ]
+        }
+      },
+      {
+        "SceneStealer": {
+          "https://scenestealer.co.uk/": [
+            "reflow.tv"
           ]
         }
       },
@@ -7282,6 +7317,13 @@
         "VigLink": {
           "http://www.viglink.com/": [
             "viglink.com"
+          ]
+        }
+      },
+      {
+        "Visarity": {
+          "https://visarity.com/": [
+            "visarity.com"
           ]
         }
       },
