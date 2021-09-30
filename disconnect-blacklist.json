@@ -3,13 +3,6 @@
   "categories": {
     "Advertising": [
       {
-        "1plusx": {
-          "https://www.1plusx.com/": [
-            "opecloud.com"
-          ]
-        }
-      },
-      {
         "2leep.com": {
           "http://2leep.com/": [
             "2leep.com"
@@ -513,13 +506,6 @@
         }
       },
       {
-        "Adman": {
-          "https://adman.gr/": [
-            "adman.gr"
-          ]
-        }
-      },
-      {
         "Admarketplace": {
           "http://www.admarketplace.com/": [
             "admarketplace.com",
@@ -844,14 +830,6 @@
         }
       },
       {
-        "AdsKeeper": {
-          "https://www.adskeeper.com/": [
-            "adskeeper.co.uk",
-            "adskeeper.com"
-          ]
-        }
-      },
-      {
         "AdSpeed": {
           "http://www.adspeed.com/": [
             "adspeed.com",
@@ -872,13 +850,6 @@
             "adspirit.com",
             "adspirit.de",
             "adspirit.net"
-          ]
-        }
-      },
-      {
-        "Adsquare": {
-          "https://www.adsquare.com/": [
-            "adsquare.com"
           ]
         }
       },
@@ -1428,7 +1399,6 @@
             "alenty.com",
             "appnexus.com",
             "att.com",
-            "xandr.com",
             "yp.com"
           ]
         }
@@ -1663,13 +1633,6 @@
           "https://www.bidtellect.com/": [
             "bidtellect.com",
             "bttrack.com"
-          ]
-        }
-      },
-      {
-        "BidTheatre": {
-          "https://bidtheatre.com": [
-            "bidtheatre.com"
           ]
         }
       },
@@ -4088,13 +4051,6 @@
         }
       },
       {
-        "JustPremium": {
-          "https://justpremium.com/": [
-            "justpremium.com"
-          ]
-        }
-      },
-      {
         "justuno": {
           "https://www.justuno.com/": [
             "justuno.com"
@@ -4941,13 +4897,6 @@
         "Nanigans": {
           "http://www.nanigans.com/": [
             "nanigans.com"
-          ]
-        }
-      },
-      {
-        "NanoInteractive": {
-          "https://www.nanointeractive.com/": [
-            "audiencemanager.de"
           ]
         }
       },
@@ -6109,13 +6058,6 @@
         }
       },
       {
-        "SceneStealer": {
-          "https://scenestealer.co.uk/": [
-            "reflow.tv"
-          ]
-        }
-      },
-      {
         "Scribol": {
           "http://scribol.com/": [
             "scribol.com"
@@ -6938,13 +6880,6 @@
         }
       },
       {
-        "TrafficMedia": {
-          "https://www.traffic-media.co.uk/": [
-            "traffic-media.co.uk"
-          ]
-        }
-      },
-      {
         "TrafficRevenue": {
           "http://www.trafficrevenue.net/": [
             "trafficrevenue.net"
@@ -7183,8 +7118,7 @@
             "adotube.com",
             "exponential.com",
             "fulltango.com",
-            "tribalfusion.com",
-            "vdx.tv"
+            "tribalfusion.com"
           ]
         }
       },
@@ -7317,13 +7251,6 @@
         "VigLink": {
           "http://www.viglink.com/": [
             "viglink.com"
-          ]
-        }
-      },
-      {
-        "Visarity": {
-          "https://visarity.com/": [
-            "visarity.com"
           ]
         }
       },
@@ -7488,13 +7415,6 @@
         "WideOrbit": {
           "https://www.wideorbit.com/": [
             "dep-x.com"
-          ]
-        }
-      },
-      {
-        "Widespace": {
-          "https://www.widespace.com/": [
-            "widespace.com"
           ]
         }
       },
@@ -9415,13 +9335,6 @@
             "fullstory.com"
           ],
           "session-replay": "true"
-        }
-      },
-      {
-        "FundraiseUp": {
-          "https://fundraiseup.com/": [
-            "fndrsp.net"
-          ]
         }
       },
       {
