@@ -10345,13 +10345,6 @@
         }
       },
       {
-        "WeatherWidget": {
-          "https://weatherwidget.io/": [
-            "weatherwidget.io"
-          ]
-        }
-      },
-      {
         "Webclicktracker": {
           "http://www.webclicktracker.com/": [
             "webclicktracker.com"
