@@ -10387,6 +10387,16 @@
         }
       },
       {
+<<<<<<< HEAD
+=======
+        "Warumbistdusoarm": {
+          "https://warumbistdusoarm.space": [
+            "warumbistdusoarm.space"
+          ]
+        }
+      },
+      {
+>>>>>>> 1e0d771... Moves Vocento from invasive to general fp
         "Webmecanik": {
           "https://www.webmecanik.com/": [
             "webmecanik.com"
@@ -10781,6 +10791,13 @@
           "http://thetradedesk.com/": [
             "adsrvr.org",
             "thetradedesk.com"
+          ]
+        }
+      },
+      {
+        "Vocento": {
+          "https://en.vocento.com/": [
+            "vocento.com"
           ]
         }
       },
