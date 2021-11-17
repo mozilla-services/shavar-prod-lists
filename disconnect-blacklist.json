@@ -9856,13 +9856,6 @@
         }
       },
       {
-        "NuDataSecurity": {
-          "https://nudatasecurity.com/": [
-            "nudatasecurity.com"
-          ]
-        }
-      },
-      {
         "nurago": {
           "http://www.nurago.com/": [
             "nurago.com",
@@ -10345,13 +10338,6 @@
         }
       },
       {
-        "WeatherWidget": {
-          "https://weatherwidget.io/": [
-            "weatherwidget.io"
-          ]
-        }
-      },
-      {
         "Webclicktracker": {
           "http://www.webclicktracker.com/": [
             "webclicktracker.com"
@@ -10410,13 +10396,6 @@
         "whos.amung.us": {
           "http://whos.amung.us/": [
             "amung.us"
-          ]
-        }
-      },
-      {
-        "Widgetic": {
-          "https://go.widgetic.com": [
-            "widgetic.com"
           ]
         }
       },
@@ -10934,13 +10913,6 @@
         }
       },
       {
-        "NuDataSecurity": {
-          "https://nudatasecurity.com/": [
-            "nudatasecurity.com"
-          ]
-        }
-      },
-      {
         "OneAd": {
           "https://www.onead.com.tw/": [
             "guoshipartners.com",
@@ -11204,13 +11176,6 @@
         }
       },
       {
-        "Vocento": {
-          "https://en.vocento.com/": [
-            "vocento.com"
-          ]
-        }
-      },
-      {
         "Warumbistdusoarm": {
           "https://warumbistdusoarm.space": [
             "warumbistdusoarm.space"
@@ -11228,13 +11193,6 @@
         "WideOrbit": {
           "https://www.wideorbit.com/": [
             "dep-x.com"
-          ]
-        }
-      },
-      {
-        "Widgetic": {
-          "https://go.widgetic.com": [
-            "widgetic.com"
           ]
         }
       },
@@ -11626,6 +11584,13 @@
           "http://thetradedesk.com/": [
             "adsrvr.org",
             "thetradedesk.com"
+          ]
+        }
+      },
+      {
+        "Vocento": {
+          "https://en.vocento.com/": [
+            "vocento.com"
           ]
         }
       },
