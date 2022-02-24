@@ -1,6 +1,1011 @@
 {
   "license": "Copyright 2010-2022 Disconnect, Inc. / Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (the “License”). A summary of the License is available here: https://creativecommons.org/licenses/by-nc-sa/4.0/. The text version of the License is here: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt. Please see the License for the specific language governing permissions and limitations under the License. Unless agreed to in writing or required by law, software distributed under the License on an \"as is\" basis without warranties or conditions of any kind, either express or implied. This license does not apply to any Disconnect logos or marks contained in this repo.",
   "categories": {
+    "Email": [
+      {
+        "10Web": {
+          "https://10web.io/": [
+            "10web.io"
+          ]
+        }
+      },
+      {
+        "4dem": {
+          "4dem.it": [
+            "4dem.it"
+          ]
+        }
+      },
+      {
+        "8d8.biz": {
+          "https://8d8.biz": [
+            "8d8.biz"
+          ]
+        }
+      },
+      {
+        "Acoustic": {
+          "https://www.acoustic.com/": [
+            "open.mkt10008.com",
+            "open.mkt10039.com",
+            "open.mkt10049.com",
+            "open.mkt10067.com",
+            "open.mkt10114.com",
+            "open.mkt10153.com",
+            "open.mkt10663.com",
+            "open.mkt10781.com",
+            "open.mkt1248.com",
+            "open.mkt1365.com",
+            "open.mkt1937.com",
+            "open.mkt1946.com",
+            "open.mkt2178.com",
+            "open.mkt2478.com",
+            "open.mkt2685.com",
+            "open.mkt2724.com",
+            "open.mkt32.net",
+            "open.mkt3469.com",
+            "open.mkt3536.com",
+            "open.mkt3797.com",
+            "open.mkt3798.com",
+            "open.mkt3838.com",
+            "open.mkt4091.com",
+            "open.mkt41.net",
+            "open.mkt4158.com",
+            "open.mkt4261.com",
+            "open.mkt4424.com",
+            "open.mkt4463.com",
+            "open.mkt4477.com",
+            "open.mkt4644.com",
+            "open.mkt5089.com",
+            "open.mkt51.net",
+            "open.mkt5216.com",
+            "open.mkt5224.com",
+            "open.mkt5297.com",
+            "open.mkt5379.com",
+            "open.mkt5419.com",
+            "open.mkt5514.com",
+            "open.mkt5566.com",
+            "open.mkt5654.com",
+            "open.mkt5657.com",
+            "open.mkt5906.com",
+            "open.mkt6031.com",
+            "open.mkt61.net",
+            "open.mkt6260.com",
+            "open.mkt6264.com",
+            "open.mkt6288.com",
+            "open.mkt6316.com",
+            "open.mkt6478.com",
+            "open.mkt6688.com",
+            "open.mkt6735.com",
+            "open.mkt6793.com",
+            "open.mkt685.com",
+            "open.mkt6882.com",
+            "open.mkt6903.com",
+            "open.mkt6917.com",
+            "open.mkt6967.com",
+            "open.mkt71.net",
+            "open.mkt7234.com",
+            "open.mkt7580.com",
+            "open.mkt7596.com",
+            "open.mkt7752.com",
+            "open.mkt7783.com",
+            "open.mkt7832.com",
+            "open.mkt7842.com",
+            "open.mkt7883.com",
+            "open.mkt7946.com",
+            "open.mkt7971.com",
+            "open.mkt7972.com",
+            "open.mkt7974.com",
+            "open.mkt8007.com",
+            "open.mkt8008.com",
+            "open.mkt8043.com",
+            "open.mkt8062.com",
+            "open.mkt8063.com",
+            "open.mkt8064.com",
+            "open.mkt8096.com",
+            "open.mkt81.net",
+            "open.mkt8133.com",
+            "open.mkt8163.com",
+            "open.mkt8267.com",
+            "open.mkt829.com",
+            "open.mkt8345.com",
+            "open.mkt8369.com",
+            "open.mkt8586.com",
+            "open.mkt8628.com",
+            "open.mkt8756.com",
+            "open.mkt8763.com",
+            "open.mkt8988.com",
+            "open.mkt9026.com",
+            "open.mkt9054.com",
+            "open.mkt912.com",
+            "open.mkt9203.com",
+            "open.mkt922.com",
+            "open.mkt941.com",
+            "open.mkt9430.com",
+            "open.mkt9775.com",
+            "open.mkt9862.com",
+            "open.mkt9923.com",
+            "open.mkt9942.com"
+          ]
+        }
+      },
+      {
+        "ActivatieMarketing": {
+          "https://www.activatiemarketing.nl/": [
+            "basiscommunicatie.nl"
+          ]
+        }
+      },
+      {
+        "ActiveCampaign": {
+          "https://www.activecampaign.com": [
+            "acemlna.com",
+            "acemlnb.com",
+            "acemlnc.com",
+            "acemlnd.com",
+            "activehosted.com",
+            "emlnk1.com"
+          ]
+        }
+      },
+      {
+        "Acumbamail": {
+          "https://acumbamail.com/en/": [
+            "acblnk.com",
+            "acmbtrc.com",
+            "acmtrk.com",
+            "clickacumba.com",
+            "emlmkt.com",
+            "mailmktool.com",
+            "showlanding.com",
+            "trckacbm.com"
+          ]
+        }
+      },
+      {
+        "Acxiom": {
+          "http://www.acxiom.com/": [
+            "pippio.com"
+          ]
+        }
+      },
+      {
+        "Adform": {
+          "http://www.adform.com/": [
+            "adform.net"
+          ]
+        }
+      },
+      {
+        "Adobe": {
+          "http://www.adobe.com/": [
+            "2o7.net",
+            "demdex.net",
+            "omtrdc.net"
+          ]
+        }
+      },
+      {
+        "AdRoll": {
+          "http://www.adroll.com/": [
+            "adroll.com"
+          ]
+        }
+      },
+      {
+        "AdSpeed": {
+          "http://www.adspeed.com/": [
+            "adspeed.net"
+          ]
+        }
+      },
+      {
+        "AdSugar": {
+          "https://adsugar.com/": [
+            "adsugar.ch"
+          ]
+        }
+      },
+      {
+        "AfoResponse": {
+          "https://aforesponse.com/": [
+            "aforesponse.com"
+          ]
+        }
+      },
+      {
+        "AgileMeasure": {
+          "https://www.agilemeasure.com/": [
+            "agilemeasure.com"
+          ]
+        }
+      },
+      {
+        "AuthorEmail": {
+          "https://www.authoremail.com/": [
+            "authoremail.com"
+          ]
+        }
+      },
+      {
+        "AutoPilot": {
+          "https://autopilotapp.com": [
+            "apms5.com",
+            "autopilotmail.io"
+          ]
+        }
+      },
+      {
+        "Bandzoogle": {
+          "https://bandzoogle.com/": [
+            "bandzoogle.com"
+          ]
+        }
+      },
+      {
+        "Barilliance": {
+          "http://www.barilliance.com/": [
+            "barilliance.com"
+          ]
+        }
+      },
+      {
+        "beMail": {
+          "https://www.bemail.it/": [
+            "bemail.it"
+          ]
+        }
+      },
+      {
+        "Bento": {
+          "https://bentonow.com/": [
+            "bentonow.com"
+          ]
+        }
+      },
+      {
+        "BloomReach": {
+          "http://www.bloomreach.com/": [
+            "cdn.uk.exponea.com"
+          ]
+        }
+      },
+      {
+        "BlueShift": {
+          "https://blueshift.com/": [
+            "sptracking.getblueshift.com"
+          ]
+        }
+      },
+      {
+        "BrightTag": {
+          "http://www.brighttag.com/": [
+            "thebrighttag.com"
+          ]
+        }
+      },
+      {
+        "Campaigner": {
+          "https://www.campaigner.com/": [
+            "cp20.com",
+            "cpro20.com",
+            "cpro30.com",
+            "skem1.com"
+          ]
+        }
+      },
+      {
+        "CarrotQuest": {
+          "https://www.carrotquest.io/": [
+            "api.carrotquest.io"
+          ]
+        }
+      },
+      {
+        "CDNWidget": {
+          "https://cdnwidget.com": [
+            "cdnwidget.com"
+          ]
+        }
+      },
+      {
+        "ConnectIf": {
+          "https://connectif.ai/": [
+            "cl1-api.connectif.cloud",
+            "eu2-api.connectif.cloud",
+            "eu3-api.connectif.cloud",
+            "eu4-api.connectif.cloud"
+          ]
+        }
+      },
+      {
+        "ConvertKit": {
+          "https://convertkit.com/": [
+            "convertkit-mail.com",
+            "convertkit-mail2.com",
+            "convertkit-mail3.com",
+            "convertkit-mail4.com",
+            "convertkit-mail5.com",
+            "convertkit-mail6.com"
+          ]
+        }
+      },
+      {
+        "CustomerIO": {
+          "https://customer.io/": [
+            "e.customeriomail.com"
+          ]
+        }
+      },
+      {
+        "edrone": {
+          "https://edrone.me/": [
+            "edrone.me"
+          ]
+        }
+      },
+      {
+        "EmailLabs": {
+          "https://emaillabs.io/": [
+            "emaillabs.co"
+          ]
+        }
+      },
+      {
+        "EngagingNetworks": {
+          "https://www.engagingnetworks.net/": [
+            "engagingnetworks.app"
+          ]
+        }
+      },
+      {
+        "GlobalIntelliSystems": {
+          "https://gliq.com/index.html": [
+            "ot.gliq.com",
+            "track.gliq.com"
+          ]
+        }
+      },
+      {
+        "Google": {
+          "http://www.google.com/": [
+            "doubleclick.net",
+            "google-analytics.com"
+          ]
+        }
+      },
+      {
+        "GreenArrow": {
+          "https://www.greenarrowemail.com/": [
+            "gasv1.com"
+          ]
+        }
+      },
+      {
+        "Infernotions": {
+          "https://infernotions.com/": [
+            "infernotions.com"
+          ]
+        }
+      },
+      {
+        "infobip": {
+          "https://www.infobip.com/": [
+            "email-messaging.com"
+          ]
+        }
+      },
+      {
+        "IxactContact": {
+          "https://www.ixactcontact.com/": [
+            "ixactcontact.com"
+          ]
+        }
+      },
+      {
+        "LassoCRM": {
+          "https://lassocrm.com/": [
+            "mailer.lassocrm.com"
+          ]
+        }
+      },
+      {
+        "LeaderSend": {
+          "https://www.leadersend.com/": [
+            "leadersend.com"
+          ]
+        }
+      },
+      {
+        "Limabean": {
+          "https://limabean.agency/": [
+            "track-mb.bra2hmail.com"
+          ]
+        }
+      },
+      {
+        "LiveIntent": {
+          "http://www.liveintent.com/": [
+            "liadm.com"
+          ]
+        }
+      },
+      {
+        "Mail365": {
+          "https://www.mail365.ru/": [
+            "m3651.net",
+            "m3652.net"
+          ]
+        }
+      },
+      {
+        "MailBlue": {
+          "https://mailblue.nl/": [
+            "mailblue.eu"
+          ]
+        }
+      },
+      {
+        "MailCamp": {
+          "https://www.mailcamp.nl/": [
+            "eds5.mailcamp.nl"
+          ]
+        }
+      },
+      {
+        "MailChimp": {
+          "http://mailchimp.com/": [
+            "agentofficemail.com",
+            "mandrillapp.com"
+          ]
+        }
+      },
+      {
+        "MailTracker": {
+          "https://mailtracker.pl/": [
+            "mailcamp.net.pl",
+            "mailtracker.pl",
+            "senderit.pl",
+            "xylionmail.pl"
+          ]
+        }
+      },
+      {
+        "MediaMath": {
+          "http://www.mediamath.com/": [
+            "mathtag.com"
+          ]
+        }
+      },
+      {
+        "MoEngage": {
+          "https://www.moengage.com/": [
+            "api-01.moengage.com"
+          ]
+        }
+      },
+      {
+        "Neustar": {
+          "http://www.neustar.biz/": [
+            "agkn.com"
+          ]
+        }
+      },
+      {
+        "Nielsen": {
+          "http://www.nielsen.com/": [
+            "myvisualiq.net"
+          ]
+        }
+      },
+      {
+        "Nylas": {
+          "https://www.nylas.com/": [
+            "nyl.as"
+          ]
+        }
+      },
+      {
+        "OpenEDUCat": {
+          "https://openeducat.org/": [
+            "openeducat.org"
+          ]
+        }
+      },
+      {
+        "Paved": {
+          "https://www.paved.com/": [
+            "pvd.to"
+          ]
+        }
+      },
+      {
+        "Postmark": {
+          "https://postmarkapp.com/": [
+            "pstmrk.it"
+          ]
+        }
+      },
+      {
+        "Pushnami": {
+          "https://pushnami.com/": [
+            "pushnami.com"
+          ]
+        }
+      },
+      {
+        "RavMesserLtd": {
+          "https://www.responder.co.il/": [
+            "opens.responder.co.il"
+          ]
+        }
+      },
+      {
+        "Redlink": {
+          "https://www.redlink.pl/": [
+            "system.send24.pl"
+          ]
+        }
+      },
+      {
+        "RetailRocket": {
+          "https://retailrocket.net/": [
+            "tracking.retailrocket.net"
+          ]
+        }
+      },
+      {
+        "Sailplay": {
+          "https://sailplay.ru/": [
+            "sailplay.ru"
+          ]
+        }
+      },
+      {
+        "Salesforce": {
+          "https://www.salesforce.com/": [
+            "krxd.net",
+            "pixel.inbox.exacttarget.com"
+          ]
+        }
+      },
+      {
+        "SAP": {
+          "https://www.sap.com": [
+            "ondemand.com"
+          ]
+        }
+      },
+      {
+        "Segment.io": {
+          "https://segment.io/": [
+            "segment.io"
+          ]
+        }
+      },
+      {
+        "SendCloud": {
+          "https://www.sendcloud.net/home": [
+            "sendcloud.net"
+          ]
+        }
+      },
+      {
+        "SendFox": {
+          "https://sendfox.com/": [
+            "sendfox.com"
+          ]
+        }
+      },
+      {
+        "Sendiio": {
+          "https://sendiio.vip/": [
+            "sendiio.app"
+          ]
+        }
+      },
+      {
+        "SendPulse": {
+          "https://sendpulse.com/": [
+            "sendpul.se"
+          ]
+        }
+      },
+      {
+        "SiteScout": {
+          "http://www.sitescout.com/": [
+            "sitescout.com"
+          ]
+        }
+      },
+      {
+        "SmartMachine": {
+          "https://www.sendmachine.com/": [
+            "smlists.com"
+          ]
+        }
+      },
+      {
+        "SmartSendy": {
+          "http://smartsendy.com/": [
+            "smartsendy.com"
+          ]
+        }
+      },
+      {
+        "SMTP2Go": {
+          "https://www.smtp2go.com/": [
+            "smtp2go.com",
+            "smtp2go.net"
+          ]
+        }
+      },
+      {
+        "Sparklit": {
+          "http://www.sparklit.com/": [
+            "servedbyadbutler.com"
+          ]
+        }
+      },
+      {
+        "StrikeStack": {
+          "https://strikestack.com/": [
+            "strikestack.com"
+          ]
+        }
+      },
+      {
+        "SymphonyTalent": {
+          "https://www.symphonytalent.com/": [
+            "hodes.com"
+          ]
+        }
+      },
+      {
+        "Tealium": {
+          "https://tealium.com": [
+            "tealiumiq.com"
+          ]
+        }
+      },
+      {
+        "TodRock": {
+          "http://adventure-novels.com": [
+            "adventure-novels.com"
+          ]
+        }
+      },
+      {
+        "Twilio": {
+          "https://twilio.com": [
+            "ct.sendgrid.net"
+          ]
+        }
+      },
+      {
+        "Validity": {
+          "https://www.validity.com": [
+            "returnpath.net"
+          ]
+        }
+      },
+      {
+        "WebGlobe": {
+          "https://webglobe.com/": [
+            "stable.cz"
+          ]
+        }
+      }
+    ],
+    "EmailStrict": [
+      {
+        "121Marketing": {
+          "https://www.1-2-1marketing.com/": [
+            "1-2-1marketing.com"
+          ]
+        }
+      },
+      {
+        "Acoustic": {
+          "https://www.acoustic.com/": [
+            "mkt10008.com",
+            "mkt10039.com",
+            "mkt10049.com",
+            "mkt10067.com",
+            "mkt10114.com",
+            "mkt10153.com",
+            "mkt10663.com",
+            "mkt10781.com",
+            "mkt1248.com",
+            "mkt1365.com",
+            "mkt1937.com",
+            "mkt1946.com",
+            "mkt2178.com",
+            "mkt2478.com",
+            "mkt2685.com",
+            "mkt2724.com",
+            "mkt32.net",
+            "mkt3469.com",
+            "mkt3536.com",
+            "mkt3797.com",
+            "mkt3798.com",
+            "mkt3838.com",
+            "mkt4091.com",
+            "mkt41.net",
+            "mkt4158.com",
+            "mkt4261.com",
+            "mkt4424.com",
+            "mkt4463.com",
+            "mkt4477.com",
+            "mkt4644.com",
+            "mkt5089.com",
+            "mkt51.net",
+            "mkt5216.com",
+            "mkt5224.com",
+            "mkt5297.com",
+            "mkt5379.com",
+            "mkt5419.com",
+            "mkt5514.com",
+            "mkt5566.com",
+            "mkt5654.com",
+            "mkt5657.com",
+            "mkt5906.com",
+            "mkt6031.com",
+            "mkt61.net",
+            "mkt6260.com",
+            "mkt6264.com",
+            "mkt6288.com",
+            "mkt6316.com",
+            "mkt6478.com",
+            "mkt6688.com",
+            "mkt6735.com",
+            "mkt6793.com",
+            "mkt685.com",
+            "mkt6882.com",
+            "mkt6903.com",
+            "mkt6917.com",
+            "mkt6967.com",
+            "mkt71.net",
+            "mkt7234.com",
+            "mkt7580.com",
+            "mkt7596.com",
+            "mkt7752.com",
+            "mkt7783.com",
+            "mkt7832.com",
+            "mkt7842.com",
+            "mkt7883.com",
+            "mkt7946.com",
+            "mkt7971.com",
+            "mkt7972.com",
+            "mkt7974.com",
+            "mkt8007.com",
+            "mkt8008.com",
+            "mkt8043.com",
+            "mkt8062.com",
+            "mkt8063.com",
+            "mkt8064.com",
+            "mkt8096.com",
+            "mkt81.net",
+            "mkt8133.com",
+            "mkt8163.com",
+            "mkt8267.com",
+            "mkt829.com",
+            "mkt8345.com",
+            "mkt8369.com",
+            "mkt8586.com",
+            "mkt8628.com",
+            "mkt8756.com",
+            "mkt8763.com",
+            "mkt8988.com",
+            "mkt9026.com",
+            "mkt9054.com",
+            "mkt912.com",
+            "mkt9203.com",
+            "mkt922.com",
+            "mkt941.com",
+            "mkt9430.com",
+            "mkt9775.com",
+            "mkt9862.com",
+            "mkt9923.com",
+            "mkt9942.com"
+          ]
+        }
+      },
+      {
+        "ActiveDemand": {
+          "https://www.activedemand.com/": [
+            "acsmedia.us",
+            "activedemand.com"
+          ]
+        }
+      },
+      {
+        "Adobe": {
+          "http://www.adobe.com/": [
+            "adobe.com"
+          ]
+        }
+      },
+      {
+        "AisleAhead": {
+          "https://aisleahead.com": [
+            "aisleahead.com"
+          ]
+        }
+      },
+      {
+        "BloomReach": {
+          "http://www.bloomreach.com/": [
+            "exponea.com"
+          ]
+        }
+      },
+      {
+        "BlueShift": {
+          "https://blueshift.com/": [
+            "getblueshift.com"
+          ]
+        }
+      },
+      {
+        "Bouncex": {
+          "https://www.bouncex.com/": [
+            "bounceexchange.com"
+          ]
+        }
+      },
+      {
+        "CarrotQuest": {
+          "https://www.carrotquest.io/": [
+            "carrotquest.io"
+          ]
+        }
+      },
+      {
+        "ConnectIf": {
+          "https://connectif.ai/": [
+            "connectif.cloud"
+          ]
+        }
+      },
+      {
+        "ConstantContact": {
+          "http://constantcontact.com/": [
+            "rs6.net"
+          ]
+        }
+      },
+      {
+        "CustomerIO": {
+          "https://customer.io/": [
+            "customeriomail.com"
+          ]
+        }
+      },
+      {
+        "ezymarketer": {
+          "https://ezymarketer.net": [
+            "ezymarketer.net"
+          ]
+        }
+      },
+      {
+        "FireDrum": {
+          "https://firedrumemailmarketing.com/": [
+            "emailinc.net"
+          ]
+        }
+      },
+      {
+        "GlobalIntelliSystems": {
+          "https://gliq.com/index.html": [
+            "gliq.com"
+          ]
+        }
+      },
+      {
+        "Lahar": {
+          "https://www.lahar.com.br/": [
+            "lahar.com.br"
+          ]
+        }
+      },
+      {
+        "LassoCRM": {
+          "https://lassocrm.com/": [
+            "lassocrm.com"
+          ]
+        }
+      },
+      {
+        "Limabean": {
+          "https://limabean.agency/": [
+            "bra2hmail.com"
+          ]
+        }
+      },
+      {
+        "MailCamp": {
+          "https://www.mailcamp.nl/": [
+            "mailcamp.nl"
+          ]
+        }
+      },
+      {
+        "MailChimp": {
+          "http://mailchimp.com/": [
+            "list-manage.com"
+          ]
+        }
+      },
+      {
+        "MoEngage": {
+          "https://www.moengage.com/": [
+            "moengage.com"
+          ]
+        }
+      },
+      {
+        "PropellerEmail": {
+          "https://propelleremail.co.uk": [
+            "propelleremail.co.uk"
+          ]
+        }
+      },
+      {
+        "RavMesserLtd": {
+          "https://www.responder.co.il/": [
+            "responder.co.il"
+          ]
+        }
+      },
+      {
+        "Redlink": {
+          "https://www.redlink.pl/": [
+            "send24.pl"
+          ]
+        }
+      },
+      {
+        "RetailRocket": {
+          "https://retailrocket.net/": [
+            "retailrocket.net"
+          ]
+        }
+      },
+      {
+        "SailThru": {
+          "https://www.sailthru.com/": [
+            "sailthru.com"
+          ]
+        }
+      },
+      {
+        "Salesforce": {
+          "https://www.salesforce.com/": [
+            "exacttarget.com",
+            "pardot.com"
+          ]
+        }
+      },
+      {
+        "Twilio": {
+          "https://twilio.com": [
+            "sendgrid.net"
+          ]
+        }
+      },
+      {
+        "Zoho": {
+          "https://www.zoho.com/index1.html": [
+            "maillist-manage.com",
+            "maillist-manage.com.au",
+            "maillist-manage.eu",
+            "maillist-manage.in"
+          ]
+        }
+      }
+    ],
     "Advertising": [
       {
         "1plusx": {
@@ -64,6 +1069,16 @@
         "Accordant Media": {
           "http://www.accordantmedia.com/": [
             "accordantmedia.com"
+          ]
+        }
+      },
+      {
+        "Acoustic": {
+          "https://www.acoustic.com/": [
+            "mkt51.net",
+            "pages05.net",
+            "silverpop.com",
+            "vtrenz.net"
           ]
         }
       },
@@ -1217,14 +2232,6 @@
         "Airpush": {
           "http://www.airpush.com/": [
             "airpush.com"
-          ]
-        }
-      },
-      {
-        "AK": {
-          "http://www.aggregateknowledge.com/": [
-            "aggregateknowledge.com",
-            "agkn.com"
           ]
         }
       },
@@ -4193,15 +5200,6 @@
         }
       },
       {
-        "Krux": {
-          "http://www.krux.com/": [
-            "krux.com",
-            "kruxdigital.com",
-            "krxd.net"
-          ]
-        }
-      },
-      {
         "Lakana": {
           "http://www.lakana.com/": [
             "ibsys.com",
@@ -5031,6 +6029,8 @@
         "Neustar": {
           "http://www.neustar.biz/": [
             "adadvisor.net",
+            "aggregateknowledge.com",
+            "agkn.com",
             "neustar.biz"
           ]
         }
@@ -5344,13 +6344,6 @@
         "Paid-To-Promote.net": {
           "http://www.paid-to-promote.net/": [
             "paid-to-promote.net"
-          ]
-        }
-      },
-      {
-        "Pardot": {
-          "http://www.pardot.com/": [
-            "pardot.com"
           ]
         }
       },
@@ -6064,8 +7057,11 @@
         }
       },
       {
-        "Salesforce.com": {
-          "http://www.salesforce.com/": [
+        "Salesforce": {
+          "https://www.salesforce.com/": [
+            "krux.com",
+            "kruxdigital.com",
+            "krxd.net",
             "salesforce.com"
           ]
         }
@@ -6216,16 +7212,6 @@
         "Shortest": {
           "http://shorte.st/": [
             "shorte.st"
-          ]
-        }
-      },
-      {
-        "Silverpop": {
-          "http://www.silverpop.com/": [
-            "mkt51.net",
-            "pages05.net",
-            "silverpop.com",
-            "vtrenz.net"
           ]
         }
       },
@@ -8567,8 +9553,8 @@
         }
       },
       {
-        "Salesforce.com": {
-          "http://www.salesforce.com/": [
+        "Salesforce": {
+          "https://www.salesforce.com/": [
             "salesforceliveagent.com"
           ]
         }
@@ -10450,6 +11436,13 @@
             "y-track.com"
           ]
         }
+      },
+      {
+        "ZoomInfo": {
+          "https://www.zoominfo.com/": [
+            "zoominfo.com"
+          ]
+        }
       }
     ],
     "FingerprintingInvasive": [
@@ -11470,15 +12463,6 @@
         }
       },
       {
-        "Krux": {
-          "http://www.krux.com/": [
-            "krux.com",
-            "kruxdigital.com",
-            "krxd.net"
-          ]
-        }
-      },
-      {
         "LiveRamp": {
           "https://liveramp.com/": [
             "liveramp.com",
@@ -11548,6 +12532,14 @@
         "RoqAd": {
           "https://www.roq.ad/": [
             "rqtrk.eu"
+          ]
+        }
+      },
+      {
+        "Salesforce": {
+          "https://www.salesforce.com/": [
+            "krux.com",
+            "kruxdigital.com"
           ]
         }
       },
