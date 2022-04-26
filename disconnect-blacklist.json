@@ -8362,7 +8362,8 @@
       {
         "Vocento": {
           "https://en.vocento.com/": [
-            "vocento.com"
+            "vocento.com",
+            "vocstatic.com"
           ]
         }
       },
