@@ -8275,6 +8275,14 @@
         }
       },
       {
+        "TrafficFactory": {
+          "https://www.trafficfactory.com/": [
+            "trafficfactory.biz",
+            "trafficfactory.com"
+          ]
+        }
+      },
+      {
         "TrafficHaus": {
           "http://www.traffichaus.com/": [
             "traffichaus.com",
