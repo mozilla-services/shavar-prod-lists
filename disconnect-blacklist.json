@@ -10804,13 +10804,6 @@
         }
       },
       {
-        "GitHub": {
-          "https://github.com/": [
-            "gaug.es"
-          ]
-        }
-      },
-      {
         "Go Daddy": {
           "http://www.godaddy.com/": [
             "godaddy.com",
@@ -11110,7 +11103,8 @@
       {
         "Microsoft": {
           "http://www.microsoft.com/": [
-            "clarity.ms"
+            "clarity.ms",
+            "gaug.es"
           ]
         }
       },
@@ -13039,14 +13033,6 @@
         }
       },
       {
-        "LinkedIn": {
-          "http://www.linkedin.com/": [
-            "licdn.com",
-            "linkedin.com"
-          ]
-        }
-      },
-      {
         "Lockerz": {
           "http://lockerz.com/": [
             "lockerz.com"
@@ -13066,6 +13052,14 @@
           "https://www.meebo.com/": [
             "meebo.com",
             "meebocdn.net"
+          ]
+        }
+      },
+      {
+        "Microsoft": {
+          "http://www.microsoft.com/": [
+            "licdn.com",
+            "linkedin.com"
           ]
         }
       },
