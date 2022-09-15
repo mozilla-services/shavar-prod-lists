@@ -4120,6 +4120,14 @@
         "ethtrader.de"
       ]
     },
+    "Cuebiq": {
+      "properties": [
+        "cuebiq.com"
+      ],
+      "resources": [
+        "cuebiq.com"
+      ]
+    },
     "Curalate": {
       "properties": [
         "curalate.com"
@@ -4184,6 +4192,14 @@
       "resources": [
         "dailyme.com",
         "newstogram.com"
+      ]
+    },
+    "Datadome": {
+      "properties": [
+        "datadome.co"
+      ],
+      "resources": [
+        "datadome.co"
       ]
     },
     "Dataium": {
@@ -6701,6 +6717,14 @@
         "imedia.cz"
       ]
     },
+    "Impact": {
+      "properties": [
+        "impact.com"
+      ],
+      "resources": [
+        "fqtag.com"
+      ]
+    },
     "Improve Digital": {
       "properties": [
         "360yield.com",
@@ -6754,6 +6778,14 @@
       ],
       "resources": [
         "infernotions.com"
+      ]
+    },
+    "Infillion": {
+      "properties": [
+        "infillion.com"
+      ],
+      "resources": [
+        "gimbal.com"
       ]
     },
     "Inflection Point Media": {
@@ -6842,6 +6874,14 @@
       ],
       "resources": [
         "innity.com"
+      ]
+    },
+    "Inrix": {
+      "properties": [
+        "inrix.com"
+      ],
+      "resources": [
+        "inrix.com"
       ]
     },
     "InsightExpress": {
@@ -10244,6 +10284,14 @@
       ],
       "resources": [
         "radiusmarketing.com"
+      ]
+    },
+    "Radware": {
+      "properties": [
+        "radware.com"
+      ],
+      "resources": [
+        "perfdrive.com"
       ]
     },
     "Rakuten": {

@@ -735,7 +735,7 @@
         }
       }
     ],
-    "EmailStrict": [
+    "EmailAggressive": [
       {
         "121Marketing": {
           "https://www.1-2-1marketing.com/": [
@@ -5119,6 +5119,13 @@
             "ignitionone.com",
             "ignitionone.net",
             "searchignite.com"
+          ]
+        }
+      },
+      {
+        "Impact": {
+          "https://impact.com/": [
+            "fqtag.com"
           ]
         }
       },
@@ -9739,13 +9746,6 @@
         }
       },
       {
-        "HubSpot": {
-          "http://www.hubspot.com/": [
-            "hubspot.com"
-          ]
-        }
-      },
-      {
         "IBM": {
           "http://www.ibm.com/": [
             "xtify.com"
@@ -9780,13 +9780,6 @@
             "clickability.com",
             "limelight.com",
             "llnwd.net"
-          ]
-        }
-      },
-      {
-        "LivePerson": {
-          "http://www.liveperson.net/": [
-            "liveperson.net"
           ]
         }
       },
@@ -9917,13 +9910,6 @@
           "http://www.rim.com/": [
             "rim.com",
             "scoreloop.com"
-          ]
-        }
-      },
-      {
-        "Salesforce": {
-          "https://www.salesforce.com/": [
-            "salesforceliveagent.com"
           ]
         }
       },
@@ -10247,13 +10233,6 @@
             "yandex.ru",
             "yandex.st",
             "yandex.ua"
-          ]
-        }
-      },
-      {
-        "Zendesk": {
-          "http://www.zendesk.com/": [
-            "zendesk.com"
           ]
         }
       },
@@ -10614,9 +10593,23 @@
         }
       },
       {
+        "Cuebiq": {
+          "https://www.cuebiq.com/": [
+            "cuebiq.com"
+          ]
+        }
+      },
+      {
         "Cya2": {
           "http://cya2.net/": [
             "cya2.net"
+          ]
+        }
+      },
+      {
+        "Datadome": {
+          "https://datadome.co/": [
+            "datadome.co"
           ]
         }
       },
@@ -10886,7 +10879,8 @@
       {
         "HubSpot": {
           "http://www.hubspot.com/": [
-            "hs-analytics.net"
+            "hs-analytics.net",
+            "hubspot.com"
           ]
         }
       },
@@ -10915,6 +10909,13 @@
         }
       },
       {
+        "Infillion": {
+          "https://infillion.com/": [
+            "gimbal.com"
+          ]
+        }
+      },
+      {
         "INFOnline": {
           "https://www.infonline.de/": [
             "infonline.de",
@@ -10928,6 +10929,13 @@
           "http://infostars.ru/": [
             "hotlog.ru",
             "infostars.ru"
+          ]
+        }
+      },
+      {
+        "Inrix": {
+          "https://inrix.com": [
+            "inrix.com"
           ]
         }
       },
@@ -11007,6 +11015,7 @@
         "LivePerson": {
           "http://www.liveperson.net/": [
             "liveperson.com",
+            "liveperson.net",
             "nuconomy.com"
           ]
         }
@@ -11366,6 +11375,13 @@
         }
       },
       {
+        "Radware": {
+          "https://www.radware.com/": [
+            "perfdrive.com"
+          ]
+        }
+      },
+      {
         "RazorPay": {
           "https://razorpay.com": [
             "thirdwatch.ai"
@@ -11432,6 +11448,13 @@
           "http://www.sagemetrics.com/": [
             "sageanalyst.net",
             "sagemetrics.com"
+          ]
+        }
+      },
+      {
+        "Salesforce": {
+          "https://www.salesforce.com/": [
+            "salesforceliveagent.com"
           ]
         }
       },
@@ -11806,6 +11829,13 @@
         }
       },
       {
+        "Zendesk": {
+          "http://www.zendesk.com/": [
+            "zendesk.com"
+          ]
+        }
+      },
+      {
         "ZoomInfo": {
           "https://www.zoominfo.com/": [
             "zoominfo.com"
@@ -12065,6 +12095,13 @@
         }
       },
       {
+        "Datadome": {
+          "https://datadome.co/": [
+            "datadome.co"
+          ]
+        }
+      },
+      {
         "dmpxs": {
           "http://bob.dmpxs.com": [
             "dmpxs.com"
@@ -12163,6 +12200,20 @@
         "iMedia": {
           "http://www.imedia.cz": [
             "imedia.cz"
+          ]
+        }
+      },
+      {
+        "Impact": {
+          "https://impact.com/": [
+            "fqtag.com"
+          ]
+        }
+      },
+      {
+        "Integral Ad Science": {
+          "https://integralads.com/": [
+            "adsafeprotected.com"
           ]
         }
       },
@@ -12356,6 +12407,13 @@
         "Psonstrentie": {
           "http://psonstrentie.info": [
             "psonstrentie.info"
+          ]
+        }
+      },
+      {
+        "Radware": {
+          "https://www.radware.com/": [
+            "perfdrive.com"
           ]
         }
       },
