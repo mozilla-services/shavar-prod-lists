@@ -6244,9 +6244,11 @@
             "adbureau.net",
             "adecn.com",
             "aquantive.com",
+            "inq.com",
             "msads.net",
             "netconversions.com",
-            "roiservice.com"
+            "roiservice.com",
+            "touchcommerce.com"
           ]
         }
       },
@@ -8420,14 +8422,6 @@
           "http://tonemedia.com/": [
             "clickfuse.com",
             "tonemedia.com"
-          ]
-        }
-      },
-      {
-        "TouchCommerce": {
-          "http://www.touchcommerce.com/": [
-            "inq.com",
-            "touchcommerce.com"
           ]
         }
       },
