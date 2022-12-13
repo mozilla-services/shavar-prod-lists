@@ -6244,9 +6244,11 @@
             "adbureau.net",
             "adecn.com",
             "aquantive.com",
+            "inq.com",
             "msads.net",
             "netconversions.com",
-            "roiservice.com"
+            "roiservice.com",
+            "touchcommerce.com"
           ]
         }
       },
@@ -8424,14 +8426,6 @@
         }
       },
       {
-        "TouchCommerce": {
-          "http://www.touchcommerce.com/": [
-            "inq.com",
-            "touchcommerce.com"
-          ]
-        }
-      },
-      {
         "TowerData": {
           "https://www.towerdata.com/": [
             "rapleaf.com",
@@ -9983,6 +9977,13 @@
           "http://www.longtailvideo.com/": [
             "longtailvideo.com",
             "ltassrv.com"
+          ]
+        }
+      },
+      {
+        "Mail.Ru": {
+          "http://mail.ru/": [
+            "my.mail.ru"
           ]
         }
       },
