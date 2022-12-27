@@ -872,6 +872,14 @@
         "adman.gr"
       ]
     },
+    "AdmanMedia": {
+      "properties": [
+        "admanmedia.com"
+      ],
+      "resources": [
+        "admanmedia.com"
+      ]
+    },
     "Admarketplace": {
       "properties": [
         "admarketplace.com"
@@ -2422,6 +2430,16 @@
         "baronsoffers.com"
       ]
     },
+    "BasisTechnologies": {
+      "properties": [
+        "centro.net",
+        "sitescout.com"
+      ],
+      "resources": [
+        "basis.net",
+        "sitescout.com"
+      ]
+    },
     "Batanga Network": {
       "properties": [
         "batanga.com",
@@ -2556,14 +2574,6 @@
       ],
       "resources": [
         "bidfluence.com"
-      ]
-    },
-    "Bidr": {
-      "properties": [
-        "bidr.io"
-      ],
-      "resources": [
-        "bidr.io"
       ]
     },
     "BidSwitch": {
@@ -3290,16 +3300,6 @@
       ],
       "resources": [
         "carts.guru"
-      ]
-    },
-    "Casale Media": {
-      "properties": [
-        "casalemedia.com",
-        "medianet.com"
-      ],
-      "resources": [
-        "casalemedia.com",
-        "medianet.com"
       ]
     },
     "CashBeet": {
@@ -5178,15 +5178,11 @@
         "exoclick.com"
       ],
       "resources": [
-        "exoclick.com"
-      ]
-    },
-    "Exosrv": {
-      "properties": [
-        "exosrv.com"
-      ],
-      "resources": [
-        "exosrv.com"
+        "exdynsrv.com",
+        "exoclick.com",
+        "exosrv.com",
+        "realsrv.com",
+        "wpncdn.com"
       ]
     },
     "Experian": {
@@ -5578,10 +5574,12 @@
     },
     "FreeWheel": {
       "properties": [
+        "bidr.io",
         "freewheel.tv",
         "fwmrm.net"
       ],
       "resources": [
+        "bidr.io",
         "freewheel.tv",
         "fwmrm.net",
         "stickyadstv.com"
@@ -6182,6 +6180,7 @@
         "blogger.com",
         "cc-dt.com",
         "crashlytics.com",
+        "dartsearch.net",
         "destinationurl.com",
         "doubleclick.net",
         "ggpht.com",
@@ -6869,10 +6868,14 @@
     },
     "IndexExchange": {
       "properties": [
-        "indexexchange.com"
+        "casalemedia.com",
+        "indexexchange.com",
+        "medianet.com"
       ],
       "resources": [
-        "indexexchange.com"
+        "casalemedia.com",
+        "indexww.com",
+        "medianet.com"
       ]
     },
     "Infectious Media": {
@@ -9064,6 +9067,7 @@
       ],
       "resources": [
         "nativo.com",
+        "ntv.io",
         "postrelease.com"
       ]
     },
@@ -11344,15 +11348,6 @@
         "simpli.fi"
       ]
     },
-    "SiteScout": {
-      "properties": [
-        "centro.net",
-        "sitescout.com"
-      ],
-      "resources": [
-        "sitescout.com"
-      ]
-    },
     "Six Apart": {
       "properties": [
         "movabletype.com",
@@ -11398,14 +11393,6 @@
       ],
       "resources": [
         "slunecnice.cz"
-      ]
-    },
-    "Smaato": {
-      "properties": [
-        "smaato.com"
-      ],
-      "resources": [
-        "smaato.com"
       ]
     },
     "SmartAdServer": {
@@ -12004,6 +11991,14 @@
       ],
       "resources": [
         "superhuman.com"
+      ]
+    },
+    "Supership": {
+      "properties": [
+        "supership.jp"
+      ],
+      "resources": [
+        "socdm.com"
       ]
     },
     "SupersonicAds": {
@@ -13157,6 +13152,16 @@
       ],
       "resources": [
         "vertster.com"
+      ]
+    },
+    "VerveGroup": {
+      "properties": [
+        "smaato.com",
+        "verve.com"
+      ],
+      "resources": [
+        "smaato.com",
+        "smaato.net"
       ]
     },
     "VG WORT": {

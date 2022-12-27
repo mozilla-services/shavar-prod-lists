@@ -238,6 +238,13 @@
         }
       },
       {
+        "BasisTechnologies": {
+          "https://basis.net/": [
+            "sitescout.com"
+          ]
+        }
+      },
+      {
         "beMail": {
           "https://www.bemail.it/": [
             "bemail.it"
@@ -595,13 +602,6 @@
         "SendPulse": {
           "https://sendpulse.com/": [
             "sendpul.se"
-          ]
-        }
-      },
-      {
-        "SiteScout": {
-          "http://www.sitescout.com/": [
-            "sitescout.com"
           ]
         }
       },
@@ -2060,6 +2060,13 @@
         }
       },
       {
+        "AdmanMedia": {
+          "https://admanmedia.com": [
+            "admanmedia.com"
+          ]
+        }
+      },
+      {
         "Admarketplace": {
           "http://www.admarketplace.com/": [
             "admarketplace.com",
@@ -3110,6 +3117,14 @@
         }
       },
       {
+        "BasisTechnologies": {
+          "https://basis.net/": [
+            "basis.net",
+            "sitescout.com"
+          ]
+        }
+      },
+      {
         "Batanga Network": {
           "http://www.batanganetwork.com/": [
             "batanga.com",
@@ -3172,13 +3187,6 @@
         "Bidfluence": {
           "https://www.bidfluence.com/": [
             "bidfluence.com"
-          ]
-        }
-      },
-      {
-        "Bidr": {
-          "http://bidr.io": [
-            "bidr.io"
           ]
         }
       },
@@ -3555,14 +3563,6 @@
         "CartsGuru": {
           "https://carts.guru/": [
             "carts.guru"
-          ]
-        }
-      },
-      {
-        "Casale Media": {
-          "http://www.casalemedia.com/": [
-            "casalemedia.com",
-            "medianet.com"
           ]
         }
       },
@@ -4598,14 +4598,11 @@
       {
         "ExoClick": {
           "http://www.exoclick.com/": [
-            "exoclick.com"
-          ]
-        }
-      },
-      {
-        "Exosrv": {
-          "http://main.exosrv.com/": [
-            "exosrv.com"
+            "exdynsrv.com",
+            "exoclick.com",
+            "exosrv.com",
+            "realsrv.com",
+            "wpncdn.com"
           ]
         }
       },
@@ -4830,6 +4827,7 @@
       {
         "FreeWheel": {
           "http://www.freewheel.tv/": [
+            "bidr.io",
             "stickyadstv.com"
           ]
         }
@@ -5056,6 +5054,7 @@
             "adservice.google.com",
             "adwords.google.com",
             "cc-dt.com",
+            "dartsearch.net",
             "destinationurl.com",
             "doubleclick.net",
             "fcmatch.google.com",
@@ -5330,6 +5329,15 @@
         "IndexExchange": {
           "https://www.indexexchange.com": [
             "indexexchange.com"
+          ]
+        }
+      },
+      {
+        "IndexExchange": {
+          "https://www.indexexchange.com/": [
+            "casalemedia.com",
+            "indexww.com",
+            "medianet.com"
           ]
         }
       },
@@ -6492,6 +6500,7 @@
       {
         "Nativo": {
           "http://www.nativo.net/": [
+            "ntv.io",
             "postrelease.com"
           ]
         }
@@ -7771,13 +7780,6 @@
         }
       },
       {
-        "SiteScout": {
-          "http://www.sitescout.com/": [
-            "sitescout.com"
-          ]
-        }
-      },
-      {
         "Skimlinks": {
           "http://skimlinks.com/": [
             "skimlinks.com",
@@ -7797,13 +7799,6 @@
         "Slunecnice": {
           "https://www.slunecnice.cz/": [
             "slunecnice.cz"
-          ]
-        }
-      },
-      {
-        "Smaato": {
-          "http://www.smaato.com/": [
-            "smaato.com"
           ]
         }
       },
@@ -8133,6 +8128,13 @@
         "Superfish": {
           "http://www.superfish.com/": [
             "superfish.com"
+          ]
+        }
+      },
+      {
+        "Supership": {
+          "https://supership.jp/": [
+            "socdm.com"
           ]
         }
       },
@@ -8800,6 +8802,14 @@
           "http://www.verticalresponse.com/": [
             "verticalresponse.com",
             "vresp.com"
+          ]
+        }
+      },
+      {
+        "VerveGroup": {
+          "https://verve.com/": [
+            "smaato.com",
+            "smaato.net"
           ]
         }
       },
