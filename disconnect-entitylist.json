@@ -11399,6 +11399,14 @@
         "signifyd.com"
       ]
     },
+    "SimpleAnalytics": {
+      "properties": [
+        "simpleanalytics.com"
+      ],
+      "resources": [
+        "simpleanalyticscdn.com"
+      ]
+    },
     "Simpli.fi": {
       "properties": [
         "simpli.fi"
