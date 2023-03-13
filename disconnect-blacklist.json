@@ -9483,14 +9483,6 @@
         }
       },
       {
-        "BuzzFeed": {
-          "http://www.buzzfeed.com/": [
-            "buzzfed.com",
-            "buzzfeed.com"
-          ]
-        }
-      },
-      {
         "Cbox": {
           "http://www.cbox.ws/": [
             "cbox.ws"
