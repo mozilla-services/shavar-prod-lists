@@ -7591,6 +7591,7 @@
       ],
       "resources": [
         "liveramp.com",
+        "rlcdn.com",
         "tvpixel.com"
       ]
     },
@@ -12245,12 +12246,10 @@
     "TowerData": {
       "properties": [
         "rapleaf.com",
-        "rlcdn.com",
         "towerdata.com"
       ],
       "resources": [
-        "rapleaf.com",
-        "rlcdn.com"
+        "rapleaf.com"
       ]
     },
     "TraceMyIP.org": {
