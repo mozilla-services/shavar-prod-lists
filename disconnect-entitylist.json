@@ -8123,14 +8123,6 @@
         "mediacom.com"
       ]
     },
-    "mediaFORGE": {
-      "properties": [
-        "mediaforge.com"
-      ],
-      "resources": [
-        "mediaforge.com"
-      ]
-    },
     "Medialets": {
       "properties": [
         "medialets.com"
@@ -9036,18 +9028,6 @@
       ],
       "resources": [
         "nextag.com"
-      ]
-    },
-    "NextPerformance": {
-      "properties": [
-        "nextperf.com",
-        "nextperformance.com",
-        "nxtck.com"
-      ],
-      "resources": [
-        "nextperf.com",
-        "nextperformance.com",
-        "nxtck.com"
       ]
     },
     "NextSTAT": {
@@ -10249,7 +10229,10 @@
         "kenko.com",
         "kobo.com",
         "marketspeed.jp",
+        "nextperf.com",
+        "nextperformance.com",
         "nikki.ne.jp",
+        "nxtck.com",
         "rakuten-bank.co.jp",
         "rakuten-card.co.jp",
         "rakuten-insurance.co.jp",
@@ -10277,6 +10260,10 @@
         "ebates.com",
         "linkshare.com",
         "linksynergy.com",
+        "mediaforge.com",
+        "nextperf.com",
+        "nextperformance.com",
+        "nxtck.com",
         "rakutenmarketing.com"
       ]
     },
