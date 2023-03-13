@@ -5666,6 +5666,7 @@
         "LiveRamp": {
           "https://liveramp.com/": [
             "liveramp.com",
+            "rlcdn.com",
             "tvpixel.com"
           ]
         }
@@ -8246,8 +8247,7 @@
       {
         "TowerData": {
           "https://www.towerdata.com/": [
-            "rapleaf.com",
-            "rlcdn.com"
+            "rapleaf.com"
           ]
         }
       },
