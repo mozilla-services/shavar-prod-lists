@@ -5846,6 +5846,7 @@
         "LiveRamp": {
           "https://liveramp.com/": [
             "liveramp.com",
+            "rlcdn.com",
             "tvpixel.com"
           ]
         }
@@ -6106,13 +6107,6 @@
         "MediaCom": {
           "http://www.mediacom.com/": [
             "mediacom.com"
-          ]
-        }
-      },
-      {
-        "mediaFORGE": {
-          "http://www.mediaforge.com/": [
-            "mediaforge.com"
           ]
         }
       },
@@ -6588,14 +6582,6 @@
         "Nextag": {
           "http://www.nextag.com/": [
             "nextag.com"
-          ]
-        }
-      },
-      {
-        "NextPerformance": {
-          "http://www.nextperformance.com/": [
-            "nextperformance.com",
-            "nxtck.com"
           ]
         }
       },
@@ -7327,7 +7313,10 @@
         "Rakuten": {
           "https://rakutenadvertising.com/": [
             "linkshare.com",
-            "linksynergy.com"
+            "linksynergy.com",
+            "mediaforge.com",
+            "nextperformance.com",
+            "nxtck.com"
           ]
         }
       },
@@ -8428,8 +8417,7 @@
       {
         "TowerData": {
           "https://www.towerdata.com/": [
-            "rapleaf.com",
-            "rlcdn.com"
+            "rapleaf.com"
           ]
         }
       },
@@ -9479,14 +9467,6 @@
         "buySAFE": {
           "http://www.buysafe.com/": [
             "buysafe.com"
-          ]
-        }
-      },
-      {
-        "BuzzFeed": {
-          "http://www.buzzfeed.com/": [
-            "buzzfed.com",
-            "buzzfeed.com"
           ]
         }
       },

@@ -1899,6 +1899,7 @@
         "amazon.in",
         "amazon.it",
         "amazon.nl",
+        "amazon.pl",
         "amazon.sa",
         "amazon.se",
         "amazon.sg",
@@ -3074,15 +3075,6 @@
         "buysight.com",
         "permuto.com",
         "pulsemgr.com"
-      ]
-    },
-    "BuzzFeed": {
-      "properties": [
-        "buzzfeed.com"
-      ],
-      "resources": [
-        "buzzfed.com",
-        "buzzfeed.com"
       ]
     },
     "BuzzParadise": {
@@ -5287,6 +5279,7 @@
     "Facebook": {
       "properties": [
         "atlassolutions.com",
+        "commercepartnerhub.com",
         "e.gg",
         "facebook.com",
         "facebook.de",
@@ -7775,6 +7768,7 @@
       ],
       "resources": [
         "liveramp.com",
+        "rlcdn.com",
         "tvpixel.com"
       ]
     },
@@ -8317,14 +8311,6 @@
         "mediacom.com"
       ]
     },
-    "mediaFORGE": {
-      "properties": [
-        "mediaforge.com"
-      ],
-      "resources": [
-        "mediaforge.com"
-      ]
-    },
     "Medialets": {
       "properties": [
         "medialets.com"
@@ -8538,6 +8524,7 @@
         "iegallery.com",
         "linkedin.com",
         "live.com",
+        "lnkd.in",
         "microsoft.com",
         "microsoftalumni.com",
         "microsoftalumni.org",
@@ -9242,18 +9229,6 @@
       ],
       "resources": [
         "nextag.com"
-      ]
-    },
-    "NextPerformance": {
-      "properties": [
-        "nextperf.com",
-        "nextperformance.com",
-        "nxtck.com"
-      ],
-      "resources": [
-        "nextperf.com",
-        "nextperformance.com",
-        "nxtck.com"
       ]
     },
     "NextSTAT": {
@@ -10464,7 +10439,10 @@
         "kenko.com",
         "kobo.com",
         "marketspeed.jp",
+        "nextperf.com",
+        "nextperformance.com",
         "nikki.ne.jp",
+        "nxtck.com",
         "rakuten-bank.co.jp",
         "rakuten-card.co.jp",
         "rakuten-insurance.co.jp",
@@ -10492,6 +10470,10 @@
         "ebates.com",
         "linkshare.com",
         "linksynergy.com",
+        "mediaforge.com",
+        "nextperf.com",
+        "nextperformance.com",
+        "nxtck.com",
         "rakutenmarketing.com"
       ]
     },
@@ -12472,12 +12454,10 @@
     "TowerData": {
       "properties": [
         "rapleaf.com",
-        "rlcdn.com",
         "towerdata.com"
       ],
       "resources": [
-        "rapleaf.com",
-        "rlcdn.com"
+        "rapleaf.com"
       ]
     },
     "TraceMyIP.org": {
