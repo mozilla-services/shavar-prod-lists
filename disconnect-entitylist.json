@@ -88,6 +88,14 @@
         "i-stats.com"
       ]
     },
+    "6sense": {
+      "properties": [
+        "6sense.com"
+      ],
+      "resources": [
+        "6sc.co"
+      ]
+    },
     "8d8.biz": {
       "properties": [
         "8d8.biz"
@@ -870,6 +878,14 @@
       ],
       "resources": [
         "adman.gr"
+      ]
+    },
+    "AdmanMedia": {
+      "properties": [
+        "admanmedia.com"
+      ],
+      "resources": [
+        "admanmedia.com"
       ]
     },
     "Admarketplace": {
@@ -2391,6 +2407,14 @@
         "backbeatmedia.com"
       ]
     },
+    "Baidu": {
+      "properties": [
+        "baidu.com"
+      ],
+      "resources": [
+        "baidu.com"
+      ]
+    },
     "Bandzoogle": {
       "properties": [
         "bandzoogle.com"
@@ -2421,6 +2445,16 @@
       ],
       "resources": [
         "baronsoffers.com"
+      ]
+    },
+    "BasisTechnologies": {
+      "properties": [
+        "centro.net",
+        "sitescout.com"
+      ],
+      "resources": [
+        "basis.net",
+        "sitescout.com"
       ]
     },
     "Batanga Network": {
@@ -2557,14 +2591,6 @@
       ],
       "resources": [
         "bidfluence.com"
-      ]
-    },
-    "Bidr": {
-      "properties": [
-        "bidr.io"
-      ],
-      "resources": [
-        "bidr.io"
       ]
     },
     "BidSwitch": {
@@ -3125,6 +3151,15 @@
         "cadreon.com"
       ]
     },
+    "CafeMedia": {
+      "properties": [
+        "adthrive.com",
+        "cafemedia.com"
+      ],
+      "resources": [
+        "adthrive.com"
+      ]
+    },
     "CallSource": {
       "properties": [
         "callsource.com"
@@ -3282,16 +3317,6 @@
       ],
       "resources": [
         "carts.guru"
-      ]
-    },
-    "Casale Media": {
-      "properties": [
-        "casalemedia.com",
-        "medianet.com"
-      ],
-      "resources": [
-        "casalemedia.com",
-        "medianet.com"
       ]
     },
     "CashBeet": {
@@ -4666,6 +4691,15 @@
         "drawbridge.com"
       ]
     },
+    "Drift": {
+      "properties": [
+        "drift.com"
+      ],
+      "resources": [
+        "drift.com",
+        "driftt.com"
+      ]
+    },
     "DS-IQ": {
       "properties": [
         "ds-iq.com"
@@ -5170,15 +5204,11 @@
         "exoclick.com"
       ],
       "resources": [
-        "exoclick.com"
-      ]
-    },
-    "Exosrv": {
-      "properties": [
-        "exosrv.com"
-      ],
-      "resources": [
-        "exosrv.com"
+        "exdynsrv.com",
+        "exoclick.com",
+        "exosrv.com",
+        "realsrv.com",
+        "wpncdn.com"
       ]
     },
     "Experian": {
@@ -5571,10 +5601,12 @@
     },
     "FreeWheel": {
       "properties": [
+        "bidr.io",
         "freewheel.tv",
         "fwmrm.net"
       ],
       "resources": [
+        "bidr.io",
         "freewheel.tv",
         "fwmrm.net",
         "stickyadstv.com"
@@ -5730,6 +5762,14 @@
       "resources": [
         "genesismedia.com",
         "genesismediaus.com"
+      ]
+    },
+    "Genesys": {
+      "properties": [
+        "genesys.com"
+      ],
+      "resources": [
+        "boldchat.com"
       ]
     },
     "GENIEE": {
@@ -6175,6 +6215,7 @@
         "blogger.com",
         "cc-dt.com",
         "crashlytics.com",
+        "dartsearch.net",
         "destinationurl.com",
         "doubleclick.net",
         "ggpht.com",
@@ -6567,6 +6608,14 @@
         "sptag3.com"
       ]
     },
+    "HelpScout": {
+      "properties": [
+        "helpscout.com"
+      ],
+      "resources": [
+        "helpscout.net"
+      ]
+    },
     "Heyzap": {
       "properties": [
         "heyzap.com"
@@ -6688,7 +6737,8 @@
         "hs-analytics.net",
         "hsms06.com",
         "hubspot.com",
-        "hubspotemail.net"
+        "hubspotemail.net",
+        "usemessages.com"
       ]
     },
     "Hunter": {
@@ -6862,10 +6912,14 @@
     },
     "IndexExchange": {
       "properties": [
-        "indexexchange.com"
+        "casalemedia.com",
+        "indexexchange.com",
+        "medianet.com"
       ],
       "resources": [
-        "indexexchange.com"
+        "casalemedia.com",
+        "indexww.com",
+        "medianet.com"
       ]
     },
     "Infectious Media": {
@@ -7301,6 +7355,14 @@
       "resources": [
         "adcolony.com",
         "jirbo.com"
+      ]
+    },
+    "JivoChat": {
+      "properties": [
+        "jivochat.com"
+      ],
+      "resources": [
+        "jivosite.com"
       ]
     },
     "Jivox": {
@@ -9051,6 +9113,7 @@
       ],
       "resources": [
         "nativo.com",
+        "ntv.io",
         "postrelease.com"
       ]
     },
@@ -11318,21 +11381,20 @@
         "signifyd.com"
       ]
     },
+    "SimpleAnalytics": {
+      "properties": [
+        "simpleanalytics.com"
+      ],
+      "resources": [
+        "simpleanalyticscdn.com"
+      ]
+    },
     "Simpli.fi": {
       "properties": [
         "simpli.fi"
       ],
       "resources": [
         "simpli.fi"
-      ]
-    },
-    "SiteScout": {
-      "properties": [
-        "centro.net",
-        "sitescout.com"
-      ],
-      "resources": [
-        "sitescout.com"
       ]
     },
     "Six Apart": {
@@ -11380,14 +11442,6 @@
       ],
       "resources": [
         "slunecnice.cz"
-      ]
-    },
-    "Smaato": {
-      "properties": [
-        "smaato.com"
-      ],
-      "resources": [
-        "smaato.com"
       ]
     },
     "SmartAdServer": {
@@ -11988,6 +12042,14 @@
         "superhuman.com"
       ]
     },
+    "Supership": {
+      "properties": [
+        "supership.jp"
+      ],
+      "resources": [
+        "socdm.com"
+      ]
+    },
     "SupersonicAds": {
       "properties": [
         "supersonicads.com"
@@ -12517,7 +12579,8 @@
       ],
       "resources": [
         "trafficfactory.biz",
-        "trafficfactory.com"
+        "trafficfactory.com",
+        "tsyndicate.com"
       ]
     },
     "TrafficHaus": {
@@ -13137,6 +13200,16 @@
       ],
       "resources": [
         "vertster.com"
+      ]
+    },
+    "VerveGroup": {
+      "properties": [
+        "smaato.com",
+        "verve.com"
+      ],
+      "resources": [
+        "smaato.com",
+        "smaato.net"
       ]
     },
     "VG WORT": {
@@ -13940,6 +14013,7 @@
         "yandex.by",
         "yandex.com",
         "yandex.com.tr",
+        "yandex.md",
         "yandex.ru",
         "yandex.st",
         "yandex.ua"
