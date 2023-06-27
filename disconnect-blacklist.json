@@ -10443,6 +10443,13 @@
         }
       },
       {
+        "ABTasty": {
+          "https://www.abtasty.com/": [
+            "abtasty.com"
+          ]
+        }
+      },
+      {
         "Acxiom": {
           "http://www.acxiom.com/": [
             "acxiom.com",
@@ -10619,6 +10626,13 @@
         }
       },
       {
+        "BlueConic": {
+          "https://www.blueconic.com/": [
+            "blueconic.net"
+          ]
+        }
+      },
+      {
         "Bluemetrix": {
           "http://www.bluemetrix.com/": [
             "bluemetrix.com",
@@ -10759,6 +10773,13 @@
         }
       },
       {
+        "ContentSquare": {
+          "https://contentsquare.com/": [
+            "contentsquare.net"
+          ]
+        }
+      },
+      {
         "Convert Insights": {
           "http://www.convert.com/": [
             "convert.com",
@@ -10785,6 +10806,13 @@
         "Crowd Science": {
           "http://crowdscience.com/": [
             "crowdscience.com"
+          ]
+        }
+      },
+      {
+        "Crownpeak": {
+          "https://www.crownpeak.com/": [
+            "betrad.com"
           ]
         }
       },
@@ -11052,6 +11080,13 @@
         }
       },
       {
+        "Heap": {
+          "https://www.heap.io/": [
+            "heapanalytics.com"
+          ]
+        }
+      },
+      {
         "Hearst": {
           "http://www.hearst.com/": [
             "raasnet.com",
@@ -11170,6 +11205,13 @@
           "http://www.intelligencefocus.com/": [
             "domodomain.com",
             "intelligencefocus.com"
+          ]
+        }
+      },
+      {
+        "iotechnologies": {
+          "https://www.public.iotechnologies.com/": [
+            "onthe.io"
           ]
         }
       },
@@ -11580,6 +11622,13 @@
         }
       },
       {
+        "Qualtrics": {
+          "https://www.qualtrics.com/": [
+            "qualtrics.com"
+          ]
+        }
+      },
+      {
         "QuinStreet": {
           "http://quinstreet.com/": [
             "thecounter.com"
@@ -11754,6 +11803,13 @@
         "SnowplowAnalytics": {
           "https://snowplowanalytics.com/": [
             "snplow.net"
+          ]
+        }
+      },
+      {
+        "SolarWinds": {
+          "https://www.solarwinds.com/": [
+            "pingdom.net"
           ]
         }
       },
