@@ -2421,7 +2421,8 @@
         "baidu.com"
       ],
       "resources": [
-        "baidu.com"
+        "baidu.com",
+        "bdstatic.com"
       ]
     },
     "Bandzoogle": {
@@ -5546,6 +5547,14 @@
       "resources": [
         "adingo.jp",
         "fluct.jp"
+      ]
+    },
+    "Flux": {
+      "properties": [
+        "flux.jp"
+      ],
+      "resources": [
+        "flux.jp"
       ]
     },
     "Flytxt": {
@@ -10411,6 +10420,14 @@
       ],
       "resources": [
         "punchtab.com"
+      ]
+    },
+    "Pushly": {
+      "properties": [
+        "pushly.com"
+      ],
+      "resources": [
+        "p-n.io"
       ]
     },
     "Pushnami": {
