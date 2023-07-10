@@ -4494,14 +4494,6 @@
         "dmxleo.com"
       ]
     },
-    "Datadome": {
-      "properties": [
-        "datadome.co"
-      ],
-      "resources": [
-        "datadome.co"
-      ]
-    },
     "Dataium": {
       "properties": [
         "collserve.com",
@@ -5533,6 +5525,7 @@
         "meta.com",
         "oculus.com",
         "oversightboard.com",
+        "threads.net",
         "whatsapp.com",
         "workplace.com"
       ],
@@ -9935,14 +9928,6 @@
         "openeducat.org"
       ]
     },
-    "Open New Media": {
-      "properties": [
-        "onm.de"
-      ],
-      "resources": [
-        "onm.de"
-      ]
-    },
     "Openstat": {
       "properties": [
         "openstat.com"
@@ -14075,7 +14060,35 @@
     },
     "Vocento": {
       "properties": [
-        "vocento.com"
+        "abc.es",
+        "autocasion.com",
+        "burgosconecta.es",
+        "diariosur.es",
+        "diariovasco.com",
+        "elcomercio.es",
+        "elcorreo.com",
+        "eldiariomontanes.es",
+        "elnortedecastilla.es",
+        "hoy.es",
+        "ideal.es",
+        "larioja.com",
+        "lasprovincias.es",
+        "laverdad.es",
+        "lavozdigital.es",
+        "leonoticias.com",
+        "localdigitalkit.com",
+        "mujerhoy.com",
+        "oferplan.com",
+        "pisocompartido.com",
+        "pisos.com",
+        "rentingcoches.com",
+        "salamancahoy.es",
+        "todoalicante.es",
+        "topcomparativas.com",
+        "turium.es",
+        "vocento.com",
+        "welife.es",
+        "womennow.es"
       ],
       "resources": [
         "vocento.com",

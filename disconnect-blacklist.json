@@ -7054,13 +7054,6 @@
         }
       },
       {
-        "Open New Media": {
-          "http://www.onm.de/": [
-            "onm.de"
-          ]
-        }
-      },
-      {
         "OpenX": {
           "http://openx.com/": [
             "liftdna.com",
@@ -11354,13 +11347,6 @@
         }
       },
       {
-        "Datadome": {
-          "https://datadome.co/": [
-            "datadome.co"
-          ]
-        }
-      },
-      {
         "Dataium": {
           "http://www.dataium.com/": [
             "collserve.com",
@@ -12932,13 +12918,6 @@
         "Cloudflare": {
           "https://cloudflare.com": [
             "hcaptcha.com"
-          ]
-        }
-      },
-      {
-        "Datadome": {
-          "https://datadome.co/": [
-            "datadome.co"
           ]
         }
       },
