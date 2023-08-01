@@ -7409,13 +7409,6 @@
         }
       },
       {
-        "Po.st": {
-          "http://www.po.st/": [
-            "po.st"
-          ]
-        }
-      },
-      {
         "Powerlinks": {
           "https://www.powerlinks.com/": [
             "powerlinks.com"
@@ -7657,14 +7650,6 @@
           "http://www.radiatemedia.com/": [
             "matchbin.com",
             "radiatemedia.com"
-          ]
-        }
-      },
-      {
-        "RadiumOne": {
-          "http://www.radiumone.com/": [
-            "gwallet.com",
-            "radiumone.com"
           ]
         }
       },
@@ -8981,8 +8966,11 @@
         }
       },
       {
-        "Tremor Video": {
-          "http://www.tremorvideo.com/": [
+        "Tremor": {
+          "https://www.tremorinternational.com/": [
+            "gwallet.com",
+            "po.st",
+            "radiumone.com",
             "scanscout.com",
             "tmnetads.com",
             "tremorhub.com",
