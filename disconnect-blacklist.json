@@ -4740,14 +4740,6 @@
         }
       },
       {
-        "eXelate": {
-          "http://exelate.com/": [
-            "exelate.com",
-            "exelator.com"
-          ]
-        }
-      },
-      {
         "ExoClick": {
           "http://www.exoclick.com/": [
             "exdynsrv.com",
@@ -6879,8 +6871,13 @@
       {
         "Nielsen": {
           "http://www.nielsen.com/": [
+            "exelate.com",
+            "exelator.com",
             "imrworldwide.com",
-            "imrworldwide.net"
+            "imrworldwide.net",
+            "vdna-assets.com",
+            "visualdna-stats.com",
+            "visualdna.com"
           ]
         }
       },
@@ -9358,15 +9355,6 @@
           "https://www.vistaprint.ch/": [
             "vpdcp.com",
             "vptms.com"
-          ]
-        }
-      },
-      {
-        "VisualDNA": {
-          "http://www.visualdna.com/": [
-            "vdna-assets.com",
-            "visualdna-stats.com",
-            "visualdna.com"
           ]
         }
       },
