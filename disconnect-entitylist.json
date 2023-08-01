@@ -2806,16 +2806,6 @@
         "bittads.com"
       ]
     },
-    "Bizo": {
-      "properties": [
-        "bizo.com",
-        "bizographics.com"
-      ],
-      "resources": [
-        "bizo.com",
-        "bizographics.com"
-      ]
-    },
     "Black Label Ads": {
       "properties": [
         "blacklabelads.com"
@@ -4876,16 +4866,6 @@
       ],
       "resources": [
         "doubleverify.com"
-      ]
-    },
-    "Drawbridge": {
-      "properties": [
-        "drawbridge.com"
-      ],
-      "resources": [
-        "adsymptotic.com",
-        "drawbrid.ge",
-        "drawbridge.com"
       ]
     },
     "Drift": {
@@ -8908,8 +8888,11 @@
         "azure.net",
         "azurerms.com",
         "bing.com",
+        "bizo.com",
+        "bizographics.com",
         "clarity.ms",
         "cloudappsecurity.com",
+        "drawbridge.com",
         "gamesforwindows.com",
         "gaug.es",
         "getgamesmart.com",
@@ -8975,14 +8958,19 @@
         "aadrm.com",
         "adbureau.net",
         "adecn.com",
+        "adsymptotic.com",
         "aquantive.com",
         "aspnetcdn.com",
         "assets-yammer.com",
         "azure.com",
         "azureedge.net",
         "bing.com",
+        "bizo.com",
+        "bizographics.com",
         "clarity.ms",
         "cloudapp.net",
+        "drawbrid.ge",
+        "drawbridge.com",
         "gamesforwindows.com",
         "gaug.es",
         "getgamesmart.com",
