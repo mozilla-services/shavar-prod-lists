@@ -6344,15 +6344,6 @@
         }
       },
       {
-        "MaxPoint": {
-          "http://maxpointinteractive.com/": [
-            "maxpointinteractive.com",
-            "maxusglobal.com",
-            "mxptint.net"
-          ]
-        }
-      },
-      {
         "MdotM": {
           "http://mdotm.com/": [
             "mdotm.com"
@@ -9281,6 +9272,15 @@
         "Veremedia": {
           "http://www.veremedia.com/": [
             "veremedia.com"
+          ]
+        }
+      },
+      {
+        "Vericast": {
+          "https://www.vericast.com/": [
+            "maxpointinteractive.com",
+            "maxusglobal.com",
+            "mxptint.net"
           ]
         }
       },
