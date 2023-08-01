@@ -8625,6 +8625,14 @@
         }
       },
       {
+        "Synacor": {
+          "http://www.synacor.com/": [
+            "technorati.com",
+            "technoratimedia.com"
+          ]
+        }
+      },
+      {
         "Syncapse": {
           "http://www.syncapse.com/": [
             "clickable.net",
@@ -8731,14 +8739,6 @@
           "http://teads.tv/": [
             "ebuzzing.com",
             "teads.tv"
-          ]
-        }
-      },
-      {
-        "Technorati": {
-          "http://technorati.com/": [
-            "technorati.com",
-            "technoratimedia.com"
           ]
         }
       },
