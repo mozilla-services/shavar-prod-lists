@@ -3396,15 +3396,6 @@
         }
       },
       {
-        "BlueKai": {
-          "http://www.bluekai.com/": [
-            "bkrtx.com",
-            "bluekai.com",
-            "tracksimple.com"
-          ]
-        }
-      },
-      {
         "Blu Trumpet": {
           "http://www.blutrumpet.com/": [
             "blutrumpet.com"
@@ -4196,14 +4187,6 @@
         "DailyMotion": {
           "https://www.dailymotion.com/": [
             "dmxleo.com"
-          ]
-        }
-      },
-      {
-        "Datalogix": {
-          "http://www.datalogix.com/": [
-            "nexac.com",
-            "nextaction.net"
           ]
         }
       },
@@ -5226,13 +5209,6 @@
         }
       },
       {
-        "Grapeshot": {
-          "http://www.grapeshot.co.uk/": [
-            "grapeshot.co.uk"
-          ]
-        }
-      },
-      {
         "Graphnium": {
           "https://www.graphinium.com/": [
             "crm4d.com"
@@ -5256,8 +5232,7 @@
       {
         "Gruner + Jahr": {
           "http://www.guj.de/": [
-            "guj.de",
-            "ligatus.com"
+            "guj.de"
           ]
         }
       },
@@ -6522,15 +6497,6 @@
         }
       },
       {
-        "Moat": {
-          "http://www.moat.com/": [
-            "moat.com",
-            "moatads.com",
-            "moatpixel.com"
-          ]
-        }
-      },
-      {
         "MobFox": {
           "http://www.mobfox.com/": [
             "mobfox.com"
@@ -7109,7 +7075,17 @@
       {
         "Oracle": {
           "http://www.oracle.com/": [
-            "estara.com"
+            "bkrtx.com",
+            "bluekai.com",
+            "estara.com",
+            "grapeshot.co.uk",
+            "moat.com",
+            "moatads.com",
+            "moatpixel.com",
+            "nexac.com",
+            "nextaction.net",
+            "responsys.com",
+            "tracksimple.com"
           ]
         }
       },
@@ -7801,13 +7777,6 @@
             "reson8.com",
             "resonateinsights.com",
             "resonatenetworks.com"
-          ]
-        }
-      },
-      {
-        "Responsys": {
-          "http://www.responsys.com/": [
-            "responsys.com"
           ]
         }
       },
@@ -13501,15 +13470,6 @@
         }
       },
       {
-        "BlueKai": {
-          "http://www.bluekai.com/": [
-            "bkrtx.com",
-            "bluekai.com",
-            "tracksimple.com"
-          ]
-        }
-      },
-      {
         "Choozle": {
           "https://choozle.com/": [
             "choozle.com"
@@ -13824,19 +13784,6 @@
     ],
     "Social": [
       {
-        "AddThis": {
-          "http://www.addthis.com/": [
-            "addthis.com",
-            "addthiscdn.com",
-            "addthisedge.com",
-            "clearspring.com",
-            "connectedads.net",
-            "xgraph.com",
-            "xgraph.net"
-          ]
-        }
-      },
-      {
         "Causes": {
           "http://www.causes.com/": [
             "causes.com"
@@ -13910,6 +13857,19 @@
           "http://www.microsoft.com/": [
             "licdn.com",
             "linkedin.com"
+          ]
+        }
+      },
+      {
+        "Oracle": {
+          "http://www.oracle.com/": [
+            "addthis.com",
+            "addthiscdn.com",
+            "addthisedge.com",
+            "clearspring.com",
+            "connectedads.net",
+            "xgraph.com",
+            "xgraph.net"
           ]
         }
       },
