@@ -5278,6 +5278,13 @@
         }
       },
       {
+        "HumanSecurity": {
+          "https://www.humansecurity.com/": [
+            "perimeterx.net"
+          ]
+        }
+      },
+      {
         "HUNT Mobile Ads": {
           "http://www.huntmads.com/": [
             "huntmads.com"
@@ -7144,13 +7151,6 @@
         "Performancing": {
           "http://performancing.com/": [
             "performancing.com"
-          ]
-        }
-      },
-      {
-        "PerimeterX": {
-          "https://www.perimeterx.com": [
-            "perimeterx.net"
           ]
         }
       },
@@ -11532,6 +11532,15 @@
         }
       },
       {
+        "HumanSecurity": {
+          "https://www.humansecurity.com/": [
+            "adxyield.com",
+            "adzmath.com",
+            "whiteops.com"
+          ]
+        }
+      },
+      {
         "IBM": {
           "http://www.ibm.com/": [
             "cmcore.com",
@@ -12459,15 +12468,6 @@
         }
       },
       {
-        "White Ops": {
-          "https://www.whiteops.com/": [
-            "adxyield.com",
-            "adzmath.com",
-            "whiteops.com"
-          ]
-        }
-      },
-      {
         "whos.amung.us": {
           "http://whos.amung.us/": [
             "amung.us"
@@ -12880,6 +12880,13 @@
         }
       },
       {
+        "HumanSecurity": {
+          "https://www.humansecurity.com/": [
+            "perimeterx.net"
+          ]
+        }
+      },
+      {
         "ie8eamus": {
           "https://ie8eamus.com/": [
             "ie8eamus.com"
@@ -13041,13 +13048,6 @@
         "Paypal": {
           "https://www.paypal.com": [
             "simility.com"
-          ]
-        }
-      },
-      {
-        "PerimeterX": {
-          "https://www.perimeterx.com": [
-            "perimeterx.net"
           ]
         }
       },
