@@ -1753,14 +1753,6 @@
         }
       },
       {
-        "Adbrain": {
-          "http://www.adbrain.com/": [
-            "adbrain.com",
-            "adbrn.com"
-          ]
-        }
-      },
-      {
         "adBrite": {
           "http://www.adbrite.com/": [
             "adbrite.com"
@@ -8750,6 +8742,8 @@
       {
         "The Trade Desk": {
           "http://thetradedesk.com/": [
+            "adbrain.com",
+            "adbrn.com",
             "adsrvr.org",
             "thetradedesk.com",
             "uidapi.com"
@@ -13385,14 +13379,6 @@
     ],
     "FingerprintingGeneral": [
       {
-        "Adbrain": {
-          "http://www.adbrain.com/": [
-            "adbrain.com",
-            "adbrn.com"
-          ]
-        }
-      },
-      {
         "Adjust": {
           "https://adjust.com": [
             "adjust.com"
@@ -13749,6 +13735,8 @@
       {
         "The Trade Desk": {
           "http://thetradedesk.com/": [
+            "adbrain.com",
+            "adbrn.com",
             "adsrvr.org",
             "thetradedesk.com"
           ]
