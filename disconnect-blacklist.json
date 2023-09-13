@@ -3093,6 +3093,13 @@
         }
       },
       {
+        "BeMob": {
+          "https://bemob.com": [
+            "7a75ebcbd7.com"
+          ]
+        }
+      },
+      {
         "BeOp": {
           "https://beop.io/": [
             "beop.io"
@@ -3446,6 +3453,13 @@
         "CampaignGrid": {
           "http://www.campaigngrid.com/": [
             "campaigngrid.com"
+          ]
+        }
+      },
+      {
+        "CapitalAudience": {
+          "https://www.capitalaudience.com/": [
+            "capitalaudience.com"
           ]
         }
       },
@@ -3830,6 +3844,13 @@
         "ContentABC": {
           "http://contentabc.com/": [
             "contentabc.com"
+          ]
+        }
+      },
+      {
+        "ContentExchange": {
+          "https://www.contentexchange.me/": [
+            "contentexchange.me"
           ]
         }
       },
@@ -5668,6 +5689,13 @@
         }
       },
       {
+        "Katalys": {
+          "https://katalys.com/": [
+            "revoffers.com"
+          ]
+        }
+      },
+      {
         "Kenshoo": {
           "http://www.kenshoo.com/": [
             "kenshoo.com",
@@ -5850,6 +5878,13 @@
         "Linkz": {
           "http://www.linkz.net/": [
             "linkz.net"
+          ]
+        }
+      },
+      {
+        "ListenLayer": {
+          "https://www.listenlayer.com/": [
+            "listenlayer.com"
           ]
         }
       },
@@ -11242,6 +11277,13 @@
         }
       },
       {
+        "Flux": {
+          "https://flux.jp/en/solutions/": [
+            "flux-cdn.com"
+          ]
+        }
+      },
+      {
         "Footprint": {
           "http://www.footprintlive.com/": [
             "footprintlive.com"
@@ -11559,6 +11601,13 @@
         "LeadForensics": {
           "https://www.leadforensics.com": [
             "leadforensics.com"
+          ]
+        }
+      },
+      {
+        "LeadInfo": {
+          "https://www.leadinfo.com/en/": [
+            "leadinfo.net"
           ]
         }
       },
@@ -12243,6 +12292,14 @@
         }
       },
       {
+        "Unseen": {
+          "https://unseenreport.com": [
+            "friendshipmale.com",
+            "unseenreport.com"
+          ]
+        }
+      },
+      {
         "User Local": {
           "http://nakanohito.jp/": [
             "nakanohito.jp"
@@ -12392,6 +12449,13 @@
         }
       },
       {
+        "Xfyun": {
+          "https://www.xfyun.cn/": [
+            "xfyun.cn"
+          ]
+        }
+      },
+      {
         "Yahoo!": {
           "http://www.yahoo.com/": [
             "analytics.yahoo.com"
@@ -12428,6 +12492,13 @@
       }
     ],
     "FingerprintingInvasive": [
+      {
+        "AdaptMX": {
+          "https://adaptmx.com/": [
+            "a-mo.net"
+          ]
+        }
+      },
       {
         "Adbot": {
           "https://adbot.tw/": [
@@ -12505,6 +12576,13 @@
         }
       },
       {
+        "BeMob": {
+          "https://bemob.com": [
+            "7a75ebcbd7.com"
+          ]
+        }
+      },
+      {
         "BetssonPalantir": {
           "https://betssonpalantir.com/": [
             "betssonpalantir.com"
@@ -12578,6 +12656,13 @@
         }
       },
       {
+        "CapitalAudience": {
+          "https://www.capitalaudience.com/": [
+            "capitalaudience.com"
+          ]
+        }
+      },
+      {
         "CartsGuru": {
           "https://carts.guru/": [
             "carts.guru"
@@ -12632,6 +12717,13 @@
         }
       },
       {
+        "ContentExchange": {
+          "https://www.contentexchange.me/": [
+            "contentexchange.me"
+          ]
+        }
+      },
+      {
         "dmpxs": {
           "http://bob.dmpxs.com": [
             "dmpxs.com"
@@ -12642,6 +12734,13 @@
         "EroAdvertising": {
           "http://www.ero-advertising.com/": [
             "ero-advertising.com"
+          ]
+        }
+      },
+      {
+        "Flux": {
+          "https://flux.jp/en/solutions/": [
+            "flux-cdn.com"
           ]
         }
       },
@@ -12745,6 +12844,13 @@
         }
       },
       {
+        "Katalys": {
+          "https://katalys.com/": [
+            "revoffers.com"
+          ]
+        }
+      },
+      {
         "Kitewheel": {
           "https://kitewheel.com/": [
             "kitewheel.com"
@@ -12760,9 +12866,23 @@
         }
       },
       {
+        "LeadInfo": {
+          "https://www.leadinfo.com/en/": [
+            "leadinfo.net"
+          ]
+        }
+      },
+      {
         "LeadsHub": {
           "https://ztsrv.com/": [
             "ztsrv.com"
+          ]
+        }
+      },
+      {
+        "ListenLayer": {
+          "https://www.listenlayer.com/": [
+            "listenlayer.com"
           ]
         }
       },
@@ -12849,6 +12969,13 @@
         "Pixlee": {
           "https://www.pixlee.com/": [
             "pixlee.com"
+          ]
+        }
+      },
+      {
+        "Playwire": {
+          "https://www.playwire.com/": [
+            "intergient.com"
           ]
         }
       },
@@ -13008,6 +13135,14 @@
         }
       },
       {
+        "Unseen": {
+          "https://unseenreport.com": [
+            "friendshipmale.com",
+            "unseenreport.com"
+          ]
+        }
+      },
+      {
         "Upland": {
           "https://uplandsoftware.com/": [
             "leadlander.com",
@@ -13040,6 +13175,13 @@
         "WideOrbit": {
           "https://www.wideorbit.com/": [
             "dep-x.com"
+          ]
+        }
+      },
+      {
+        "Xfyun": {
+          "https://www.xfyun.cn/": [
+            "xfyun.cn"
           ]
         }
       },
