@@ -10837,6 +10837,13 @@
         }
       },
       {
+        "AuditedMedia": {
+          "https://auditedmedia.com/": [
+            "aamapiv2.com"
+          ]
+        }
+      },
+      {
         "Automattic": {
           "http://automattic.com/": [
             "polldaddy.com"
@@ -12484,6 +12491,7 @@
         "AuditedMedia": {
           "https://auditedmedia.com/": [
             "aamapi.com",
+            "aamapiv2.com",
             "aamsitecertifier.com",
             "auditedmedia.com"
           ]
