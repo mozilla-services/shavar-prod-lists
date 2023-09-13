@@ -5749,6 +5749,13 @@
         }
       },
       {
+        "Klar": {
+          "https://www.getklar.com/": [
+            "durchsichtig.xyz"
+          ]
+        }
+      },
+      {
         "Kokteyl": {
           "http://www.kokteyl.com/": [
             "admost.com",
@@ -9145,6 +9152,13 @@
         }
       },
       {
+        "VicinityMedia": {
+          "https://vicinity.media/": [
+            "vic-m.co"
+          ]
+        }
+      },
+      {
         "Vidazoo": {
           "https://vidazoo.com": [
             "vidazoo.com"
@@ -11029,6 +11043,13 @@
         }
       },
       {
+        "BrowserAnalytic": {
+          "https://browseranalytic.com": [
+            "browseranalytic.com"
+          ]
+        }
+      },
+      {
         "Bubblestat": {
           "http://www.bubblestat.com/": [
             "bubblestat.com"
@@ -11374,6 +11395,13 @@
         "FundraiseUp": {
           "https://fundraiseup.com/": [
             "fndrsp.net"
+          ]
+        }
+      },
+      {
+        "GeeTest": {
+          "https://www.geetest.com/en/": [
+            "geetest.com"
           ]
         }
       },
@@ -11863,6 +11891,13 @@
         }
       },
       {
+        "NoFraud": {
+          "https://www.nofraud.com/": [
+            "nofraud.com"
+          ]
+        }
+      },
+      {
         "Noto": {
           "https://notolytix.com/": [
             "notolytix.com"
@@ -12306,6 +12341,13 @@
         }
       },
       {
+        "Tracify": {
+          "https://www.tracify.ai/": [
+            "tracify.ai"
+          ]
+        }
+      },
+      {
         "TrackingSoft": {
           "http://trackingsoft.com/": [
             "roia.biz",
@@ -12521,6 +12563,13 @@
         }
       },
       {
+        "Yoox": {
+          "https://www.yoox.com/us": [
+            "yoox.it"
+          ]
+        }
+      },
+      {
         "YSance": {
           "https://www.ysance.com/data-services/fr/home/": [
             "y-track.com"
@@ -12706,6 +12755,13 @@
         }
       },
       {
+        "BrowserAnalytic": {
+          "https://browseranalytic.com": [
+            "browseranalytic.com"
+          ]
+        }
+      },
+      {
         "C3 Metrics": {
           "http://c3metrics.com/": [
             "c3metrics.com",
@@ -12833,6 +12889,13 @@
         }
       },
       {
+        "GeeTest": {
+          "https://www.geetest.com/en/": [
+            "geetest.com"
+          ]
+        }
+      },
+      {
         "Gleam": {
           "https://gleam.io/": [
             "fraudjs.io"
@@ -12931,6 +12994,13 @@
         }
       },
       {
+        "Klar": {
+          "https://www.getklar.com/": [
+            "durchsichtig.xyz"
+          ]
+        }
+      },
+      {
         "Konduto": {
           "http://konduto.com": [
             "k-analytix.com",
@@ -12999,6 +13069,13 @@
         "Negishim": {
           "http://www.negishim.org": [
             "negishim.org"
+          ]
+        }
+      },
+      {
+        "NoFraud": {
+          "https://www.nofraud.com/": [
+            "nofraud.com"
           ]
         }
       },
@@ -13229,6 +13306,20 @@
         }
       },
       {
+        "Tracify": {
+          "https://www.tracify.ai/": [
+            "tracify.ai"
+          ]
+        }
+      },
+      {
+        "TrafficJunky": {
+          "https://www.trafficjunky.com/": [
+            "trafficjunky.com"
+          ]
+        }
+      },
+      {
         "Trendemon": {
           "https://trendemon.com/": [
             "trendemon.com"
@@ -13247,7 +13338,8 @@
         "Upland": {
           "https://uplandsoftware.com/": [
             "leadlander.com",
-            "sf14g.com"
+            "sf14g.com",
+            "trackalyzer.com"
           ]
         }
       },
@@ -13255,6 +13347,13 @@
         "VerticalHealth": {
           "https://www.verticalhealth.com/": [
             "verticalhealth.net"
+          ]
+        }
+      },
+      {
+        "VicinityMedia": {
+          "https://vicinity.media/": [
+            "vic-m.co"
           ]
         }
       },
@@ -13297,6 +13396,13 @@
         "Yandex": {
           "http://www.yandex.com/": [
             "mc.yandex.ru"
+          ]
+        }
+      },
+      {
+        "Yoox": {
+          "https://www.yoox.com/us": [
+            "yoox.it"
           ]
         }
       },
