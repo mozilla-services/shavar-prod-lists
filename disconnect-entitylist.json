@@ -1691,6 +1691,7 @@
       "resources": [
         "abmr.net",
         "akamai.com",
+        "akamaihd.net",
         "edgesuite.net",
         "go-mpulse.net",
         "imiclk.com"
@@ -1850,6 +1851,14 @@
       "resources": [
         "adnetwork.vn",
         "ambientdigital.com.vn"
+      ]
+    },
+    "amoCRM": {
+      "properties": [
+        "amocrm.ru"
+      ],
+      "resources": [
+        "amocrm.ru"
       ]
     },
     "Amplitude": {
@@ -5346,6 +5355,15 @@
         "financialcontent.com"
       ]
     },
+    "FingerprintJS": {
+      "properties": [
+        "fingerprint.com"
+      ],
+      "resources": [
+        "fpnpmcdn.net",
+        "openfpcdn.io"
+      ]
+    },
     "FireDrum": {
       "properties": [
         "firedrumemailmarketing.com"
@@ -8300,6 +8318,14 @@
         "marketgid.com"
       ]
     },
+    "MarketingArchitects": {
+      "properties": [
+        "marketingarchitects.com"
+      ],
+      "resources": [
+        "mapixl.com"
+      ]
+    },
     "Markit": {
       "properties": [
         "markit.com",
@@ -9456,6 +9482,14 @@
       ],
       "resources": [
         "adleadevent.com"
+      ]
+    },
+    "Noto": {
+      "properties": [
+        "notolytix.com"
+      ],
+      "resources": [
+        "notolytix.com"
       ]
     },
     "Nova": {
@@ -12599,6 +12633,14 @@
         "tealiumiq.com"
       ]
     },
+    "TeamBlue": {
+      "properties": [
+        "teamblue.services"
+      ],
+      "resources": [
+        "teamblue.services"
+      ]
+    },
     "TechSolutions": {
       "properties": [
         "techsolutions.com.tw"
@@ -12658,6 +12700,14 @@
         "heronpartners.com.au",
         "marinsm.com",
         "marinsoftware.com"
+      ]
+    },
+    "TheNewCo": {
+      "properties": [
+        "thenewco.tech"
+      ],
+      "resources": [
+        "tncid.app"
       ]
     },
     "The Numa Group": {
@@ -14222,6 +14272,14 @@
       ],
       "resources": [
         "wowanalytics.co.uk"
+      ]
+    },
+    "wpadmngr": {
+      "properties": [
+        "wpadmngr.com"
+      ],
+      "resources": [
+        "wpadmngr.com"
       ]
     },
     "WPP": {
