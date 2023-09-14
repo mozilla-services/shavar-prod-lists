@@ -2616,6 +2616,14 @@
         "blacklabelads.com"
       ]
     },
+    "Blis": {
+      "properties": [
+        "blis.com"
+      ],
+      "resources": [
+        "blismedia.com"
+      ]
+    },
     "Blockthrough": {
       "properties": [
         "blockthrough.com",
@@ -3882,6 +3890,14 @@
       ],
       "resources": [
         "connatix.com"
+      ]
+    },
+    "ConnectAdRealtime": {
+      "properties": [
+        "connectadrealtime.com"
+      ],
+      "resources": [
+        "connectad.io"
       ]
     },
     "ConnectIf": {
@@ -10793,14 +10809,6 @@
         "pulsepoint.com"
       ]
     },
-    "PunchTab": {
-      "properties": [
-        "punchtab.com"
-      ],
-      "resources": [
-        "punchtab.com"
-      ]
-    },
     "Pushly": {
       "properties": [
         "pushly.com"
@@ -13298,8 +13306,10 @@
         "po.st",
         "radiumone.com",
         "smartclip.com",
+        "tidaltv.com",
         "tremorinternational.com",
-        "tremorvideo.com"
+        "tremorvideo.com",
+        "videologygroup.com"
       ],
       "resources": [
         "adconion.com",
@@ -13311,11 +13321,13 @@
         "radiumone.com",
         "scanscout.com",
         "smartclip.com",
+        "tidaltv.com",
         "tmnetads.com",
         "tremorhub.com",
         "tremormedia.com",
         "tremorvideo.com",
-        "turn.com"
+        "turn.com",
+        "videologygroup.com"
       ]
     },
     "Trendemon": {
@@ -13952,16 +13964,6 @@
         "vi.ai"
       ]
     },
-    "Videology": {
-      "properties": [
-        "tidaltv.com",
-        "videologygroup.com"
-      ],
-      "resources": [
-        "tidaltv.com",
-        "videologygroup.com"
-      ]
-    },
     "Vidoomy": {
       "properties": [
         "vidoomy.com"
@@ -14215,10 +14217,12 @@
     "Walmart": {
       "properties": [
         "adchemy.com",
+        "punchtab.com",
         "walmart.com"
       ],
       "resources": [
-        "adchemy.com"
+        "adchemy.com",
+        "punchtab.com"
       ]
     },
     "Warumbistdusoarm": {
@@ -15023,10 +15027,12 @@
     },
     "Zendesk": {
       "properties": [
-        "zendesk.com"
+        "zendesk.com",
+        "zopim.com"
       ],
       "resources": [
-        "zendesk.com"
+        "zendesk.com",
+        "zopim.com"
       ]
     },
     "Zeotap": {
@@ -15106,14 +15112,6 @@
       "resources": [
         "clickagy.com",
         "zoominfo.com"
-      ]
-    },
-    "Zopim": {
-      "properties": [
-        "zopim.com"
-      ],
-      "resources": [
-        "zopim.com"
       ]
     },
     "Zumobi": {
