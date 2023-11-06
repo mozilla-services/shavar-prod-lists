@@ -7321,6 +7321,15 @@
         "im-apps.net"
       ]
     },
+    "IntuitionMachines": {
+      "properties": [
+        "hcaptcha.com",
+        "imachines.com"
+      ],
+      "resources": [
+        "hcaptcha.com"
+      ]
+    },
     "Inuvo": {
       "properties": [
         "inuvo.com"
