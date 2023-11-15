@@ -13053,13 +13053,6 @@
         }
       },
       {
-        "Cloudflare": {
-          "https://cloudflare.com": [
-            "hcaptcha.com"
-          ]
-        }
-      },
-      {
         "ContentExchange": {
           "https://www.contentexchange.me/": [
             "contentexchange.me"
@@ -13177,6 +13170,13 @@
         "Integral Ad Science": {
           "https://integralads.com/": [
             "adsafeprotected.com"
+          ]
+        }
+      },
+      {
+        "IntuitionMachines": {
+          "https://www.imachines.com/": [
+            "hcaptcha.com"
           ]
         }
       },
@@ -13644,13 +13644,6 @@
         }
       },
       {
-        "Yandex": {
-          "http://www.yandex.com/": [
-            "mc.yandex.ru"
-          ]
-        }
-      },
-      {
         "Yoox": {
           "https://www.yoox.com/us": [
             "yoox.it"
@@ -13857,7 +13850,6 @@
             "inbox.google.com",
             "invitemedia.com",
             "mail.google.com",
-            "orkut.com",
             "plus.google.com",
             "plusone.google.com",
             "postrank.com",
@@ -14075,6 +14067,92 @@
         }
       }
     ],
+    "Anti-fraud": [
+      {
+        "ClickGuard": {
+          "https://www.clickguard.com/": [
+            "clickguard.com"
+          ]
+        }
+      },
+      {
+        "GeeTest": {
+          "https://www.geetest.com/en/": [
+            "geetest.com"
+          ]
+        }
+      },
+      {
+        "Google": {
+          "http://www.google.com/": [
+            "recaptcha.net"
+          ]
+        }
+      },
+      {
+        "HumanSecurity": {
+          "https://www.humansecurity.com/": [
+            "adxyield.com",
+            "adzmath.com",
+            "clean.gg",
+            "perimeterx.com",
+            "px-cdn.net",
+            "px-cloud.net",
+            "whiteops.com"
+          ]
+        }
+      },
+      {
+        "IntuitionMachines": {
+          "https://www.imachines.com/": [
+            "hcaptcha.com"
+          ]
+        }
+      },
+      {
+        "NoFraud": {
+          "https://www.nofraud.com/": [
+            "nofraud.com"
+          ]
+        }
+      },
+      {
+        "Noto": {
+          "https://notolytix.com/": [
+            "notolytix.com"
+          ]
+        }
+      },
+      {
+        "Paypal": {
+          "https://www.paypal.com": [
+            "simility.com"
+          ]
+        }
+      },
+      {
+        "SiftScience": {
+          "https://sift.com/": [
+            "sift.com",
+            "siftscience.com"
+          ]
+        }
+      },
+      {
+        "Signifyd": {
+          "https://www.signifyd.com/": [
+            "signifyd.com"
+          ]
+        }
+      },
+      {
+        "Stripe": {
+          "https://stripe.com": [
+            "stripe.network"
+          ]
+        }
+      }
+    ],
     "Social": [
       {
         "Causes": {
@@ -14113,7 +14191,6 @@
             "googlemail.com",
             "inbox.google.com",
             "mail.google.com",
-            "orkut.com",
             "plus.google.com",
             "plusone.google.com",
             "smartlock.google.com",
