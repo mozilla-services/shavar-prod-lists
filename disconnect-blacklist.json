@@ -4770,14 +4770,6 @@
         }
       },
       {
-        "Gigya": {
-          "http://www.gigya.com/": [
-            "gigcount.com",
-            "gigya.com"
-          ]
-        }
-      },
-      {
         "Glam Media": {
           "http://www.glammedia.com/": [
             "glam.com",
@@ -7479,6 +7471,7 @@
       {
         "SAP": {
           "https://www.sap.com": [
+            "gigcount.com",
             "leadformix.com",
             "scarabresearch.com"
           ]
@@ -9534,6 +9527,13 @@
           "http://pinterest.com/": [
             "pinimg.com",
             "pinterest.com"
+          ]
+        }
+      },
+      {
+        "SAP": {
+          "https://www.sap.com": [
+            "gigya.com"
           ]
         }
       },
