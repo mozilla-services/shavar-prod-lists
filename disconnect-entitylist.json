@@ -5129,14 +5129,6 @@
         "widgetserver.com"
       ]
     },
-    "Flocktory": {
-      "properties": [
-        "flocktory.com"
-      ],
-      "resources": [
-        "flocktory.com"
-      ]
-    },
     "Fluct": {
       "properties": [
         "adingo.jp",
@@ -9956,6 +9948,15 @@
       ],
       "resources": [
         "pushnami.com"
+      ]
+    },
+    "QIWIGroup": {
+      "properties": [
+        "flocktory.com",
+        "qiwi.global"
+      ],
+      "resources": [
+        "flocktory.com"
       ]
     },
     "Qualaroo": {
