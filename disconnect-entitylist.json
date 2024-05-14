@@ -5885,14 +5885,6 @@
         "widgetserver.com"
       ]
     },
-    "Flocktory": {
-      "properties": [
-        "flocktory.com"
-      ],
-      "resources": [
-        "flocktory.com"
-      ]
-    },
     "Fluct": {
       "properties": [
         "adingo.jp",
@@ -9132,6 +9124,7 @@
         "internalfb.com",
         "liverail.com",
         "messenger.com",
+        "meta.ai",
         "meta.com",
         "oculus.com",
         "oversightboard.com",
@@ -11211,6 +11204,15 @@
       ],
       "resources": [
         "pushnami.com"
+      ]
+    },
+    "QIWIGroup": {
+      "properties": [
+        "flocktory.com",
+        "qiwi.global"
+      ],
+      "resources": [
+        "flocktory.com"
       ]
     },
     "Qualaroo": {
