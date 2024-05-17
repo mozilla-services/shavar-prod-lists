@@ -13466,7 +13466,8 @@
         "fabric.io",
         "tweetdeck.com",
         "twitter.com",
-        "twitter.jp"
+        "twitter.jp",
+        "x.com"
       ],
       "resources": [
         "ads-twitter.com",
@@ -13475,7 +13476,8 @@
         "tweetdeck.com",
         "twimg.com",
         "twitter.com",
-        "twitter.jp"
+        "twitter.jp",
+        "x.com"
       ]
     },
     "Twitter Counter": {
