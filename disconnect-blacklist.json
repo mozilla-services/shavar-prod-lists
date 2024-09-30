@@ -12830,6 +12830,14 @@
         }
       },
       {
+        "UserCentrics": {
+          "https://www.usercentrics.com": [
+            "cookiebot.com",
+            "cookiebot.eu"
+          ]
+        }
+      },
+      {
         "User Local": {
           "http://nakanohito.jp/": [
             "nakanohito.jp"
