@@ -14518,6 +14518,14 @@
     ],
     "ConsentManagers": [
       {
+        "Sourcepoint": {
+          "https://www.sourcepoint.com/": [
+            "privacy-mgmt.com",
+            "summerhamster.com"
+          ]
+        }
+      },
+      {
         "UserCentrics": {
           "https://www.usercentrics.com": [
             "cookiebot.com",
