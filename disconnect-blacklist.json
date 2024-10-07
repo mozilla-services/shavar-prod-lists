@@ -2842,6 +2842,13 @@
         }
       },
       {
+        "adxbid": {
+          "https://adxbid.info": [
+            "adxbid.info"
+          ]
+        }
+      },
+      {
         "AdXpansion": {
           "http://www.adxpansion.com/": [
             "adxpansion.com"
@@ -3088,6 +3095,13 @@
         "Answers.com": {
           "http://www.answers.com/": [
             "dsply.com"
+          ]
+        }
+      },
+      {
+        "AnyClip": {
+          "https://anyclip.com": [
+            "pixel.anyclip.com"
           ]
         }
       },
@@ -3545,6 +3559,13 @@
         "BidVertiser": {
           "http://www.bidvertiser.com/": [
             "bidvertiser.com"
+          ]
+        }
+      },
+      {
+        "BigCrunch": {
+          "https://bigcrunch.com": [
+            "bigcrunch.com"
           ]
         }
       },
@@ -5972,6 +5993,13 @@
         }
       },
       {
+        "InterdogMedia": {
+          "https://interdogmedia.com": [
+            "vlitag.com"
+          ]
+        }
+      },
+      {
         "Intergi": {
           "http://intergi.com/": [
             "intergi.com"
@@ -6295,7 +6323,19 @@
       {
         "Klevu": {
           "https://www.klevu.com": [
-            "klevu.com"
+            "config-cdn.ksearchnet.com",
+            "ipv4check.ksearchnet.com",
+            "ipv6check.ksearchnet.com",
+            "klavyio.klevu.com",
+            "moi-ai.ksearchnet.com",
+            "moicustomizations.klevu.com",
+            "pqa-analytics.service.ksearchnet.com",
+            "stats.klevu.com",
+            "stats.ksearchnet.com",
+            "statsjs.klevu.com",
+            "visitor.service.ksearchnet.com",
+            "zjs.klevu.com",
+            "zstats.klevu.com"
           ]
         }
       },
@@ -7172,6 +7212,13 @@
         }
       },
       {
+        "NetpubMedia": {
+          "https://netpub.media": [
+            "netpub.media"
+          ]
+        }
+      },
+      {
         "Net-Results": {
           "http://www.net-results.com/": [
             "cdnma.com",
@@ -7644,6 +7691,13 @@
         "Paid-To-Promote.net": {
           "http://www.paid-to-promote.net/": [
             "paid-to-promote.net"
+          ]
+        }
+      },
+      {
+        "PapayAds": {
+          "https://papayads.net": [
+            "papayads.net"
           ]
         }
       },
@@ -10445,6 +10499,13 @@
         }
       },
       {
+        "AnyClip": {
+          "https://anyclip.com": [
+            "anyclip.com"
+          ]
+        }
+      },
+      {
         "Automattic": {
           "http://automattic.com/": [
             "gravatar.com",
@@ -11066,6 +11127,13 @@
         }
       },
       {
+        "b3mxnuvcer": {
+          "https://b3mxnuvcer.com": [
+            "b3mxnuvcer.com"
+          ]
+        }
+      },
+      {
         "Baidu": {
           "https://baidu.com": [
             "baidu.com",
@@ -11669,6 +11737,7 @@
       {
         "Google": {
           "http://www.google.com/": [
+            "analytics.google.com",
             "crashlytics.com",
             "google-analytics.com",
             "googleoptimize.com",
@@ -12214,6 +12283,13 @@
         }
       },
       {
+        "Nocodelytics": {
+          "https://nocodelytics.com": [
+            "nocodelytics.com"
+          ]
+        }
+      },
+      {
         "NoFraud": {
           "https://www.nofraud.com/": [
             "nofraud.com"
@@ -12267,6 +12343,7 @@
       {
         "OneTrust": {
           "https://onetrust.com": [
+            "cookielaw.org",
             "onetrust.com",
             "onetrust.io"
           ]
@@ -12522,6 +12599,13 @@
             "igodigital.com",
             "salesforce.com",
             "salesforceliveagent.com"
+          ]
+        }
+      },
+      {
+        "SardineAI": {
+          "https://sardine.ai": [
+            "sardine.ai"
           ]
         }
       },
@@ -13631,6 +13715,13 @@
         "Rollick": {
           "https://gorollick.com": [
             "rollick.io"
+          ]
+        }
+      },
+      {
+        "SardineAI": {
+          "https://sardine.ai": [
+            "sardine.ai"
           ]
         }
       },
