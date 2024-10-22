@@ -14609,6 +14609,13 @@
     ],
     "ConsentManagers": [
       {
+        "Osano": {
+          "https://osano.com": [
+            "osano.com"
+          ]
+        }
+      },
+      {
         "Sourcepoint": {
           "https://www.sourcepoint.com/": [
             "privacy-mgmt.com",
