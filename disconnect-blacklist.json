@@ -4429,7 +4429,6 @@
             "analyticshipaa.cloud.coveo.com",
             "analyticsstg.cloud.coveo.com",
             "platform-eu.cloud.coveo.com",
-            "platform.cloud.coveo.com",
             "usageanalytics.coveo.com",
             "usageanalyticsdev.coveo.com",
             "usageanalyticshipaa.coveo.com"
@@ -10562,6 +10561,7 @@
         "Coveo": {
           "https://coveo.com": [
             "org.coveo.com",
+            "platform.cloud.coveo.com",
             "static.cloud.coveo.com"
           ]
         }
