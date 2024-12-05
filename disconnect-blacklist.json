@@ -14609,6 +14609,15 @@
     ],
     "ConsentManagers": [
       {
+        "OneTrust": {
+          "https://onetrust.com": [
+            "cookielaw.org",
+            "onetrust.com",
+            "onetrust.io"
+          ]
+        }
+      },
+      {
         "Osano": {
           "https://osano.com": [
             "osano.com"
