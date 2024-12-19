@@ -2115,6 +2115,7 @@
         "audible.fr",
         "audible.in",
         "audible.it",
+        "aws.dev",
         "bookdepository.com",
         "boxofficemojo.com",
         "brilliancepublishing.com",
@@ -4308,7 +4309,8 @@
     },
     "ConstantContact": {
       "properties": [
-        "constantcontact.com"
+        "constantcontact.com",
+        "constantcontactpages.com"
       ],
       "resources": [
         "constantcontact.com",
