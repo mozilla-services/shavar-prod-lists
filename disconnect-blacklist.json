@@ -14619,6 +14619,15 @@
         }
       },
       {
+        "TrustARC": {
+          "https://trustarc.com/": [
+            "trustarc.com",
+            "truste-svc.net",
+            "truste.com"
+          ]
+        }
+      },
+      {
         "UserCentrics": {
           "https://www.usercentrics.com": [
             "cookiebot.com",
