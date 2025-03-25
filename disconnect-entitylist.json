@@ -2071,7 +2071,7 @@
         "amazingcounters.com"
       ]
     },
-    "Amazon.com": {
+    "Amazon": {
       "properties": [
         "6pm.com",
         "abebooks.co.uk",
@@ -14452,7 +14452,8 @@
       "properties": [
         "list.ru",
         "mail.ru",
-        "vk.com"
+        "vk.com",
+        "vkvideo.ru"
       ],
       "resources": [
         "list.ru",

@@ -897,8 +897,8 @@
         }
       },
       {
-        "Amazon.com": {
-          "http://www.amazon.com/": [
+        "Amazon": {
+          "https://www.amazon.com/": [
             "awstrack.me"
           ]
         }
@@ -3029,8 +3029,8 @@
         }
       },
       {
-        "Amazon.com": {
-          "http://www.amazon.com/": [
+        "Amazon": {
+          "https://www.amazon.com/": [
             "a2z.com",
             "amazon-adsystem.com",
             "amazon.ca",
@@ -10488,8 +10488,8 @@
         }
       },
       {
-        "Amazon.com": {
-          "http://www.amazon.com/": [
+        "Amazon": {
+          "https://www.amazon.com/": [
             "amazon.com",
             "cloudfront.net",
             "twitch.tv"
@@ -11046,10 +11046,11 @@
         }
       },
       {
-        "Amazon.com": {
-          "http://www.amazon.com/": [
+        "Amazon": {
+          "https://www.amazon.com/": [
             "alexa.com",
-            "alexametrics.com"
+            "alexametrics.com",
+            "ttvnw.net"
           ]
         }
       },
