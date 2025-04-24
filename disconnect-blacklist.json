@@ -11849,9 +11849,6 @@
             "adxyield.com",
             "adzmath.com",
             "clean.gg",
-            "perimeterx.net",
-            "px-cdn.net",
-            "px-cloud.net",
             "whiteops.com"
           ]
         }
@@ -13406,7 +13403,8 @@
       {
         "HumanSecurity": {
           "https://www.humansecurity.com/": [
-            "perimeterx.net"
+            "perimeterx.net",
+            "px-cloud.net"
           ]
         }
       },
@@ -14347,6 +14345,7 @@
             "adzmath.com",
             "clean.gg",
             "perimeterx.com",
+            "perimeterx.net",
             "px-cdn.net",
             "px-cloud.net",
             "whiteops.com"
