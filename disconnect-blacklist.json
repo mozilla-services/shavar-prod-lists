@@ -10767,7 +10767,6 @@
             "googleusercontent.com",
             "googlevideo.com",
             "gstatic.com",
-            "recaptcha.net",
             "youtube-nocookie.com",
             "youtube.com"
           ]
@@ -11677,13 +11676,6 @@
         }
       },
       {
-        "GeeTest": {
-          "https://www.geetest.com/en/": [
-            "geetest.com"
-          ]
-        }
-      },
-      {
         "Genesys": {
           "https://www.genesys.com/": [
             "boldchat.com"
@@ -11840,16 +11832,6 @@
             "hsforms.net",
             "hubspot.com",
             "usemessages.com"
-          ]
-        }
-      },
-      {
-        "HumanSecurity": {
-          "https://www.humansecurity.com/": [
-            "adxyield.com",
-            "adzmath.com",
-            "clean.gg",
-            "whiteops.com"
           ]
         }
       },
@@ -12281,23 +12263,9 @@
         }
       },
       {
-        "NoFraud": {
-          "https://www.nofraud.com/": [
-            "nofraud.com"
-          ]
-        }
-      },
-      {
         "Noibu": {
           "https://www.noibu.com": [
             "noibu.com"
-          ]
-        }
-      },
-      {
-        "Noto": {
-          "https://notolytix.com/": [
-            "notolytix.com"
           ]
         }
       },
@@ -12603,13 +12571,6 @@
         "ShinyStat": {
           "http://www.shinystat.com/": [
             "shinystat.com"
-          ]
-        }
-      },
-      {
-        "SiftScience": {
-          "https://sift.com/": [
-            "sift.com"
           ]
         }
       },
@@ -13210,13 +13171,6 @@
         }
       },
       {
-        "BrowserAnalytic": {
-          "https://browseranalytic.com": [
-            "browseranalytic.com"
-          ]
-        }
-      },
-      {
         "Buzzoola": {
           "https://www.buzzoola.com/en/": [
             "buzzoola.com"
@@ -13366,13 +13320,6 @@
         }
       },
       {
-        "GeeTest": {
-          "https://www.geetest.com/en/": [
-            "geetest.com"
-          ]
-        }
-      },
-      {
         "Gleam": {
           "https://gleam.io/": [
             "fraudjs.io"
@@ -13401,14 +13348,6 @@
         }
       },
       {
-        "HumanSecurity": {
-          "https://www.humansecurity.com/": [
-            "perimeterx.net",
-            "px-cloud.net"
-          ]
-        }
-      },
-      {
         "iMedia": {
           "http://www.imedia.cz": [
             "imedia.cz"
@@ -13433,13 +13372,6 @@
         "intent.ly": {
           "https://intent.ly/en/": [
             "smct.io"
-          ]
-        }
-      },
-      {
-        "IntuitionMachines": {
-          "https://www.imachines.com/": [
-            "hcaptcha.com"
           ]
         }
       },
@@ -13565,20 +13497,6 @@
         }
       },
       {
-        "NoFraud": {
-          "https://www.nofraud.com/": [
-            "nofraud.com"
-          ]
-        }
-      },
-      {
-        "Noto": {
-          "https://notolytix.com/": [
-            "notolytix.com"
-          ]
-        }
-      },
-      {
         "OneAd": {
           "https://www.onead.com.tw/": [
             "guoshipartners.com",
@@ -13611,13 +13529,6 @@
         "PartyPoker": {
           "https://www.partypoker.com/": [
             "iivt.com"
-          ]
-        }
-      },
-      {
-        "Paypal": {
-          "https://www.paypal.com": [
-            "simility.com"
           ]
         }
       },
@@ -13702,21 +13613,6 @@
         "Shortest": {
           "http://shorte.st/": [
             "shorte.st"
-          ]
-        }
-      },
-      {
-        "SiftScience": {
-          "https://sift.com/": [
-            "sift.com",
-            "siftscience.com"
-          ]
-        }
-      },
-      {
-        "Signifyd": {
-          "https://www.signifyd.com/": [
-            "signifyd.com"
           ]
         }
       },
