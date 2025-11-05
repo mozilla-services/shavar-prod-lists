@@ -3561,18 +3561,6 @@
         "leadtrackingdata.com"
       ]
     },
-    "Campaigner": {
-      "properties": [
-        "campaigner.com"
-      ],
-      "resources": [
-        "communicatorcorp.com",
-        "cp20.com",
-        "cpro20.com",
-        "cpro30.com",
-        "skem1.com"
-      ]
-    },
     "CampaignGrid": {
       "properties": [
         "campaigngrid.com"
@@ -6180,10 +6168,27 @@
     },
     "Gannett": {
       "properties": [
+        "basildonstandard.co.uk",
+        "chorleycitizen.co.uk",
+        "dorsetbeaches.co.uk",
+        "eastkilbrideconnect.co.uk",
+        "essexbusinessawards.co.uk",
         "gannett.com",
+        "localberkshire.co.uk",
+        "newforestpost.co.uk",
         "pointroll.com",
+        "prestwichandwhitefieldguide.co.uk",
         "reachlocal.com",
-        "rlcdn.net"
+        "rlcdn.net",
+        "romseyadvertiser.co.uk",
+        "southendstandard.co.uk",
+        "swanageandwarehamvoice.co.uk",
+        "thelancasterandmorecambecitizen.co.uk",
+        "thisislancashire.co.uk",
+        "thisisthewestcountry.co.uk",
+        "windsorobserver.co.uk",
+        "winsfordguardian.co.uk",
+        "yeovilexpress.co.uk"
       ],
       "resources": [
         "pointroll.com",
@@ -13014,7 +13019,9 @@
     },
     "Stripe": {
       "properties": [
-        "stripe.com"
+        "stripe.com",
+        "frontierclimate.com",
+        "stripe.dev"
       ],
       "resources": [
         "stripe.com",
@@ -13831,7 +13838,9 @@
         "digits.com",
         "twitter.com",
         "twitter.jp",
-        "x.com"
+        "x.com",
+        "grok.com",
+        "x.ai"
       ],
       "resources": [
         "ads-twitter.com",
@@ -13954,7 +13963,10 @@
     "Unity": {
       "properties": [
         "risecodes.com",
-        "unity.com"
+        "unity.com",
+        "speedtree.com",
+        "supersonic.com",
+        "unity3d.com"
       ],
       "resources": [
         "supersonicads.com",
@@ -15297,12 +15309,78 @@
     "ZiffDavis": {
       "properties": [
         "ziffdavis.com",
-        "ziffdavistech.com"
+        "ziffdavistech.com",
+        "aberdeen.com",
+        "askmen.com",
+        "babycenter.com",
+        "blackfriday.com",
+        "campaigner.com",
+        "castleconnolly.com",
+        "cnet.com",
+        "dailyom.com",
+        "dealsofamerica.com",
+        "dicebreaker.com",
+        "downdetector.com",
+        "ekahau.com",
+        "emmasdiary.co.uk",
+        "eurogamer.net",
+        "everydayhealth.com",
+        "evoice.com",
+        "excelmicro.com",
+        "extremetech.com",
+        "fullcontact.com",
+        "gamesindustry.biz",
+        "healthecareers.com",
+        "healthprofessionalacademy.co.uk",
+        "hookshot.media",
+        "humblebundle.com",
+        "icontact.com",
+        "ign.com",
+        "inspiredelearning.com",
+        "ipvanish.com",
+        "j2global.com",
+        "kickbox.com",
+        "lifehacker.com",
+        "line2.com",
+        "livedrive.com",
+        "loseit.com",
+        "mashable.com",
+        "maxroll.gg",
+        "medpagetoday.com",
+        "migraineagain.com",
+        "mom2.com",
+        "moz.com",
+        "offers.com",
+        "ookla.com",
+        "pcmag.com",
+        "primece.com",
+        "retailmenot.com",
+        "rockpapershotgun.com",
+        "rootmetrics.com",
+        "smtp.com",
+        "speedtest.net",
+        "spiceworks.com",
+        "strongvpn.com",
+        "sugarsync.com",
+        "techbargains.com",
+        "theblackfriday.com",
+        "theskimm.com",
+        "vg247.com",
+        "vipre.com",
+        "vouchercodes.co.uk",
+        "whattoexpect.com",
+        "zdnet.com",
+        "zdperformancemarketing.com"
       ],
       "resources": [
         "icptrack.com",
         "netshelter.com",
-        "netshelter.net"
+        "netshelter.net",
+        "communicatorcorp.com",
+        "cp20.com",
+        "cpro20.com",
+        "cpro30.com",
+        "skem1.com"
       ]
     },
     "Zip": {
