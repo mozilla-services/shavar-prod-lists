@@ -2717,13 +2717,6 @@
         }
       },
       {
-        "Adtima": {
-          "https://adtima.vn/": [
-            "zadn.vn"
-          ]
-        }
-      },
-      {
         "AdTruth": {
           "http://adtruth.com/": [
             "adtruth.com"
@@ -2948,13 +2941,6 @@
           "http://www.afterdownload.com/": [
             "afdads.com",
             "afterdownload.com"
-          ]
-        }
-      },
-      {
-        "AfterPay": {
-          "https://afterpay.com": [
-            "afterpay.com"
           ]
         }
       },
@@ -5323,8 +5309,10 @@
         "FriendFinder Networks": {
           "http://ffn.com/": [
             "adultfriendfinder.com",
+            "cams.com",
             "ffn.com",
-            "pop6.com"
+            "pop6.com",
+            "streamray.com"
           ]
         }
       },
@@ -5405,9 +5393,11 @@
       {
         "Gannett": {
           "http://www.gannett.com/": [
+            "lytiks.com",
             "pointroll.com",
             "reachlocal.com",
-            "rlcdn.net"
+            "rlcdn.net",
+            "wordstream.com"
           ]
         }
       },
@@ -5485,14 +5475,6 @@
           "http://getintent.com/": [
             "adhigh.net",
             "getintent.com"
-          ]
-        }
-      },
-      {
-        "Glam Media": {
-          "http://www.glammedia.com/": [
-            "glam.com",
-            "glammedia.com"
           ]
         }
       },
@@ -6298,13 +6280,6 @@
         }
       },
       {
-        "Klarna": {
-          "https://klarna.com": [
-            "klarnaservices.com"
-          ]
-        }
-      },
-      {
         "Klaviyo": {
           "https://klaviyo.com": [
             "klaviyo.com"
@@ -6490,13 +6465,6 @@
         }
       },
       {
-        "LiveChat": {
-          "https://livechat.com": [
-            "livechatinc.com"
-          ]
-        }
-      },
-      {
         "LiveIntent": {
           "http://www.liveintent.com/": [
             "liadm.com",
@@ -6520,13 +6488,6 @@
             "privacymanager.io",
             "rlcdn.com",
             "tvpixel.com"
-          ]
-        }
-      },
-      {
-        "LocalIQ": {
-          "https://localiq.com/": [
-            "lytiks.com"
           ]
         }
       },
@@ -6704,15 +6665,6 @@
         "mashero": {
           "http://www.mashero.com/": [
             "mashero.com"
-          ]
-        }
-      },
-      {
-        "Match.com": {
-          "http://www.match.com/": [
-            "chemistry.com",
-            "match.com",
-            "meetic-partners.com"
           ]
         }
       },
@@ -7065,13 +7017,6 @@
         }
       },
       {
-        "MoveableInk": {
-          "https://movableink.com": [
-            "micpn.com"
-          ]
-        }
-      },
-      {
         "MovieLush.com": {
           "https://www.movielush.com/": [
             "affbuzzads.com"
@@ -7326,13 +7271,6 @@
         }
       },
       {
-        "NitroPay": {
-          "https://nitropay.com": [
-            "nitropay.com"
-          ]
-        }
-      },
-      {
         "Nokta": {
           "http://www.noktamedya.com/": [
             "noktamedya.com",
@@ -7431,13 +7369,6 @@
         "OnAudience": {
           "http://www.onaudience.com/": [
             "onaudience.com"
-          ]
-        }
-      },
-      {
-        "Onclusive": {
-          "https://onclusive.com/": [
-            "airpr.com"
           ]
         }
       },
@@ -8726,13 +8657,6 @@
         }
       },
       {
-        "Shogun": {
-          "https://getshogun.com": [
-            "getshogun.com"
-          ]
-        }
-      },
-      {
         "Shopzilla": {
           "http://www.shopzilla.com/": [
             "shopzilla.com"
@@ -9046,14 +8970,6 @@
           "http://www.storygize.com/": [
             "storygize.com",
             "storygize.net"
-          ]
-        }
-      },
-      {
-        "Streamray": {
-          "http://streamray.com/": [
-            "cams.com",
-            "streamray.com"
           ]
         }
       },
@@ -10009,13 +9925,6 @@
         }
       },
       {
-        "Vtex": {
-          "https://vtex.com/br-pt/": [
-            "vtex.com.br"
-          ]
-        }
-      },
-      {
         "Vuble": {
           "https://vuble.tv/us/": [
             "mediabong.com"
@@ -10132,20 +10041,6 @@
           "http://wishabi.com": [
             "wishabi.com",
             "wishabi.net"
-          ]
-        }
-      },
-      {
-        "Wistia": {
-          "https://wistia.com": [
-            "wistia.com"
-          ]
-        }
-      },
-      {
-        "WordStream": {
-          "http://www.wordstream.com/": [
-            "wordstream.com"
           ]
         }
       },
@@ -10446,6 +10341,44 @@
         "Zumobi": {
           "http://www.zumobi.com/": [
             "zumobi.com"
+          ]
+        }
+      },
+      {
+        "Match Group": {
+          "http://www.match.com/": [
+            "chemistry.com",
+            "match.com"
+          ]
+        }
+      },
+      {
+        "Static Media": {
+          "https://static.com": [
+            "glam.com",
+            "glammedia.com"
+          ]
+        }
+      },
+      {
+        "Text": {
+          "https://text.com": [
+            "livechatinc.com"
+          ]
+        }
+      },
+      {
+        "STG": {
+          "https://stg.com/": [
+            "airpr.com",
+            "micpn.com"
+          ]
+        }
+      },
+      {
+        "VNG Group": {
+          "https://vng.com.vn": [
+            "zadn.vn"
           ]
         }
       }
@@ -10775,16 +10708,6 @@
         }
       },
       {
-        "JWPlayer": {
-          "https://jwplayer.com/": [
-            "jwpcdn.com",
-            "jwplatform.com",
-            "jwplayer.com",
-            "jwpsrv.com"
-          ]
-        }
-      },
-      {
         "Kaltura": {
           "http://corp.kaltura.com/": [
             "kaltura.com"
@@ -10946,6 +10869,51 @@
             "yandex.net",
             "yandex.ru",
             "yandex.st"
+          ]
+        }
+      },
+      {
+        "JWP Connatix": {
+          "https://jwpconnatix.com": [
+            "jwpcdn.com",
+            "jwplatform.com",
+            "jwplayer.com",
+            "jwpsrv.com"
+          ]
+        }
+      },
+      {
+        "AfterPay": {
+          "https://afterpay.com": [
+            "afterpay.com"
+          ]
+        }
+      },
+      {
+        "Klarna": {
+          "https://klarna.com": [
+            "klarnaservices.com"
+          ]
+        }
+      },
+      {
+        "Shogun": {
+          "https://getshogun.com": [
+            "getshogun.com"
+          ]
+        }
+      },
+      {
+        "Vtex": {
+          "https://vtex.com/br-pt/": [
+            "vtex.com.br"
+          ]
+        }
+      },
+      {
+        "Wistia": {
+          "https://wistia.com": [
+            "wistia.com"
           ]
         }
       }
@@ -11974,15 +11942,6 @@
         }
       },
       {
-        "JWPlayer": {
-          "https://jwplayer.com/": [
-            "jwpltx.com",
-            "longtailvideo.com",
-            "ltassrv.com"
-          ]
-        }
-      },
-      {
         "KeyMetric": {
           "http://www.keymetric.net/": [
             "keymetric.net"
@@ -12571,10 +12530,8 @@
         "Salesforce": {
           "https://www.salesforce.com/": [
             "cquotient.com",
-            "evgnet.com",
             "igodigital.com",
-            "salesforce.com",
-            "salesforceliveagent.com"
+            "salesforce.com"
           ]
         }
       },
@@ -13045,6 +13002,15 @@
         "ZoomInfo": {
           "https://www.zoominfo.com/": [
             "zoominfo.com"
+          ]
+        }
+      },
+      {
+        "JWP Connatix": {
+          "https://jwpconnatix.com": [
+            "jwpltx.com",
+            "longtailvideo.com",
+            "ltassrv.com"
           ]
         }
       }
@@ -13920,13 +13886,6 @@
         }
       },
       {
-        "Adtima": {
-          "https://adtima.vn/": [
-            "zadn.vn"
-          ]
-        }
-      },
-      {
         "Albacross": {
           "https://albacross.com": [
             "albacross.com"
@@ -14274,16 +14233,16 @@
         }
       },
       {
-        "Vtex": {
-          "https://vtex.com/br-pt/": [
-            "vtex.com.br"
+        "Yieldmo": {
+          "https://yieldmo.com": [
+            "yieldmo.com"
           ]
         }
       },
       {
-        "Yieldmo": {
-          "https://yieldmo.com": [
-            "yieldmo.com"
+        "VNG Group": {
+          "https://vng.com.vn": [
+            "zadn.vn"
           ]
         }
       }
