@@ -75,7 +75,7 @@ experiments. The lists currently in active use are:
     Disconnect's blocklist. This list is used to identify "social media"
     trackers within Firefox's UI. All of the origins on this list should also
     be included in Disconnect's `disconnect-blacklist.json` list.
-* `harmful-addon-blocklist.json`: a list of well-known malicious domains used
+* `harmful-addon-protection-blacklist.json`: a list of well-known malicious domains used
     by harmful add-ons.
 
 ## List Versioning and Release Process
