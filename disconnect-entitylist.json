@@ -28,6 +28,9 @@
     "24TTL": {
       "properties": [
         "24ttl.net"
+      ],
+      "resources": [
+        "24ttl.stream"
       ]
     },
     "2leep.com": {
@@ -861,15 +864,6 @@
         "atemda.com"
       ]
     },
-    "Admicro": {
-      "properties": [
-        "admicro.vn"
-      ],
-      "resources": [
-        "admicro.vn",
-        "vcmedia.vn"
-      ]
-    },
     "Admiral": {
       "properties": [
         "getadmiral.com"
@@ -1425,6 +1419,9 @@
     "AdNext Group": {
       "properties": [
         "adnext.pl"
+      ],
+      "resources": [
+        "push-ad.com"
       ]
     },
     "Adnium": {
@@ -3375,6 +3372,9 @@
     "Bannercrowd": {
       "properties": [
         "bannercrowd.com"
+      ],
+      "resources": [
+        "bannercrowd.net"
       ]
     },
     "Barilliance": {
@@ -3903,11 +3903,6 @@
         "medianet.com"
       ]
     },
-    "BrainNordic": {
-      "resources": [
-        "dep-x.com"
-      ]
-    },
     "BrainPad": {
       "properties": [
         "brainpad.co.jp"
@@ -4315,6 +4310,9 @@
       "properties": [
         "cam4pays.com",
         "shafttraffic.com"
+      ],
+      "resources": [
+        "libertystmedia.com"
       ]
     },
     "CampaignGrid": {
@@ -5146,6 +5144,9 @@
     "Cometly": {
       "properties": [
         "cometly.com"
+      ],
+      "resources": [
+        "cometlytrack.com"
       ]
     },
     "CommandersAct": {
@@ -5959,6 +5960,9 @@
     "DIGIMENA": {
       "properties": [
         "jubna.com"
+      ],
+      "resources": [
+        "jubnaadserve.com"
       ]
     },
     "Digioh": {
@@ -6153,14 +6157,6 @@
       ],
       "resources": [
         "cdn4dd.com"
-      ]
-    },
-    "DotdashMeredith": {
-      "properties": [
-        "selectablemedia.com"
-      ],
-      "resources": [
-        "selectablemedia.com"
       ]
     },
     "Dotdigital": {
@@ -6594,6 +6590,9 @@
         "emag.bg",
         "emag.hu",
         "emag.ro"
+      ],
+      "resources": [
+        "s13emagst.akamaized.net"
       ]
     },
     "EmailTrackerWebsite": {
@@ -6785,7 +6784,12 @@
     },
     "Equifax": {
       "properties": [
-        "equifax.com"
+        "equifax.com",
+        "konduto.com"
+      ],
+      "resources": [
+        "k-analytix.com",
+        "konduto.com"
       ]
     },
     "Ermes": {
@@ -7351,14 +7355,6 @@
       ],
       "resources": [
         "footprintlive.com"
-      ]
-    },
-    "Foresee": {
-      "properties": [
-        "foresee.com"
-      ],
-      "resources": [
-        "answerscloud.com"
       ]
     },
     "Forter": {
@@ -9870,11 +9866,6 @@
     "iSlaymetrics": {
       "properties": [
         "islaymetrics.com"
-      ]
-    },
-    "IslayTech": {
-      "properties": [
-        "islay.tech"
       ],
       "resources": [
         "islay.tech"
@@ -10404,15 +10395,6 @@
         "komli.com"
       ]
     },
-    "Konduto": {
-      "properties": [
-        "konduto.com"
-      ],
-      "resources": [
-        "k-analytix.com",
-        "konduto.com"
-      ]
-    },
     "KrushMedia": {
       "properties": [
         "krushmedia.com"
@@ -10576,6 +10558,9 @@
     "Liftoff Mobile": {
       "properties": [
         "liftoff.io"
+      ],
+      "resources": [
+        "liftoffintl.io"
       ]
     },
     "Lighthouse": {
@@ -11148,6 +11133,9 @@
     "Marketing Science": {
       "properties": [
         "mktsci.com"
+      ],
+      "resources": [
+        "b2c.com"
       ]
     },
     "MarketingArchitects": {
@@ -13521,11 +13509,6 @@
         "out-there-media.com"
       ]
     },
-    "Outbrain": {
-      "resources": [
-        "ligatus.com"
-      ]
-    },
     "Outreach": {
       "properties": [
         "outreach.io"
@@ -13829,7 +13812,11 @@
     "People Inc.": {
       "properties": [
         "dotdashmeredith.com",
-        "people.inc"
+        "people.inc",
+        "selectablemedia.com"
+      ],
+      "resources": [
+        "selectablemedia.com"
       ]
     },
     "Performancing": {
@@ -14353,6 +14340,9 @@
     "PubFuture": {
       "properties": [
         "pubfuture.com"
+      ],
+      "resources": [
+        "pubfuture-ad.com"
       ]
     },
     "Public-Idées": {
@@ -14923,6 +14913,9 @@
         "reliancesmartbazaar.com",
         "ril.com",
         "tirabeauty.com"
+      ],
+      "resources": [
+        "jioadsweb.akamaized.net"
       ]
     },
     "Reliz": {
@@ -15402,6 +15395,9 @@
         "brainnordic.com",
         "samhub.io",
         "wideorbit.com"
+      ],
+      "resources": [
+        "dep-x.com"
       ]
     },
     "Samsung": {
@@ -15666,11 +15662,6 @@
       ],
       "resources": [
         "seznam.cz"
-      ]
-    },
-    "ShaftTraffic": {
-      "resources": [
-        "libertystmedia.com"
       ]
     },
     "Shareaholic": {
@@ -17016,6 +17007,7 @@
       "resources": [
         "brainient.com",
         "ebuzzing.com",
+        "ligatus.com",
         "outbrain.com",
         "outbrainimg.com",
         "sphere.com",
@@ -17351,6 +17343,9 @@
     "TNL Mediagene": {
       "properties": [
         "tnlmediagene.com"
+      ],
+      "resources": [
+        "ad2iction.com"
       ]
     },
     "TodRock": {
@@ -18013,6 +18008,9 @@
     "Upsun": {
       "properties": [
         "upsun.com"
+      ],
+      "resources": [
+        "blackfire.io"
       ]
     },
     "UpWave": {
@@ -18576,7 +18574,12 @@
     },
     "VCCorp": {
       "properties": [
+        "admicro.vn",
         "vccorp.vn"
+      ],
+      "resources": [
+        "admicro.vn",
+        "vcmedia.vn"
       ]
     },
     "VDX": {
@@ -18674,7 +18677,12 @@
     },
     "Verint": {
       "properties": [
+        "foresee.com",
         "verint.com"
+      ],
+      "resources": [
+        "answerscloud.com",
+        "foresee.com"
       ]
     },
     "Versium": {
@@ -19206,6 +19214,9 @@
     "Web FX": {
       "properties": [
         "webfx.com"
+      ],
+      "resources": [
+        "marketingcloudfx.com"
       ]
     },
     "Web Stats": {
@@ -19377,6 +19388,9 @@
     "Wise R&D": {
       "properties": [
         "wisernd.com"
+      ],
+      "resources": [
+        "doyouad.com"
       ]
     },
     "Wisepops": {
