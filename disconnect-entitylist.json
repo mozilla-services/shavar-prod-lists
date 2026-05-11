@@ -4542,14 +4542,6 @@
         "chartbeat.net"
       ]
     },
-    "Chaturbate": {
-      "properties": [
-        "chaturbate.com"
-      ],
-      "resources": [
-        "chaturbate.com"
-      ]
-    },
     "Checkmate": {
       "properties": [
         "joincheckmate.com"
@@ -12306,6 +12298,19 @@
       ],
       "resources": [
         "thecounter.com"
+      ]
+    },
+    "Multi Media LLC": {
+      "properties": [
+        "chaturbate.com",
+        "mmcdn.com",
+        "multimediallc.com",
+        "xnxx-livecams.com",
+        "xvlivecams.com"
+      ],
+      "resources": [
+        "chaturbate.com",
+        "mmcdn.com"
       ]
     },
     "Multiple Stream Media": {
