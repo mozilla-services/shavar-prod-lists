@@ -2629,7 +2629,9 @@
         "bookdepository.com",
         "boxofficemojo.com",
         "brilliancepublishing.com",
+        "calculator.aws",
         "cloudendure.com",
+        "codecatalyst.aws",
         "comixology.com",
         "createspace.com",
         "dpreview.in",
@@ -2649,12 +2651,15 @@
         "mxplayer.in",
         "on.aws",
         "onemedical.com",
+        "partyrock.aws",
         "pillpack.com",
         "primevideo.com",
+        "registry.amazon",
         "repost.aws",
         "ring.com",
         "sagemaker.aws",
         "shopbop.com",
+        "skillbuilder.aws",
         "souq.com",
         "twitch.com",
         "twitch.tv",
@@ -3637,6 +3642,20 @@
       "resources": [
         "adbutler.de",
         "belboon.com"
+      ]
+    },
+    "Bell Media": {
+      "properties": [
+        "9c9media.ca",
+        "bellmedia.ca",
+        "crave.ca",
+        "ctv.ca",
+        "noovo.ca",
+        "rds.ca",
+        "tsn.ca"
+      ],
+      "resources": [
+        "9c9media.ca"
       ]
     },
     "Belstat": {
@@ -5434,12 +5453,10 @@
     },
     "Com Laude": {
       "properties": [
-        "9c9media.ca",
         "comlaude.com",
         "markmonitor.com"
       ],
       "resources": [
-        "9c9media.ca",
         "markmonitor.com"
       ]
     },
@@ -12177,8 +12194,19 @@
         "mercadolibre.com.sv",
         "mercadolibre.com.uy",
         "mercadolibre.com.ve",
+        "mercadolivre.com",
         "mercadolivre.com.br",
-        "mercadopago.com"
+        "mercadolivre.com.pt",
+        "mercadolivre.pt",
+        "mercadopago.cl",
+        "mercadopago.com",
+        "mercadopago.com.ar",
+        "mercadopago.com.br",
+        "mercadopago.com.co",
+        "mercadopago.com.mx",
+        "mercadopago.com.pe",
+        "mercadopago.com.uy",
+        "mercadopago.com.ve"
       ],
       "resources": [
         "mercadopago.com",
@@ -12837,7 +12865,11 @@
     },
     "Multi Media LLC": {
       "properties": [
+        "cbswag.com",
         "chaturbate.com",
+        "chaturbatecams.com",
+        "chaturbill.com",
+        "chaturcommunity.com",
         "mmcdn.com",
         "multimediallc.com",
         "xnxx-livecams.com",
@@ -16342,11 +16374,13 @@
     },
     "Seznam": {
       "properties": [
+        "expresfm.cz",
         "firmy.cz",
         "garaz.cz",
         "horoskopy.cz",
         "imedia.cz",
         "kupi.cz",
+        "lide.cz",
         "mapy.com",
         "novinky.cz",
         "o-seznam.cz",
@@ -16360,6 +16394,7 @@
         "sreality.cz",
         "stream.cz",
         "super.cz",
+        "szn.cz",
         "televizeseznam.cz",
         "volnamista.cz",
         "zbozi.cz"
