@@ -7743,7 +7743,8 @@
     },
     "Flodesk": {
       "properties": [
-        "flodesk.com"
+        "flodesk.com",
+        "myflodesk.com"
       ],
       "resources": [
         "flodesk.com"
@@ -18841,7 +18842,7 @@
     },
     "UOL": {
       "properties": [
-        "sobreuol.noticias.uol.com.br"
+        "uol.com.br"
       ],
       "resources": [
         "uol.com.br"
