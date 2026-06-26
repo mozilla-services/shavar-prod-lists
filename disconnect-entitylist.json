@@ -563,11 +563,14 @@
     },
     "AdaptMX": {
       "properties": [
-        "adaptmx.com"
+        "adaptmx.com",
+        "amxrtb.com"
       ],
       "resources": [
         "a-mo.net",
         "a-mx.com",
+        "amx1.net",
+        "amxrtb.com",
         "rtb.mx"
       ]
     },
@@ -856,6 +859,16 @@
       ],
       "resources": [
         "admaster.cc"
+      ]
+    },
+    "Admatic": {
+      "properties": [
+        "admatic.com.tr",
+        "admatic.de"
+      ],
+      "resources": [
+        "admatic.com.tr",
+        "admatic.de"
       ]
     },
     "AdMaven": {
@@ -1804,6 +1817,23 @@
       ],
       "resources": [
         "adsxtits.com"
+      ]
+    },
+    "AdTarget Media": {
+      "properties": [
+        "adtarget.biz",
+        "adtarget.com.tr"
+      ],
+      "resources": [
+        "adtarget.biz"
+      ]
+    },
+    "adtech.ink": {
+      "properties": [
+        "adtech.ink"
+      ],
+      "resources": [
+        "adtech.ink"
       ]
     },
     "ADTELLIGENCE": {
@@ -3288,6 +3318,14 @@
         "wp.com"
       ]
     },
+    "avads.net": {
+      "properties": [
+        "avads.net"
+      ],
+      "resources": [
+        "avads.net"
+      ]
+    },
     "AvantLink": {
       "properties": [
         "avantlink.com",
@@ -3755,6 +3793,14 @@
         "bidfluence.com"
       ]
     },
+    "Bidmatic": {
+      "properties": [
+        "bidmatic.io"
+      ],
+      "resources": [
+        "bidmatic.io"
+      ]
+    },
     "BidVertiser": {
       "properties": [
         "bidvertiser.com"
@@ -3793,7 +3839,8 @@
         "binance.charity",
         "binance.com",
         "binance.vision",
-        "bnbchain.org"
+        "bnbchain.org",
+        "bstocks.finance"
       ],
       "resources": [
         "bnbstatic.com"
@@ -4710,6 +4757,16 @@
         "carts.guru"
       ]
     },
+    "Carty": {
+      "properties": [
+        "advolve.io",
+        "carty.io",
+        "cartydsp.com"
+      ],
+      "resources": [
+        "advolve.io"
+      ]
+    },
     "CashBeet": {
       "properties": [
         "cashbeet.com"
@@ -4997,6 +5054,7 @@
         "duo.com",
         "duosecurity.com",
         "isovalent.com",
+        "isovalent.tech",
         "kennasecurity.com",
         "mindmeld.com",
         "netacad.com",
@@ -5086,6 +5144,7 @@
       ],
       "resources": [
         "bncloudfl.com",
+        "demandingoverdriveunthread.com",
         "pecantinglytripod.com"
       ]
     },
@@ -6524,14 +6583,6 @@
         "dmpxs.com"
       ]
     },
-    "dnofd.com": {
-      "properties": [
-        "dnofd.com"
-      ],
-      "resources": [
-        "dnofd.com"
-      ]
-    },
     "DNS-Finder": {
       "properties": [
         "dns-finder.com"
@@ -7743,7 +7794,8 @@
     },
     "Flodesk": {
       "properties": [
-        "flodesk.com"
+        "flodesk.com",
+        "myflodesk.com"
       ],
       "resources": [
         "flodesk.com"
@@ -8998,6 +9050,15 @@
         "gtopstats.com"
       ]
     },
+    "Gubagoo": {
+      "properties": [
+        "gubagoo.com",
+        "gubagoo.io"
+      ],
+      "resources": [
+        "gubagoo.io"
+      ]
+    },
     "GumGum": {
       "properties": [
         "gumgum.com",
@@ -9062,10 +9123,14 @@
     },
     "Hatena": {
       "properties": [
+        "hateblo.jp",
         "hatena.blog",
         "hatena.co.jp",
         "hatena.ne.jp",
-        "hatenablog.com"
+        "hatenablog.com",
+        "hatenablog.jp",
+        "hatenadiary.com",
+        "hatenadiary.jp"
       ],
       "resources": [
         "hatena.ne.jp",
@@ -10015,11 +10080,13 @@
     },
     "Integral Ad Science": {
       "properties": [
+        "getpublica.com",
         "integralads.com"
       ],
       "resources": [
         "adsafemedia.com",
         "adsafeprotected.com",
+        "getpublica.com",
         "iasds01.com",
         "integralads.com"
       ]
@@ -10438,6 +10505,14 @@
       ],
       "resources": [
         "j189eb.com"
+      ]
+    },
+    "Janusaent": {
+      "properties": [
+        "janusaent.com"
+      ],
+      "resources": [
+        "janusaent.com"
       ]
     },
     "Jaroop": {
@@ -12713,6 +12788,14 @@
         "res-x.com"
       ]
     },
+    "MonetixAds": {
+      "properties": [
+        "monetixads.com"
+      ],
+      "resources": [
+        "monetixads.com"
+      ]
+    },
     "MONETIZEdigital": {
       "properties": [
         "cpalead.com"
@@ -13946,6 +14029,14 @@
         "p-advg.com"
       ]
     },
+    "Optable": {
+      "properties": [
+        "optable.co"
+      ],
+      "resources": [
+        "optable.co"
+      ]
+    },
     "Optad360": {
       "properties": [
         "optad360.com"
@@ -14108,6 +14199,14 @@
         "otm-r.com"
       ]
     },
+    "OTT Advisors": {
+      "properties": [
+        "ottadvisors.com"
+      ],
+      "resources": [
+        "ottadvisors.com"
+      ]
+    },
     "Otto": {
       "properties": [
         "otto.de"
@@ -14195,6 +14294,14 @@
       ],
       "resources": [
         "p7cloud.net"
+      ]
+    },
+    "Pacvue": {
+      "properties": [
+        "pacvue.com"
+      ],
+      "resources": [
+        "pacvue.com"
       ]
     },
     "Paid-To-Promote.net": {
@@ -15458,6 +15565,15 @@
         "reaktion.com"
       ]
     },
+    "RebelMouse": {
+      "properties": [
+        "rbl.ms",
+        "rebelmouse.com"
+      ],
+      "resources": [
+        "rbl.ms"
+      ]
+    },
     "Rebid.co": {
       "properties": [
         "rebid.co"
@@ -15910,6 +16026,14 @@
       ],
       "resources": [
         "rtbsystem.com"
+      ]
+    },
+    "rtbwise": {
+      "properties": [
+        "rtbwise.com"
+      ],
+      "resources": [
+        "rtbwise.com"
       ]
     },
     "RTL Group": {
@@ -17347,6 +17471,16 @@
         "stay22.com"
       ]
     },
+    "Stefanini Group": {
+      "properties": [
+        "dnofd.com",
+        "stefanini.com",
+        "topazevolution.com"
+      ],
+      "resources": [
+        "dnofd.com"
+      ]
+    },
     "STG": {
       "properties": [
         "avid.com",
@@ -18356,6 +18490,14 @@
         "tradedoubler.com"
       ]
     },
+    "Trade House Media": {
+      "properties": [
+        "tradehouse.media"
+      ],
+      "resources": [
+        "tradehouse.media"
+      ]
+    },
     "TradeTracker": {
       "properties": [
         "tradetracker.com"
@@ -18553,7 +18695,34 @@
     },
     "Trusted Shops": {
       "properties": [
-        "trustedshops.com"
+        "etrusted.at",
+        "etrusted.be",
+        "etrusted.ch",
+        "etrusted.co.uk",
+        "etrusted.com",
+        "etrusted.dk",
+        "etrusted.es",
+        "etrusted.eu",
+        "etrusted.it",
+        "etrusted.net",
+        "etrusted.se",
+        "trustbadge.com",
+        "trustbadge.de",
+        "trusted-shops.com",
+        "trustedshops.at",
+        "trustedshops.be",
+        "trustedshops.ch",
+        "trustedshops.co.uk",
+        "trustedshops.com",
+        "trustedshops.de",
+        "trustedshops.es",
+        "trustedshops.eu",
+        "trustedshops.fr",
+        "trustedshops.it",
+        "trustedshops.nl",
+        "trustedshops.org",
+        "trustedshops.pl",
+        "trustedshops.pt"
       ],
       "resources": [
         "trustedshops.com"
@@ -18573,6 +18742,14 @@
       ],
       "resources": [
         "trustedstack.com"
+      ]
+    },
+    "Trustpielote": {
+      "properties": [
+        "trustpielote.com"
+      ],
+      "resources": [
+        "trustpielote.com"
       ]
     },
     "TrustPilot": {
@@ -18841,7 +19018,7 @@
     },
     "UOL": {
       "properties": [
-        "sobreuol.noticias.uol.com.br"
+        "uol.com.br"
       ],
       "resources": [
         "uol.com.br"
@@ -19854,6 +20031,14 @@
       ],
       "resources": [
         "visme.co"
+      ]
+    },
+    "ViSTARS": {
+      "properties": [
+        "vistarsagency.com"
+      ],
+      "resources": [
+        "vistarsagency.com"
       ]
     },
     "Visually": {
