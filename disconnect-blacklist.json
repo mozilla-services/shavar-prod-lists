@@ -4570,6 +4570,13 @@
         }
       },
       {
+        "Communify": {
+          "https://communify.com/": [
+            "ad.wsod.com"
+          ]
+        }
+      },
+      {
         "Compass Labs": {
           "http://compasslabs.com/": [
             "compasslabs.com"
@@ -5837,13 +5844,6 @@
         "Frog Sex": {
           "http://www.frogsex.com/": [
             "frogsex.com"
-          ]
-        }
-      },
-      {
-        "Funraise": {
-          "https://funraise.org": [
-            "assets.funraise.io"
           ]
         }
       },
@@ -7420,6 +7420,13 @@
         }
       },
       {
+        "Manago AI": {
+          "https://manago.ai/": [
+            "salesmanago.com"
+          ]
+        }
+      },
+      {
         "Manifest": {
           "http://www.manifest.ru/": [
             "bannerbank.ru",
@@ -8439,9 +8446,9 @@
       },
       {
         "Opper": {
-          "https://opper.io": [
-            "ownpage.fr",
-            "qiota.com"
+          "https://opper.io/": [
+            "data.qiota.com",
+            "ownpage.fr"
           ]
         }
       },
@@ -8610,9 +8617,8 @@
       },
       {
         "Overwolf": {
-          "https://overwolf.com": [
-            "nitropay.com",
-            "tebex.io"
+          "https://overwolf.com/": [
+            "nitropay.com"
           ]
         }
       },
@@ -9652,13 +9658,6 @@
         "Salesintelligence": {
           "https://salesintelligence.pl/": [
             "plugin.management"
-          ]
-        }
-      },
-      {
-        "SALESmanago": {
-          "https://salesmanago.com": [
-            "salesmanago.com"
           ]
         }
       },
@@ -12095,6 +12094,13 @@
         }
       },
       {
+        "Funraise": {
+          "https://www.funraise.org/": [
+            "assets.funraise.io"
+          ]
+        }
+      },
+      {
         "GeoComply": {
           "https://geocomply.com": [
             "geocomply.com"
@@ -12557,9 +12563,23 @@
         }
       },
       {
+        "Opper": {
+          "https://opper.io/": [
+            "www.qiota.com"
+          ]
+        }
+      },
+      {
         "Oracle": {
           "http://www.oracle.com/": [
             "oracle.com"
+          ]
+        }
+      },
+      {
+        "Overwolf": {
+          "https://overwolf.com/": [
+            "tebex.io"
           ]
         }
       },
@@ -14983,10 +15003,9 @@
       },
       {
         "S&P Global": {
-          "https://spglobal.com": [
+          "https://spglobal.com/": [
             "collserve.com",
-            "dataium.com",
-            "wsod.com"
+            "dataium.com"
           ]
         }
       },
@@ -16902,8 +16921,7 @@
       },
       {
         "Overwolf": {
-          "https://overwolf.com": [
-            "nsure.tebex.io",
+          "https://overwolf.com/": [
             "s.nitropay.com"
           ]
         }
@@ -17038,13 +17056,6 @@
         "rxayc.com": {
           "https://rxayc.com": [
             "rxayc.com"
-          ]
-        }
-      },
-      {
-        "SALESmanago": {
-          "https://salesmanago.com": [
-            "salesmanago.com"
           ]
         }
       },
@@ -18102,8 +18113,8 @@
       },
       {
         "Opper": {
-          "https://opper.io": [
-            "qiota.com"
+          "https://opper.io/": [
+            "static.qiota.com"
           ]
         }
       },
