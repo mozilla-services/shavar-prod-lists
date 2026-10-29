@@ -1874,6 +1874,13 @@
         }
       },
       {
+        "Adipolo": {
+          "https://adipolo.com/": [
+            "adipolo.live"
+          ]
+        }
+      },
+      {
         "Aditude": {
           "https://aditude.com": [
             "cpmstar.com",
@@ -3230,13 +3237,15 @@
             "amazon.co.jp",
             "amazon.co.uk",
             "amazon.de",
-            "amazon.dev",
             "amazon.es",
             "amazon.fr",
             "amazon.it",
             "assoc-amazon.com",
             "imdb.com",
-            "serving-sys.com"
+            "na.prod.celyx.datax.audible.amazon.dev",
+            "prod.us-east-1.cxm-bcn.publisher-services.amazon.dev",
+            "serving-sys.com",
+            "tungsten-service.prod.na.adsqtungsten.a9.amazon.dev"
           ]
         }
       },
@@ -3301,6 +3310,13 @@
         "Anymind Group": {
           "https://anymindgroup.com": [
             "anymind360.com"
+          ]
+        }
+      },
+      {
+        "Apostra": {
+          "https://apostra.com/": [
+            "scope3.com"
           ]
         }
       },
@@ -6146,7 +6162,8 @@
       },
       {
         "GumGum": {
-          "http://gumgum.com/": [
+          "https://gumgum.com/": [
+            "attentionxyz.com",
             "gumgum.com",
             "justpremium.com",
             "playground.xyz"
@@ -7030,8 +7047,9 @@
       },
       {
         "Kochava": {
-          "https://kochava.com": [
-            "kochava.com"
+          "https://www.kochava.com/": [
+            "kochava.com",
+            "smart.link"
           ]
         }
       },
@@ -8470,9 +8488,10 @@
         }
       },
       {
-        "optidigital": {
-          "https://www.optidigital.com/": [
-            "opti-digital.com"
+        "OptiDigital": {
+          "https://optidigital.com/": [
+            "opti-digital.com",
+            "optidigital.com"
           ]
         }
       },
@@ -11110,6 +11129,14 @@
         }
       },
       {
+        "Utiq": {
+          "https://utiq.com": [
+            "utiq-aws.net",
+            "utiqcontent.com"
+          ]
+        }
+      },
+      {
         "Value Ad": {
           "http://valuead.com/": [
             "valuead.com"
@@ -11356,6 +11383,13 @@
         "Vitec Software Group": {
           "https://vitecsoftware.com": [
             "bidtheatre.com"
+          ]
+        }
+      },
+      {
+        "vlcapi.net": {
+          "https://vlcapi.net/": [
+            "vlcapi.net"
           ]
         }
       },
@@ -11859,6 +11893,13 @@
         }
       },
       {
+        "Airbnb": {
+          "https://airbnb.com": [
+            "muscache.com"
+          ]
+        }
+      },
+      {
         "AirNav Radar": {
           "https://airnavradar.com": [
             "airnavradar.com"
@@ -11884,6 +11925,7 @@
         "Amazon": {
           "https://www.amazon.com/": [
             "amazon.com",
+            "amazon.dev",
             "cloudfront.net",
             "media-amazon.com",
             "s3-ap-southeast-1.amazonaws.com",
@@ -11983,6 +12025,13 @@
         }
       },
       {
+        "Cbox": {
+          "http://www.cbox.ws/": [
+            "cbox.ws"
+          ]
+        }
+      },
+      {
         "Chartbeat": {
           "https://chartbeat.com": [
             "static.chartbeat.com"
@@ -12038,7 +12087,8 @@
       {
         "DataDog": {
           "https://datadoghq.com": [
-            "datadoghq-browser-agent.com"
+            "datadoghq-browser-agent.com",
+            "datadoghq.com"
           ]
         }
       },
@@ -12365,6 +12415,13 @@
         }
       },
       {
+        "IBM": {
+          "http://www.ibm.com/": [
+            "ibm.com"
+          ]
+        }
+      },
+      {
         "IDBLLC": {
           "https://ipinfo.io": [
             "ipinfo.io"
@@ -12498,7 +12555,8 @@
             "microsoft.com",
             "msn.com",
             "nuance.com",
-            "skype.com"
+            "skype.com",
+            "visualstudio.com"
           ]
         }
       },
@@ -12964,13 +13022,6 @@
         }
       },
       {
-        "Airbnb": {
-          "https://airbnb.com": [
-            "muscache.com"
-          ]
-        }
-      },
-      {
         "Airship": {
           "https://airship.com": [
             "airship.com",
@@ -13203,11 +13254,6 @@
       {
         "Block": {
           "https://block.xyz/": [
-            "cdn11.editmysite.com",
-            "cdn2.editmysite.com",
-            "cdn3.editmysite.com",
-            "cdn5.editmysite.com",
-            "cdn6.editmysite.com",
             "ec.editmysite.com"
           ]
         }
@@ -13309,13 +13355,6 @@
         "Catchpoint": {
           "https://catchpoint.com": [
             "3gl.net"
-          ]
-        }
-      },
-      {
-        "Cbox": {
-          "http://www.cbox.ws/": [
-            "cbox.ws"
           ]
         }
       },
@@ -13548,9 +13587,13 @@
       {
         "DataDog": {
           "https://datadoghq.com": [
+            "browser-http-intake.logs.datadoghq.com",
             "browser-intake-datadoghq.com",
-            "datadoghq.com",
-            "datadoghq.eu"
+            "datadoghq.eu",
+            "http-intake.logs.datadoghq.com",
+            "http-intake.logs.us5.datadoghq.com",
+            "rum-http-intake.logs.datadoghq.com",
+            "sentry-intake.datadoghq.com"
           ]
         }
       },
@@ -14049,7 +14092,7 @@
           "http://www.ibm.com/": [
             "cmcore.com",
             "coremetrics.com",
-            "ibm.com",
+            "eventtracking-log.services.video.ibm.com",
             "instana.io"
           ]
         }
@@ -14289,6 +14332,13 @@
         }
       },
       {
+        "MA Aporia LTD": {
+          "https://serviceclic.com/": [
+            "serviceclic.com"
+          ]
+        }
+      },
+      {
         "Macy's": {
           "https://macys.com": [
             "assets.macysassets.com"
@@ -14420,13 +14470,13 @@
         "Microsoft": {
           "http://www.microsoft.com/": [
             "clarity.ms",
+            "dc.services.visualstudio.com",
             "footprintdns.com",
             "inq.com",
             "live.net",
             "microsoftstore.com",
             "officelive.com",
-            "touchcommerce.com",
-            "visualstudio.com"
+            "touchcommerce.com"
           ]
         }
       },
@@ -16487,13 +16537,6 @@
         "gbqofs.com": {
           "https://gbqofs.com": [
             "cdn.gbqofs.com"
-          ]
-        }
-      },
-      {
-        "GCN Publishing": {
-          "https://one-count.com": [
-            "validate.onecount.net"
           ]
         }
       },

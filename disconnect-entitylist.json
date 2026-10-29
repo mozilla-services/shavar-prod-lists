@@ -737,6 +737,15 @@
         "pvd.to"
       ]
     },
+    "Adipolo": {
+      "properties": [
+        "adipolo.com",
+        "adipolo.net"
+      ],
+      "resources": [
+        "adipolo.live"
+      ]
+    },
     "Aditude": {
       "properties": [
         "aditude.com",
@@ -2234,6 +2243,7 @@
     "Airbnb": {
       "properties": [
         "air.tl",
+        "airbnb.at",
         "airbnb.be",
         "airbnb.ca",
         "airbnb.ch",
@@ -2246,6 +2256,7 @@
         "airbnb.com.au",
         "airbnb.com.br",
         "airbnb.com.mt",
+        "airbnb.com.sg",
         "airbnb.cz",
         "airbnb.de",
         "airbnb.dk",
@@ -2837,6 +2848,14 @@
       ],
       "resources": [
         "anymind360.com"
+      ]
+    },
+    "Apostra": {
+      "properties": [
+        "apostra.com"
+      ],
+      "resources": [
+        "scope3.com"
       ]
     },
     "AppCast": {
@@ -6643,12 +6662,12 @@
     },
     "DoorDash": {
       "properties": [
-        "Wolt.com",
         "careersatdoordash.com",
         "doordash.com",
         "doordashcateringconcierge.com",
         "sevenrooms.com",
-        "trycaviar.com"
+        "trycaviar.com",
+        "wolt.com"
       ],
       "resources": [
         "cdn4dd.com"
@@ -9114,6 +9133,7 @@
         "playgroundxyz.com"
       ],
       "resources": [
+        "attentionxyz.com",
         "gumgum.com",
         "justpremium.com",
         "playground.xyz"
@@ -10993,7 +11013,8 @@
         "kochava.com"
       ],
       "resources": [
-        "kochava.com"
+        "kochava.com",
+        "smart.link"
       ]
     },
     "Kokteyl": {
@@ -11478,6 +11499,14 @@
       ],
       "resources": [
         "m2911p.com"
+      ]
+    },
+    "MA Aporia LTD": {
+      "properties": [
+        "ask-albert.com"
+      ],
+      "resources": [
+        "serviceclic.com"
       ]
     },
     "macromill.com": {
@@ -14107,12 +14136,13 @@
         "optad360.io"
       ]
     },
-    "optidigital": {
+    "OptiDigital": {
       "properties": [
         "optidigital.com"
       ],
       "resources": [
-        "opti-digital.com"
+        "opti-digital.com",
+        "optidigital.com"
       ]
     },
     "Optify": {
@@ -19635,6 +19665,15 @@
         "utarget.ru"
       ]
     },
+    "Utiq": {
+      "properties": [
+        "utiq.com"
+      ],
+      "resources": [
+        "utiq-aws.net",
+        "utiqcontent.com"
+      ]
+    },
     "Validity": {
       "properties": [
         "litmus.com",
@@ -20153,6 +20192,14 @@
         "userapi.com",
         "vk.com",
         "vkontakte.ru"
+      ]
+    },
+    "vlcapi.net": {
+      "properties": [
+        "vlcapi.net"
+      ],
+      "resources": [
+        "vlcapi.net"
       ]
     },
     "VNG Group": {
