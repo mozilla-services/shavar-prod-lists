@@ -1778,6 +1778,13 @@
         }
       },
       {
+        "AdDaptive Intelligence": {
+          "https://www.addaptive.com": [
+            "dpmsrv.com"
+          ]
+        }
+      },
+      {
         "Ad Decisive": {
           "http://www.addecisive.com/": [
             "addecisive.com"
@@ -5728,8 +5735,7 @@
         "Flipp": {
           "https://corp.flipp.com/": [
             "flipp.com",
-            "wishabi.com",
-            "wishabi.net"
+            "wishabi.com"
           ]
         }
       },
@@ -10181,6 +10187,7 @@
       {
         "Spotify": {
           "https://www.spotify.com": [
+            "byspotify.com",
             "pixels.spotify.com"
           ]
         }
@@ -12116,7 +12123,7 @@
       {
         "Flipp": {
           "https://corp.flipp.com/": [
-            "f.wishabi.net"
+            "wishabi.net"
           ]
         }
       },
@@ -12446,6 +12453,13 @@
         "ipify": {
           "https://www.ipify.org": [
             "ipify.org"
+          ]
+        }
+      },
+      {
+        "IPregistry": {
+          "https://ipregistry.co": [
+            "ipregistry.co"
           ]
         }
       },
@@ -12946,6 +12960,13 @@
             "yandex.net",
             "yandex.ru",
             "yandex.st"
+          ]
+        }
+      },
+      {
+        "Yottaa": {
+          "https://yottaa.com": [
+            "yottaa.com"
           ]
         }
       },
@@ -14192,13 +14213,6 @@
         }
       },
       {
-        "IPregistry": {
-          "https://ipregistry.co": [
-            "ipregistry.co"
-          ]
-        }
-      },
-      {
         "iSlaymetrics": {
           "https://islaymetrics.com": [
             "islay.tech"
@@ -15005,6 +15019,13 @@
         }
       },
       {
+        "SalesIntel": {
+          "https://salesintel.io": [
+            "scriptintel.io"
+          ]
+        }
+      },
+      {
         "Salesloft": {
           "https://salesloft.com/": [
             "drift.com",
@@ -15225,6 +15246,14 @@
           "https://tealium.com": [
             "tealiumiq.com",
             "tiqcdn.com"
+          ]
+        }
+      },
+      {
+        "Technolutions": {
+          "https://technolutions.com": [
+            "mx.technolutions.net",
+            "wat.test.technolutions.net"
           ]
         }
       },
@@ -15586,9 +15615,8 @@
         }
       },
       {
-        "Yotta": {
+        "Yottaa": {
           "https://yottaa.com": [
-            "yottaa.com",
             "yottaa.net"
           ]
         }
