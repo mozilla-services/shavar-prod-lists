@@ -10283,13 +10283,6 @@
         }
       },
       {
-        "Stripe": {
-          "https://stripe.com": [
-            "stripe.network"
-          ]
-        }
-      },
-      {
         "Ströer Core": {
           "https://stroeer.de": [
             "adscale.de",
@@ -17021,13 +17014,6 @@
         }
       },
       {
-        "OpenWeb": {
-          "https://openweb.com/": [
-            "monti-config.bqstreamer.com"
-          ]
-        }
-      },
-      {
         "opin.media": {
           "https://opin.media": [
             "jssdk.opin.media"
@@ -17325,13 +17311,6 @@
         "Stripchat": {
           "https://stripchat.com/": [
             "stripst.com"
-          ]
-        }
-      },
-      {
-        "Stripe": {
-          "https://stripe.com": [
-            "stripe.network"
           ]
         }
       },
@@ -18598,6 +18577,13 @@
           "https://www.signifyd.com/": [
             "kyc.red",
             "signifyd.com"
+          ]
+        }
+      },
+      {
+        "Stripe": {
+          "https://stripe.com": [
+            "stripe.network"
           ]
         }
       }
